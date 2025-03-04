@@ -10,7 +10,7 @@
   "change": "End-point assessment plan revised",
   "changedDate": "2024-08-02T00:00:00",
   "earliestStartDate": "2024-08-02T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-03-23T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Making sure that buildings and their services meet the needs of the people that work in them.",
   "level": 4,
@@ -246,5 +246,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-08-02T00:00:00"
+  "publishDate": "2025-03-23T00:00:00"
 }
