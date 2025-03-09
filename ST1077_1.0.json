@@ -463,7 +463,7 @@
   "approvedForDelivery": "2025-01-28T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integration": "Degree-apprenticeship",
-  "integratedDegree": "",
+  "integratedDegree": "integrated degree",
   "tbReference": "TB0115",
   "tbMainContact": "flissdewsbery@pengreen.org",
   "involvedEmployers": "Ambition Institute, Best Practice Network, Bright Horizons, Gloucester City Council, Kids Planet Day Nurseries, Kingston University, KM Training, Leicestershire County Council, Little Pips Nursery, NCFE, NDNA, Newcastle City Council, North Northamptonshire Council, Nottingham Trent University, Our Monkey Club, Pen Green Children's Centre, St John Vianney RC Primary School, South Farnham Educational Trust, Storal, The Early Years Alliance, University of Greenwich, University of Reading",
@@ -481,7 +481,7 @@
   "cluster": "Early years education professional",
   "clusterId": "174",
   "clusterDescription": null,
-  "createdDate": "2025-01-27T16:10:44 +00:00",
+  "createdDate": "2025-03-06T12:08:52 +00:00",
   "lastUpdated": "2025-01-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-01-28T00:00:00 +00:00",
   "occupationCode": "OCC1077",
@@ -499,7 +499,7 @@
   ],
   "professionalRecognition": [
     {
-      "bodyName": "Department for Education",
+      "bodyName": "Department for Education.  Training providers must have passed accreditation against DfE's ITT criteria, including the new quality requirements (criteria for delivering ITT courses from September 2024)",
       "level": "Early Years Teacher Status (EYTS).",
       "isPartial": "full",
       "partialFreeText": ""
