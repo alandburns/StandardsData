@@ -124,7 +124,7 @@
     },
     {
       "knowledgeId": "95a84ac6-9497-4766-92e0-647a469afe75",
-      "detail": "How organisations vary regarding their work, culture, values and production processes in the Machining industry."
+      "detail": "How organisations vary regarding their work, culture, values and production processes in the machining industry."
     },
     {
       "knowledgeId": "f21377a5-cf54-4afa-8504-520d6f9800c4",
@@ -328,7 +328,7 @@
   "cluster": "Manufacturing and process operative or technician",
   "clusterId": "262",
   "clusterDescription": null,
-  "createdDate": "2024-12-13T17:44:30 +00:00",
+  "createdDate": "2025-03-14T15:57:56 +00:00",
   "lastUpdated": "2024-06-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-06-25T00:00:00 +00:00",
   "occupationCode": "OCC1305",
