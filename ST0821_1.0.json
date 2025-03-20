@@ -8,7 +8,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-02-28T00:00:00",
+  "changedDate": "2025-03-18T00:00:00",
   "earliestStartDate": "2024-02-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -250,7 +250,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
@@ -278,7 +278,7 @@
   "clusterId": "5",
   "clusterDescription": null,
   "createdDate": "2024-11-13T15:52:25 +00:00",
-  "lastUpdated": "2024-02-28T00:00:00 +00:00",
+  "lastUpdated": "2025-03-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-02-27T00:00:00 +00:00",
   "occupationCode": "OCC0821",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0821-v1-0?view=standard#OccupationalStandard",
@@ -713,5 +713,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-02-28T00:00:00"
+  "publishDate": "2025-03-18T00:00:00"
 }
