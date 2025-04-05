@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 174,
   "referenceNumber": "ST0105",
+  "learningAimClassCode": "",
   "title": "Content creator",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0105",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 15,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "content creator",
