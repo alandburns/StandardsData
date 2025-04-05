@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 358,
   "referenceNumber": "ST0463",
+  "learningAimClassCode": "",
   "title": "Industrial coatings applicator",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0463",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 18,
   "maxFunding": 9000,
+  "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [
     "Industrial coatings applicator",
