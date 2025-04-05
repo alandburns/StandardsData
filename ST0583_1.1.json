@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 340,
   "referenceNumber": "ST0583",
+  "learningAimClassCode": "",
   "title": "Mammography associate",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0583",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 12,
   "maxFunding": 5000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "mammography",
