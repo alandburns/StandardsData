@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 553,
   "referenceNumber": "ST0208",
+  "learningAimClassCode": "",
   "title": "Golf course manager",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0208",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 17000,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "golf",
