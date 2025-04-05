@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 799,
   "referenceNumber": "ST0976",
+  "learningAimClassCode": "",
   "title": "Wood machinist",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0976",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 14000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "wood machinist",
