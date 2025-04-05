@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 227,
   "referenceNumber": "ST0291",
+  "learningAimClassCode": "",
   "title": "Nuclear operative",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0291",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 24,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Nuclear Operative",
