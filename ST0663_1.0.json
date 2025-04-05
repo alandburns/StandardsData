@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 415,
   "referenceNumber": "ST0663",
+  "learningAimClassCode": "",
   "title": "Employability practitioner",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0663",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 24,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "hiring people",
