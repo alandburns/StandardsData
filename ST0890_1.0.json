@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 750,
   "referenceNumber": "ST0890",
+  "learningAimClassCode": "",
   "title": "Embalmer",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0890",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 20000,
+  "maxFundingAdditionalInformation": "",
   "route": "Health and science",
   "keywords": [
     "embalmer",
