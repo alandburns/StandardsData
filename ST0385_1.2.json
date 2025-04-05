@@ -2,8 +2,10 @@
   "templateType": "Apprenticeship Standard",
   "larsCode": 104,
   "referenceNumber": "ST0385",
+  "learningAimClassCode": "",
   "title": "Operations or departmental manager",
   "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0385",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 30,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
   "keywords": [
     "projects",
