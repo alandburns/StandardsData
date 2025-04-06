@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 466,
   "referenceNumber": "ST0577",
+  "learningAimClassCode": "",
   "title": "Ecologist (integrated degree)",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0577",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 36,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "ecologist",
