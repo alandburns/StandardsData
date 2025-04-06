@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 296,
   "referenceNumber": "ST0604",
+  "learningAimClassCode": "",
   "title": "Commercial laundry operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0604",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 12,
   "maxFunding": 6000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Textile Care Operative",
