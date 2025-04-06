@@ -2,8 +2,10 @@
   "templateType": "Structured Apprenticeship Standard",
   "larsCode": 668,
   "referenceNumber": "ST0904",
+  "learningAimClassCode": "",
   "title": "Archivist and records manager",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0904",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -17,6 +19,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "maxFunding": 12000,
+  "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
   "keywords": [
     "Publishing",
