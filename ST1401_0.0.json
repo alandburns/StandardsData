@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 0,
   "referenceNumber": "ST1401",
+  "learningAimClassCode": "",
   "title": "Protective security adviser",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1401",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 5,
   "typicalDuration": 21,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Protective services",
   "keywords": [
     "protective security adviser",
