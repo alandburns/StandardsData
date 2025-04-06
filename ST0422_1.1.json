@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 249,
   "referenceNumber": "ST0422",
+  "learningAimClassCode": "",
   "title": "Science manufacturing process operative",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0422",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 7000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "Science Manufacturing Process Operative",
