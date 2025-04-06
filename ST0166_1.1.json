@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 263,
   "referenceNumber": "ST0166",
+  "learningAimClassCode": "",
   "title": "Equine groom",
   "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0166",
   "qualificationStandardUrl": null,
   "versionNumber": "",
@@ -17,6 +19,7 @@
   "ePALength": 4,
   "typicalDuration": 12,
   "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
     "Equine groom",
