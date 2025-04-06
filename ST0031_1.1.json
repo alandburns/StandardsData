@@ -2,8 +2,10 @@
   "templateType": "Occupational Standard",
   "larsCode": 304,
   "referenceNumber": "ST0031",
+  "learningAimClassCode": "",
   "title": "Automotive glazing technician",
   "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0031",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -17,6 +19,7 @@
   "ePALength": 3,
   "typicalDuration": 18,
   "maxFunding": 10000,
+  "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
   "keywords": [
     "windscreens",
