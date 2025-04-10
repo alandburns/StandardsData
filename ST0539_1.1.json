@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised but remained the same.",
-  "changedDate": "2025-04-04T00:00:00",
+  "changedDate": "2025-04-09T00:00:00",
   "earliestStartDate": "2023-09-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -367,7 +367,7 @@
   "clusterId": "37",
   "clusterDescription": "Undertake routine materials movement, plan and administer logistics",
   "createdDate": "2024-11-22T10:49:00 +00:00",
-  "lastUpdated": "2025-04-04T00:00:00 +00:00",
+  "lastUpdated": "2025-04-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-04-20T00:00:00 +00:00",
   "occupationCode": "OCC0539",
   "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0539-v1-1?view=standard#OccupationalStandard",
@@ -952,5 +952,5 @@
   ],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2025-04-04T00:00:00"
+  "publishDate": "2025-04-09T00:00:00"
 }
