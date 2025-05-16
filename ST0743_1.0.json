@@ -312,9 +312,10 @@
   "createdDate": "2020-01-14T11:44:03 +00:00",
   "lastUpdated": "2023-11-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-27T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0743",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0743-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0743-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0743-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0743-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
