@@ -228,9 +228,10 @@
   "createdDate": "2023-07-24T08:37:03 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-09-10T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0853",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0853-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0853-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0853-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0853-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
