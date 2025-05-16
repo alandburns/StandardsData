@@ -356,9 +356,10 @@
   "createdDate": "2020-02-10T13:26:49 +00:00",
   "lastUpdated": "2025-02-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-08-23T00:00:00 +00:00",
+  "banners": "This apprenticeship standard is being revised. The trailblazer group has not yet submitted a revised version for approval. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeship standards in revision are available in the revisions status report.",
   "occupationCode": "OCC0654",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0654-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0654-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0654-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0654-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
