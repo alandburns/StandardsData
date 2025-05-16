@@ -181,9 +181,10 @@
   "createdDate": "2022-04-07T15:33:38 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-02-05T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0575",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0575-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0575-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0575-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0575-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
