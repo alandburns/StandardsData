@@ -211,9 +211,10 @@
   "createdDate": "2022-01-07T13:33:42 +00:00",
   "lastUpdated": "2022-05-31T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-03-26T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0315",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0315-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0315-v1-1",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0315-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0315-v1-1",
   "qualifications": [
     {
       "qualificationId": "65a0b582-fdf2-43bb-ae12-e186259e14ee",
