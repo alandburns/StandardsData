@@ -303,9 +303,10 @@
   "createdDate": "2020-01-07T15:56:36 +00:00",
   "lastUpdated": "2023-03-10T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-22T00:00:00 +00:00",
+  "banners": "As of 1 August 2022, the English and maths requirements for on-programme and new apprentices undertaking level 2 apprenticeships have changed and are detailed as part of the apprenticeship funding rules. These requirements supersede the current wording in this apprenticeship standard and EPA plan.",
   "occupationCode": "OCC0622",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0622-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0622-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0622-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0622-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
