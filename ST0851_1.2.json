@@ -324,9 +324,10 @@
   "createdDate": "2024-11-26T13:01:46 +00:00",
   "lastUpdated": "2024-11-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-19T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0851",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0851-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0851-v1-2",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0851-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0851-v1-2",
   "qualifications": [],
   "professionalRecognition": [
     {
