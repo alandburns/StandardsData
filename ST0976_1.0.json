@@ -42,7 +42,7 @@
     "Wood processing machinist"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0976-v1-0?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0976-v1-0?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
@@ -362,9 +362,10 @@
   "createdDate": "2025-01-09T10:40:39 +00:00",
   "lastUpdated": "2025-04-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-02-19T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0976",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0976-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0976-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0976-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0976-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
