@@ -289,9 +289,10 @@
   "createdDate": "2020-04-21T10:57:01 +00:00",
   "lastUpdated": "2022-09-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-02-03T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0762",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0762-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0762-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0762-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0762-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
