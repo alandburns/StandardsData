@@ -211,9 +211,10 @@
   "createdDate": "2019-10-18T12:57:21 +00:00",
   "lastUpdated": "2024-07-31T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0834",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0834-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0834-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0834-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0834-v1-0",
   "qualifications": [
     {
       "qualificationId": "61f5d6df-6c69-4d47-8e34-be3b1f5a3431",
