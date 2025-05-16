@@ -292,9 +292,10 @@
   "createdDate": "2021-12-13T14:39:02 +00:00",
   "lastUpdated": "2022-04-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-12-13T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC1324",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1324-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1324-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1324-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1324-v1-0",
   "qualifications": [
     {
       "qualificationId": "37630feb-b51d-4131-979a-545f59db20a3",
