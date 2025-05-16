@@ -211,9 +211,10 @@
   "createdDate": "2020-02-10T10:53:18 +00:00",
   "lastUpdated": "2024-02-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0662",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0662-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0662-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0662-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0662-v1-0",
   "qualifications": [
     {
       "qualificationId": "6e098ca0-c51c-4499-8249-3cea130b875f",
