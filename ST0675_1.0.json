@@ -252,9 +252,10 @@
   "createdDate": "2019-12-24T11:59:48 +00:00",
   "lastUpdated": "2019-07-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0675",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0675-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0675-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0675-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0675-v1-0",
   "qualifications": [
     {
       "qualificationId": "c39e232f-d89f-49fa-aea3-d06d2dd8b132",
