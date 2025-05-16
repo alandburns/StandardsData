@@ -236,9 +236,10 @@
   "createdDate": "2021-11-18T13:40:23 +00:00",
   "lastUpdated": "2024-08-19T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-03-30T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0967",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0967-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0967-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0967-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0967-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
