@@ -297,9 +297,10 @@
   "createdDate": "2023-09-12T11:04:50 +00:00",
   "lastUpdated": "2024-06-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-01-29T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0149",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0149-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0149-v1-2",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0149-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0149-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
