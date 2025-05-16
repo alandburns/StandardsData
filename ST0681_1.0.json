@@ -163,9 +163,10 @@
   "createdDate": "2020-02-10T13:05:35 +00:00",
   "lastUpdated": "2023-12-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
+  "banners": "This apprenticeship has been retired. Although this apprenticeship has been retired, the occupation remains on the Occupational Map for potential use as the basis of another technical education product.",
   "occupationCode": "OCC0681",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0681-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0681-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0681-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0681-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
