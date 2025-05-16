@@ -35,7 +35,7 @@
     "Tree surgeon"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0223-v1-2?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0223-v1-2?view=epa",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.2 Horticulture and forestry",
   "version": "1.2",
@@ -239,9 +239,10 @@
   "createdDate": "2024-12-02T11:08:25 +00:00",
   "lastUpdated": "2024-12-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-27T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0223",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0223-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0223-v1-2",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0223-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0223-v1-2",
   "qualifications": [
     {
       "qualificationId": "37064286-b565-4105-97da-f58c37068b0f",
