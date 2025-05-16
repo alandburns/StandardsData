@@ -45,7 +45,7 @@
     "Shipping co-ordinator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0539-v1-1?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0539-v1-1?view=epa",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.2 Warehousing and distribution",
   "version": "1.1",
@@ -369,9 +369,10 @@
   "createdDate": "2024-11-22T10:49:00 +00:00",
   "lastUpdated": "2025-04-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-04-20T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0539",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0539-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0539-v1-1",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0539-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0539-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
