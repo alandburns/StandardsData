@@ -259,9 +259,10 @@
   "createdDate": "2022-12-22T15:32:14 +00:00",
   "lastUpdated": "2022-12-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-08-03T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0954",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0954-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0954-v1-1",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0954-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0954-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
