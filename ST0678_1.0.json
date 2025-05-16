@@ -247,9 +247,10 @@
   "createdDate": "2020-01-09T09:34:17 +00:00",
   "lastUpdated": "2023-09-12T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-05-16T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0678",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0678-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0678-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0678-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0678-v1-0",
   "qualifications": [
     {
       "qualificationId": "fdc48052-2696-4d65-9184-2a2448268ebb",
