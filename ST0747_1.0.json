@@ -336,9 +336,10 @@
   "createdDate": "2019-12-20T15:10:56 +00:00",
   "lastUpdated": "2024-08-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0747",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0747-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0747-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0747-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0747-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
