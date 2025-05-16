@@ -320,9 +320,10 @@
   "createdDate": "2020-01-16T11:22:43 +00:00",
   "lastUpdated": "2019-09-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-27T00:00:00 +00:00",
+  "banners": "This apprenticeship is approved for delivery, however all new starts are currently paused, while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).; This apprenticeship will be retired from 12 August 2025. Current apprentices will be able to complete their programme.",
   "occupationCode": "OCC0793",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0793-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0793-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0793-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0793-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
