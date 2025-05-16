@@ -31,7 +31,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0155-v1-2?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0155-v1-2?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.2",
@@ -275,9 +275,10 @@
   "createdDate": "2024-06-10T13:54:22 +00:00",
   "lastUpdated": "2024-09-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-02-05T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0155",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0155-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0155-v1-2",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0155-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0155-v1-2",
   "qualifications": [
     {
       "qualificationId": "96acbdb0-c539-4219-a9a2-4b9239fe633d",
