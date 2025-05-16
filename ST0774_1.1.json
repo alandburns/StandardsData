@@ -430,9 +430,10 @@
   "createdDate": "2024-11-22T10:10:05 +00:00",
   "lastUpdated": "2025-02-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-12-13T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0774",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0774-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0774-v1-1",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0774-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0774-v1-1",
   "qualifications": [
     {
       "qualificationId": "ee02ad16-dcd2-450f-b69d-c70da71718ac",
