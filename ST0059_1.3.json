@@ -37,7 +37,7 @@
     "Shipwright"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0059-in-revision?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0059-in-revision?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.3",
@@ -340,9 +340,10 @@
   "createdDate": "2025-03-06T14:29:58 +00:00",
   "lastUpdated": "2025-03-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-02-25T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0059",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0059-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0059-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0059-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0059-in-revision",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
