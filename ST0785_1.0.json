@@ -36,7 +36,7 @@
     "Human factors specialist"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0785-v1-0?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0785-v1-0?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
@@ -258,9 +258,10 @@
   "createdDate": "2023-02-20T13:08:41 +00:00",
   "lastUpdated": "2023-05-11T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-05-11T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0785",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0785-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0785-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0785-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0785-v1-0",
   "qualifications": [
     {
       "qualificationId": "7b654738-76b4-4b89-a8a6-5b9e6fef2a6d",
