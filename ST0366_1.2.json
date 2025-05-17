@@ -32,7 +32,7 @@
     "Fencing installer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0366-v1-2?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0366-v1-2?view=epa",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.2",
@@ -286,9 +286,10 @@
   "createdDate": "2024-02-29T08:59:47 +00:00",
   "lastUpdated": "2023-11-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-09-24T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0366",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0366-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0366-v1-2",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0366-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0366-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
