@@ -46,7 +46,7 @@
     "Mechanical maintenance technician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1426?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1426?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "0.0",
@@ -683,9 +683,10 @@
   "createdDate": "2025-05-09T14:35:27 +00:00",
   "lastUpdated": "2019-03-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
+  "banners": "",
   "occupationCode": "",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1426?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1426",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1426?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1426",
   "qualifications": [],
   "professionalRecognition": [
     {
