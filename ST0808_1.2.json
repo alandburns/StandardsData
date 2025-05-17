@@ -307,9 +307,10 @@
   "createdDate": "2023-11-15T13:44:23 +00:00",
   "lastUpdated": "2023-11-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-05-17T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0808",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0808-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0808-v1-2",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0808-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0808-v1-2",
   "qualifications": [
     {
       "qualificationId": "3edeeddf-3536-490c-83ef-48be3ced264a",
