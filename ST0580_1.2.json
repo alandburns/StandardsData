@@ -34,7 +34,7 @@
     "Technical brewer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0580-in-revision?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0580-in-revision?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.2",
@@ -349,9 +349,10 @@
   "createdDate": "2025-05-07T16:34:49 +00:00",
   "lastUpdated": "2025-05-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-06-22T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0580",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0580-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0580-in-revision",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0580-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0580-in-revision",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
