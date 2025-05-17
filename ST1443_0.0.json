@@ -44,7 +44,7 @@
     "Maintenance technician"
   ],
   "entryRequirements": "&lt;p&gt;Individual employers will set their own entry requirements.&amp;nbsp;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1443?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1443?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "0.0",
@@ -691,9 +691,10 @@
   "createdDate": "2025-05-09T16:38:35 +00:00",
   "lastUpdated": "",
   "occupationalStandardApprovalDate": null,
+  "banners": "",
   "occupationCode": "",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1443?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st1443",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1443?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1443",
   "qualifications": [],
   "professionalRecognition": [
     {
