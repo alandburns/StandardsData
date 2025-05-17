@@ -312,9 +312,10 @@
   "createdDate": "2020-06-12T15:09:42 +00:00",
   "lastUpdated": "2025-03-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-12-11T00:00:00 +00:00",
+  "banners": "A revised version of this standard and EPA plan has been approved and is available for information only at present until the funding band has been agreed.",
   "occupationCode": "OCC0757",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0757-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0757-v1-0",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0757-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0757-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
