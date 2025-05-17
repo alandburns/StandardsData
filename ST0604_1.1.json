@@ -37,7 +37,7 @@
     "Production operative"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0604-v1-1?view=epa",
+  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0604-v1-1?view=epa",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.3 Service enterprises",
   "version": "1.1",
@@ -298,9 +298,10 @@
   "createdDate": "2022-10-28T09:13:19 +00:00",
   "lastUpdated": "2022-10-24T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-06-22T00:00:00 +00:00",
+  "banners": "",
   "occupationCode": "OCC0604",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0604-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeship-standards/st0604-v1-1",
+  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0604-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0604-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
