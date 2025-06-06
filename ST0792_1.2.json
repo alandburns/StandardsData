@@ -6,7 +6,7 @@
   "title": "Junior production coordinator",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0792",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0792",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
@@ -39,7 +39,7 @@
     "Radio coordinator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0792-v1-2?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0792-v1-2?view=epa",
   "ssa1": "9 Arts, Media and Publishing",
   "ssa2": "9.3 Media and communication",
   "version": "1.2",
@@ -322,8 +322,8 @@
   "occupationalStandardApprovalDate": "2020-08-24T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0792",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0792-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0792-v1-2",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0792-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0792-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
