@@ -6,7 +6,7 @@
   "title": "Battery manufacturing technician",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1338",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1338",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -30,7 +30,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "&lt;p&gt;Employers may require candidates to have a health screening before working in a clean room.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1338-v1-0?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1338-v1-0?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
@@ -538,8 +538,8 @@
   "occupationalStandardApprovalDate": "2023-11-30T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1338",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1338-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1338-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1338-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1338-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
