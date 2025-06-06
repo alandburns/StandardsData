@@ -6,7 +6,7 @@
   "title": "Compliance and risk officer",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0362",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0362",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end point assessment and funding band revised",
@@ -37,7 +37,7 @@
     "Risk officer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0362-v1-2?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0362-v1-2?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.1 Accounting and finance",
   "version": "1.2",
@@ -244,8 +244,8 @@
   "occupationalStandardApprovalDate": "2016-09-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0362",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0362-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0362-v1-2",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0362-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0362-v1-2",
   "qualifications": [
     {
       "qualificationId": "7f30df38-5346-451d-8db5-f11cc97f9646",
