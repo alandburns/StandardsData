@@ -6,7 +6,7 @@
   "title": "Engineer surveyor",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0847",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0847",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -41,7 +41,7 @@
     "Power press inspector"
   ],
   "entryRequirements": "&lt;p&gt;Typical entry requirements for this occupation are a level 3 qualification in a relevant engineering subject and a minimum of 3 year’s experience within a relevant field of Engineering.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4059/st0847_engineer_surveyor_l4_ap-for-publication_12032020.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/4059/st0847_engineer_surveyor_l4_ap-for-publication_12032020.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
@@ -310,8 +310,8 @@
   "occupationalStandardApprovalDate": "2020-08-24T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0847",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0847-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0847-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0847-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0847-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
