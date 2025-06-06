@@ -6,7 +6,7 @@
   "title": "Network cable installer",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0485",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0485",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
@@ -34,7 +34,7 @@
     "Telecoms cable installer,"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0485-v1-2?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0485-v1-2?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.2",
@@ -248,8 +248,8 @@
   "occupationalStandardApprovalDate": "2019-04-23T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0485",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0485-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0485-v1-2",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0485-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0485-v1-2",
   "qualifications": [],
   "professionalRecognition": [
     {
