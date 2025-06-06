@@ -6,7 +6,7 @@
   "title": "Professional forester (degree)",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0923",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0923",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -42,7 +42,7 @@
     "district forester"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5123/st0923_professional-forester_l6_-ap-for-publication_01062021.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/5123/st0923_professional-forester_l6_-ap-for-publication_01062021.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.2 Horticulture and forestry",
   "version": "1.0",
@@ -291,8 +291,8 @@
   "occupationalStandardApprovalDate": "2021-08-03T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0923",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0923-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0923-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0923-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0923-v1-0",
   "qualifications": [
     {
       "qualificationId": "78f283c5-35d4-4f4a-80f8-97c4df4b1566",
