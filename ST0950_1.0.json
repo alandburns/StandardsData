@@ -6,7 +6,7 @@
   "title": "Healthcare engineering specialist technician",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0950",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0950",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -49,7 +49,7 @@
     "Building services technician"
   ],
   "entryRequirements": "&lt;p&gt;Typically, GCSE grade B / 5 or above in mathematics, plus four other GCSE subjects at grade C / 4 or above, one being a science based subject.&#160;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5009/st0950_healthcare_engineering_specialist_technician_l3_ap-for-publication_12mar21.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/5009/st0950_healthcare_engineering_specialist_technician_l3_ap-for-publication_12mar21.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
@@ -462,8 +462,8 @@
   "occupationalStandardApprovalDate": "2021-05-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0950",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0950-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0950-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0950-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0950-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
