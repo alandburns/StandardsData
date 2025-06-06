@@ -6,7 +6,7 @@
   "title": "Process leader",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0695",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0695",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard and end-point assessment plan revised.",
@@ -36,7 +36,7 @@
     "Section leader"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/qftljjj1/st0695_process-leader_l4_epa-adjustment-for-publication-06020224.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/qftljjj1/st0695_process-leader_l4_epa-adjustment-for-publication-06020224.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.1",
@@ -287,8 +287,8 @@
   "occupationalStandardApprovalDate": "2019-03-04T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0695",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0695-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0695-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0695-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0695-v1-1",
   "qualifications": [],
   "professionalRecognition": [
     {
