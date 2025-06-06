@@ -6,7 +6,7 @@
   "title": "Food and beverage team member",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1488",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1488",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -43,7 +43,7 @@
     "Waiter or waitress"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1488-v1-0?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1488-v1-0?view=epa",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.4 Hospitality and catering",
   "version": "1.0",
@@ -317,8 +317,8 @@
   "occupationalStandardApprovalDate": "2024-12-18T00:00:00 +00:00",
   "banners": "Options 1-4 of ST0233 Hospitality Team Member are replaced with this new apprenticeship.\u00A0\n Options 1-4 of ST0233 will be retired.\u00A0",
   "occupationCode": "OCC1488",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1488-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1488-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1488-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1488-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
