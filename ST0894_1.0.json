@@ -6,7 +6,7 @@
   "title": "Service designer",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0894",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0894",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -36,7 +36,7 @@
     "Service designer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0894-v1-0?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0894-v1-0?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.0",
@@ -302,8 +302,8 @@
   "occupationalStandardApprovalDate": "2023-03-23T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0894",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0894-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0894-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0894-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0894-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
