@@ -6,7 +6,7 @@
   "title": "Operational firefighter",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0486",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0486",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
   "change": "End-point assessment plan revised",
@@ -38,7 +38,7 @@
     "Civil Aviation or within small private sector fire services that may be incorporated in other organisations such as manufacturers and engineering"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/rhqpscmq/st0486_operational-firefighter_l3_ap-for-publication_adjustment_26032024pm-final-draft.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/rhqpscmq/st0486_operational-firefighter_l3_ap-for-publication_adjustment_26032024pm-final-draft.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.4 Public services",
   "version": "1.3",
@@ -232,8 +232,8 @@
   "occupationalStandardApprovalDate": "2018-02-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0486",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0486-v1-3?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0486-v1-3",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0486-v1-3?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0486-v1-3",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
