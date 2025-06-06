@@ -6,7 +6,7 @@
   "title": "Sports coach",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0770",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0770",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment revised",
@@ -36,7 +36,7 @@
     "Talent development coach"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6694/st0770_sports-coach_l4_epa-plan-for-publication_24112022correction.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/6694/st0770_sports-coach_l4_epa-plan-for-publication_24112022correction.pdf",
   "ssa1": "8 Leisure, Travel and Tourism",
   "ssa2": "8.1 Sport, leisure and recreation",
   "version": "1.1",
@@ -468,8 +468,8 @@
   "occupationalStandardApprovalDate": "2021-02-15T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0770",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0770-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0770-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0770-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0770-v1-1",
   "qualifications": [],
   "professionalRecognition": [
     {
