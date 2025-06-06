@@ -6,7 +6,7 @@
   "title": "Thatcher",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0821",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0821",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -33,7 +33,7 @@
     "Thatcher"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0821-v1-0?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0821-v1-0?view=epa",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.0",
@@ -285,8 +285,8 @@
   "occupationalStandardApprovalDate": "2024-02-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0821",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0821-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0821-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0821-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0821-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
