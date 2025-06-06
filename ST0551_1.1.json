@@ -6,7 +6,7 @@
   "title": "Early years lead practitioner",
   "status": "In development",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0551",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0551",
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
@@ -56,7 +56,7 @@
     "Specialist practitioner in child development (health), community nursery nurse"
   ],
   "entryRequirements": "&lt;p&gt;Undertake the Disclosure and Barring Service process and provide the result.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0551-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0551-in-revision?view=epa",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.5 Child development and well being",
   "version": "1.1",
@@ -351,8 +351,8 @@
   "occupationalStandardApprovalDate": "2021-08-10T00:00:00 +00:00",
   "banners": "This revised version of this standard has been agreed and is available for information only at present.",
   "occupationCode": "OCC0551",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0551-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0551-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0551-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0551-in-revision",
   "qualifications": [],
   "professionalRecognition": [
     {
