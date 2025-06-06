@@ -6,7 +6,7 @@
   "title": "Craft painter and decorator",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1358",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1358",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard and end-point assessment plan revised",
@@ -34,7 +34,7 @@
     "Foreman painter and decorator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1358-v1-1?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1358-v1-1?view=epa",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.1",
@@ -443,8 +443,8 @@
   "occupationalStandardApprovalDate": "2024-07-17T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1358",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1358-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1358-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1358-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1358-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
