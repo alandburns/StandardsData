@@ -6,7 +6,7 @@
   "title": "Asset manager",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0861",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0861",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -40,7 +40,7 @@
     "Infrastructure asset manager"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/5269/st0861_asset-manager_l4_ap_for-publication-adj-23072021.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/5269/st0861_asset-manager_l4_ap_for-publication-adj-23072021.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.0",
@@ -302,8 +302,8 @@
   "occupationalStandardApprovalDate": "2021-05-17T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0861",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0861-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0861-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0861-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0861-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
