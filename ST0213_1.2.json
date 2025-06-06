@@ -6,7 +6,7 @@
   "title": "Hairdressing professional",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0213",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0213",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding revised",
@@ -36,7 +36,7 @@
     "Stylist"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0213-v1-2?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0213-v1-2?view=epa",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.3 Service enterprises",
   "version": "1.2",
@@ -355,8 +355,8 @@
   "occupationalStandardApprovalDate": "2016-12-21T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0213",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0213-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0213-v1-2",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0213-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0213-v1-2",
   "qualifications": [
     {
       "qualificationId": "3c19a9e5-b5d8-4d9d-8a3d-7818cce8126a",
