@@ -6,7 +6,7 @@
   "title": "Dispensing optician",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0774",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0774",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard and end-point assessment plan revised",
@@ -32,7 +32,7 @@
     "Dispensing optician"
   ],
   "entryRequirements": "&lt;p&gt;Apprentices without Level 2 English and maths will need to achieve this prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/u5adfb41/st0774_dispensing_optician_level-6_epa_for-publication_v12_13032025.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/dozbe0qo/st0774_dispensing_optician_level-6_epa_for-publication_v12_29052025.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.2",
@@ -432,8 +432,8 @@
   "occupationalStandardApprovalDate": "2023-12-13T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0774",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0774-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0774-v1-2",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0774-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0774-v1-2",
   "qualifications": [
     {
       "qualificationId": "ee02ad16-dcd2-450f-b69d-c70da71718ac",
