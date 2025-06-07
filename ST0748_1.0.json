@@ -6,7 +6,7 @@
   "title": "Sustainability business specialist (integrated degree)",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0748",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0748",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -33,7 +33,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/1pjax1s5/st0748-sustainability-business-specialist-integrated-degree-epa.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/1pjax1s5/st0748-sustainability-business-specialist-integrated-degree-epa.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.0",
@@ -257,8 +257,8 @@
   "occupationalStandardApprovalDate": "2020-05-21T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0748",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0748-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0748-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0748-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0748-v1-0",
   "qualifications": [
     {
       "qualificationId": "b18802bb-372d-4d1a-ac57-d0ee03e80585",
