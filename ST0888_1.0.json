@@ -6,7 +6,7 @@
   "title": "Early years practitioner",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0888",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0888",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -37,7 +37,7 @@
     "Nanny and Early Years Worker"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7279/st0888_early-years-practitioner_l2_ap-for-publication_16032020em.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/7279/st0888_early-years-practitioner_l2_ap-for-publication_16032020em.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.5 Child development and well being",
   "version": "1.0",
@@ -338,8 +338,8 @@
   "occupationalStandardApprovalDate": "2020-03-26T00:00:00 +00:00",
   "banners": "A revised version of this has been agreed and is available for information only at present. It will replace the version below for new starts from ​1st August 2025 with a funding band of £5,000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0888",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0888-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0888-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0888-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0888-v1-0",
   "qualifications": [
     {
       "qualificationId": "c4fe2438-1d86-46fd-8275-0b4d9a286d32",
