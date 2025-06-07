@@ -6,7 +6,7 @@
   "title": "Marine technical superintendent (degree)",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0623",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0623",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard revised",
@@ -31,7 +31,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for their Apprenticeships. Entrants to the role should typically have a foundation level qualification (level 5) and experience in a maritime engineering discipline, preferably as a second engineer officer or electro-technical officer with equivalent experience. However, suitable candidates may also have a background in the management of ship-repair or experience as a classification society surveyor.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/6009/st0623_marine_technical_superintendent_l7_epa-for-publication_300322.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/6009/st0623_marine_technical_superintendent_l7_epa-for-publication_300322.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "1.1",
@@ -221,8 +221,8 @@
   "occupationalStandardApprovalDate": "2019-05-13T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0623",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0623-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0623-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0623-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0623-v1-1",
   "qualifications": [
     {
       "qualificationId": "fa47e3a2-a201-4fa1-beb6-673e2b97b189",
