@@ -6,7 +6,7 @@
   "title": "Butcher",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0078",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0078",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
@@ -35,7 +35,7 @@
     "Poultry processor"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0078-v1-2?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0078-v1-2?view=epa",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.4 Hospitality and catering",
   "version": "1.2",
@@ -332,8 +332,8 @@
   "occupationalStandardApprovalDate": "2015-09-24T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0078",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0078-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0078-v1-2",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0078-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0078-v1-2",
   "qualifications": [],
   "professionalRecognition": [
     {
