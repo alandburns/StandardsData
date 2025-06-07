@@ -6,7 +6,7 @@
   "title": "Retailer",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0327",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0327",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding band revised.",
@@ -40,7 +40,7 @@
     "Sales assistant"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0327-v1-2?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0327-v1-2?view=epa",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.1 Retailing and wholesaling",
   "version": "1.2",
@@ -242,8 +242,8 @@
   "occupationalStandardApprovalDate": "2016-05-11T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0327",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0327-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0327-v1-2",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0327-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0327-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
