@@ -6,7 +6,7 @@
   "title": "Brewer",
   "status": "In development",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0580",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0580",
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Occupational standard, end-point assessment and funding band revised",
@@ -34,7 +34,7 @@
     "Technical brewer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0580-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0580-in-revision?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.2",
@@ -351,8 +351,8 @@
   "occupationalStandardApprovalDate": "2018-06-22T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0580",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0580-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0580-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0580-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0580-in-revision",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
