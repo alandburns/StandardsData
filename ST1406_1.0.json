@@ -6,7 +6,7 @@
   "title": "Science manufacturing technician 2023",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1406",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1406",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -45,7 +45,7 @@
     "Biotechnology process technician"
   ],
   "entryRequirements": "&lt;p&gt;Employers will set their own entry requirements. Typically, they require applicants to have GCSE science grade C or 4&lt;span style=&quot;font-family: Calibri, sans-serif;&quot;&gt;&lt;span style=&quot;font-size: 14.6667px;&quot;&gt;. &lt;/span&gt;&lt;/span&gt;An employer may require applicants to have a health screening to ensure suitability for working in some work environments.&amp;nbsp;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1406-v1-0?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1406-v1-0?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
@@ -580,8 +580,8 @@
   "occupationalStandardApprovalDate": "2024-03-04T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1406",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1406-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1406-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1406-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1406-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
