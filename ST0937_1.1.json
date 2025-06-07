@@ -6,7 +6,7 @@
   "title": "General farm worker",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0937",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0937",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard and end point assessment plan revised",
@@ -39,7 +39,7 @@
     "Tractor driver"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/yonjjgzr/st0937_general-farm-worker_epa_v11_nov2024.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/yonjjgzr/st0937_general-farm-worker_epa_v11_nov2024.pdf",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.1 Agriculture",
   "version": "1.1",
@@ -279,8 +279,8 @@
   "occupationalStandardApprovalDate": "2021-05-17T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0937",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0937-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0937-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0937-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0937-v1-1",
   "qualifications": [
     {
       "qualificationId": "e0489d98-ac85-4c16-b182-698520fe7621",
