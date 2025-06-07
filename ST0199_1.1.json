@@ -6,7 +6,7 @@
   "title": "Food and drink process operator",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0199",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0199",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding revised.",
@@ -32,7 +32,7 @@
     "Production line worker"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7295/st0199_food-and-drink-process-operator_l2_epa_for-publicationem.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/7295/st0199_food-and-drink-process-operator_l2_epa_for-publicationem.pdf",
   "ssa1": "7 Retail and Commercial Enterprise",
   "ssa2": "7.4 Hospitality and catering",
   "version": "1.1",
@@ -249,8 +249,8 @@
   "occupationalStandardApprovalDate": "2016-08-25T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0199",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0199-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0199-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0199-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0199-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
