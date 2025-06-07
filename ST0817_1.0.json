@@ -6,7 +6,7 @@
   "title": "Compressed air and vacuum technician",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0817",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0817",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -44,7 +44,7 @@
     "Pressure Systems Competent Person (Examiner)"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4016/st0817_compressed-air-and-vacuum-technician_l3_ap_for-publication_180220.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/4016/st0817_compressed-air-and-vacuum-technician_l3_ap_for-publication_180220.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
@@ -267,8 +267,8 @@
   "occupationalStandardApprovalDate": "2020-05-13T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0817",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0817-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0817-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0817-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0817-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
