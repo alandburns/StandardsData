@@ -6,7 +6,7 @@
   "title": "Nuclear welding inspection technician",
   "status": "In development",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0292",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0292",
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
@@ -34,7 +34,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0292-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0292-in-revision?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.1",
@@ -284,8 +284,8 @@
   "occupationalStandardApprovalDate": "2015-08-27T00:00:00 +00:00",
   "banners": "This revised version is in development and is available for information only subject to change.",
   "occupationCode": "OCC0292",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0292-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0292-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0292-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0292-in-revision",
   "qualifications": [
     {
       "qualificationId": "8a106588-4b06-44f3-b602-34941bfcea47",
