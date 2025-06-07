@@ -6,7 +6,7 @@
   "title": "Automation and controls engineering technician",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0662",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0662",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -33,7 +33,7 @@
     "Automation and controls engineering technician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/2923/st0662_automation-_-controls_engineering_technician_l4_epa-for-publication_160419.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/2923/st0662_automation-_-controls_engineering_technician_l4_epa-for-publication_160419.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
@@ -213,8 +213,8 @@
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0662",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0662-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0662-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0662-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0662-v1-0",
   "qualifications": [
     {
       "qualificationId": "6e098ca0-c51c-4499-8249-3cea130b875f",
