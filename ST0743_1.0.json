@@ -6,7 +6,7 @@
   "title": "Fenestration installer",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0743",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0743",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -35,7 +35,7 @@
     "Window and door installer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7289/st0743_fenestration_installer_l2_ap_for_publication_18092019bem.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/7289/st0743_fenestration_installer_l2_ap_for_publication_18092019bem.pdf",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.0",
@@ -314,8 +314,8 @@
   "occupationalStandardApprovalDate": "2019-09-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0743",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0743-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0743-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0743-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0743-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
