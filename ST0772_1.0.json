@@ -6,7 +6,7 @@
   "title": "Marine surveyor (degree)",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0772",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0772",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -42,7 +42,7 @@
     "Associate or partner/director of surveying company"
   ],
   "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria for their Apprenticeships. Entrants to the role should typically have an advanced level qualification (level 3) and experience of working in a maritime environment in roles such as Standards of Training, Certification and Watchkeeping (STCW) Officer Of The Watch (OOW), Engineering OOW, Electro Technical Officer, or equivalent knowledge and experience from a maritime background.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3208/st0772_marine-surveyor_l6-ap-addressing-feedback_120619_qm.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/3208/st0772_marine-surveyor_l6-ap-addressing-feedback_120619_qm.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
@@ -299,8 +299,8 @@
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0772",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0772-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0772-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0772-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0772-v1-0",
   "qualifications": [
     {
       "qualificationId": "f06db942-056d-49c3-bfb2-103872295312",
