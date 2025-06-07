@@ -6,7 +6,7 @@
   "title": "Technical dyer and colourist",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0678",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0678",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -42,7 +42,7 @@
     "Dye technologist"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3523/technical-dyer-and-colourist-epa-for-website.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/3523/technical-dyer-and-colourist-epa-for-website.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
@@ -249,8 +249,8 @@
   "occupationalStandardApprovalDate": "2019-05-16T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0678",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0678-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0678-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0678-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0678-v1-0",
   "qualifications": [
     {
       "qualificationId": "fdc48052-2696-4d65-9184-2a2448268ebb",
