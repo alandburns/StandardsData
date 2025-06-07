@@ -6,7 +6,7 @@
   "title": "Arborist",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0223",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0223",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised and reduced. ",
@@ -35,7 +35,7 @@
     "Tree surgeon"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0223-v1-1?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0223-v1-1?view=epa",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.2 Horticulture and forestry",
   "version": "1.1",
@@ -241,8 +241,8 @@
   "occupationalStandardApprovalDate": "2017-06-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0223",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0223-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0223-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0223-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0223-v1-1",
   "qualifications": [
     {
       "qualificationId": "37064286-b565-4105-97da-f58c37068b0f",
