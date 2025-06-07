@@ -6,7 +6,7 @@
   "title": "Lead traffic management operative",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0985",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0985",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery.",
@@ -30,7 +30,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0985-v1-0?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0985-v1-0?view=epa",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.4 Public services",
   "version": "1.0",
@@ -284,8 +284,8 @@
   "occupationalStandardApprovalDate": "2023-08-29T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0985",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0985-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0985-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0985-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0985-v1-0",
   "qualifications": [
     {
       "qualificationId": "1d9c9dda-380e-4d03-9340-f55cea497930",
