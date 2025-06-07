@@ -6,7 +6,7 @@
   "title": "Commercial catering equipment technician",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0791",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0791",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approrved for delivery",
@@ -40,7 +40,7 @@
     "Commercial catering equipment service and maintenance technician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3209/st0791_commercial_catering_equipment_technician_l3_for_publication_june19.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/3209/st0791_commercial_catering_equipment_technician_l3_for_publication_june19.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
@@ -323,8 +323,8 @@
   "occupationalStandardApprovalDate": "2019-07-03T00:00:00 +00:00",
   "banners": "This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0791",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0791-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0791-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0791-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0791-v1-0",
   "qualifications": [
     {
       "qualificationId": "3e373b40-3968-44af-bfd7-d22b23bd9a3b",
