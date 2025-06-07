@@ -6,7 +6,7 @@
   "title": "Pipe welder",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0851",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0851",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -38,7 +38,7 @@
     "Coded pipe welder"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/gvgcjrb3/st0851_pipe_welder_l3_correction_25032024.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/gvgcjrb3/st0851_pipe_welder_l3_correction_25032024.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
@@ -326,8 +326,8 @@
   "occupationalStandardApprovalDate": "2019-07-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0851",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0851-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0851-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0851-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0851-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
