@@ -6,7 +6,7 @@
   "title": "Fencing installer",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0366",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0366",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
@@ -32,7 +32,7 @@
     "Fencing installer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0366-v1-2?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0366-v1-2?view=epa",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.2",
@@ -288,8 +288,8 @@
   "occupationalStandardApprovalDate": "2018-09-24T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0366",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0366-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0366-v1-2",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0366-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0366-v1-2",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
