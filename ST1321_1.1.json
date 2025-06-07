@@ -6,7 +6,7 @@
   "title": "Forest craftsperson",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1321",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1321",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard and end point assessment plan revised",
@@ -31,7 +31,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1321-v1-1?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1321-v1-1?view=epa",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.2 Horticulture and forestry",
   "version": "1.1",
@@ -306,8 +306,8 @@
   "occupationalStandardApprovalDate": "2022-08-18T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1321",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1321-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1321-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1321-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1321-v1-1",
   "qualifications": [
     {
       "qualificationId": "ce88327c-4eea-4417-9607-98c5a68a26f8",
