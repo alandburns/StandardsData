@@ -6,7 +6,7 @@
   "title": "Wood machinist",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0976",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0976",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard and end-point assessment plan revised.",
@@ -42,7 +42,7 @@
     "Wood processing machinist"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0976-v1-1?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0976-v1-1?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.1",
@@ -364,8 +364,8 @@
   "occupationalStandardApprovalDate": "2025-02-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0976",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0976-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0976-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0976-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0976-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
