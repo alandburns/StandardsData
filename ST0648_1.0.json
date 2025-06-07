@@ -6,7 +6,7 @@
   "title": "Probation officer",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0648",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0648",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Retired",
@@ -38,7 +38,7 @@
     "Senior Responsible Officer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3424/st0648_probation-officer_l6__assessment-plan-for-publication.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/3424/st0648_probation-officer_l6__assessment-plan-for-publication.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.4 Public services",
   "version": "1.0",
@@ -230,11 +230,11 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Institute for Apprenticeships and Technical Education ",
+    "providerName": "Skills England",
     "contactName": "",
     "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
-    "contactEmail": "Enquiries.IFA@education.gov.uk",
-    "webLink": ""
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "2019-08-20T00:00:00 +00:00",
   "integratedApprenticeship": null,
@@ -266,8 +266,8 @@
   "occupationalStandardApprovalDate": "2019-08-20T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0648",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0648-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0648-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0648-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0648-v1-0",
   "qualifications": [
     {
       "qualificationId": "695421f7-081e-4986-a20c-4dc879b20655",
