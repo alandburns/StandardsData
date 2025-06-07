@@ -6,7 +6,7 @@
   "title": "Metal recycling technical manager (MRTM)",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0823",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0823",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -37,7 +37,7 @@
     "Metal recycling general manager"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4227/st0823_metal-recycling-technical-manager_l5_ap-for-publication_300420.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/4227/st0823_metal-recycling-technical-manager_l5_ap-for-publication_300420.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.0",
@@ -317,8 +317,8 @@
   "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0823",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0823-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0823-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0823-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0823-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
