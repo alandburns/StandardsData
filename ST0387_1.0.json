@@ -6,7 +6,7 @@
   "title": "Lift truck and powered access engineering technician",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0387",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0387",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -34,7 +34,7 @@
     "Powered access equipment engineer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/3574/st0387_lift_truck_and_powered_access_engineering_technician_l3_for-publication_29102019.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/3574/st0387_lift_truck_and_powered_access_engineering_technician_l3_for-publication_29102019.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.3 Transportation operations and maintenance",
   "version": "1.0",
@@ -239,8 +239,8 @@
   "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0387",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0387-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0387-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0387-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0387-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
