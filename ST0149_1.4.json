@@ -6,7 +6,7 @@
   "title": "Learning and skills teacher",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0149",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0149",
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "Occupational standard and end-point assessment revised",
@@ -38,7 +38,7 @@
     "Tutor"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/d2idgloa/st0149_learning_and_skills_teacher_l5_adjustment_10042025.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/d2idgloa/st0149_learning_and_skills_teacher_l5_adjustment_10042025.pdf",
   "ssa1": "13 Education and Training",
   "ssa2": "13.1 Teaching and lecturing",
   "version": "1.4",
@@ -299,8 +299,8 @@
   "occupationalStandardApprovalDate": "2019-01-29T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0149",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0149-v1-4?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0149-v1-4",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0149-v1-4?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0149-v1-4",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
