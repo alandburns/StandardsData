@@ -6,7 +6,7 @@
   "title": "Library, information and knowledge management professional",
   "status": "In development",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST1337",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1337",
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
@@ -30,7 +30,7 @@
     "Systems librarian"
   ],
   "entryRequirements": "&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, typically an apprentice might be expected to have already achieved GCSE Maths and English on entry.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st1337?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1337?view=epa",
   "ssa1": "9 Arts, Media and Publishing",
   "ssa2": "9.4 Publishing and information services",
   "version": "0.0",
@@ -320,8 +320,8 @@
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC1337",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st1337?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st1337",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1337?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1337",
   "qualifications": [],
   "professionalRecognition": [
     {
