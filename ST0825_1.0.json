@@ -6,7 +6,7 @@
   "title": "DevOps engineer",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0825",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0825",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -40,7 +40,7 @@
     "Deployment Engineer"
   ],
   "entryRequirements": "&lt;p&gt;Individual employers will set the selection criteria, but this is likely to include A levels; a level 3 apprenticeship or other relevant qualification; relevant experience and/or an aptitude test.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/4069/st0825_devops_engineer_l4-ap-for-publication_050320_qm_minor-amend-190320.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/4069/st0825_devops_engineer_l4-ap-for-publication_050320_qm_minor-amend-190320.pdf",
   "ssa1": "6 Digital Technology",
   "ssa2": "6.1 Digital technology (practitioners)",
   "version": "1.0",
@@ -304,8 +304,8 @@
   "occupationalStandardApprovalDate": "2020-03-12T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0825",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0825-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0825-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0825-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0825-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
