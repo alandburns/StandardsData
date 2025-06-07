@@ -6,7 +6,7 @@
   "title": "Operations manager",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0385",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0385",
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
@@ -38,7 +38,7 @@
     "Specialist managers"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0385-v1-3?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0385-v1-3?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.3",
@@ -303,8 +303,8 @@
   "occupationalStandardApprovalDate": "2016-06-01T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0385",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0385-v1-3?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0385-v1-3",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0385-v1-3?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0385-v1-3",
   "qualifications": [],
   "professionalRecognition": [
     {
