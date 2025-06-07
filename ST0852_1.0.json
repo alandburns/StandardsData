@@ -6,7 +6,7 @@
   "title": "Plate welder",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0852",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0852",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -37,7 +37,7 @@
     "Coded multi-positional plate welder"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/qsnecffj/st0852_plate_welder_l3_correction-25032024.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/qsnecffj/st0852_plate_welder_l3_correction-25032024.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.0",
@@ -272,8 +272,8 @@
   "occupationalStandardApprovalDate": "2019-07-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0852",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0852-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0852-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0852-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0852-v1-0",
   "qualifications": [],
   "professionalRecognition": [
     {
