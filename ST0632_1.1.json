@@ -6,7 +6,7 @@
   "title": "Prosthetic and orthotic technician",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0632",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0632",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Funding band, standard and end-point assessment plan revised.",
@@ -33,7 +33,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "&lt;p&gt;Individual employers will set selection criteria. This might include GCSEs, A levels, other relevant qualifications, relevant experience and/or an aptitude test.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/dmppnjy0/st0632_prosthetic-and-orthotic-tech_l3_for-publication-20122023.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/dmppnjy0/st0632_prosthetic-and-orthotic-tech_l3_for-publication-20122023.pdf",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.2 Nursing, and subjects and vocations allied to medicine",
   "version": "1.1",
@@ -263,8 +263,8 @@
   "occupationalStandardApprovalDate": "2018-11-07T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0632",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0632-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0632-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0632-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0632-v1-1",
   "qualifications": [],
   "professionalRecognition": [
     {
