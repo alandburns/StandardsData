@@ -6,7 +6,7 @@
   "title": "Lifting equipment technician",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0872",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0872",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised",
@@ -32,7 +32,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "&lt;p&gt;Although there are no statutory or regulatory entry requirements, this occupation does require employees to have a firm understanding of mathematical principles, therefore typically employers will require applicants to hold a level 2 qualification in mathematics.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/nz0buac1/st0872_lifting_equipment_technician_l3_v12_april-2024_clean.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/nz0buac1/st0872_lifting_equipment_technician_l3_v12_april-2024_clean.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.2",
@@ -334,8 +334,8 @@
   "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0872",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0872-v1-2?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0872-v1-2",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0872-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0872-v1-2",
   "qualifications": [],
   "professionalRecognition": [
     {
