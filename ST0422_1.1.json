@@ -6,7 +6,7 @@
   "title": "Science manufacturing process operative",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0422",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0422",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard and end-point assessment plan revised",
@@ -43,7 +43,7 @@
     "Sterile operations process operator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/apprenticeships/st0422-v1-1?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0422-v1-1?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.1",
@@ -309,8 +309,8 @@
   "occupationalStandardApprovalDate": "2018-02-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0422",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0422-v1-1?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0422-v1-1",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0422-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0422-v1-1",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
