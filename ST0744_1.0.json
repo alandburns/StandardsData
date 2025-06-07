@@ -6,7 +6,7 @@
   "title": "Fenestration fabricator",
   "status": "Retired",
   "approvedForDeliveryPausedStarts": null,
-  "url": "https://instituteforapprenticeships.org/api/apprenticeshipstandards/ST0744",
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0744",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
@@ -38,7 +38,7 @@
     "Windows/Doors Fabricator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://instituteforapprenticeships.org/media/7288/st0744_fenestration_fabricator_l2_ap_for_publication-23july19em.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/7288/st0744_fenestration_fabricator_l2_ap_for_publication-23july19em.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.0",
@@ -286,8 +286,8 @@
   "occupationalStandardApprovalDate": "2019-09-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0744",
-  "occupationalStandardUrl": "https://instituteforapprenticeships.org/apprenticeships/st0744-v1-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://instituteforapprenticeships.org/apprenticeships/st0744-v1-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0744-v1-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0744-v1-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
