@@ -190,7 +190,7 @@
   "proposalApproved": "",
   "standardApproved": "",
   "standardPublished": "true",
-  "epaApprovalDate": "",
+  "epaApprovalDate": "2024-12-19T00:00:00 +00:00",
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
@@ -223,7 +223,7 @@
   "cluster": "Accounting or tax technician",
   "clusterId": "238",
   "clusterDescription": "Create, analyse and audit financial information for internal and external clients and the regulatory authorities",
-  "createdDate": "2025-03-18T09:26:14 +00:00",
+  "createdDate": "2025-07-02T08:50:47 +00:00",
   "lastUpdated": "2025-05-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-05-08T00:00:00 +00:00",
   "banners": "",
