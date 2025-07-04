@@ -1,8 +1,8 @@
 {
   "templateType": "Occupational Standard",
-  "larsCode": 0,
+  "larsCode": 818,
   "referenceNumber": "ST1404",
-  "learningAimClassCode": "",
+  "learningAimClassCode": "Z0001890",
   "title": "Water industry asset maintenance technician",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": true,
