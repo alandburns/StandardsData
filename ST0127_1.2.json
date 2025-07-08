@@ -4,13 +4,13 @@
   "referenceNumber": "ST0127",
   "learningAimClassCode": "",
   "title": "Network engineer",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0127",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Standard, funding band and end-point assessment plan revised",
-  "changedDate": "2025-06-20T00:00:00",
+  "changedDate": "2025-07-07T00:00:00",
   "earliestStartDate": "2021-06-01T00:00:00",
   "latestStartDate": "2025-07-06T00:00:00",
   "latestEndDate": null,
@@ -291,7 +291,7 @@
   "clusterId": "186",
   "clusterDescription": null,
   "createdDate": "2021-06-01T08:45:55 +00:00",
-  "lastUpdated": "2025-06-20T00:00:00 +00:00",
+  "lastUpdated": "2025-07-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2014-11-12T00:00:00 +00:00",
   "banners": "A revised version of this has been agreed and is available for information only at present. It will replace the version below for new starts from 7/07/2025 with a funding band of 19k. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0127",
@@ -684,5 +684,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-06T00:00:00"
+  "publishDate": "2025-07-07T00:00:00"
 }
