@@ -1329,17 +1329,17 @@
     {
       "optionId": "d3d5f07a-3d8a-48bc-8512-ea4d144f141e",
       "title": "Credit risk analyst",
-      "occupationCode": ""
+      "occupationCode": "OCC0175B"
     },
     {
       "optionId": "7a810d0b-8245-420d-99ea-b2d829df4b27",
       "title": "Senior credit controller or debt collection specialist",
-      "occupationCode": ""
+      "occupationCode": "OCC0175A"
     },
     {
       "optionId": "3cab6107-5a56-40d1-bb16-87ab22840108",
       "title": "Senior enforcement specialist",
-      "occupationCode": ""
+      "occupationCode": "OCC0175B"
     }
   ],
   "regulationDetail": [],
