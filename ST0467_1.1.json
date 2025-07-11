@@ -542,7 +542,7 @@
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Agricultural Operative/Technician",
+  "cluster": "Agricultural operative or technician",
   "clusterId": "143",
   "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2025-04-03T07:59:48 +00:00",
@@ -1243,27 +1243,27 @@
     {
       "optionId": "ce321cba-dcb1-409a-88b3-34eb3235f909",
       "title": "Poultry rearing technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0467E"
     },
     {
       "optionId": "0db3bbc9-7ad1-4ae6-8cd9-495a4a167d0a",
       "title": "Poultry breeding technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0467A"
     },
     {
       "optionId": "e81dc112-7987-488f-8b1f-bcd6a97aa0ba",
       "title": "Poultry hatchery technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0467D"
     },
     {
       "optionId": "a3698fa7-4fa3-4b34-ac3b-c6678007c2ce",
       "title": "Poultry egg production technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0467B"
     },
     {
       "optionId": "5d38b2f2-45ee-4979-9736-50e462825561",
       "title": "Poultry growing technician",
-      "occupationCode": ""
+      "occupationCode": "OCC0467C"
     }
   ],
   "regulationDetail": [],
