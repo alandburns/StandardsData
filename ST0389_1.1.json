@@ -494,7 +494,7 @@
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Agricultural Operative/Technician",
+  "cluster": "Agricultural operative or technician",
   "clusterId": "143",
   "clusterDescription": "Undertake largely routine arable and livestock tasks with some specialisation in either area",
   "createdDate": "2025-04-03T12:09:27 +00:00",
@@ -1238,27 +1238,27 @@
     {
       "optionId": "14c9d8b8-dcb3-436e-9efa-dd8dc953c32c",
       "title": "Poultry breeding worker",
-      "occupationCode": ""
+      "occupationCode": "OCC0389A"
     },
     {
       "optionId": "8d17c4b8-fb92-41c0-b442-0447a08ca380",
       "title": "Poultry egg production worker",
-      "occupationCode": ""
+      "occupationCode": "OCC0389B"
     },
     {
       "optionId": "b41449d8-323a-4321-a456-85adfaeb953e",
       "title": "Poultry grow out worker",
-      "occupationCode": ""
+      "occupationCode": "OCC0389C"
     },
     {
       "optionId": "d59710ac-32ed-4cb3-85a5-1f43e815ae9a",
       "title": "Poultry hatching worker",
-      "occupationCode": ""
+      "occupationCode": "OCC0389D"
     },
     {
       "optionId": "f5353ded-2988-4bae-b520-b00865fab6f3",
       "title": "Poultry rearing worker",
-      "occupationCode": ""
+      "occupationCode": "OCC0389E"
     }
   ],
   "regulationDetail": [],
