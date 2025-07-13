@@ -636,15 +636,7 @@
       "detail": "Electrical and mechanical. Apply bench fitting techniques."
     }
   ],
-  "optionsUnstructuredTemplate": [
-    "Electrical Technician",
-    "Mechanical Technician",
-    "Control & Instrumentation Technician",
-    "Wind Turbine Technician",
-    "Electrical System & Process Control Technician",
-    "Electromechanical Technician",
-    "Plant Operations Technician"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "standardPublished": "true",
@@ -692,7 +684,7 @@
   "lastUpdated": "2025-06-23T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-06-23T00:00:00 +00:00",
   "banners": "This apprenticeship standard has been approved for delivery by Skills England. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
-  "occupationCode": "",
+  "occupationCode": "OCC1443",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1443-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1443-v1-0",
   "qualifications": [],
@@ -1491,65 +1483,16 @@
     {
       "optionId": "3a73f90b-5869-4dca-ac68-bead17f4968b",
       "title": "Electrical and control and instrumentation engineering maintenance technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1443A"
     },
     {
       "optionId": "98734171-f143-4c0d-b13c-ecfa6298c91f",
       "title": "Electrical and mechanical engineering maintenance technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1443B"
     }
   ],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Electrical Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Mechanical Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Control & Instrumentation Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Wind Turbine Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Electrical System & Process Control Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Electromechanical Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Plant Operations Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ],
+  "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
   "publishDate": "2025-06-23T00:00:00"
