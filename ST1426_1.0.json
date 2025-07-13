@@ -684,7 +684,7 @@
   "lastUpdated": "2025-06-23T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-06-23T00:00:00 +00:00",
   "banners": "This apprenticeship standard has been approved for delivery by Skills England. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
-  "occupationCode": "",
+  "occupationCode": "OCC1426",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1426-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1426-v1-0",
   "qualifications": [],
@@ -1575,17 +1575,17 @@
     {
       "optionId": "9748f927-3773-4675-946c-e3f0bb36b560",
       "title": "Electrical engineering maintenance technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1426B"
     },
     {
       "optionId": "0907d62f-62e6-43cb-ad17-f9c052b610c5",
       "title": "Control and instrumentation engineering maintenance technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1426A"
     },
     {
       "optionId": "097a7730-0bf1-4448-b4ab-3339a7894836",
       "title": "Mechanical engineering maintenance technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1426C"
     }
   ],
   "regulationDetail": [],
