@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-05-06T00:00:00",
+  "changedDate": "2025-07-14T00:00:00",
   "earliestStartDate": "2025-05-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -283,7 +283,7 @@
   "clusterId": "246",
   "clusterDescription": "Perform complex and specialist operational support to transactions across a wide range of financial instruments and products",
   "createdDate": "2025-07-01T09:45:05 +00:00",
-  "lastUpdated": "2025-05-06T00:00:00 +00:00",
+  "lastUpdated": "2025-07-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-05-02T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1301",
@@ -820,5 +820,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-05-06T00:00:00"
+  "publishDate": "2025-07-14T00:00:00"
 }
