@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised but remained the same. ",
-  "changedDate": "2025-06-24T00:00:00",
+  "changedDate": "2025-07-14T00:00:00",
   "earliestStartDate": "2025-06-24T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -300,11 +300,11 @@
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
   "pathway": "Agriculture, Land Management and Production",
-  "cluster": "Production Horticulture Operative/Technician",
+  "cluster": "Production horticulture operative or technician",
   "clusterId": "165",
   "clusterDescription": "Propagation, production, preparation and delivery/distribution of plants and plant materials for food, non-food and therapeutic human use",
   "createdDate": "2025-03-25T10:23:56 +00:00",
-  "lastUpdated": "2025-06-24T00:00:00 +00:00",
+  "lastUpdated": "2025-07-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-07-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0018",
@@ -1001,5 +1001,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-06-24T00:00:00"
+  "publishDate": "2025-07-14T00:00:00"
 }
