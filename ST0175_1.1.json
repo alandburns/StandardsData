@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, End-point assessment plan and funding band revised.",
-  "changedDate": "2025-05-27T00:00:00",
+  "changedDate": "2025-07-14T00:00:00",
   "earliestStartDate": "2025-05-26T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -341,7 +341,7 @@
   "clusterId": "240",
   "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2025-05-27T09:24:05 +00:00",
-  "lastUpdated": "2025-05-27T00:00:00 +00:00",
+  "lastUpdated": "2025-07-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-10-31T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0175",
@@ -1339,7 +1339,7 @@
     {
       "optionId": "3cab6107-5a56-40d1-bb16-87ab22840108",
       "title": "Senior enforcement specialist",
-      "occupationCode": "OCC0175B"
+      "occupationCode": "OCC0175C"
     }
   ],
   "regulationDetail": [],
@@ -1371,5 +1371,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-05-27T00:00:00"
+  "publishDate": "2025-07-14T00:00:00"
 }
