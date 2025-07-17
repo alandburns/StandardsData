@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-12-12T00:00:00",
+  "changedDate": "2025-07-14T00:00:00",
   "earliestStartDate": "2024-12-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -740,7 +740,7 @@
   "clusterId": "10",
   "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2024-10-14T11:51:47 +00:00",
-  "lastUpdated": "2024-12-12T00:00:00 +00:00",
+  "lastUpdated": "2025-07-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-12T00:00:00 +00:00",
   "banners": "This apprenticeship standard was approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) is in place. Once an EPAO is in place, funding for apprentice starts will be permitted and this message will be removed.",
   "occupationCode": "OCC1433",
@@ -1142,5 +1142,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-12-12T00:00:00"
+  "publishDate": "2025-07-14T00:00:00"
 }
