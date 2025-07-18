@@ -14,7 +14,7 @@
   "earliestStartDate": "2025-02-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Designing, installing and maintaining building services, such as water, lighting and heating.",
+  "overviewOfRole": "",
   "level": 6,
   "ePALength": 8,
   "typicalDuration": 60,
@@ -301,7 +301,7 @@
   "cluster": "Design and surveying professional",
   "clusterId": "40",
   "clusterDescription": "Building/structure design, research, commercial cost management, contracts management with a wide range of knowledge of current technology developments and options, contracts, procurement and tracking. Consults with clients to determine functional and spatial requirements of new or renovated structures",
-  "createdDate": "2024-11-01T15:44:17 +00:00",
+  "createdDate": "2025-07-17T09:34:39 +00:00",
   "lastUpdated": "2025-03-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-10-04T00:00:00 +00:00",
   "banners": "",
@@ -311,7 +311,7 @@
   "qualifications": [
     {
       "qualificationId": "4e8a2a1b-6b60-41a5-a47f-ba2ef45d2fa4",
-      "title": "Building services engineering degree accredited by the Engineering Council",
+      "title": "Building Services Engineering degree accredited by the Engineering Council",
       "level": "6 (integrated degree)",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
