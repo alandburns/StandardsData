@@ -387,7 +387,7 @@
   "lastUpdated": "",
   "occupationalStandardApprovalDate": null,
   "banners": "",
-  "occupationCode": "",
+  "occupationCode": "OCC1480",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1480?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1480",
   "qualifications": [],
@@ -760,12 +760,12 @@
     {
       "optionId": "05c3295c-a629-495a-81bf-ab3a7f995108",
       "title": "Cavity wall - blown and sprayed insulation",
-      "occupationCode": ""
+      "occupationCode": "OCC1480A"
     },
     {
       "optionId": "3d5210f9-0bab-43e9-be31-f9446655e243",
       "title": "Framed section - insulation to floors, cold roofs, warm roofs and partition walls",
-      "occupationCode": ""
+      "occupationCode": "OCC1480B"
     }
   ],
   "regulationDetail": [],
