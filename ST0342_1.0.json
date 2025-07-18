@@ -10,9 +10,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2016-02-18T00:00:00",
+  "changedDate": "2025-07-17T00:00:00",
   "earliestStartDate": "2016-02-18T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-09-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Provides picture and sound coverage of an event.",
   "level": 7,
@@ -185,9 +185,9 @@
   "clusterId": "29",
   "clusterDescription": null,
   "createdDate": "2017-09-22T14:24:11 +00:00",
-  "lastUpdated": "2016-02-18T00:00:00 +00:00",
+  "lastUpdated": "2025-07-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-02-18T00:00:00 +00:00",
-  "banners": "This apprenticeship standard is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards in revision are available in the revisions status report.; This apprenticeship is approved for delivery, however all new starts are currently paused, while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).",
+  "banners": "This apprenticeship standard is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards in revision are available in the revisions status report.; This apprenticeship is approved for delivery, however all new starts are currently paused, while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).; This apprenticeship will be retired from the 24th September 2025. Employers who wish to start a new apprentice should consider using&nbsp;ST0426 broadcast and media systems engineer.",
   "occupationCode": "OCC0342",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0342-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0342-v1-0",
@@ -199,5 +199,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2016-02-18T00:00:00"
+  "publishDate": "2025-09-24T00:00:00"
 }
