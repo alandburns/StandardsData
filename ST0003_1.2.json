@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment and funding band revised",
-  "changedDate": "2025-06-09T00:00:00",
+  "changedDate": "2025-07-22T00:00:00",
   "earliestStartDate": "2025-06-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -211,7 +211,7 @@
   "clusterId": "238",
   "clusterDescription": "Create, analyse and audit financial information for internal and external clients and the regulatory authorities",
   "createdDate": "2025-07-02T07:59:02 +00:00",
-  "lastUpdated": "2025-06-09T00:00:00 +00:00",
+  "lastUpdated": "2025-07-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-07-21T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0003",
@@ -568,5 +568,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-06-09T00:00:00"
+  "publishDate": "2025-07-22T00:00:00"
 }
