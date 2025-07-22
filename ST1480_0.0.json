@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "0001-01-01T00:00:00",
+  "changedDate": "2025-07-22T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -384,7 +384,7 @@
   "clusterId": "103",
   "clusterDescription": "Prepare and operate specialist on-site plant and equipment, which could include lifting, pile driving, and pipe laying",
   "createdDate": "2025-05-16T09:16:11 +00:00",
-  "lastUpdated": "",
+  "lastUpdated": "2025-07-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC1480",
@@ -772,5 +772,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-05-16T09:16:11.743"
+  "publishDate": "2025-07-22T00:00:00"
 }
