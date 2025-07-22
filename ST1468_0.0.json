@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "2025-07-08T00:00:00",
+  "changedDate": "2025-07-22T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -318,7 +318,7 @@
   "clusterId": "243",
   "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
   "createdDate": "2024-09-05T15:14:11 +00:00",
-  "lastUpdated": "2025-07-08T00:00:00 +00:00",
+  "lastUpdated": "2025-07-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC1468",
@@ -460,5 +460,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-08T00:00:00"
+  "publishDate": "2025-07-22T00:00:00"
 }
