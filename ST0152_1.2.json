@@ -4,13 +4,13 @@
   "referenceNumber": "ST0152",
   "learningAimClassCode": "",
   "title": "Installation and maintenance electrician",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0152",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
+  "versionNumber": "1.2",
   "change": "Standard, End-point assessment plan and funding band revised",
-  "changedDate": "2025-07-02T00:00:00",
+  "changedDate": "2025-07-25T00:00:00",
   "earliestStartDate": "2025-07-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -34,7 +34,7 @@
     "Maintenance electrician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0152-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.2",
@@ -228,7 +228,7 @@
     "contactEmail": "Carolyn.Mason@netservices.org.uk",
     "webLink": "https://www.netservices.org.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2015-09-10T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -252,12 +252,12 @@
   "clusterId": "65",
   "clusterDescription": null,
   "createdDate": "2025-07-02T12:36:19 +00:00",
-  "lastUpdated": "2025-07-02T00:00:00 +00:00",
+  "lastUpdated": "2025-07-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-09-10T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0152",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0152-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0152-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0152-v1-2",
   "qualifications": [
     {
       "qualificationId": "f1793527-d7cf-49e1-ab7e-c0a440e224d4",
@@ -626,5 +626,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": true,
-  "publishDate": "2025-07-21T00:00:00"
+  "publishDate": "2025-07-25T00:00:00"
 }
