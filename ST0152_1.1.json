@@ -4,13 +4,13 @@
   "referenceNumber": "ST0152",
   "learningAimClassCode": "",
   "title": "Installation and maintenance electrician",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0152",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard, End-point assessment plan and funding band revised",
-  "changedDate": "2025-07-02T00:00:00",
+  "changedDate": "2025-07-25T00:00:00",
   "earliestStartDate": "2023-09-03T00:00:00",
   "latestStartDate": "2025-07-20T00:00:00",
   "latestEndDate": null,
@@ -264,7 +264,7 @@
   "clusterId": "65",
   "clusterDescription": null,
   "createdDate": "2023-06-05T12:48:41 +00:00",
-  "lastUpdated": "2025-07-02T00:00:00 +00:00",
+  "lastUpdated": "2025-07-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-09-10T00:00:00 +00:00",
   "banners": "A temporary dispensation has been applied to the ST0152 end-point assessment plan V1.1 for this apprenticeship. The dispensation will remain live from 13/02/2025 until the apprentices registered on V1.1 have either completed their EPA, including any resits and retakes, or moved to V1.2.; A new version of this apprenticeship will be approved for delivery on 21st July 2025 with a funding band of £23,000. More information on this apprenticeship and others in revision are available in the revisions status report.",
   "occupationCode": "OCC0152",
@@ -645,5 +645,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": true,
-  "publishDate": "2025-07-20T00:00:00"
+  "publishDate": "2025-07-25T00:00:00"
 }
