@@ -10,9 +10,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised",
-  "changedDate": "2025-04-17T00:00:00",
+  "changedDate": "2025-07-30T00:00:00",
   "earliestStartDate": "2023-12-21T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2025-10-27T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Planning, leading and coaching physical activities for people of all ages in the community.",
   "level": 2,
@@ -235,9 +235,9 @@
   "clusterId": "214",
   "clusterDescription": "Initiate behaviour change and performance improvement to achieve a series of health and fitness goals for an individual or community. Usually working one-to-one or small groups",
   "createdDate": "2023-12-21T14:55:24 +00:00",
-  "lastUpdated": "2025-04-17T00:00:00 +00:00",
+  "lastUpdated": "2025-07-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-12-15T00:00:00 +00:00",
-  "banners": "A revised version of this apprenticeship has been agreed and is available for information only. It will be approved for delivery and replace the current version for new starts following a notice period that will be decided when the revised funding band is agreed.",
+  "banners": "A revised version of this apprenticeship has been agreed and is available for information only. It will be approved for delivery and replace the current version for new starts following a notice period that will be decided when the revised funding band is agreed.; A revised version ​of this has been agreed and is available for information only at present. It will replace the version below for new starts from 29/10/2025 with a funding band of £6000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0478",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0478-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0478-v1-2",
@@ -249,5 +249,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-04-17T00:00:00"
+  "publishDate": "2025-10-27T00:00:00"
 }
