@@ -4,13 +4,13 @@
   "referenceNumber": "ST0292",
   "learningAimClassCode": "",
   "title": "Nuclear welding inspection technician",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0292",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-07-10T00:00:00",
+  "changedDate": "2025-08-04T00:00:00",
   "earliestStartDate": "2015-08-27T00:00:00",
   "latestStartDate": "2025-07-31T00:00:00",
   "latestEndDate": null,
@@ -156,7 +156,7 @@
   "clusterId": "258",
   "clusterDescription": null,
   "createdDate": "2017-09-22T14:24:35 +00:00",
-  "lastUpdated": "2025-07-10T00:00:00 +00:00",
+  "lastUpdated": "2025-08-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-08-27T00:00:00 +00:00",
   "banners": "A&nbsp;revised version&nbsp;of this has been agreed and is available for information only at present. It will replace the version below for new starts from 1st August 2025 with a funding band of £27000. Further details of this and other apprenticeships in revision are available in the&nbsp;revisions status report.",
   "occupationCode": "OCC0292",
@@ -170,5 +170,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-31T00:00:00"
+  "publishDate": "2025-08-04T00:00:00"
 }
