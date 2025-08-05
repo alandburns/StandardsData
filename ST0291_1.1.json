@@ -4,13 +4,13 @@
   "referenceNumber": "ST0291",
   "learningAimClassCode": "",
   "title": "Nuclear operative",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0291",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
+  "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised but funding remained the same.",
-  "changedDate": "2025-07-10T00:00:00",
+  "changedDate": "2025-08-04T00:00:00",
   "earliestStartDate": "2025-08-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -35,7 +35,7 @@
     "Nuclear process operative"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0291-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0291-v1-1?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.1",
@@ -337,7 +337,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2018-01-22T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -366,12 +366,12 @@
   "clusterId": "267",
   "clusterDescription": "Operate plant and equipment for a part/sub process",
   "createdDate": "2025-01-09T13:23:22 +00:00",
-  "lastUpdated": "2025-07-10T00:00:00 +00:00",
+  "lastUpdated": "2025-08-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-01-22T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0291",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0291-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0291-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0291-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0291-v1-1",
   "qualifications": [],
   "professionalRecognition": [
     {
@@ -1227,5 +1227,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-08-01T00:00:00"
+  "publishDate": "2025-08-04T00:00:00"
 }
