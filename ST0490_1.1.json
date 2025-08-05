@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan and duration revised.",
-  "changedDate": "2025-08-01T00:00:00",
+  "changedDate": "2025-08-05T00:00:00",
   "earliestStartDate": "2025-08-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -110,7 +110,7 @@
   "clusterId": "171",
   "clusterDescription": "Develop a learners' knowledge, skills and behaviours relevant to their stage of progress and subject specialism. Covers the full range of tracking, assessment and support to ensure a learner succeeds in a timely way",
   "createdDate": "2025-05-12T10:16:16 +00:00",
-  "lastUpdated": "2025-08-01T00:00:00 +00:00",
+  "lastUpdated": "2025-08-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-10-19T00:00:00 +00:00",
   "banners": "ST0490 Teacher v1.0 has been split into two separate apprenticeships. ST0490 v1.1 will be Teacher - Postgraduate and ST1502 is Teacher - Undergraduate.&nbsp;",
   "occupationCode": "OCC0490",
@@ -282,5 +282,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-08-01T00:00:00"
+  "publishDate": "2025-08-05T00:00:00"
 }
