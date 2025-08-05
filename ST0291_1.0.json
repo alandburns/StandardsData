@@ -4,13 +4,13 @@
   "referenceNumber": "ST0291",
   "learningAimClassCode": "",
   "title": "Nuclear operative",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0291",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-07-10T00:00:00",
+  "changedDate": "2025-08-04T00:00:00",
   "earliestStartDate": "2018-01-22T00:00:00",
   "latestStartDate": "2025-07-31T00:00:00",
   "latestEndDate": null,
@@ -281,7 +281,7 @@
   "clusterId": "267",
   "clusterDescription": "Operate plant and equipment for a part/sub process",
   "createdDate": "2017-11-14T17:09:49 +00:00",
-  "lastUpdated": "2025-07-10T00:00:00 +00:00",
+  "lastUpdated": "2025-08-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-01-22T00:00:00 +00:00",
   "banners": "A revised version of this has been agreed and is available for information only at present. It will replace the version below for new starts from ​1st August 2025 with a funding band of £15000. Further details of this and other apprenticeships in revision are available in the&nbsp;revisions status report.",
   "occupationCode": "OCC0291",
@@ -381,5 +381,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-31T00:00:00"
+  "publishDate": "2025-08-04T00:00:00"
 }
