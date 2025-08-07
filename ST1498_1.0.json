@@ -1,8 +1,8 @@
 {
   "templateType": "Occupational Standard",
-  "larsCode": 0,
+  "larsCode": 824,
   "referenceNumber": "ST1498",
-  "learningAimClassCode": "",
+  "learningAimClassCode": "Z0001844",
   "title": "Floorlayer wood based",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": true,
