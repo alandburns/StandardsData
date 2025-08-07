@@ -1,8 +1,8 @@
 {
   "templateType": "Occupational Standard",
-  "larsCode": 0,
+  "larsCode": 825,
   "referenceNumber": "ST1480",
-  "learningAimClassCode": "",
+  "learningAimClassCode": "Z0002028",
   "title": "Insulation installation operative",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": true,
