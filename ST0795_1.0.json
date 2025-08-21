@@ -4,15 +4,15 @@
   "referenceNumber": "ST0795",
   "learningAimClassCode": "",
   "title": "Data technician",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0795",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
   "changedDate": "2024-04-24T00:00:00",
-  "earliestStartDate": "2020-07-10T00:00:00",
-  "latestStartDate": null,
+  "earliestStartDate": "2025-08-19T00:00:00",
+  "latestStartDate": "2025-08-19T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Source, format and present data securely in a relevant way for analysis.",
   "level": 3,
@@ -466,5 +466,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2024-04-24T00:00:00"
+  "publishDate": "2025-08-19T00:00:00"
 }
