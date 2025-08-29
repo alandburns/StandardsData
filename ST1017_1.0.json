@@ -4,13 +4,13 @@
   "referenceNumber": "ST1017",
   "learningAimClassCode": "",
   "title": "Domestic electrician",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1017",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-07-25T00:00:00",
+  "changedDate": "2025-08-28T00:00:00",
   "earliestStartDate": "2022-06-01T00:00:00",
   "latestStartDate": "2025-08-20T00:00:00",
   "latestEndDate": null,
@@ -249,7 +249,7 @@
   "clusterId": "65",
   "clusterDescription": null,
   "createdDate": "2023-12-13T11:11:08 +00:00",
-  "lastUpdated": "2025-07-25T00:00:00 +00:00",
+  "lastUpdated": "2025-08-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-06-01T00:00:00 +00:00",
   "banners": "A temporary dispensation has been applied to the ST1017 end-point assessment plan V1.0 for this apprenticeship. The dispensation will remain live from 01/03/2025 until the apprentices registered on V1.0 have either completed their EPA, including any resits and retakes, or moved to a subsequent version.; A revised version&nbsp;of this has been agreed and is available for information only at present. It will replace the version below for new starts from 21st August 2025 (with a funding band of £19,000) Further details of this and other apprenticeship in revision are available in the revisions status report.",
   "occupationCode": "OCC1017",
@@ -625,5 +625,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2025-08-20T00:00:00"
+  "publishDate": "2025-08-28T00:00:00"
 }
