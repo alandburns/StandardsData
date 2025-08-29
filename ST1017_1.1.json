@@ -4,13 +4,13 @@
   "referenceNumber": "ST1017",
   "learningAimClassCode": "",
   "title": "Domestic electrician",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1017",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
+  "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised. ",
-  "changedDate": "2025-07-25T00:00:00",
+  "changedDate": "2025-08-28T00:00:00",
   "earliestStartDate": "2025-08-21T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -33,7 +33,7 @@
     "Domestic electrician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1017-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1017-v1-1?view=epa",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "1.1",
@@ -219,7 +219,7 @@
     "contactEmail": "Carolyn.Mason@netservices.org.uk",
     "webLink": "https://www.netservices.org.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2022-06-01T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -241,12 +241,12 @@
   "clusterId": "65",
   "clusterDescription": null,
   "createdDate": "2025-07-25T08:54:05 +00:00",
-  "lastUpdated": "2025-07-25T00:00:00 +00:00",
+  "lastUpdated": "2025-08-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2022-06-01T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1017",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1017-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1017-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1017-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1017-v1-1",
   "qualifications": [
     {
       "qualificationId": "7e1c901c-022f-45f9-a7ae-88704dc85bb8",
@@ -606,5 +606,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2025-08-21T00:00:00"
+  "publishDate": "2025-08-28T00:00:00"
 }
