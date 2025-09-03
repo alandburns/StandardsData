@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-07-25T00:00:00",
+  "changedDate": "2025-09-03T00:00:00",
   "earliestStartDate": "2025-07-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -384,7 +384,7 @@
   "clusterId": "5",
   "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
   "createdDate": "2025-05-16T09:07:22 +00:00",
-  "lastUpdated": "2025-07-25T00:00:00 +00:00",
+  "lastUpdated": "2025-09-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-07-25T00:00:00 +00:00",
   "banners": "This apprenticeship standard has been approved for delivery by Skills England. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
   "occupationCode": "OCC1498",
@@ -876,5 +876,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-25T00:00:00"
+  "publishDate": "2025-09-03T00:00:00"
 }
