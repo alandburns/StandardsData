@@ -4,13 +4,13 @@
   "referenceNumber": "ST0891",
   "learningAimClassCode": "",
   "title": "Nutritionist",
-  "status": "In development",
+  "status": "Withdrawn",
   "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0891",
   "qualificationStandardUrl": null,
   "versionNumber": "",
-  "change": "",
-  "changedDate": "2022-09-27T00:00:00",
+  "change": "Withdrawn",
+  "changedDate": "2025-09-05T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -68,7 +68,7 @@
   "clusterId": "21",
   "clusterDescription": null,
   "createdDate": "2019-07-15T10:29:59 +00:00",
-  "lastUpdated": "2022-09-27T00:00:00 +00:00",
+  "lastUpdated": "2025-09-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC0891",
@@ -82,5 +82,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-09-27T00:00:00"
+  "publishDate": "2025-09-05T00:00:00"
 }
