@@ -5,7 +5,7 @@
   "learningAimClassCode": "Z0001905",
   "title": "Collections technician",
   "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": true,
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1469",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -14,7 +14,7 @@
   "earliestStartDate": "2025-06-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "Collections technicians are specialist practitioners who contribute to  operational running of collections and exhibitions. \n\n",
+  "overviewOfRole": "Collections technicians are specialist practitioners who contribute to operational running of collections and exhibitions. \n\n",
   "level": 3,
   "ePALength": 3,
   "typicalDuration": 18,
@@ -35,7 +35,7 @@
   "ssa2": "9.2 Crafts, creative arts and design",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;Collections technicians are specialist practitioners who contribute to the conservation, preparation, planning, technical and operational running of collections and exhibitions.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Collections technicians can be found working across a wide range of specialist areas of practice including remedial and preventive conservation, exhibition preparation and execution, art handling, loans and transporting collections among many others.&lt;/p&gt;\n&lt;p&gt;Their work will vary depending upon the specific job role and institution. They are most likely to work in one of two specialist areas of practice:&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Museum and gallery technician who will undertake work which may be focused on loans, exhibitions and storage of collections.&lt;/p&gt;\n&lt;p&gt;Conservation technician working under the supervision of trained conservator-restorers to undertake treatment to collections or implementing preventive conservation measures.&lt;/p&gt;\n&lt;p&gt;Roles could be in local or national heritage institutions such as a museum, gallery or archive service; as well in private sector organisations who are providing services to heritage institutions, or private owners or commercial organisations in the wider arts and cultural heritage sectors. In doing so they may work across a range of collections, such as in a historic property, or their work might be directed towards a particular type of object or collection such as books, sculpture or metals.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They also complete documentation associated with collections management, risk assessment and object handling. They must work within their organisation’s policies and procedures at all times and are responsible for ensuring that their tools and equipment are health, safety and security compliant.&lt;/p&gt;\n&lt;p&gt;Collections technicians may support wider organisational activities such as providing objects for learning sessions in a safe and responsible way, selecting and handling objects for external clients, showing others how to safely handle objects, or accompanying visitors and or clients to object stores.&lt;/p&gt;\n&lt;p&gt;Collections care technicians may be expected to work with conservators, curators, artists, scientists, contractors, art handlers, and exhibition managers. They may be expected to accompany, sometimes alone, the transit of objects, nationally and internationally, and work both independently and as part of a team.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;Collections technicians are specialist practitioners who contribute to the conservation, preparation, planning, technical and operational running of collections and exhibitions.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Collections technicians can be found working across a wide range of specialist areas of practice including remedial and preventive conservation, exhibition preparation and execution, art handling, loans and transporting collections amongst many others.&lt;/p&gt;\n&lt;p&gt;Their work will vary depending upon the specific job role and institution. They are most likely to work in one of two specialist areas of practice:&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Museum and gallery technician who will undertake work which may be focused on loans, exhibitions and storage of collections.&lt;/p&gt;\n&lt;p&gt;Conservation technician working under the supervision of trained conservator-restorers to undertake treatment to collections or implementing preventive conservation measures.&lt;/p&gt;\n&lt;p&gt;Roles could be in local or national heritage institutions such as a museum, gallery or archive service; as well in private sector organisations that provide services to heritage institutions, or private owners or commercial organisations in the wider arts and cultural heritage sectors. In doing so they may work across a range of collections, such as in a historic property. Or their work might be directed towards a particular type of object or collection such as books, sculpture or metals.&amp;nbsp;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;They also complete documentation associated with collections management, risk assessment and object handling. They must work within their organisation’s policies and procedures at all times, and are responsible for ensuring that their tools and equipment are health, safety and security compliant.&lt;/p&gt;\n&lt;p&gt;Collections technicians may support wider organisational activities such as providing objects for learning sessions in a safe and responsible way, selecting and handling objects for external clients, showing others how to safely handle objects, or accompanying visitors and or clients to object stores.&lt;/p&gt;\n&lt;p&gt;Collections care technicians may be expected to work with conservators, curators, artists, scientists, contractors, art handlers, and exhibition managers. They may be expected to accompany, sometimes alone, the transit of objects, nationally and internationally, and work both independently and as part of a team.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "fcefdc5a-168d-4c19-9cb4-6c0d8c8904fa",
@@ -195,7 +195,7 @@
     },
     {
       "skillId": "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
-      "detail": "Undertake safe handling and movement of objects considering the physical safety of yourself and others. "
+      "detail": "Undertake safe handling and movement of objects considering the physical safety of themself and others. "
     },
     {
       "skillId": "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
@@ -259,7 +259,7 @@
     },
     {
       "skillId": "50452e45-70c0-4de5-9e43-35f4600f35a9",
-      "detail": "Undertake object installation and de-installation in line with agreed plans, health and safety procedures and deadlines."
+      "detail": "Undertake object installation and de-installation in line with agreed plans, health and safety procedures and deadlines"
     }
   ],
   "optionsUnstructuredTemplate": [],
@@ -270,7 +270,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
@@ -305,10 +305,10 @@
   "cluster": "Collections and conservation technician",
   "clusterId": "4",
   "clusterDescription": "Set-up exhibition collections and maximise the engagement of visitors",
-  "createdDate": "2025-03-18T16:25:05 +00:00",
+  "createdDate": "2025-09-09T12:50:44 +00:00",
   "lastUpdated": "2025-09-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-06-23T00:00:00 +00:00",
-  "banners": "This apprenticeship standard has been approved for delivery by Skills England. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
+  "banners": "",
   "occupationCode": "OCC1469",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1469-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1469-v1-0",
@@ -323,14 +323,14 @@
         "378fd920-60d0-4eed-9588-d1d4c5ce8df0"
       ],
       "mappedKnowledge": [
+        "1f1f23a0-618b-4b78-b03e-94cee22306d5",
         "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
         "d69ec94e-1a59-4388-9355-d4e845dc45fb",
         "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
         "2890be48-4912-4c15-81ba-7743d89514de",
         "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
         "383e77cf-fc0a-4431-a106-f5c57854b8f4",
-        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
-        "4780a8f8-5f98-4ead-8c5d-698411dc3371"
+        "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d"
       ],
       "mappedOptions": [],
       "mappedSkills": [
@@ -338,6 +338,7 @@
         "66a5a519-94f6-4420-9cc4-9ace229165a3",
         "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
         "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
         "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
         "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
         "0a5a407a-2308-42b7-931a-6ef818b767cb",
@@ -354,6 +355,7 @@
         "378fd920-60d0-4eed-9588-d1d4c5ce8df0"
       ],
       "mappedKnowledge": [
+        "1f1f23a0-618b-4b78-b03e-94cee22306d5",
         "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
         "d69ec94e-1a59-4388-9355-d4e845dc45fb",
         "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
@@ -364,13 +366,13 @@
         "62d31974-900b-4f28-beff-c5f20ec74c0b",
         "b8fff6ef-0037-4595-82cf-9044a32100fd",
         "af6e9a82-166f-4086-86c8-79473797b9d6",
-        "742e583c-ed08-4af0-aaa0-34469238abe5",
         "d02af442-e021-4d15-900e-3c8bf6e9b434"
       ],
       "mappedOptions": [],
       "mappedSkills": [
         "1d7ad4ff-e87c-4b9a-9a3a-acb601692aa0",
         "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
         "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
         "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
         "0a5a407a-2308-42b7-931a-6ef818b767cb",
@@ -397,9 +399,7 @@
         "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
         "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
         "62d31974-900b-4f28-beff-c5f20ec74c0b",
-        "b8fff6ef-0037-4595-82cf-9044a32100fd",
-        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
-        "742e583c-ed08-4af0-aaa0-34469238abe5"
+        "b8fff6ef-0037-4595-82cf-9044a32100fd"
       ],
       "mappedOptions": [],
       "mappedSkills": [
@@ -408,9 +408,11 @@
         "66a5a519-94f6-4420-9cc4-9ace229165a3",
         "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
         "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
+        "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
         "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
         "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
         "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "6ee03c58-f2bd-473b-8563-bb9ccc6484fd",
         "d49e3293-a7af-4ab5-b255-d30e06d134c1",
         "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
         "06b5ccfa-115b-4148-9101-0df332b98595"
@@ -456,6 +458,7 @@
         "f18b959e-7558-4ee0-8249-f9f86549122d"
       ],
       "mappedKnowledge": [
+        "1f1f23a0-618b-4b78-b03e-94cee22306d5",
         "d69ec94e-1a59-4388-9355-d4e845dc45fb",
         "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
         "2890be48-4912-4c15-81ba-7743d89514de",
@@ -467,8 +470,7 @@
         "f97393ee-218d-4c33-b3c6-53f5800e83b3",
         "2f744f9e-d023-4ee6-92d1-0243ede75d20",
         "62d31974-900b-4f28-beff-c5f20ec74c0b",
-        "b8fff6ef-0037-4595-82cf-9044a32100fd",
-        "4780a8f8-5f98-4ead-8c5d-698411dc3371"
+        "b8fff6ef-0037-4595-82cf-9044a32100fd"
       ],
       "mappedOptions": [],
       "mappedSkills": [
@@ -480,6 +482,7 @@
         "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
         "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
         "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "6ee03c58-f2bd-473b-8563-bb9ccc6484fd",
         "d49e3293-a7af-4ab5-b255-d30e06d134c1",
         "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
         "c35b5075-aba9-4f06-b046-7f7e60046b52",
@@ -505,8 +508,6 @@
         "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
         "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
         "af6e9a82-166f-4086-86c8-79473797b9d6",
-        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
-        "742e583c-ed08-4af0-aaa0-34469238abe5",
         "d02af442-e021-4d15-900e-3c8bf6e9b434"
       ],
       "mappedOptions": [],
@@ -519,6 +520,7 @@
         "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
         "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
         "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "6ee03c58-f2bd-473b-8563-bb9ccc6484fd",
         "d49e3293-a7af-4ab5-b255-d30e06d134c1",
         "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
         "c35b5075-aba9-4f06-b046-7f7e60046b52",
@@ -545,7 +547,8 @@
       "mappedSkills": [
         "0a3a391d-6d59-4e28-b646-88b2e7022036",
         "66a5a519-94f6-4420-9cc4-9ace229165a3",
-        "0a5a407a-2308-42b7-931a-6ef818b767cb"
+        "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "6ee03c58-f2bd-473b-8563-bb9ccc6484fd"
       ],
       "criteriaForMeasuringPerformance": ""
     },
@@ -566,8 +569,6 @@
         "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
         "f97393ee-218d-4c33-b3c6-53f5800e83b3",
         "f32a35ef-e24a-474a-bd89-f4e00a3696c1",
-        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
-        "742e583c-ed08-4af0-aaa0-34469238abe5",
         "d02af442-e021-4d15-900e-3c8bf6e9b434"
       ],
       "mappedOptions": [],
@@ -596,8 +597,7 @@
         "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
         "62d31974-900b-4f28-beff-c5f20ec74c0b",
         "af6e9a82-166f-4086-86c8-79473797b9d6",
-        "56965ad9-d51a-456f-80de-72f68a1e01d2",
-        "742e583c-ed08-4af0-aaa0-34469238abe5"
+        "56965ad9-d51a-456f-80de-72f68a1e01d2"
       ],
       "mappedOptions": [],
       "mappedSkills": [
@@ -606,6 +606,7 @@
         "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
         "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
         "0a5a407a-2308-42b7-931a-6ef818b767cb",
+        "6ee03c58-f2bd-473b-8563-bb9ccc6484fd",
         "d49e3293-a7af-4ab5-b255-d30e06d134c1",
         "24c8ea9c-52e8-4f52-9d72-832b2a305ec3",
         "06b5ccfa-115b-4148-9101-0df332b98595",
@@ -628,10 +629,7 @@
         "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
         "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
         "2f744f9e-d023-4ee6-92d1-0243ede75d20",
-        "62d31974-900b-4f28-beff-c5f20ec74c0b",
-        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
-        "742e583c-ed08-4af0-aaa0-34469238abe5",
-        "a0dcea9d-1205-4ce6-a0e5-39e11bd29863"
+        "62d31974-900b-4f28-beff-c5f20ec74c0b"
       ],
       "mappedOptions": [],
       "mappedSkills": [
@@ -653,7 +651,7 @@
     },
     {
       "dutyID": "1840ee8e-8b0c-413b-a645-fba8697fbd73",
-      "dutyDetail": "Support the organisation’s emergency preparedness e.g. for fire, flood, pest outbreak, theft, vandalism and accidental damage, and deliver own role within the organisation’s systems, policies and procedures.",
+      "dutyDetail": "Support the organisation’s emergency preparedness e.g. for fire, flood, pest outbreak, theft, vandalism or accidental damage, and deliver own role within the organisation’s systems, policies and procedures.",
       "isThisACoreDuty": 1,
       "mappedBehaviour": [],
       "mappedKnowledge": [
@@ -664,9 +662,7 @@
         "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
         "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
         "4eaaf4ed-7cc6-4b20-81c0-6e0e4f01301d",
-        "f97393ee-218d-4c33-b3c6-53f5800e83b3",
-        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
-        "742e583c-ed08-4af0-aaa0-34469238abe5"
+        "f97393ee-218d-4c33-b3c6-53f5800e83b3"
       ],
       "mappedOptions": [],
       "mappedSkills": [
@@ -687,7 +683,6 @@
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
       "mappedKnowledge": [
-        "1f1f23a0-618b-4b78-b03e-94cee22306d5",
         "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
         "d69ec94e-1a59-4388-9355-d4e845dc45fb",
         "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
@@ -696,7 +691,9 @@
         "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
         "a7f7cb7c-8863-42f9-ae7f-9c2bdb4dc4aa",
         "74c0cf91-be08-4eb2-a0e0-6da7097892c7",
-        "4780a8f8-5f98-4ead-8c5d-698411dc3371"
+        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
+        "742e583c-ed08-4af0-aaa0-34469238abe5",
+        "a0dcea9d-1205-4ce6-a0e5-39e11bd29863"
       ],
       "mappedOptions": [
         "ceca4ff2-abb3-4448-90ad-af0a5e7fd026"
@@ -707,7 +704,6 @@
         "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
         "f294673c-3595-46c2-87e7-277fbb9ff34c",
         "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
-        "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
         "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
         "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
         "0a5a407a-2308-42b7-931a-6ef818b767cb",
@@ -724,11 +720,9 @@
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
       "mappedKnowledge": [
-        "1f1f23a0-618b-4b78-b03e-94cee22306d5",
         "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
         "d69ec94e-1a59-4388-9355-d4e845dc45fb",
         "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
-        "2890be48-4912-4c15-81ba-7743d89514de",
         "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
         "383e77cf-fc0a-4431-a106-f5c57854b8f4",
         "34c0c8aa-537c-4efd-9015-09640d3ff5ad",
@@ -750,7 +744,6 @@
         "66a5a519-94f6-4420-9cc4-9ace229165a3",
         "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
         "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
-        "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
         "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
         "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
         "0a5a407a-2308-42b7-931a-6ef818b767cb",
@@ -771,7 +764,6 @@
       "mappedKnowledge": [
         "d69ec94e-1a59-4388-9355-d4e845dc45fb",
         "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
-        "2890be48-4912-4c15-81ba-7743d89514de",
         "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
         "3a742dbb-5cee-45bf-a4b3-bc650921b501",
         "383e77cf-fc0a-4431-a106-f5c57854b8f4",
@@ -794,7 +786,6 @@
         "91fe6a28-6bd3-40e0-b74b-9ff82d98763f",
         "f294673c-3595-46c2-87e7-277fbb9ff34c",
         "12f788a4-1ecd-4219-b2f0-e673d6d87a28",
-        "ad57443b-e2a9-412d-a484-3fd4b0081b4a",
         "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
         "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
         "0a5a407a-2308-42b7-931a-6ef818b767cb",
@@ -821,9 +812,7 @@
         "8445d3af-24ae-4e90-8fa0-ebd6ca01a403",
         "22c6e8ab-4603-4910-a6e4-6a1e42e69903",
         "3e956aa3-8e04-407d-a3da-314566b9237c",
-        "18f08437-abbc-4c24-b8f4-d158a4962a94",
-        "742e583c-ed08-4af0-aaa0-34469238abe5",
-        "a0dcea9d-1205-4ce6-a0e5-39e11bd29863"
+        "18f08437-abbc-4c24-b8f4-d158a4962a94"
       ],
       "mappedOptions": [
         "dfe50060-8627-47e1-97da-7338631b7fd2"
@@ -833,7 +822,6 @@
         "0a3a391d-6d59-4e28-b646-88b2e7022036",
         "66a5a519-94f6-4420-9cc4-9ace229165a3",
         "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
-        "6ee03c58-f2bd-473b-8563-bb9ccc6484fd",
         "d49e3293-a7af-4ab5-b255-d30e06d134c1",
         "c35b5075-aba9-4f06-b046-7f7e60046b52",
         "06b5ccfa-115b-4148-9101-0df332b98595",
@@ -844,14 +832,13 @@
     },
     {
       "dutyID": "ca9a11e7-44d5-427a-8866-a6020cfce4ad",
-      "dutyDetail": "Take responsibility for the day to day care of collections, including undertaking of monitoring, conservation cleaning or protection of collections. ",
+      "dutyDetail": "Take responsibility for the day- to- day care of collections, including undertaking of monitoring, conservation cleaning or protection of collections. ",
       "isThisACoreDuty": 0,
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "859ea01c-80e2-4add-a716-6ddbbe1f9e75",
         "d69ec94e-1a59-4388-9355-d4e845dc45fb",
         "efeaf3ce-fbb7-4ea0-afe0-08f35ac37be8",
-        "2890be48-4912-4c15-81ba-7743d89514de",
         "b94928e4-4cd6-43fc-8b1d-4e03547331b0",
         "3a742dbb-5cee-45bf-a4b3-bc650921b501",
         "383e77cf-fc0a-4431-a106-f5c57854b8f4",
@@ -862,9 +849,6 @@
         "22c6e8ab-4603-4910-a6e4-6a1e42e69903",
         "3e956aa3-8e04-407d-a3da-314566b9237c",
         "18f08437-abbc-4c24-b8f4-d158a4962a94",
-        "4780a8f8-5f98-4ead-8c5d-698411dc3371",
-        "742e583c-ed08-4af0-aaa0-34469238abe5",
-        "a0dcea9d-1205-4ce6-a0e5-39e11bd29863",
         "d02af442-e021-4d15-900e-3c8bf6e9b434"
       ],
       "mappedOptions": [
@@ -878,7 +862,6 @@
         "a6a2a380-c4cb-4e02-9402-4d5cd47c65ae",
         "67a0822e-c568-4aa1-95aa-6b2e38c8d340",
         "0a5a407a-2308-42b7-931a-6ef818b767cb",
-        "6ee03c58-f2bd-473b-8563-bb9ccc6484fd",
         "d49e3293-a7af-4ab5-b255-d30e06d134c1",
         "e19cd04a-fcd6-46a2-ac3a-618d3d10317a",
         "c35b5075-aba9-4f06-b046-7f7e60046b52",
