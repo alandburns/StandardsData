@@ -5,7 +5,7 @@
   "learningAimClassCode": "Z0001890",
   "title": "Water industry asset maintenance technician",
   "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": true,
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1404",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
@@ -604,7 +604,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
