@@ -1289,17 +1289,17 @@
     {
       "optionId": "a520ec0b-7006-4334-8cb3-961ca671073e",
       "title": "aerospace technical support technician",
-      "occupationCode": "OCC1313"
+      "occupationCode": "OCC1313C"
     },
     {
       "optionId": "94768fc9-32a0-40cd-b77b-c0e61f87ecf0",
       "title": "aerospace fitting technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1313A"
     },
     {
       "optionId": "fc79762d-024f-4d2f-bd17-85c34bd45ad5",
       "title": "aerospace machining technician",
-      "occupationCode": ""
+      "occupationCode": "OCC1313B"
     }
   ],
   "regulationDetail": [],
