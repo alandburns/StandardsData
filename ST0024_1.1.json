@@ -4,13 +4,13 @@
   "referenceNumber": "ST0024",
   "learningAimClassCode": "",
   "title": "Electrical or electronic technical support engineer (degree)",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0024",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2025-04-17T00:00:00",
+  "changedDate": "2025-10-13T00:00:00",
   "earliestStartDate": "2018-04-16T00:00:00",
   "latestStartDate": "2025-10-12T00:00:00",
   "latestEndDate": null,
@@ -229,7 +229,7 @@
   "clusterId": "263",
   "clusterDescription": null,
   "createdDate": "2017-09-22T14:24:24 +00:00",
-  "lastUpdated": "2025-04-17T00:00:00 +00:00",
+  "lastUpdated": "2025-10-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2014-11-12T00:00:00 +00:00",
   "banners": "A revised version of this has been agreed and is available for information only at present. It will replace the version below for new starts from 13th October 2025 with a funding band of ​£27,000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0024",
@@ -243,5 +243,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-10-12T00:00:00"
+  "publishDate": "2025-10-13T00:00:00"
 }
