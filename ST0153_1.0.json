@@ -76,7 +76,7 @@
   "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
-  "coreAndOptions": true,
+  "coreAndOptions": false,
   "typicalJobTitles": [
     "power engineer",
     "power system engineer",
