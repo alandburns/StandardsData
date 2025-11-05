@@ -190,7 +190,7 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "2019-07-19T00:00:00 +00:00",
-  "integratedApprenticeship": true,
+  "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0868",
@@ -217,7 +217,7 @@
   "cluster": "Assistant accountant",
   "clusterId": "236",
   "clusterDescription": "Undertake routine accountancy support analysis and report on financial activities including dealing with HMRC",
-  "createdDate": "2025-06-06T09:35:24 +00:00",
+  "createdDate": "2025-11-04T09:39:26 +00:00",
   "lastUpdated": "2024-07-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-19T00:00:00 +00:00",
   "banners": "",
@@ -229,7 +229,7 @@
       "qualificationId": "773b049a-9a4f-4e37-aa7e-d6eae072e86c",
       "title": "AAT Level 2 Certificate in Accounting",
       "level": "2",
-      "anyAdditionalInformation": "255 GLH  (Ofqual total qualification time (340)",
+      "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
@@ -237,7 +237,7 @@
       "qualificationId": "dbb82b19-d53b-4062-a13c-5c9936ce5c33",
       "title": "Institute of Certified Bookkeepers Certificate in Bookkeeping",
       "level": "2",
-      "anyAdditionalInformation": "see data sent via email to Product CoP 17 October 2023",
+      "anyAdditionalInformation": "Attainment of this qualification will enable the apprentice to apply for associate membership (AICB). This is a new qualification created from existing ICB modules to meet the needs of this apprenticeship. ",
       "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
