@@ -10,9 +10,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-01-18T00:00:00",
+  "changedDate": "2025-11-10T00:00:00",
   "earliestStartDate": "2017-01-12T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-02-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working in an events company or events department in an organisation, helping event planners and project managers to organise and host events.",
   "level": 3,
@@ -261,9 +261,9 @@
   "clusterId": "124",
   "clusterDescription": null,
   "createdDate": "2017-09-22T14:25:00 +00:00",
-  "lastUpdated": "2022-01-18T00:00:00 +00:00",
+  "lastUpdated": "2025-11-10T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-01-12T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;",
+  "banners": "A revised version ​of this has been agreed and is available for information only at present. It will replace the version below for new starts from 10th February 2026 with a funding band of ​£9000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0168",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0168-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0168-v1-0",
@@ -275,5 +275,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-01-18T00:00:00"
+  "publishDate": "2026-02-09T00:00:00"
 }
