@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-09-03T00:00:00",
+  "changedDate": "2025-11-11T00:00:00",
   "earliestStartDate": "2025-06-23T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -306,7 +306,7 @@
   "clusterId": "4",
   "clusterDescription": "Set-up exhibition collections and maximise the engagement of visitors",
   "createdDate": "2025-09-09T12:50:44 +00:00",
-  "lastUpdated": "2025-09-03T00:00:00 +00:00",
+  "lastUpdated": "2025-11-11T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-06-23T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1469",
@@ -889,5 +889,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-09-03T00:00:00"
+  "publishDate": "2025-11-11T00:00:00"
 }
