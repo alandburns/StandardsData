@@ -10,7 +10,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "0001-01-01T00:00:00",
+  "changedDate": "2025-11-12T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -266,7 +266,7 @@
   "clusterId": "17",
   "clusterDescription": "Co-ordinate the conservation, preservation and curating of collections at cultural institutions",
   "createdDate": "2025-11-04T10:52:35 +00:00",
-  "lastUpdated": "",
+  "lastUpdated": "2025-11-12T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC1450",
@@ -565,5 +565,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-11-04T10:52:35.667"
+  "publishDate": "2025-11-12T00:00:00"
 }
