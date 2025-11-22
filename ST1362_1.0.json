@@ -293,7 +293,7 @@
   "cluster": "Science professional",
   "clusterId": "213",
   "clusterDescription": null,
-  "createdDate": "2024-08-02T12:17:53 +00:00",
+  "createdDate": "2025-11-20T08:49:39 +00:00",
   "lastUpdated": "2023-10-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-10-26T00:00:00 +00:00",
   "banners": "",
@@ -305,6 +305,12 @@
     {
       "bodyName": "British Society of Soil Science ",
       "level": "technical membership. The apprenticeship will align with the requirements for membership with British Society of Soil Science. Those enrolling for the apprenticeship will be able to apply for Early Careers membership of the Society which will automatically change to technical membership upon demonstration of successful completion of the apprenticeship. ",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "SocEnv (Society for the Environment)",
+      "level": "Registered Environmental Practitioner - REnvP This standard meets the requirements of Registered Environmental Practitioner – REnvP.  Upon receipt of the apprenticeship certificate, individuals are eligible to apply for REnvP through a shortened application route.  Individuals also need to be a member of a professional body that is licensed by the Society for the Environment to be awarded this status. Further information is on the SocEnv website.",
       "isPartial": "full",
       "partialFreeText": ""
     }
