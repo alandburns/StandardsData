@@ -1,5 +1,6 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 456,
   "referenceNumber": "ST0752",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 3,
   "ePALength": 0,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 8000,
   "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
