@@ -1,5 +1,6 @@
 {
   "templateType": "Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 264,
   "referenceNumber": "ST0539",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 3,
   "ePALength": 0,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 9000,
   "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
