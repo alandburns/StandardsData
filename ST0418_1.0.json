@@ -1,5 +1,6 @@
 {
   "templateType": "Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 274,
   "referenceNumber": "ST0418",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 2,
   "ePALength": 0,
   "typicalDuration": 16,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 6000,
   "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
