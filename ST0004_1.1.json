@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 17,
   "referenceNumber": "ST0004",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 4,
   "ePALength": 2,
   "typicalDuration": 24,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 15000,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
