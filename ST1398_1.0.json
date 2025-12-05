@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 795,
   "referenceNumber": "ST1398",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 6,
   "ePALength": 4,
   "typicalDuration": 24,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 22000,
   "maxFundingAdditionalInformation": "",
   "route": "Digital",
