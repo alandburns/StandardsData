@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 598,
   "referenceNumber": "ST0792",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 4,
   "ePALength": 2,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 11000,
   "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
