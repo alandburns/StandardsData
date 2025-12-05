@@ -1,5 +1,6 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 402,
   "referenceNumber": "ST0149",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 5,
   "ePALength": 0,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 7000,
   "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
