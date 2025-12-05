@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 180,
   "referenceNumber": "ST0223",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 2,
   "ePALength": 3,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 12000,
   "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
