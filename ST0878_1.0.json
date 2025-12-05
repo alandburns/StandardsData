@@ -1,5 +1,6 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 644,
   "referenceNumber": "ST0878",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 5,
   "ePALength": 0,
   "typicalDuration": 25,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 17000,
   "maxFundingAdditionalInformation": "",
   "route": "Protective services",
