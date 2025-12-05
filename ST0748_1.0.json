@@ -1,5 +1,6 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 564,
   "referenceNumber": "ST0748",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 7,
   "ePALength": 0,
   "typicalDuration": 24,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 11000,
   "maxFundingAdditionalInformation": "",
   "route": "Business and administration",
