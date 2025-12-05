@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 92,
   "referenceNumber": "ST0164",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 3,
   "ePALength": 6,
   "typicalDuration": 42,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 24000,
   "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
