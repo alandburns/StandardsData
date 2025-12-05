@@ -1,5 +1,6 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 434,
   "referenceNumber": "ST0827",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 5,
   "ePALength": 0,
   "typicalDuration": 24,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 15000,
   "maxFundingAdditionalInformation": "",
   "route": "Health and science",
