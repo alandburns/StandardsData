@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 496,
   "referenceNumber": "ST0494",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 3,
   "ePALength": 4,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 5000,
   "maxFundingAdditionalInformation": "",
   "route": "Protective services",
