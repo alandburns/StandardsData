@@ -1,5 +1,6 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 660,
   "referenceNumber": "ST0921",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 4,
   "ePALength": 0,
   "typicalDuration": 30,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 14000,
   "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
