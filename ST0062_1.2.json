@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 173,
   "referenceNumber": "ST0062",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 3,
   "ePALength": 3,
   "typicalDuration": 36,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 17000,
   "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
