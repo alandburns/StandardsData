@@ -1,5 +1,6 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 652,
   "referenceNumber": "ST0881",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 7,
   "ePALength": 9,
   "typicalDuration": 30,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 21000,
   "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
@@ -38,7 +39,7 @@
     "Geotechnical engineer",
     "Engineering geologist"
   ],
-  "entryRequirements": "&lt;p&gt;Typically, an honours degree in a relevant subject for example, engineering, science, geoscience or mathematics. Practical experience will also be taken into account.&#160;&lt;/p&gt;",
+  "entryRequirements": "&lt;p&gt;Typically, an honours degree in a relevant subject for example, engineering, science, geoscience or mathematics. Practical experience will also be taken into account.&amp;nbsp;&lt;/p&gt;",
   "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/5270/st0881_geotechnical-engineer_l7_epa_for-publication-adj-23072021.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
@@ -260,7 +261,7 @@
   "createdDate": "2021-02-24T13:53:02 +00:00",
   "lastUpdated": "2022-02-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-08-03T00:00:00 +00:00",
-  "banners": "",
+  "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
   "occupationCode": "OCC0881",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0881-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0881-v1-0",
