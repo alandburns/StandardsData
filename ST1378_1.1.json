@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 688,
   "referenceNumber": "ST1378",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 3,
   "ePALength": 3,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 15000,
   "maxFundingAdditionalInformation": "",
   "route": "Transport and logistics",
