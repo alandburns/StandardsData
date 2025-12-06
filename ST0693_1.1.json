@@ -1,5 +1,6 @@
 {
   "templateType": "Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 476,
   "referenceNumber": "ST0693",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 2,
   "ePALength": 0,
   "typicalDuration": 15,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 14000,
   "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
