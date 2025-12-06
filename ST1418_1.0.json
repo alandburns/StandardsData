@@ -1,5 +1,6 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 728,
   "referenceNumber": "ST1418",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 7,
   "ePALength": 0,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 14000,
   "maxFundingAdditionalInformation": "",
   "route": "Health and science",
