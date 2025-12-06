@@ -1,5 +1,6 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 586,
   "referenceNumber": "ST0286",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 7,
   "ePALength": 0,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 14000,
   "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
@@ -43,13 +44,13 @@
     "Multimedia reporter",
     "Video journalist"
   ],
-  "entryRequirements": "&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, an apprentice might be expected to have either: gained a regulated Diploma in Journalism qualification; achieved a degree (any subject); or completed the Junior Journalist Apprenticeship. Individual employers will identify any relevant entry requirements in terms of previous qualifications, training, work experience or other criteria. Some employers will seek candidates who have previously worked as a journalist.&lt;br /&gt;&lt;br /&gt;&lt;br /&gt;&lt;/p&gt;",
+  "entryRequirements": "&lt;p&gt;Whilst any entry requirements will be a matter for individual employers, an apprentice might be expected to have either: gained a regulated Diploma in Journalism qualification; achieved a degree (any subject); or completed the Junior Journalist Apprenticeship. Individual employers will identify any relevant entry requirements in terms of previous qualifications, training, work experience or other criteria. Some employers will seek candidates who have previously worked as a journalist.&lt;br&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;",
   "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/4328/st0286_l7_senior_journalist_ap-for-publication_150620.pdf",
   "ssa1": "9 Arts, Media and Publishing",
   "ssa2": "9.3 Media and communication",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in media businesses such as TV, radio, online and print (newspapers and magazines), public relations and communications.&lt;br /&gt;The broad purpose of the occupation is to inform the public – either through news and current events, or through the creation of authoritative features, opinion or analysis.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with colleagues within the same organisation, representatives of other businesses/organisations and members of the general public. Typically, work will be completed in an office or in varied locations, and will usually involve unsociable hours or shift working. &lt;br /&gt;An employee in this occupation will be responsible for researching and reporting, creating, as well as commissioning, content. This can include filming, recording and editing audio and video in a deadline driven environment; this could be to inform or entertain on TV, radio, online or in print. This could be across multiple genres – from crime to politics to technology to sport to fashion. An employee may also commission work, source material, speak to contacts, head assignments and in some cases, lead a team, where resources will have to be allocated and managed, and develop/mentor junior staff. They will talk directly and engage with the audience and be called upon to make strategic decisions, in what can be unpredictable or changing circumstances and understand the need for audience/readership engagement and analysis of audience analytics. They will have full responsibility for finding, researching and telling stories tailored to employer’s needs and target audience. They will also manage contributions to stories from an array of sources, including freelancers, user generated content, the public, and other specialist staff. Throughout, sound editorial judgements must be displayed with a thorough understanding and application of the law, relevant codes of practice and ethical principles. For much of the time a senior journalist acts alone, making decisions on content and publication, reporting to an editor (or similar figure). There is likely to be even more autonomy in smaller organisations. The duties and responsibilities of their immediate manager must also be understood for occasions when they have to stand-in for them.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in media businesses such as TV, radio, online and print (newspapers and magazines), public relations and communications.&lt;br&gt;The broad purpose of the occupation is to inform the public – either through news and current events, or through the creation of authoritative features, opinion or analysis.&lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with colleagues within the same organisation, representatives of other businesses/organisations and members of the general public. Typically, work will be completed in an office or in varied locations, and will usually involve unsociable hours or shift working. &lt;br&gt;An employee in this occupation will be responsible for researching and reporting, creating, as well as commissioning, content. This can include filming, recording and editing audio and video in a deadline driven environment; this could be to inform or entertain on TV, radio, online or in print. This could be across multiple genres – from crime to politics to technology to sport to fashion. An employee may also commission work, source material, speak to contacts, head assignments and in some cases, lead a team, where resources will have to be allocated and managed, and develop/mentor junior staff. They will talk directly and engage with the audience and be called upon to make strategic decisions, in what can be unpredictable or changing circumstances and understand the need for audience/readership engagement and analysis of audience analytics. They will have full responsibility for finding, researching and telling stories tailored to employer’s needs and target audience. They will also manage contributions to stories from an array of sources, including freelancers, user generated content, the public, and other specialist staff. Throughout, sound editorial judgements must be displayed with a thorough understanding and application of the law, relevant codes of practice and ethical principles. For much of the time a senior journalist acts alone, making decisions on content and publication, reporting to an editor (or similar figure). There is likely to be even more autonomy in smaller organisations. The duties and responsibilities of their immediate manager must also be understood for occasions when they have to stand-in for them.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "bd5a3cff-7803-4a0c-b938-3f6a3708b1c2",
@@ -347,7 +348,7 @@
   "createdDate": "2020-06-18T09:24:27 +00:00",
   "lastUpdated": "2020-08-07T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-08-07T00:00:00 +00:00",
-  "banners": "",
+  "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
   "occupationCode": "OCC0286",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0286-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0286-v1-0",
