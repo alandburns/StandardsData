@@ -1,5 +1,6 @@
 {
   "templateType": "Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 102,
   "referenceNumber": "ST0215",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 5,
   "ePALength": 0,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 12000,
   "maxFundingAdditionalInformation": "",
   "route": "Health and science",
