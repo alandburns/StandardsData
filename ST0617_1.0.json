@@ -1,5 +1,6 @@
 {
   "templateType": "Structured Apprenticeship Standard",
+  "shortAssessment": false,
   "larsCode": 440,
   "referenceNumber": "ST0617",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 2,
   "ePALength": 0,
   "typicalDuration": 12,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 3000,
   "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
