@@ -209,7 +209,7 @@
     },
     {
       "skillId": "bf40c0c9-dc56-4c08-a189-9d21ca42c922",
-      "detail": "Use a website content management system to publish text, images, and video/animated content."
+      "detail": "Use a content management system to publish text, images, and video/animated content."
     },
     {
       "skillId": "3667b294-2a19-40ac-8f3e-bf24ad3f2a40",
@@ -281,7 +281,7 @@
   "cluster": "Marketing assistant",
   "clusterId": "124",
   "clusterDescription": "Plan, organise and deliver key marketing actions and events",
-  "createdDate": "2025-07-11T09:16:36 +00:00",
+  "createdDate": "2025-12-05T10:39:31 +00:00",
   "lastUpdated": "2025-05-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-12-11T00:00:00 +00:00",
   "banners": "",
