@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 803,
   "referenceNumber": "ST1401",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 4,
   "ePALength": 5,
   "typicalDuration": 21,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 9000,
   "maxFundingAdditionalInformation": "",
   "route": "Protective services",
