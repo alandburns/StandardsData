@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 821,
   "referenceNumber": "ST0341",
   "learningAimClassCode": "Z0001906",
@@ -18,7 +19,7 @@
   "level": 3,
   "ePALength": 3,
   "typicalDuration": 9,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 9000,
   "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
