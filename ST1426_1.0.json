@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 816,
   "referenceNumber": "ST1426",
   "learningAimClassCode": "Z0001890",
@@ -18,7 +19,7 @@
   "level": 3,
   "ePALength": 4,
   "typicalDuration": 42,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 27000,
   "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
