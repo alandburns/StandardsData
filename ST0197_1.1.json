@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 184,
   "referenceNumber": "ST0197",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 6,
   "ePALength": 3,
   "typicalDuration": 48,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 27000,
   "maxFundingAdditionalInformation": "",
   "route": "Health and science",
