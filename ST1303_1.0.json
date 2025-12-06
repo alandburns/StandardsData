@@ -1,5 +1,6 @@
 {
   "templateType": "Occupational Standard",
+  "shortAssessment": false,
   "larsCode": 698,
   "referenceNumber": "ST1303",
   "learningAimClassCode": "",
@@ -18,7 +19,7 @@
   "level": 6,
   "ePALength": 4,
   "typicalDuration": 36,
-  "minimumHoursForCompliance": 0,
+  "minimumHoursForCompliance": "",
   "maxFunding": 27000,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
