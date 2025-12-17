@@ -1,9 +1,9 @@
 {
   "templateType": "Occupational Standard",
   "shortAssessment": true,
-  "larsCode": 0,
+  "larsCode": 828,
   "referenceNumber": "ST1512",
-  "learningAimClassCode": "",
+  "learningAimClassCode": "Z0001947",
   "title": "Artificial intelligence (AI) and automation practitioner",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
