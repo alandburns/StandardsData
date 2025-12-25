@@ -23,10 +23,7 @@
   "maxFunding": 18000,
   "maxFundingAdditionalInformation": "",
   "route": "Digital",
-  "keywords": [
-    "artificial intelligence",
-    "automation practitioner"
-  ],
+  "keywords": [],
   "jobRoles": [
     "Ai integration officer",
     "Automation enablement consultant",
@@ -352,7 +349,7 @@
   "cluster": "Digital solutions advanced technician",
   "clusterId": "194",
   "clusterDescription": "Facilitate and instigate direct communication online between the end user or customer and the organisation, implementing communication strategies to support business objectives.",
-  "createdDate": "2025-12-10T13:53:07 +00:00",
+  "createdDate": "2025-12-24T08:57:30 +00:00",
   "lastUpdated": "2025-12-10T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-12-10T00:00:00 +00:00",
   "banners": "",
