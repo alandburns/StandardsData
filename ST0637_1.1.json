@@ -5,11 +5,11 @@
   "referenceNumber": "ST0637",
   "learningAimClassCode": "",
   "title": "Packaging professional (integrated degree)",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0637",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
+  "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
   "changedDate": "2025-06-20T00:00:00",
   "earliestStartDate": "2025-12-31T00:00:00",
@@ -44,7 +44,7 @@
     "Senior packaging technologist"
   ],
   "entryRequirements": "&lt;p&gt;&lt;span style=&quot;font-size: 11.5pt; line-height: 107%&quot;&gt;Whilst any entry requirements will be a matter for individual employers and higher education institutions, typically an apprentice might be expected to have already achieved GCSE Maths and English on entry.&lt;/span&gt;&lt;/p&gt;",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0637-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0637-v1-1?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "1.1",
@@ -414,7 +414,7 @@
     "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
     "webLink": "https://www.officeforstudents.org.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2018-06-27T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integration": "Degree-apprenticeship",
   "integratedDegree": "integrated degree",
@@ -461,8 +461,8 @@
   "occupationalStandardApprovalDate": "2018-06-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0637",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0637-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0637-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0637-v1-1?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0637-v1-1",
   "qualifications": [
     {
       "qualificationId": "f8f851f7-22cc-4d9c-927c-1cdbd0ac8a33",
