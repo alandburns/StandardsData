@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "2.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-12-10T00:00:00",
+  "changedDate": "2026-01-13T00:00:00",
   "earliestStartDate": "2025-12-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -350,7 +350,7 @@
   "clusterId": "194",
   "clusterDescription": "Facilitate and instigate direct communication online between the end user or customer and the organisation, implementing communication strategies to support business objectives.",
   "createdDate": "2025-12-24T08:57:30 +00:00",
-  "lastUpdated": "2025-12-10T00:00:00 +00:00",
+  "lastUpdated": "2026-01-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-12-10T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1512",
@@ -751,5 +751,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-10T00:00:00"
+  "publishDate": "2026-01-13T00:00:00"
 }
