@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-08-04T00:00:00",
+  "changedDate": "2026-01-14T00:00:00",
   "earliestStartDate": "2018-12-07T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-02-25T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Selling beauty products and helping customers choose which ones to buy.",
   "level": 2,
@@ -173,9 +173,9 @@
   "clusterId": "271",
   "clusterDescription": "Carry out detailed and confidential beauty consultations with clients to select the most appropriate services, treatments and products",
   "createdDate": "2018-12-07T15:01:22 +00:00",
-  "lastUpdated": "2025-08-04T00:00:00 +00:00",
+  "lastUpdated": "2026-01-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-12-07T00:00:00 +00:00",
-  "banners": "This apprenticeship is approved for delivery, however all new starts are currently paused, while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).; We are proposing to retire this apprenticeship for new starts due to no starts since 2019/20 academic year. If you would like to feed in any views on this intention, please email hairbeauty.skillsengland@education.gov.uk by 6 October 2025. Please note that retirement of this standard has not yet been authorised.",
+  "banners": "This apprenticeship is approved for delivery, however all new starts are currently paused, while we work to resolve some delivery-related issues. This pause on new starts does not affect any existing learners (those currently on-programme or taking end-point assessment).; This apprenticeship will be retired on 25 February 2026.",
   "occupationCode": "OCC0636",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0636-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0636-v1-0",
@@ -187,5 +187,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-08-04T00:00:00"
+  "publishDate": "2026-02-25T00:00:00"
 }
