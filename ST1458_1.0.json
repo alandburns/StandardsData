@@ -225,7 +225,7 @@
   "cluster": "Accounting or tax technician",
   "clusterId": "238",
   "clusterDescription": "Create, analyse and audit financial information for internal and external clients and the regulatory authorities",
-  "createdDate": "2025-07-02T08:50:47 +00:00",
+  "createdDate": "2026-01-19T10:06:07 +00:00",
   "lastUpdated": "2025-05-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-05-08T00:00:00 +00:00",
   "banners": "",
@@ -237,7 +237,7 @@
       "qualificationId": "9f661f8a-e6c7-4ca9-b544-1df7126048ff",
       "title": "Association of Taxation Technicians Qualification ",
       "level": "4",
-      "anyAdditionalInformation": "https://www.att.org.uk/our-tax-qualifications/att-qualification ",
+      "anyAdditionalInformation": "Completion of the Level 4 Taxation professional apprenticeship will result in eligibility to apply for membership of the Association of Taxation Technicians (ATT), subject to meeting the requirements expected by the ATT. Requirements over and above completion of the qualification include meeting the fit and proper person test and a minimum of two years of experience working in taxation. For more information, please contact the ATT.",
       "qualificationEpaIntegration": "",
       "mappedOptions": []
     }
