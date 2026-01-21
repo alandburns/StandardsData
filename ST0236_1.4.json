@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "Updated SSA",
-  "changedDate": "2025-12-10T00:00:00",
+  "changedDate": "2026-01-20T00:00:00",
   "earliestStartDate": "2025-12-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -220,9 +220,9 @@
   "clusterId": "22",
   "clusterDescription": "Manage and deliver services to customers along with problem resolution and service improvement",
   "createdDate": "2025-12-08T09:38:12 +00:00",
-  "lastUpdated": "2025-12-10T00:00:00 +00:00",
+  "lastUpdated": "2026-01-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-11-26T00:00:00 +00:00",
-  "banners": "This apprenticeship standard is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards in revision are available in the revisions status report.",
+  "banners": "A revised version ​of this apprenticeship standard has been agreed and is available for information only at present. Further details of this and other apprenticeship standards in revision are available in the revisions status report. In the meantime, the version below remains approved for delivery.",
   "occupationCode": "OCC0236",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0236-v1-4?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0236-v1-4",
@@ -234,5 +234,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-10T00:00:00"
+  "publishDate": "2026-01-20T00:00:00"
 }
