@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2024-05-16T00:00:00",
+  "changedDate": "2026-01-21T00:00:00",
   "earliestStartDate": "2024-05-16T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-02-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Analysing data to predict the likelihood and potential financial risk of future events.",
   "level": 7,
@@ -205,9 +205,9 @@
   "clusterId": "243",
   "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
   "createdDate": "2024-05-16T12:39:11 +00:00",
-  "lastUpdated": "2024-05-16T00:00:00 +00:00",
+  "lastUpdated": "2026-01-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-03-27T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.&nbsp;; From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
+  "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.; A revised version of this assessment plan has been agreed by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. It will replace the version below for new starts from 25 February 2026 with a funding band of £18,000. Until then, the below end-point assessment remains in place. Further details of this and other apprenticeships in revision are available in the&nbsp;revisions and adjustments status report.",
   "occupationCode": "OCC0502",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0502-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0502-v1-1",
@@ -219,5 +219,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-05-16T00:00:00"
+  "publishDate": "2026-02-24T00:00:00"
 }
