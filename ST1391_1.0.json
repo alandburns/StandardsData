@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-02-11T00:00:00",
+  "changedDate": "2026-01-28T00:00:00",
   "earliestStartDate": "2024-11-19T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -280,7 +280,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
@@ -313,7 +313,7 @@
   "clusterId": "259",
   "clusterDescription": "Make products and plant by cutting, forming, jointing and shaping of materials",
   "createdDate": "2024-11-19T11:25:02 +00:00",
-  "lastUpdated": "2025-02-11T00:00:00 +00:00",
+  "lastUpdated": "2026-01-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-11-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1391",
@@ -705,5 +705,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-02-11T00:00:00"
+  "publishDate": "2026-01-28T00:00:00"
 }
