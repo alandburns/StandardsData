@@ -232,13 +232,7 @@
   "epaApprovalDate": "2025-03-06T00:00:00 +00:00",
   "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
-    "contactName": "",
-    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "",
-    "webLink": "https://contact.ofqual.gov.uk/"
-  },
+  "eQAProvider": null,
   "approvedForDelivery": "",
   "integratedApprenticeship": true,
   "integration": "Mandatory qualification",
@@ -263,7 +257,7 @@
   "cluster": "Financial technician",
   "clusterId": "244",
   "clusterDescription": "Model the financial needs of clients using a wide range of digital/IT skills. Give advise based on research and analysis directly to clients covering a wide range of financial services and products",
-  "createdDate": "2025-05-22T09:00:48 +00:00",
+  "createdDate": "2026-01-30T11:27:33 +00:00",
   "lastUpdated": "2025-05-29T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
@@ -273,7 +267,7 @@
   "qualifications": [
     {
       "qualificationId": "439e0302-47fc-412d-a224-6c036fbbc4a9",
-      "title": "Foundations of Internal Audit ",
+      "title": "Foundations of Internal Auditing ",
       "level": "4",
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
