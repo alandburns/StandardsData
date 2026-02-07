@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-11-06T00:00:00",
+  "changedDate": "2026-02-06T00:00:00",
   "earliestStartDate": "2024-08-27T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Assisting other dental health professionals, providing chair side support and a high level of patient care.",
   "level": 3,
@@ -696,7 +696,7 @@
   "clusterId": "112",
   "clusterDescription": "Provide direct patient contact and caring undertaking routine well defined clinical duties",
   "createdDate": "2024-12-09T13:20:18 +00:00",
-  "lastUpdated": "2024-11-06T00:00:00 +00:00",
+  "lastUpdated": "2026-02-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-08-27T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1431",
@@ -1065,5 +1065,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-11-06T00:00:00"
+  "publishDate": "2026-03-24T00:00:00"
 }
