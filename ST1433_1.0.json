@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-07-14T00:00:00",
+  "changedDate": "2026-02-06T00:00:00",
   "earliestStartDate": "2024-12-12T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Clinical dental technicians (CDT) are General Dental Council (GDC) registered dental professionals who provide complete dentures direct to patients and other dental devices such as partial dentures to the prescription of a dentist.",
   "level": 5,
@@ -742,7 +742,7 @@
   "clusterId": "38",
   "clusterDescription": "Provide technical and science-based diagnostic, therapeutic and monitoring services in support of patient care working largely unsupervised and also the manufacture of appliances and devices using specialist medical expertise",
   "createdDate": "2024-10-14T11:51:47 +00:00",
-  "lastUpdated": "2025-07-14T00:00:00 +00:00",
+  "lastUpdated": "2026-02-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-12T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1433",
@@ -1144,5 +1144,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-14T00:00:00"
+  "publishDate": "2026-03-24T00:00:00"
 }
