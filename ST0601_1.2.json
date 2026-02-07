@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Standard, end-point assessment plan and funding band revised but funding remained the same.",
-  "changedDate": "2023-09-01T00:00:00",
+  "changedDate": "2026-02-06T00:00:00",
   "earliestStartDate": "2023-09-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Caring for people who need an artificial limb or a device to support or control part of their body.",
   "level": 6,
@@ -615,7 +615,7 @@
   "clusterId": "21",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2025-03-27T12:06:59 +00:00",
-  "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "lastUpdated": "2026-02-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-10-31T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0601",
@@ -916,5 +916,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-09-01T00:00:00"
+  "publishDate": "2026-03-24T00:00:00"
 }
