@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
   "change": "Standard, end-point assessment plan and funding band have been revised but funding remains the same.",
-  "changedDate": "2023-09-01T00:00:00",
+  "changedDate": "2026-02-06T00:00:00",
   "earliestStartDate": "2023-09-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Diagnose and treat foot, ankle and leg problems.",
   "level": 6,
@@ -566,7 +566,7 @@
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2023-07-12T08:49:51 +00:00",
-  "lastUpdated": "2023-09-01T00:00:00 +00:00",
+  "lastUpdated": "2026-02-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-05-14T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0493",
@@ -861,5 +861,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-09-01T00:00:00"
+  "publishDate": "2026-03-24T00:00:00"
 }
