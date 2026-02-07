@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "End point assessment plan revised, K16 removed from KSBs",
-  "changedDate": "2025-07-14T00:00:00",
+  "changedDate": "2026-02-06T00:00:00",
   "earliestStartDate": "2025-03-04T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Design, manufacture, modify and repair custom-made dental appliances. Typically the work is undertaken in a dental laboratory on a prescription from a dentist. The work can broadly be split into crown and bridge, dentures and orthodontics.",
   "level": 5,
@@ -642,7 +642,7 @@
   "clusterId": "38",
   "clusterDescription": "Provide technical and science-based diagnostic, therapeutic and monitoring services in support of patient care working largely unsupervised and also the manufacture of appliances and devices using specialist medical expertise",
   "createdDate": "2025-03-04T15:00:43 +00:00",
-  "lastUpdated": "2025-07-14T00:00:00 +00:00",
+  "lastUpdated": "2026-02-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-11T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1432",
@@ -997,5 +997,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-14T00:00:00"
+  "publishDate": "2026-03-24T00:00:00"
 }
