@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised, Funding band revision published 19 August 2021",
-  "changedDate": "2021-10-04T00:00:00",
+  "changedDate": "2026-02-06T00:00:00",
   "earliestStartDate": "2021-02-19T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "An advocate for the woman, working in partnership with her and giving the necessary support, care and advice during pregnancy.",
   "level": 6,
@@ -681,7 +681,7 @@
   "clusterId": "211",
   "clusterDescription": "Assess, plan, implement and evaluate patient care in multiple settings with specialist expertise often working independently",
   "createdDate": "2021-07-06T10:24:51 +00:00",
-  "lastUpdated": "2021-10-04T00:00:00 +00:00",
+  "lastUpdated": "2026-02-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-10-02T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0948",
@@ -1083,5 +1083,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2021-10-04T00:00:00"
+  "publishDate": "2026-03-24T00:00:00"
 }
