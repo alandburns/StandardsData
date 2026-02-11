@@ -49,7 +49,7 @@
     "Party planner"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0168-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/1203/event_assistant.pdf",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "1.2",
@@ -278,7 +278,7 @@
   "standardApproved": "",
   "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "true",
+  "epaPublished": "false",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
