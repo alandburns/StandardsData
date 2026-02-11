@@ -324,7 +324,7 @@
   "involvedEmployers": "Daleacre Ltd, Lincolnshire Co-Operative Ltd, PCT Healthcare , Leeds Teaching Hospital, Herefordshire CCG, Guy's and St Thomas' NHS Foundation Trust, Bristol NHS Foundation Trust, Boots UK, APTUK, Tesco UK, Superdrug UK, Celesio UK, National Pharmacy Association, Association of Pharmacy Technicians UK",
   "otherInvolvedStakeholders": "",
   "regulated": true,
-  "regulatedBody": "General Pharmaceuticals Council (GPhC)",
+  "regulatedBody": "General Pharmaceutical Council (GPhC)",
   "coreAndOptions": false,
   "typicalJobTitles": [],
   "greenJobTitles": [],
@@ -341,7 +341,24 @@
   "occupationCode": "OCC0300",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0300-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0300-in-revision",
-  "qualifications": [],
+  "qualifications": [
+    {
+      "qualificationId": "d69bd057-be60-44ab-a200-74e11f9983cd",
+      "title": "GPhC recognised Pharmacy Technician qualification",
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    },
+    {
+      "qualificationId": "b24545f6-5931-432d-8995-52f0951a8f6b",
+      "title": " GPhC accredited Pharmacy Technician programme ",
+      "level": "3",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
   "professionalRecognition": [],
   "duties": [
     {
@@ -545,7 +562,7 @@
     {
       "name": "Training provider",
       "webLink": "",
-      "approved": false
+      "approved": true
     },
     {
       "name": "EPAO",
