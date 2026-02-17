@@ -19,7 +19,7 @@
   "level": 2,
   "ePALength": 2,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "326",
   "maxFunding": 5000,
   "maxFundingAdditionalInformation": "",
   "route": "Care services",
