@@ -19,7 +19,7 @@
   "level": 6,
   "ePALength": 1,
   "typicalDuration": 60,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "1022",
   "maxFunding": 27000,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
