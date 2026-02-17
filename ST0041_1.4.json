@@ -19,7 +19,7 @@
   "level": 4,
   "ePALength": 4,
   "typicalDuration": 36,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "648",
   "maxFunding": 13000,
   "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
