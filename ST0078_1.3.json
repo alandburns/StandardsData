@@ -19,7 +19,7 @@
   "level": 2,
   "ePALength": 3,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "370",
   "maxFunding": 10000,
   "maxFundingAdditionalInformation": "",
   "route": "Sales, marketing and procurement",
