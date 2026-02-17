@@ -19,7 +19,7 @@
   "level": 3,
   "ePALength": 3,
   "typicalDuration": 9,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "300",
   "maxFunding": 9000,
   "maxFundingAdditionalInformation": "",
   "route": "Creative and design",
