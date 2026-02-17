@@ -19,7 +19,7 @@
   "level": 4,
   "ePALength": 2,
   "typicalDuration": 18,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "420",
   "maxFunding": 18000,
   "maxFundingAdditionalInformation": "",
   "route": "Digital",
