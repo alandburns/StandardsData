@@ -19,7 +19,7 @@
   "level": 6,
   "ePALength": 0,
   "typicalDuration": 60,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "1253",
   "maxFunding": 24000,
   "maxFundingAdditionalInformation": "",
   "route": "Engineering and manufacturing",
