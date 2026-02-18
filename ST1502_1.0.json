@@ -19,7 +19,7 @@
   "level": 6,
   "ePALength": 1,
   "typicalDuration": 45,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "1200",
   "maxFunding": 27000,
   "maxFundingAdditionalInformation": "",
   "route": "Education and early years",
