@@ -19,7 +19,7 @@
   "level": 4,
   "ePALength": 5,
   "typicalDuration": 21,
-  "minimumHoursForCompliance": "",
+  "minimumHoursForCompliance": "370",
   "maxFunding": 9000,
   "maxFundingAdditionalInformation": "",
   "route": "Protective services",
