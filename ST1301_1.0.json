@@ -4,7 +4,7 @@
   "larsCode": 802,
   "referenceNumber": "ST1301",
   "learningAimClassCode": "",
-  "title": "Paraplanner and Financial Planner",
+  "title": "Paraplanner and financial planner",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1301",
@@ -284,7 +284,7 @@
   "cluster": "Investment specialist",
   "clusterId": "246",
   "clusterDescription": "Perform complex and specialist operational support to transactions across a wide range of financial instruments and products",
-  "createdDate": "2025-10-03T08:38:58 +00:00",
+  "createdDate": "2026-02-18T14:31:57 +00:00",
   "lastUpdated": "2025-10-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-05-02T00:00:00 +00:00",
   "banners": "",
@@ -300,6 +300,10 @@
       "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
+          "title": "Paraplanner",
+          "optionID": "286019b5-0c5a-4448-a945-b27da9d77913"
+        },
+        {
           "title": "Financial Planner",
           "optionID": "2672c45d-9b0f-4201-bcd9-a9732f46cb35"
         }
@@ -313,6 +317,10 @@
       "qualificationEpaIntegration": "",
       "mappedOptions": [
         {
+          "title": "Paraplanner",
+          "optionID": "286019b5-0c5a-4448-a945-b27da9d77913"
+        },
+        {
           "title": "Financial Planner",
           "optionID": "2672c45d-9b0f-4201-bcd9-a9732f46cb35"
         }
@@ -325,6 +333,10 @@
       "anyAdditionalInformation": "",
       "qualificationEpaIntegration": "",
       "mappedOptions": [
+        {
+          "title": "Paraplanner",
+          "optionID": "286019b5-0c5a-4448-a945-b27da9d77913"
+        },
         {
           "title": "Financial Planner",
           "optionID": "2672c45d-9b0f-4201-bcd9-a9732f46cb35"
