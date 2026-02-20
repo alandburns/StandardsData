@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "End-point assessment plan revised",
-  "changedDate": "2025-07-23T00:00:00",
+  "changedDate": "2026-02-19T00:00:00",
   "earliestStartDate": "2025-01-09T00:00:00",
-  "latestStartDate": "2026-03-30T00:00:00",
+  "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Supporting customers in banks or building societies (or the broader financial services sector), working at a senior level.",
   "level": 3,
@@ -181,9 +181,9 @@
   "clusterId": "240",
   "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2025-01-09T16:57:50 +00:00",
-  "lastUpdated": "2025-07-23T00:00:00 +00:00",
+  "lastUpdated": "2026-02-19T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-08-27T00:00:00 +00:00",
-  "banners": "A ​revised version&nbsp;of this has been agreed and is available for information only at present. It will replace the version below for new starts from 31 March 2026 with a funding band of ​£11,000. Further details of this and other apprenticeships in revision available in the revisions and adjustments status report.",
+  "banners": "The v1.3 previously published in preview has been removed pending the launch of v2.0 under assessment reform policy.",
   "occupationCode": "OCC0185",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0185-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0185-v1-2",
@@ -252,5 +252,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-03-30T00:00:00"
+  "publishDate": "2026-02-19T00:00:00"
 }
