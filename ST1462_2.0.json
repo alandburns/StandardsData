@@ -1,9 +1,9 @@
 {
   "templateType": "Occupational Standard",
   "shortAssessment": true,
-  "larsCode": 0,
+  "larsCode": 829,
   "referenceNumber": "ST1462",
-  "learningAimClassCode": "",
+  "learningAimClassCode": "Z0002030",
   "title": "Osteopath",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": true,
