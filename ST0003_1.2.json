@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment and funding band revised",
-  "changedDate": "2025-07-22T00:00:00",
+  "changedDate": "2026-02-19T00:00:00",
   "earliestStartDate": "2025-06-09T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-07-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working as an accountant for an accounting practice or other organisation.",
   "level": 4,
@@ -213,9 +213,9 @@
   "clusterId": "238",
   "clusterDescription": "Create, analyse and audit financial information for internal and external clients and the regulatory authorities",
   "createdDate": "2025-10-09T08:39:54 +00:00",
-  "lastUpdated": "2025-07-22T00:00:00 +00:00",
+  "lastUpdated": "2026-02-19T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-07-21T00:00:00 +00:00",
-  "banners": "",
+  "banners": "A revised version ​of this has been agreed and is available for information only at present. It will replace the version below for new starts from 01 August 2026 with a funding band of £12,000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0003",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0003-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0003-v1-2",
@@ -570,5 +570,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-22T00:00:00"
+  "publishDate": "2026-07-31T00:00:00"
 }
