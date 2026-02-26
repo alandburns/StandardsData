@@ -5,14 +5,14 @@
   "referenceNumber": "ST0577",
   "learningAimClassCode": "",
   "title": "Ecologist (integrated degree)",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0577",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
-  "change": "",
-  "changedDate": "2025-12-09T00:00:00",
-  "earliestStartDate": null,
+  "versionNumber": "1.2",
+  "change": "Occupational standard, end-point assessment plan and funding band revised.",
+  "changedDate": "2026-02-25T00:00:00",
+  "earliestStartDate": "2026-02-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Studying the relationships between living things and their environment to help to resolve potentially conflicting demands between economic development and the environment.",
@@ -20,7 +20,7 @@
   "ePALength": 3,
   "typicalDuration": 36,
   "minimumHoursForCompliance": "",
-  "maxFunding": 0,
+  "maxFunding": 17000,
   "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
@@ -32,7 +32,7 @@
   ],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0577-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0577-v1-2?view=epa",
   "ssa1": "3 Agriculture, Horticulture and Animal Care",
   "ssa2": "3.4 Environmental conservation",
   "version": "1.2",
@@ -234,7 +234,7 @@
     "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
     "webLink": "https://www.officeforstudents.org.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2019-06-28T00:00:00 +00:00",
   "integratedApprenticeship": false,
   "integration": "Degree-apprenticeship",
   "integratedDegree": "integrated degree",
@@ -257,13 +257,13 @@
   "cluster": "Environment professional",
   "clusterId": "24",
   "clusterDescription": "Use specialist environmental and/or ecological knowledge to manage diverse environments, providing professional support to organisations across all sectors",
-  "createdDate": "2024-12-10T13:02:36 +00:00",
-  "lastUpdated": "2025-12-09T00:00:00 +00:00",
+  "createdDate": "2026-02-25T10:08:53 +00:00",
+  "lastUpdated": "2026-02-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-06-28T00:00:00 +00:00",
-  "banners": "This revised version of the occupational standard and end-point assessment plan has been agreed and is available for information only pending a decision on the funding.; This standard aligns with the following professional recognition:Chartered Institute of Ecology and Environmental Management for Student or Qualifying MembershipandSociety for the Environment for Registered Environmental Practitioner- REnvPUpon receipt of the apprenticeship certificate, individuals are eligible to apply for REnvP through a shortened application route. Individuals also need to be a member of a professional body that is licensed by the Society for the Environment to be awarded this status. Further information is on the SocEnv website",
+  "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
   "occupationCode": "OCC0577",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0577-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0577-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0577-v1-2?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0577-v1-2",
   "qualifications": [
     {
       "qualificationId": "a926043e-0ec5-46ba-bd08-6d864911ac7e",
@@ -291,6 +291,12 @@
     {
       "bodyName": "Chartered Institute of Ecology and Environmental Management",
       "level": "Student or Qualifying Membership",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Society for the Environment for Registered Environmental Practitioner- REnvP",
+      "level": "Upon receipt of the apprenticeship certificate, individuals are eligible to apply for REnvP through a shortened application route. Individuals also need to be a member of a professional body that is licensed by the Society for the Environment to be awarded this status. Further information is on the SocEnv website",
       "isPartial": "full",
       "partialFreeText": ""
     }
@@ -793,5 +799,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-09T00:00:00"
+  "publishDate": "2026-02-25T00:00:00"
 }
