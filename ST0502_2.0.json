@@ -306,7 +306,7 @@
   },
   "approvedForDelivery": "2018-03-27T00:00:00 +00:00",
   "integratedApprenticeship": true,
-  "integration": "Mandatory qualification",
+  "integration": "Mandatory qualification only",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0074",
   "tbMainContact": "chris.dunford@aon.com",
