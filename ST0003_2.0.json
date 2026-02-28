@@ -11,8 +11,8 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Occupational standard and funding band revised but funding remained the same.",
-  "changedDate": "2026-02-19T00:00:00",
-  "earliestStartDate": "2026-08-01T00:00:00",
+  "changedDate": "2026-02-27T00:00:00",
+  "earliestStartDate": "2026-07-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working as an accountant for an accounting practice or other organisation.",
@@ -212,10 +212,10 @@
   "cluster": "Accounting or tax technician",
   "clusterId": "238",
   "clusterDescription": "Create, analyse and audit financial information for internal and external clients and the regulatory authorities",
-  "createdDate": "2026-02-19T09:49:38 +00:00",
-  "lastUpdated": "2026-02-19T00:00:00 +00:00",
+  "createdDate": "2026-02-27T10:44:01 +00:00",
+  "lastUpdated": "2026-02-27T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-07-21T00:00:00 +00:00",
-  "banners": "",
+  "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. A lead-in period is currently in effect until 27th July 2026. At the end of the lead-in period, it will replace the current version for new starts with a funding band of £12,000. Until then, the current end-point assessment remains in place. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
   "occupationCode": "OCC0003",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0003-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0003-in-revision",
@@ -570,5 +570,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-08-01T00:00:00"
+  "publishDate": "2026-07-27T00:00:00"
 }
