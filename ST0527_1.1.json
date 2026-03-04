@@ -6,7 +6,7 @@
   "learningAimClassCode": "",
   "title": "Church minister (integrated degree)",
   "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "approvedForDeliveryPausedStarts": true,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0527",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
@@ -41,7 +41,7 @@
   "ssa2": "10.4 Theology and religious studies",
   "version": "1.1",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;&lt;span&gt;This occupation is found in churches derived from the Christian tradition. The broad purpose of the occupation is twofold. First, Church Ministers offer leadership to one or more local churches, as the churches seek to serve God and the wider community. Second, Church Ministers are skilled practitioners in key areas of ministry who can support and supervise other practitioners in these areas. These areas include leading worship, preaching, pastoral care, facilitating faith development. and community action. Through these they seek to promote the wellbeing and flourishing, spiritual, emotional and (where appropriate) physical, of both individuals and communities. In their daily work, a Church Minister interacts with members of their church(es) and of the wider community, with officials and the structures of their denomination and with community institutions (often including schools and local councils). The role typically requires working flexible hours, including evenings and weekends, and in a variety of locations, typically including church / chapel premises, community buildings, the minister’s own home and other people’s homes. Church Ministers have to work effectively and responsibly in roles often offering a high degree of autonomy, with some accountability structures but generally limited day-to-day supervision. They will support and supervise volunteers and may manage employees, with the number of those for whom they are responsible varying according to the size and structure of their church(es). In some denominations&#160;Church Ministers may be ordained by the end of the apprenticeship.&lt;/span&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;&lt;span&gt;This occupation is found in churches derived from the Christian tradition. The broad purpose of the occupation is twofold. First, Church Ministers offer leadership to one or more local churches, as the churches seek to serve God and the wider community. Second, Church Ministers are skilled practitioners in key areas of ministry who can support and supervise other practitioners in these areas. These areas include leading worship, preaching, pastoral care, facilitating faith development. and community action. Through these they seek to promote the wellbeing and flourishing, spiritual, emotional and (where appropriate) physical, of both individuals and communities. In their daily work, a Church Minister interacts with members of their church(es) and of the wider community, with officials and the structures of their denomination and with community institutions (often including schools and local councils). The role typically requires working flexible hours, including evenings and weekends, and in a variety of locations, typically including church / chapel premises, community buildings, the minister’s own home and other people’s homes. Church Ministers have to work effectively and responsibly in roles often offering a high degree of autonomy, with some accountability structures but generally limited day-to-day supervision. They will support and supervise volunteers and may manage employees, with the number of those for whom they are responsible varying according to the size and structure of their church(es). In some denominations&amp;nbsp;Church Ministers may be ordained by the end of the apprenticeship.&lt;/span&gt;&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "fc38fd4b-566f-4e9a-9acf-565106d13849",
@@ -236,7 +236,7 @@
   "createdDate": "2023-11-08T10:26:15 +00:00",
   "lastUpdated": "2023-11-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-27T00:00:00 +00:00",
-  "banners": "",
+  "banners": "Starts on this apprenticeship are paused in the absence of an End Point Assessment Organisation (EPAO). Starts will be permitted again once a suitable EPAO is in place.",
   "occupationCode": "OCC0527",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0527-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0527-v1-1",
