@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2022-04-08T00:00:00",
+  "changedDate": "2026-03-10T00:00:00",
   "earliestStartDate": "2019-12-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -400,9 +400,9 @@
   "clusterId": "29",
   "clusterDescription": "Leadership, management, and the application technology of resources to create, produce and deliver broadcast content and artistic productions, often requiring specialist expertise",
   "createdDate": "2017-11-14T17:10:14 +00:00",
-  "lastUpdated": "2022-04-08T00:00:00 +00:00",
+  "lastUpdated": "2026-03-10T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-12-18T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.\u00A0; From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
+  "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.; We are proposing to retire this apprenticeship for new starts. If you would like to feed in any views on this intention, please email creativedesignroute.skillsengland@education.gov.uk by 6 April 2026. &nbsp;Please note that retirement of this standard has not yet been authorised.; This apprenticeship is in the process of being revised or adjusted. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeships being revised or adjusted are available in the revisions and adjustments status report.\u00A0",
   "occupationCode": "OCC0525",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0525-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0525-v1-0",
@@ -551,5 +551,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-04-08T00:00:00"
+  "publishDate": "2026-03-10T00:00:00"
 }
