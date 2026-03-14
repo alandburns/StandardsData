@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.3",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2024-05-14T00:00:00",
+  "changedDate": "2026-03-13T00:00:00",
   "earliestStartDate": "2025-09-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-04-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Helping people with mild to moderate anxiety and depression manage their conditions.",
   "level": 6,
@@ -338,9 +338,9 @@
   "clusterId": "6",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2025-06-05T10:24:24 +00:00",
-  "lastUpdated": "2024-05-14T00:00:00 +00:00",
+  "lastUpdated": "2026-03-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-03-22T00:00:00 +00:00",
-  "banners": "",
+  "banners": "A revised version of this assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. It will replace the version below for new starts from 13 April 2026 with a funding band of £9,000. The reformed AAP will be EQA’d by Skills England. All previous versions are EQA’d by Ofqual. Until then, the below end-point assessment remains in place. Further details of this and other apprenticeships in revision are available in the&nbsp;revisions and adjustments status report.",
   "occupationCode": "OCC0568",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0568-v1-3?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0568-v1-3",
@@ -624,5 +624,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-09-01T00:00:00"
+  "publishDate": "2026-04-12T00:00:00"
 }
