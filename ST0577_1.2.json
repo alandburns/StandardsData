@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2026-02-25T00:00:00",
+  "changedDate": "2026-03-17T00:00:00",
   "earliestStartDate": "2026-02-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -258,7 +258,7 @@
   "clusterId": "24",
   "clusterDescription": "Use specialist environmental and/or ecological knowledge to manage diverse environments, providing professional support to organisations across all sectors",
   "createdDate": "2026-02-25T10:08:53 +00:00",
-  "lastUpdated": "2026-02-25T00:00:00 +00:00",
+  "lastUpdated": "2026-03-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-06-28T00:00:00 +00:00",
   "banners": "From 1 January 2026, Level 7 apprenticeships will only be government-funded for apprentices who, at the start of their apprenticeship training, are either aged 16-21, or aged under 25 and have an Education, Health and Care (EHC) plan and/or have been, or are, in the care of their local authority. Any individual who started a level 7 apprenticeship before 1 January 2026 will continue to be funded through to completion.",
   "occupationCode": "OCC0577",
@@ -757,17 +757,17 @@
     {
       "optionId": "6cab3c4b-c48c-43a9-acdb-3771dbdaf356",
       "title": "Consultant ecologist",
-      "occupationCode": ""
+      "occupationCode": "OCC0577A"
     },
     {
       "optionId": "6ac0f85c-4c76-4113-8b47-48eb5c0f6fe6",
       "title": "Ecological scientist",
-      "occupationCode": ""
+      "occupationCode": "OCC0577B"
     },
     {
       "optionId": "3ccd0395-9cf6-4d24-9fe2-fd1393455eea",
       "title": "Landscape ecologist",
-      "occupationCode": ""
+      "occupationCode": "OCC0577C"
     }
   ],
   "regulationDetail": [],
@@ -799,5 +799,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-02-25T00:00:00"
+  "publishDate": "2026-03-17T00:00:00"
 }
