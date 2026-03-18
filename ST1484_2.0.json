@@ -1,9 +1,9 @@
 {
   "templateType": "Occupational Standard",
   "shortAssessment": true,
-  "larsCode": 0,
+  "larsCode": 830,
   "referenceNumber": "ST1484",
-  "learningAimClassCode": "",
+  "learningAimClassCode": "Z0001976",
   "title": "Internal audit technician",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": false,
