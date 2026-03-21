@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Updated SSA",
-  "changedDate": "2025-12-09T00:00:00",
+  "changedDate": "2026-03-20T00:00:00",
   "earliestStartDate": "2025-12-09T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-09-23T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Performing regulatory services functions and/or supporting compliance activities.",
   "level": 4,
@@ -262,9 +262,9 @@
   "clusterId": "25",
   "clusterDescription": "Lead and manage a project (business/process improvement), business support services and/or run a practice using the full range of business systems, procedures and accounting practice. Includes the ability to set-up and develop a new business",
   "createdDate": "2025-12-08T09:40:05 +00:00",
-  "lastUpdated": "2025-12-09T00:00:00 +00:00",
+  "lastUpdated": "2026-03-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-03-27T00:00:00 +00:00",
-  "banners": "",
+  "banners": "The revised version of the apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. It will replace the current version for new starts on 24/09/2026 with a funding band of £9000. Until then, the current end-point assessment remains in place. Further details of this and other apprenticeships in revision are available in the&nbsp;revisions and adjustments status report.",
   "occupationCode": "OCC0430",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0430-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0430-v1-2",
@@ -744,5 +744,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-09T00:00:00"
+  "publishDate": "2026-09-23T00:00:00"
 }
