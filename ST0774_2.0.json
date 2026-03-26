@@ -5,13 +5,13 @@
   "referenceNumber": "ST0774",
   "learningAimClassCode": "",
   "title": "Dispensing optician",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0774",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
+  "versionNumber": "2.0",
   "change": "Occupational standard and assessment plan revised",
-  "changedDate": "2025-02-06T00:00:00",
+  "changedDate": "2026-03-25T00:00:00",
   "earliestStartDate": "2025-03-25T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -34,7 +34,7 @@
     "Dispensing optician"
   ],
   "entryRequirements": "&lt;p&gt;Apprentices without Level 2 English and maths will need to achieve this prior to taking the End-Point Assessment. For those with an education, health and care plan or a legacy statement, the apprenticeship’s English and maths minimum requirement is Entry Level 3. A British Sign Language (BSL) qualification is an alternative to the English qualification for those whose primary language is BSL.&lt;/p&gt;",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0774-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0774-v2-0?view=epa",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.3 Health and social care",
   "version": "2.0",
@@ -408,7 +408,7 @@
     "contactEmail": "education@optical.org",
     "webLink": "https://optical.org/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2023-12-13T00:00:00 +00:00",
   "integratedApprenticeship": true,
   "integration": "Statutory integration",
   "integratedDegree": "non-degree qualification",
@@ -430,12 +430,12 @@
   "clusterId": "21",
   "clusterDescription": "Provide direct patient contact along with high quality diagnosis and care working independently and with other health professionals",
   "createdDate": "2026-02-02T17:36:41 +00:00",
-  "lastUpdated": "2025-02-06T00:00:00 +00:00",
+  "lastUpdated": "2026-03-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-12-13T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0774",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0774-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0774-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0774-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0774-v2-0",
   "qualifications": [
     {
       "qualificationId": "ee02ad16-dcd2-450f-b69d-c70da71718ac",
@@ -988,5 +988,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-03-25T00:00:00"
+  "publishDate": "2026-03-25T00:00:00"
 }
