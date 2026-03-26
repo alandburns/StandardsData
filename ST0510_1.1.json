@@ -5,13 +5,13 @@
   "referenceNumber": "ST0510",
   "learningAimClassCode": "",
   "title": "Social worker (integrated degree)",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0510",
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan and funding revised",
-  "changedDate": "2026-02-06T00:00:00",
+  "changedDate": "2026-03-25T00:00:00",
   "earliestStartDate": "2023-01-23T00:00:00",
   "latestStartDate": "2026-03-24T00:00:00",
   "latestEndDate": null,
@@ -445,7 +445,7 @@
   "clusterId": "44",
   "clusterDescription": "Lead, manage and deliver a whole care process to support clients including their assurance and improvement often requiring specialist care expertise.",
   "createdDate": "2023-09-20T13:52:21 +00:00",
-  "lastUpdated": "2026-02-06T00:00:00 +00:00",
+  "lastUpdated": "2026-03-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-11-30T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0510",
@@ -1200,5 +1200,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-03-24T00:00:00"
+  "publishDate": "2026-03-25T00:00:00"
 }
