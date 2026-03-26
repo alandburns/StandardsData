@@ -5,13 +5,13 @@
   "referenceNumber": "ST1434",
   "learningAimClassCode": "",
   "title": "Orthodontic therapist (GDC 2023)",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1434",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2026-02-06T00:00:00",
+  "changedDate": "2026-03-25T00:00:00",
   "earliestStartDate": "2024-12-12T00:00:00",
   "latestStartDate": "2026-03-24T00:00:00",
   "latestEndDate": null,
@@ -694,7 +694,7 @@
   "clusterId": "10",
   "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2024-10-14T14:32:21 +00:00",
-  "lastUpdated": "2026-02-06T00:00:00 +00:00",
+  "lastUpdated": "2026-03-25T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-12T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1434",
@@ -1091,5 +1091,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-03-24T00:00:00"
+  "publishDate": "2026-03-25T00:00:00"
 }
