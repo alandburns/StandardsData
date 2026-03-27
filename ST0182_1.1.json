@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2025-01-10T00:00:00",
+  "changedDate": "2026-03-26T00:00:00",
   "earliestStartDate": "2025-01-10T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-09-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Giving clients advice on appropriate mortgages and related protection products such as life insurance or sickness and unemployment insurance.",
   "level": 3,
@@ -156,9 +156,9 @@
   "clusterId": "242",
   "clusterDescription": "Handle enquiries coming directly from customers in all forms across a range of financial products and services and suppor sales generation using product/service specialisms commonly driven by regulations",
   "createdDate": "2025-01-10T16:35:49 +00:00",
-  "lastUpdated": "2025-01-10T00:00:00 +00:00",
+  "lastUpdated": "2026-03-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-11-19T00:00:00 +00:00",
-  "banners": "This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
+  "banners": "A revised version of this occupational standard and assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. It will replace the version below for new starts from 10 September 2026 with a funding band of £9,000. Until then, the below occupational standard and end-point assessment remains in place. Further details of this and other apprenticeships in revision are available in the revisions and adjustments status report.",
   "occupationCode": "OCC0182",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0182-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0182-v1-1",
@@ -170,5 +170,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-01-10T00:00:00"
+  "publishDate": "2026-09-09T00:00:00"
 }
