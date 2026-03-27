@@ -103,7 +103,7 @@
     {
       "optionId": "92915c9d-fb91-40f4-ae77-cf166df5a6ed",
       "title": "Concierge\u00A0Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0230B"
     },
     {
       "optionId": "8aa45760-c0f9-4c28-81c2-ae9b9f47f652",
@@ -123,12 +123,12 @@
     {
       "optionId": "07856d83-e64e-4943-a984-51809d26f529",
       "title": "Hospitality\u00A0Outlet\u00A0Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0230F"
     },
     {
       "optionId": "1f4732ec-23a9-46f0-af35-3fc6b0ad60df",
       "title": "House\u00A0Keeping\u00A0Supervisor",
-      "occupationCode": ""
+      "occupationCode": "OCC0230G"
     }
   ],
   "regulationDetail": [],
