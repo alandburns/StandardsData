@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.5",
   "change": "Reinstated v1.3 content",
-  "changedDate": "2026-03-31T00:00:00",
+  "changedDate": "2026-04-01T00:00:00",
   "earliestStartDate": "2026-03-31T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -43,7 +43,7 @@
     "Founding/casting operative"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/2c3nillf/st0537_engineering-operative_l2_v13.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/b3kjgnzw/st0537_engineering-operative_l2_v15.pdf",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "1.5",
@@ -347,9 +347,9 @@
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2026-03-31T09:09:29 +00:00",
-  "lastUpdated": "2026-03-31T00:00:00 +00:00",
+  "lastUpdated": "2026-04-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-09-24T00:00:00 +00:00",
-  "banners": "",
+  "banners": "A revised version ​of this apprenticeship standard has been agreed and is available for information only at present. Further details of this and other apprenticeship standards in revision are available in the revisions status report.",
   "occupationCode": "OCC0537",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0537-v1-5?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0537-v1-5",
@@ -510,5 +510,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-03-31T00:00:00"
+  "publishDate": "2026-04-01T00:00:00"
 }
