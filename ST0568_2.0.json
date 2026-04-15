@@ -317,8 +317,8 @@
     "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "2019-03-22T00:00:00 +00:00",
-  "integratedApprenticeship": true,
-  "integration": "Mandatory qualification only",
+  "integratedApprenticeship": null,
+  "integration": null,
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0301",
   "tbMainContact": "ann.carter1@nhs.net",
