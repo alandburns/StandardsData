@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Updated SSA",
-  "changedDate": "2025-12-08T00:00:00",
+  "changedDate": "2026-04-21T00:00:00",
   "earliestStartDate": "2025-12-08T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-10-27T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Responsible for delivery and coaching of improvement activity within an area of responsibility.",
   "level": 3,
@@ -264,9 +264,9 @@
   "clusterId": "45",
   "clusterDescription": "Co-ordination, management and delivery of specific business processes and also their direct provision to users",
   "createdDate": "2025-12-08T09:38:05 +00:00",
-  "lastUpdated": "2025-12-08T00:00:00 +00:00",
+  "lastUpdated": "2026-04-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-02-27T00:00:00 +00:00",
-  "banners": "",
+  "banners": "A revised version of this assessment plan has been agreed by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. It will replace the version below for new starts from 28 October 2026 with a funding band of £4000. Until then, the below end-point assessment remains in place. Further details of this and other apprenticeships in revision are available in the revisions and adjustments status report.",
   "occupationCode": "OCC0193",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0193-v1-2?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0193-v1-2",
@@ -278,5 +278,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-08T00:00:00"
+  "publishDate": "2026-10-27T00:00:00"
 }
