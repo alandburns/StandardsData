@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "Occupational standard, end-point assessment plan and funding band revised",
-  "changedDate": "2024-07-01T00:00:00",
+  "changedDate": "2026-05-11T00:00:00",
   "earliestStartDate": "2024-07-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-07-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Maintaining an efficient and accurate finance function within a business.",
   "level": 2,
@@ -220,9 +220,9 @@
   "clusterId": "236",
   "clusterDescription": "Undertake routine accountancy support analysis and report on financial activities including dealing with HMRC",
   "createdDate": "2025-11-04T09:39:26 +00:00",
-  "lastUpdated": "2024-07-01T00:00:00 +00:00",
+  "lastUpdated": "2026-05-11T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-19T00:00:00 +00:00",
-  "banners": "",
+  "banners": "A revised version of this has been agreed and is available for information only at present. It will replace the version below for new starts from ​27 July 2026 with a funding band of £7,000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0608",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0608-v1-4?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0608-v1-4",
@@ -557,5 +557,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-07-01T00:00:00"
+  "publishDate": "2026-07-26T00:00:00"
 }
