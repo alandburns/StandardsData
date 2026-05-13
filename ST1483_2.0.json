@@ -1,9 +1,9 @@
 {
   "templateType": "Occupational Standard",
   "shortAssessment": true,
-  "larsCode": 0,
+  "larsCode": 835,
   "referenceNumber": "ST1483",
-  "learningAimClassCode": "",
+  "learningAimClassCode": "Z0002056",
   "title": "Production manager",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": true,
