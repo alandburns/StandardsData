@@ -247,11 +247,11 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
-    "contactName": "",
-    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "",
-    "webLink": "https://contact.ofqual.gov.uk/"
+    "providerName": "General Pharmaceutical Council ",
+    "contactName": "Chris McKendrick",
+    "contactAddress": "General Pharmaceutical Council, Level 14, One Cabot Square, London E14 4QJ ",
+    "contactEmail": "Chris.McKendrick@pharmacyregulation.org",
+    "webLink": "https://www.pharmacyregulation.org/"
   },
   "approvedForDelivery": "",
   "integratedApprenticeship": true,
