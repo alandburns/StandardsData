@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2024-07-19T00:00:00",
+  "changedDate": "2026-05-13T00:00:00",
   "earliestStartDate": "2024-07-19T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-12-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of tasks involving handling cargo, passengers or marine craft.",
   "level": 2,
@@ -72,7 +72,7 @@
     },
     {
       "knowledgeId": "54346a09-cde7-440f-aea4-c7ba0d209b3d",
-      "detail": "Associated regulations and legislation relating to control of substances hazardous to health. (COSHH) and the international maritime dangerous goods (IMDG) code. "
+      "detail": "Associated regulations and legislation relating to Control of Substances Hazardous to Health. (COSHH) and the International Maritime Dangerous Goods (IMDG) code. "
     },
     {
       "knowledgeId": "999b99da-48d0-4dd5-b460-1dfcc056752f",
@@ -156,7 +156,7 @@
     },
     {
       "knowledgeId": "cf08accb-ca6f-4bdb-9597-34a2af2e5473",
-      "detail": "Classifications of cargo including dangerous goods, liquid bulk, dry bulk, break bulk, roll on; roll off, (roro), and containers.  "
+      "detail": "Classifications of cargo including dangerous goods, liquid bulk, dry bulk, break bulk, roll on; roll off, (RoRo), and containers.  "
     },
     {
       "knowledgeId": "bb6672ce-ab80-4af2-83a7-1284710688b4",
@@ -430,7 +430,7 @@
   "clusterId": "16",
   "clusterDescription": "Support a transport facility's operation and/or support the loading and movement of a freight or passenger vehicle or vessel",
   "createdDate": "2024-05-17T14:05:12 +00:00",
-  "lastUpdated": "2024-07-19T00:00:00 +00:00",
+  "lastUpdated": "2026-05-13T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-09-24T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0307",
@@ -1003,5 +1003,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-07-19T00:00:00"
+  "publishDate": "2026-12-17T00:00:00"
 }
