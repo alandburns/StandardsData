@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan revised",
-  "changedDate": "2023-09-12T00:00:00",
+  "changedDate": "2026-05-15T00:00:00",
   "earliestStartDate": "2023-09-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -206,9 +206,9 @@
   "clusterId": "176",
   "clusterDescription": "Supports the development of a students' learning skills, behaviours and overall knowledge both one-to-one and in a small group",
   "createdDate": "2024-02-07T10:46:08 +00:00",
-  "lastUpdated": "2023-09-12T00:00:00 +00:00",
+  "lastUpdated": "2026-05-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-03-31T00:00:00 +00:00",
-  "banners": "",
+  "banners": "From 1st September 2026, this apprenticeship will not be government funded. Any apprentice who started this apprenticeship before 1st September 2026 will continue to be funded through to completion. This apprenticeship will remain available for delivery for privately funded apprentices.",
   "occupationCode": "OCC1380",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1380-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1380-v1-1",
@@ -419,5 +419,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-09-12T00:00:00"
+  "publishDate": "2026-05-15T00:00:00"
 }
