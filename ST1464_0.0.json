@@ -1124,17 +1124,17 @@
     {
       "optionId": "7ee6960d-49f8-4808-a250-0fb3337ef48b",
       "title": "Retail or commercial financial services professional",
-      "occupationCode": ""
+      "occupationCode": "OCC1464C"
     },
     {
       "optionId": "4105e868-e9c1-4c67-86e3-2ae0439ac32f",
       "title": "Financial services relationship manager",
-      "occupationCode": ""
+      "occupationCode": "OCC1464B"
     },
     {
       "optionId": "d4f8a858-295b-4586-86cb-37c03884a855",
       "title": "Financial services operations manager",
-      "occupationCode": ""
+      "occupationCode": "OCC1464A"
     }
   ],
   "regulationDetail": [],
