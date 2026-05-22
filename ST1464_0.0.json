@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "2026-05-06T00:00:00",
+  "changedDate": "2026-05-22T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -310,7 +310,7 @@
   "clusterId": "243",
   "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
   "createdDate": "2026-05-06T12:57:12 +00:00",
-  "lastUpdated": "2026-05-06T00:00:00 +00:00",
+  "lastUpdated": "2026-05-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "",
@@ -1141,5 +1141,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-05-06T00:00:00"
+  "publishDate": "2026-05-22T00:00:00"
 }
