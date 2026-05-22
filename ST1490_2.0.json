@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "2.0",
   "change": "Approved for delivery",
-  "changedDate": "2026-04-14T00:00:00",
+  "changedDate": "2026-05-22T00:00:00",
   "earliestStartDate": "2026-04-14T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -324,7 +324,7 @@
   "clusterId": "76",
   "clusterDescription": "Design, development and editing of audio visual and text content using technology to generate broadcasting materials along with its co-ordination and management",
   "createdDate": "2026-04-01T12:42:07 +00:00",
-  "lastUpdated": "2026-04-14T00:00:00 +00:00",
+  "lastUpdated": "2026-05-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2026-04-14T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1490",
@@ -548,5 +548,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-04-14T00:00:00"
+  "publishDate": "2026-05-22T00:00:00"
 }
