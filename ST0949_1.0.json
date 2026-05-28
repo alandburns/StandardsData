@@ -5,13 +5,13 @@
   "referenceNumber": "ST0949",
   "learningAimClassCode": "",
   "title": "Applications support lead",
-  "status": "Retired",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0949",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "Standard retired, next version approved for delivery.",
-  "changedDate": "2026-05-26T00:00:00",
+  "change": "Approved for delivery",
+  "changedDate": "2021-11-12T00:00:00",
   "earliestStartDate": "2021-11-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -248,7 +248,7 @@
   "clusterId": "188",
   "clusterDescription": "Co-ordinate systems development tasks including the design, integration and formal testing, oversees transition into production",
   "createdDate": "2021-08-20T12:14:01 +00:00",
-  "lastUpdated": "2026-05-26T00:00:00 +00:00",
+  "lastUpdated": "2021-11-12T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0949",
@@ -589,5 +589,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-05-26T00:00:00"
+  "publishDate": "2021-11-12T00:00:00"
 }
