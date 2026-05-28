@@ -5,11 +5,11 @@
   "referenceNumber": "ST0273",
   "learningAimClassCode": "",
   "title": "Associate management consultant",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0273",
   "qualificationStandardUrl": null,
-  "versionNumber": "2.0",
+  "versionNumber": "",
   "change": "Occupational standard and assessment plan revised",
   "changedDate": "2026-05-22T00:00:00",
   "earliestStartDate": "2026-12-10T00:00:00",
@@ -37,7 +37,7 @@
     "Business consultant"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0273-v2-0?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0273-in-revision?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "2.0",
@@ -207,7 +207,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "2016-04-06T00:00:00 +00:00",
+  "approvedForDelivery": "",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -236,8 +236,8 @@
   "occupationalStandardApprovalDate": "2016-04-06T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0273",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0273-v2-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0273-v2-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0273-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0273-in-revision",
   "qualifications": [],
   "professionalRecognition": [
     {
