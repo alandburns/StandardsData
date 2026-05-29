@@ -5,14 +5,14 @@
   "referenceNumber": "ST0422",
   "learningAimClassCode": "",
   "title": "Science manufacturing process operative",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0422",
   "qualificationStandardUrl": null,
-  "versionNumber": "2.0",
-  "change": "Approved for delivery",
+  "versionNumber": "",
+  "change": "In development",
   "changedDate": "2026-05-26T00:00:00",
-  "earliestStartDate": "2026-05-26T00:00:00",
+  "earliestStartDate": "2026-10-31T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Operating science industry manufacturing equipment.",
@@ -45,7 +45,7 @@
     "Sterile operations process operator"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/1448/science-manufacturing-process-operative-assessment-plan.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0422-in-revision?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.2 Manufacturing technologies",
   "version": "2.0",
@@ -266,7 +266,7 @@
   "standardApproved": "",
   "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
@@ -275,7 +275,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "2018-02-27T00:00:00 +00:00",
+  "approvedForDelivery": "",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -309,10 +309,10 @@
   "createdDate": "2026-05-26T11:05:52 +00:00",
   "lastUpdated": "2026-05-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-02-27T00:00:00 +00:00",
-  "banners": "",
+  "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. A lead-in period is currently in effect until 31 October 2026. At the end of the lead-in period, starts can commence. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
   "occupationCode": "OCC0422",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0422-v2-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0422-v2-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0422-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0422-in-revision",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -779,5 +779,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-05-26T00:00:00"
+  "publishDate": "2026-10-31T00:00:00"
 }
