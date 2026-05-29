@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2021-11-12T00:00:00",
+  "changedDate": "2026-05-28T00:00:00",
   "earliestStartDate": "2021-11-12T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-08-31T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Provide tactical advice, training and support on core technology applications.",
   "level": 4,
@@ -248,9 +248,9 @@
   "clusterId": "188",
   "clusterDescription": "Co-ordinate systems development tasks including the design, integration and formal testing, oversees transition into production",
   "createdDate": "2021-08-20T12:14:01 +00:00",
-  "lastUpdated": "2021-11-12T00:00:00 +00:00",
+  "lastUpdated": "2026-05-28T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
-  "banners": "",
+  "banners": "A revised version of this has been agreed and is available for information only at present. It will replace the version below for new starts from ​1st September 2026 with a funding band of ​£17,000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0949",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0949-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0949-v1-0",
@@ -589,5 +589,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2021-11-12T00:00:00"
+  "publishDate": "2026-08-31T00:00:00"
 }
