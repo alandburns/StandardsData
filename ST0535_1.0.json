@@ -13,7 +13,7 @@
   "change": "Approved for delivery",
   "changedDate": "2024-03-06T00:00:00",
   "earliestStartDate": "2019-04-12T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-01-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Reading medical notes or records and analysing the contents which then translate into alphanumeric codes that accurately represent the patient’s stay.",
   "level": 3,
@@ -320,7 +320,7 @@
   "createdDate": "2017-11-14T17:09:43 +00:00",
   "lastUpdated": "2024-03-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-04-12T00:00:00 +00:00",
-  "banners": "",
+  "banners": "A revised version of this has been agreed and is available for information only at present. It will replace the version below for new starts from ​Wednesday 13th Jan 27 with a funding band of ​£5000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0535",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0535-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0535-v1-0",
@@ -332,5 +332,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-03-06T00:00:00"
+  "publishDate": "2027-01-12T00:00:00"
 }
