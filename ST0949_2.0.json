@@ -5,14 +5,14 @@
   "referenceNumber": "ST0949",
   "learningAimClassCode": "",
   "title": "Applications support lead",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0949",
   "qualificationStandardUrl": null,
-  "versionNumber": "2.0",
-  "change": "Approved for delivery",
-  "changedDate": "2026-05-26T00:00:00",
-  "earliestStartDate": "2021-11-12T00:00:00",
+  "versionNumber": "",
+  "change": "In development",
+  "changedDate": "2026-05-28T00:00:00",
+  "earliestStartDate": "2026-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide tactical advice, training, and support on core technology applications.",
@@ -45,7 +45,7 @@
     "Technical Support Analyst"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/media/2hrbyoih/st0949_application-support-lead_l4_ap-for-publication_20210818.pdf",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0949-in-revision?view=epa",
   "ssa1": "6 Digital Technology",
   "ssa2": "6.1 Digital technology (practitioners)",
   "version": "2.0",
@@ -218,7 +218,7 @@
   "standardApproved": "",
   "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
@@ -227,7 +227,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "2021-11-12T00:00:00 +00:00",
+  "approvedForDelivery": "",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -260,12 +260,12 @@
   "clusterId": "188",
   "clusterDescription": "Co-ordinate systems development tasks including the design, integration and formal testing, oversees transition into production",
   "createdDate": "2026-05-26T11:20:11 +00:00",
-  "lastUpdated": "2026-05-26T00:00:00 +00:00",
-  "occupationalStandardApprovalDate": "2021-11-12T00:00:00 +00:00",
-  "banners": "",
+  "lastUpdated": "2026-05-28T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2026-05-26T00:00:00 +00:00",
+  "banners": "\n\nA&nbsp;revised version&nbsp;of this has been agreed and is available for information only at present. It will replace the version below for new starts from ​1st September 2026 with a funding band of ​£17,000. Further details of this and other apprenticeships in revision are available in the&nbsp;revisions status report.\n\n",
   "occupationCode": "OCC0949",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0949-v2-0?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0949-v2-0",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0949-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0949-in-revision",
   "qualifications": [],
   "professionalRecognition": [
     {
@@ -581,5 +581,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-05-26T00:00:00"
+  "publishDate": "2026-09-01T00:00:00"
 }
