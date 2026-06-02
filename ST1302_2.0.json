@@ -12,7 +12,7 @@
   "versionNumber": "",
   "change": "In development",
   "changedDate": "2026-05-29T00:00:00",
-  "earliestStartDate": "2026-12-18T00:00:00",
+  "earliestStartDate": "2026-12-17T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Governance officers provide administrative and operational support.",
@@ -39,7 +39,7 @@
     "Secretariat officer"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1302-in-revision?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.3 Business management",
   "version": "2.0",
@@ -208,7 +208,7 @@
   "standardApproved": "",
   "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
     "providerName": "Ofqual",
@@ -776,5 +776,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-12-18T00:00:00"
+  "publishDate": "2026-12-17T00:00:00"
 }
