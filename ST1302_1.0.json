@@ -13,7 +13,7 @@
   "change": "Approved for delivery",
   "changedDate": "2026-05-29T00:00:00",
   "earliestStartDate": "2023-05-25T00:00:00",
-  "latestStartDate": "2026-12-17T00:00:00",
+  "latestStartDate": "2026-12-16T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Governance officers provide administrative and operational support.",
   "level": 4,
@@ -776,5 +776,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-12-17T00:00:00"
+  "publishDate": "2026-12-16T00:00:00"
 }
