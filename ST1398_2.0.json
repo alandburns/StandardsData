@@ -10,7 +10,7 @@
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1398",
   "qualificationStandardUrl": null,
   "versionNumber": "",
-  "change": "New reformed assessment format.",
+  "change": "Assessment plan revised",
   "changedDate": "2026-05-28T00:00:00",
   "earliestStartDate": "2026-12-01T00:00:00",
   "latestStartDate": null,
@@ -338,7 +338,7 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual is the intended EQA provider",
+    "providerName": "Ofqual",
     "contactName": "",
     "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
     "contactEmail": "",
