@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2026-03-03T00:00:00",
+  "changedDate": "2026-06-03T00:00:00",
   "earliestStartDate": "2015-08-27T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-09-10T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Supporting teams that carry out investment transactions on behalf of individuals or organisations.",
   "level": 3,
@@ -137,9 +137,9 @@
   "clusterId": "240",
   "clusterDescription": "Provide highly accurate support to operations and administration across wide areas of financial service areas including research and analysis compliant with relevant regulations. Deliver support to clients and to client account management (risk, collection, enforcement, recovery)",
   "createdDate": "2017-09-22T14:24:58 +00:00",
-  "lastUpdated": "2026-03-03T00:00:00 +00:00",
+  "lastUpdated": "2026-06-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-08-27T00:00:00 +00:00",
-  "banners": "We are proposing to retire this apprenticeship for new starts due to a low number of starts and a declining number of starts for the previous five years. If you would like to feed in any views on this intention, please email brian.annett@education.gov.uk by 31st March 2026. Please note that retirement of this standard has not yet been authorised.; This apprenticeship is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards and apprenticeships in revision are available in the revisions status report.",
+  "banners": "This apprenticeship will be retired from ​10th September 2026. Current apprentices will be able to complete their programme. Employers who wish to start new apprentices should consider using ST0177 Financial services administrator or ST0185 Financial services customer adviser​. Although this apprenticeship is being retired, the occupation remains on the Occupational Map for potential use as the basis of another technical education product",
   "occupationCode": "OCC0181",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0181-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0181-v1-0",
@@ -151,5 +151,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-03-03T00:00:00"
+  "publishDate": "2026-09-10T00:00:00"
 }
