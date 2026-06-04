@@ -1,6 +1,6 @@
 {
   "templateType": "Occupational Standard",
-  "shortAssessment": false,
+  "shortAssessment": true,
   "larsCode": 0,
   "referenceNumber": "ST1472",
   "learningAimClassCode": "",
@@ -11,8 +11,8 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "2026-03-18T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2026-06-03T00:00:00",
+  "earliestStartDate": "2026-08-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To support organisational functions and processes. ",
@@ -41,7 +41,7 @@
     "Secretary"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1472?view=epa",
   "ssa1": "15 Business, Administration, Finance and Law",
   "ssa2": "15.2 Administration",
   "version": "0.0",
@@ -102,7 +102,7 @@
     },
     {
       "knowledgeId": "058fa620-03ea-45be-aa98-87b4f780cd68",
-      "detail": "Approaches to maintaining up-to-date knowledge of existing and evolving sector trends. "
+      "detail": "Approaches to maintaining up-to-date knowledge of existing and evolving tools and trends. "
     },
     {
       "knowledgeId": "3f51bee5-38ab-4a90-8d5b-e132f92544f7",
@@ -164,7 +164,7 @@
     },
     {
       "behaviourId": "55448dfd-25ad-4389-9e01-206c44cea655",
-      "detail": "Acts in a  ethical manner embracing equity, diversity and inclusion in the workplace."
+      "detail": "Acts in an  ethical manner embracing equity, diversity and inclusion in the workplace."
     },
     {
       "behaviourId": "641697cd-b346-445b-9943-8f9892d98856",
@@ -194,7 +194,7 @@
     },
     {
       "skillId": "61c8a800-7bea-48ba-9238-524869c8e3cd",
-      "detail": "Use software packages and tools to input and process data and information, to contribute to routine administration tasks in line with organisational policies and procedures."
+      "detail": "Use software packages and tools for example AI or automation to input and process data and information, to contribute to routine administration tasks in line with organisational policies and procedures."
     },
     {
       "skillId": "7f958972-41c7-4eda-b995-35a831bd12ac",
@@ -270,9 +270,15 @@
   "standardApproved": "",
   "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": null,
   "integration": "None",
@@ -303,10 +309,10 @@
   "cluster": "Administrator",
   "clusterId": "45",
   "clusterDescription": "Co-ordination, management and delivery of specific business processes and also their direct provision to users",
-  "createdDate": "2026-03-18T16:23:12 +00:00",
-  "lastUpdated": "2026-03-18T00:00:00 +00:00",
+  "createdDate": "2026-06-03T09:13:27 +00:00",
+  "lastUpdated": "2026-06-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
-  "banners": "This assessment plan is currently being developed under the 2025/2026 apprenticeship assessment reforms. The standard will be live for starts on the 1 August 2026. The assessment plan will be published ahead of this date. Starts on the standard will be restricted to under 25s.",
+  "banners": "The standard will be live for starts on the 1 August 2026. Starts on the standard will be restricted to under 25s.",
   "occupationCode": "OCC1472",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1472?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1472",
@@ -752,5 +758,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-03-18T00:00:00"
+  "publishDate": "2026-08-01T00:00:00"
 }
