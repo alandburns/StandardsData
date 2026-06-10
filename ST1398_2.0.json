@@ -11,8 +11,8 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Assessment plan revised",
-  "changedDate": "2026-05-28T00:00:00",
-  "earliestStartDate": "2026-12-01T00:00:00",
+  "changedDate": "2026-06-09T00:00:00",
+  "earliestStartDate": "2026-12-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "The ML Engineer gathers data from different sources to design, build, deploy and validate machine learning and or artificial intelligence solutions.\n\n",
@@ -369,9 +369,9 @@
   "clusterId": "233",
   "clusterDescription": "Provide and implement data technology enabled solutions to support internal and external customers.",
   "createdDate": "2026-05-28T09:05:57 +00:00",
-  "lastUpdated": "2026-05-28T00:00:00 +00:00",
+  "lastUpdated": "2026-06-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-18T00:00:00 +00:00",
-  "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. A lead-in period is currently in effect until December 2026. &nbsp;At the end of the lead-in period, starts can commence. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
+  "banners": "",
   "occupationCode": "OCC1398",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1398-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1398-in-revision",
@@ -615,5 +615,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-12-01T00:00:00"
+  "publishDate": "2026-12-11T00:00:00"
 }
