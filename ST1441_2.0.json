@@ -1,9 +1,9 @@
 {
   "templateType": "Occupational Standard",
   "shortAssessment": true,
-  "larsCode": 0,
+  "larsCode": 836,
   "referenceNumber": "ST1441",
-  "learningAimClassCode": "",
+  "learningAimClassCode": "Z0002042",
   "title": "Railway operations manager",
   "status": "Approved for delivery",
   "approvedForDeliveryPausedStarts": true,
