@@ -10,10 +10,10 @@
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0166",
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
-  "change": "",
-  "changedDate": "2022-05-31T00:00:00",
+  "change": "Approved for delivery",
+  "changedDate": "2026-06-12T00:00:00",
   "earliestStartDate": "2018-04-13T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-07-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Working with and caring for horses.",
   "level": 2,
@@ -200,9 +200,9 @@
   "clusterId": "122",
   "clusterDescription": "Day-to-day welfare, health (including breeding) and training (riding, racing and driving) of horses",
   "createdDate": "2017-11-14T17:09:31 +00:00",
-  "lastUpdated": "2022-05-31T00:00:00 +00:00",
+  "lastUpdated": "2026-06-12T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-04-13T00:00:00 +00:00",
-  "banners": "For the attention of all Employers, Training Providers and EPAOs - please note that under no circumstances should the removal of a horseshoe be carried out by an unauthorised person during the training or assessment of a candidate unless rendering first aid in case of an emergency to a horse. Please adhere to the legislation as laid down in the Farriers Registration Act, 1975 (as amended), paying particular attention to sections 16 and 18.; \u00A0\nA revised version of this occupational standard and end-point assessment plan has been agreed and is available for information only at present. In the meantime, the version below remains approved for delivery. Further details of this and other apprenticeship standards in revision are available in the revisions status report.",
+  "banners": "For the attention of all Employers, Training Providers and EPAOs - please note that under no circumstances should the removal of a horseshoe be carried out by an unauthorised person during the training or assessment of a candidate unless rendering first aid in case of an emergency to a horse. Please adhere to the legislation as laid down in the Farriers Registration Act, 1975 (as amended), paying particular attention to sections 16 and 18.; A revised version of this occupational standard and end-point assessment plan has been agreed and is available for information only at present. It will replace the version below for new starts from 27 July 2026 with a funding band of £10,000.",
   "occupationCode": "OCC0166",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0166-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0166-v1-0",
@@ -319,5 +319,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-05-31T00:00:00"
+  "publishDate": "2026-07-26T00:00:00"
 }
