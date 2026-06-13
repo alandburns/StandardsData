@@ -10,9 +10,9 @@
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0166",
   "qualificationStandardUrl": null,
   "versionNumber": "",
-  "change": "",
-  "changedDate": "2024-09-04T00:00:00",
-  "earliestStartDate": null,
+  "change": "Occupational standard, end-point assessment plan and funding band revised.",
+  "changedDate": "2026-06-12T00:00:00",
+  "earliestStartDate": "2026-07-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Working with and caring for horses.",
@@ -20,7 +20,7 @@
   "ePALength": 4,
   "typicalDuration": 12,
   "minimumHoursForCompliance": "",
-  "maxFunding": 0,
+  "maxFunding": 10000,
   "maxFundingAdditionalInformation": "",
   "route": "Agriculture, environmental and animal care",
   "keywords": [
@@ -656,9 +656,9 @@
   "clusterId": "122",
   "clusterDescription": "Day-to-day welfare, health (including breeding) and training (riding, racing and driving) of horses",
   "createdDate": "2024-12-10T12:11:41 +00:00",
-  "lastUpdated": "2024-09-04T00:00:00 +00:00",
+  "lastUpdated": "2026-06-12T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-04-13T00:00:00 +00:00",
-  "banners": "This revised version of the occupational standard and end-point assessment plan has been agreed and is available for information only pending approval of the funding band.",
+  "banners": "The below revised version of the occupational standard and end-point assessment plan has been agreed and is available for information. It will be approved for delivery and replace the current version for new starts from 27 July 2026. It will have a funding band of £10,000.",
   "occupationCode": "OCC0166",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0166-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0166-in-revision",
@@ -1299,5 +1299,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-09-04T00:00:00"
+  "publishDate": "2026-07-27T00:00:00"
 }
