@@ -23,7 +23,13 @@
   "maxFunding": 0,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
-  "keywords": [],
+  "keywords": [
+    "financia investment professional",
+    "finance",
+    "stakeholder relationships",
+    "banking",
+    "investment"
+  ],
   "jobRoles": [
     "Investment analyst",
     "Investment banker",
@@ -309,7 +315,7 @@
   "cluster": "Financial services professional",
   "clusterId": "243",
   "clusterDescription": "Provide high quality advice and support to internal and external clients across a full range of financial instruments and services using specialist knowledge of instruments and services supported and areas of the business worked in",
-  "createdDate": "2026-06-12T09:06:48 +00:00",
+  "createdDate": "2026-06-19T10:41:11 +00:00",
   "lastUpdated": "2026-05-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
