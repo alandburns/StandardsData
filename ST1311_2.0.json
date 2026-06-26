@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "2.0",
   "change": "Assessment plan revised",
-  "changedDate": "2026-06-08T00:00:00",
+  "changedDate": "2026-06-26T00:00:00",
   "earliestStartDate": "2026-06-08T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -252,7 +252,7 @@
   "clusterId": "249",
   "clusterDescription": "Deliver legal services to internal and external clients based on specific specialism e.g. land/property conveyancing, Family law, civil litigation, criminal, company & business law",
   "createdDate": "2026-06-08T15:15:54 +00:00",
-  "lastUpdated": "2026-06-08T00:00:00 +00:00",
+  "lastUpdated": "2026-06-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-12-06T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1311",
@@ -807,5 +807,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-06-08T00:00:00"
+  "publishDate": "2026-06-26T00:00:00"
 }
