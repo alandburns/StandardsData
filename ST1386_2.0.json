@@ -11,8 +11,8 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Assessment plan revised",
-  "changedDate": "2026-05-28T00:00:00",
-  "earliestStartDate": "2026-12-01T00:00:00",
+  "changedDate": "2026-06-30T00:00:00",
+  "earliestStartDate": "2026-12-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Build systems that collect, manage, and convert data into usable information for data scientists, data analysts and business intelligence analysts to interpret.",
@@ -342,10 +342,10 @@
   "cluster": "Data analyst advanced technician",
   "clusterId": "189",
   "clusterDescription": "Collect, organise and analyse data to provide business insights using extensive knowledge of data solutions, database systems and analytical tools",
-  "createdDate": "2026-05-28T09:15:11 +00:00",
-  "lastUpdated": "2026-05-28T00:00:00 +00:00",
+  "createdDate": "2026-06-30T14:45:52 +00:00",
+  "lastUpdated": "2026-06-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-12-11T00:00:00 +00:00",
-  "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. A lead-in period is currently in effect until 1st December 2026 At the end of the lead-in period, starts can commence. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
+  "banners": "",
   "occupationCode": "OCC1386",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1386-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1386-in-revision",
@@ -623,5 +623,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-12-01T00:00:00"
+  "publishDate": "2026-12-18T00:00:00"
 }
