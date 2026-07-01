@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2026-06-09T00:00:00",
+  "changedDate": "2026-06-30T00:00:00",
   "earliestStartDate": "2023-12-11T00:00:00",
-  "latestStartDate": "2026-11-30T00:00:00",
+  "latestStartDate": "2026-12-17T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Build systems that collect, manage, and convert data into usable information for data scientists, data analysts and business intelligence analysts to interpret.",
   "level": 5,
@@ -343,7 +343,7 @@
   "clusterId": "189",
   "clusterDescription": "Collect, organise and analyse data to provide business insights using extensive knowledge of data solutions, database systems and analytical tools",
   "createdDate": "2024-04-26T08:20:41 +00:00",
-  "lastUpdated": "2026-06-09T00:00:00 +00:00",
+  "lastUpdated": "2026-06-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-12-11T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1386",
@@ -623,5 +623,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-11-30T00:00:00"
+  "publishDate": "2026-12-17T00:00:00"
 }
