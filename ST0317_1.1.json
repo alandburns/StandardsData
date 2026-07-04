@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Updated SSA",
-  "changedDate": "2025-12-10T00:00:00",
+  "changedDate": "2026-07-03T00:00:00",
   "earliestStartDate": "2025-12-10T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2026-07-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Providing support to technicians and engineers working on the rail network and trains.",
   "level": 2,
@@ -222,9 +222,9 @@
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2025-12-08T09:36:38 +00:00",
-  "lastUpdated": "2025-12-10T00:00:00 +00:00",
+  "lastUpdated": "2026-07-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-19T00:00:00 +00:00",
-  "banners": "This apprenticeship standard is in the process of being revised. In the meantime, the version below remains approved for delivery. Further details of this and other occupational standards in revision are available in the revisions status report.",
+  "banners": "",
   "occupationCode": "OCC0317",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-v1-1",
@@ -357,5 +357,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-10T00:00:00"
+  "publishDate": "2026-07-26T00:00:00"
 }
