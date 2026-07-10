@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding revised",
-  "changedDate": "2026-05-01T00:00:00",
+  "changedDate": "2026-07-09T00:00:00",
   "earliestStartDate": "2023-03-21T00:00:00",
-  "latestStartDate": "2026-08-25T00:00:00",
+  "latestStartDate": "2026-08-11T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Supporting senior colleagues to help manage risks for clients. This will be through the use of actuarial techniques and building mathematical models",
   "level": 4,
@@ -212,9 +212,9 @@
   "clusterId": "244",
   "clusterDescription": "Model the financial needs of clients using a wide range of digital/IT skills. Give advise based on research and analysis directly to clients covering a wide range of financial services and products",
   "createdDate": "2023-03-21T16:02:35 +00:00",
-  "lastUpdated": "2026-05-01T00:00:00 +00:00",
+  "lastUpdated": "2026-07-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-03-26T00:00:00 +00:00",
-  "banners": "A revised version of this apprenticeship has been agreed and is available for information only at present. It will replace the version below for new starts from ​26 August 2026 with a funding band of £15,000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
+  "banners": "A revised version of this apprenticeship has been agreed and is available for information only at present. It will replace the version below for new starts from 12 August 2026 with a funding band of £15,000. Further details of this and other apprenticeships in revision are available in the revisions status report.",
   "occupationCode": "OCC0004",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0004-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0004-v1-1",
@@ -469,5 +469,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-08-25T00:00:00"
+  "publishDate": "2026-08-11T00:00:00"
 }
