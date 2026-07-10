@@ -11,8 +11,8 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Occupational standard and assessment plan revised.",
-  "changedDate": "2026-02-27T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2026-07-09T00:00:00",
+  "earliestStartDate": "2026-12-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Provide globally recognised, reliable, high-quality financial information, as well as technical accounting, management, and strategic advice",
@@ -20,7 +20,7 @@
   "ePALength": 0,
   "typicalDuration": 36,
   "minimumHoursForCompliance": "",
-  "maxFunding": 0,
+  "maxFunding": 26000,
   "maxFundingAdditionalInformation": "",
   "route": "Legal, finance and accounting",
   "keywords": [
@@ -210,9 +210,9 @@
   "clusterId": "237",
   "clusterDescription": "Direct and oversee the creation, analysis and auditing of financial information for internal and external clients and the regulatory authorities often requiring specialist knowledge",
   "createdDate": "2026-02-27T09:42:48 +00:00",
-  "lastUpdated": "2026-02-27T00:00:00 +00:00",
+  "lastUpdated": "2026-07-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-11-07T00:00:00 +00:00",
-  "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. A lead-in period of approximately 6 months will commence when the apprenticeship is approved for delivery with a funding band. At the end of the lead-in period, it will replace the current version for new starts. Until then, the current end-point assessment remains in place. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
+  "banners": "",
   "occupationCode": "OCC0001",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0001-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0001-in-revision",
@@ -820,5 +820,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-02-27T00:00:00"
+  "publishDate": "2026-12-18T00:00:00"
 }
