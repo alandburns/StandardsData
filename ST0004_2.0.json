@@ -11,8 +11,8 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Assessment plan revised",
-  "changedDate": "2026-05-01T00:00:00",
-  "earliestStartDate": "2026-08-26T00:00:00",
+  "changedDate": "2026-07-09T00:00:00",
+  "earliestStartDate": "2026-08-12T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Supporting senior colleagues to help manage risks for clients. This will be through the use of actuarial techniques and building mathematical models",
@@ -212,9 +212,9 @@
   "clusterId": "244",
   "clusterDescription": "Model the financial needs of clients using a wide range of digital/IT skills. Give advise based on research and analysis directly to clients covering a wide range of financial services and products",
   "createdDate": "2026-06-08T14:05:13 +00:00",
-  "lastUpdated": "2026-05-01T00:00:00 +00:00",
+  "lastUpdated": "2026-07-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-03-26T00:00:00 +00:00",
-  "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. A lead-in period is currently in effect until 26 August 2026. At the end of the lead-in period, starts can commence. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
+  "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. A lead-in period is currently in effect until 12 August 2026. At the end of the lead-in period, starts can commence. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
   "occupationCode": "OCC0004",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0004-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0004-in-revision",
@@ -469,5 +469,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-08-26T00:00:00"
+  "publishDate": "2026-08-12T00:00:00"
 }
