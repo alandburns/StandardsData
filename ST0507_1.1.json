@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Updated SSA",
-  "changedDate": "2025-12-08T00:00:00",
+  "changedDate": "2026-07-14T00:00:00",
   "earliestStartDate": "2025-12-08T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -355,9 +355,9 @@
   "clusterId": "256",
   "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2025-12-08T09:37:06 +00:00",
-  "lastUpdated": "2025-12-08T00:00:00 +00:00",
+  "lastUpdated": "2026-07-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-07T00:00:00 +00:00",
-  "banners": "",
+  "banners": "We are proposing to retire this apprenticeship for new starts due to very low starts​. If you would like to feed in any views on this intention, please email Engineeringmanufacturing.skillsengland@dwp.gov.uk ​by 1 September 2026​. Please note that retirement of this standard has not yet been authorised.",
   "occupationCode": "OCC0507",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0507-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0507-v1-1",
@@ -506,5 +506,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-08T00:00:00"
+  "publishDate": "2026-07-14T00:00:00"
 }
