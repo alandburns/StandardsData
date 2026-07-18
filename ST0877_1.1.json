@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Updated SSA",
-  "changedDate": "2025-12-10T00:00:00",
+  "changedDate": "2026-07-17T00:00:00",
   "earliestStartDate": "2025-12-10T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -210,9 +210,9 @@
   "clusterId": "138",
   "clusterDescription": "Identify and monitor client requirements, H&S risks, regulatory compliance, environmental impact , build quality, co-ordinate information and manage build costs",
   "createdDate": "2025-12-08T09:37:26 +00:00",
-  "lastUpdated": "2025-12-10T00:00:00 +00:00",
+  "lastUpdated": "2026-07-17T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-12-16T00:00:00 +00:00",
-  "banners": "This apprenticeship standard was approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
+  "banners": "We are proposing to retire this apprenticeship for new starts due to no starts on programme since 2024 and no end point assessment organisation (EPAO). If you would like to raise any concerns with the proposed retirement please complete the form below with your views by 5pm on Friday 14 August 2026.Please note that retirement of this standard has not yet been agreed or authorised.If you have any comments or concerns regarding this, please complete the form below. These will be logged and reviewed once the consultation period has close; This apprenticeship standard was approved for delivery by the Institute for Apprenticeships and Technical Education. However, starts on the apprenticeship will only be possible once a suitable end-point assessment organisation (EPAO) has obtained Ofqual recognition. Once the EPAO has obtained Ofqual recognition, funding for apprentice starts will be permitted and this message will be removed.",
   "occupationCode": "OCC0877",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0877-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0877-v1-1",
@@ -546,5 +546,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-10T00:00:00"
+  "publishDate": "2026-07-17T00:00:00"
 }
