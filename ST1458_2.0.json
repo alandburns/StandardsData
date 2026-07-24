@@ -203,8 +203,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
-  "integratedApprenticeship": null,
-  "integration": null,
+  "integratedApprenticeship": false,
+  "integration": "Mandatory qualification only",
   "integratedDegree": "",
   "tbReference": "TB0897",
   "tbMainContact": "vicky.odro@bdo.co.uk",
