@@ -1103,17 +1103,17 @@
     {
       "optionId": "9f1b9c91-f61f-4b4c-8aa2-e1fe9cd9b603",
       "title": "Investment banking professional",
-      "occupationCode": ""
+      "occupationCode": "OCC1465A"
     },
     {
       "optionId": "cba16e59-59cd-4d4e-a0cd-7cb00e89a1cc",
       "title": "Investment management professional",
-      "occupationCode": ""
+      "occupationCode": "OCC1465B"
     },
     {
       "optionId": "cd9361dc-96c5-4518-a9e3-a2471f475d1f",
       "title": "Investment operations professional",
-      "occupationCode": ""
+      "occupationCode": "OCC1465C"
     }
   ],
   "regulationDetail": [],
