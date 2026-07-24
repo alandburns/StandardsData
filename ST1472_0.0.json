@@ -11,8 +11,8 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "2026-06-03T00:00:00",
-  "earliestStartDate": "2026-08-01T00:00:00",
+  "changedDate": "2026-07-23T00:00:00",
+  "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "To support organisational functions and processes. ",
@@ -310,9 +310,9 @@
   "clusterId": "45",
   "clusterDescription": "Co-ordination, management and delivery of specific business processes and also their direct provision to users",
   "createdDate": "2026-06-12T08:56:43 +00:00",
-  "lastUpdated": "2026-06-03T00:00:00 +00:00",
+  "lastUpdated": "2026-07-23T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
-  "banners": "The standard will be live for starts on the 1 August 2026. Starts on the standard will be restricted to under 25s.",
+  "banners": "The below assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. Starts may commence on 13th August 2026, pending an assessment organisation being confirmed, with a funding band of £4,000 for apprentices who, at the start of their apprenticeship training, are aged under 25. This allows providers and employers to begin working with assessment organisations to deliver the assessment. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
   "occupationCode": "OCC1472",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1472?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1472",
@@ -758,5 +758,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-08-01T00:00:00"
+  "publishDate": "2026-07-23T00:00:00"
 }
