@@ -241,7 +241,7 @@
   },
   "approvedForDelivery": "2026-03-13T00:00:00 +00:00",
   "integratedApprenticeship": true,
-  "integration": null,
+  "integration": "Mandatory qualification with apprenticeship assessment",
   "integratedDegree": "",
   "tbReference": "TB0879",
   "tbMainContact": "PRock@lambeth.gov.uk",
