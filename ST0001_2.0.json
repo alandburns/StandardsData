@@ -182,8 +182,8 @@
     "webLink": "https://contact.ofqual.gov.uk/"
   },
   "approvedForDelivery": "",
-  "integratedApprenticeship": null,
-  "integration": "None",
+  "integratedApprenticeship": false,
+  "integration": "Mandatory qualification only",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0071",
   "tbMainContact": "jcatlin@deloitte.co.uk",
