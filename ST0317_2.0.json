@@ -5,13 +5,13 @@
   "referenceNumber": "ST0317",
   "learningAimClassCode": "",
   "title": "Rail engineering operative",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0317",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
+  "versionNumber": "2.0",
   "change": "Occupational standard and assessment plan revised",
-  "changedDate": "2026-07-03T00:00:00",
+  "changedDate": "2026-08-03T00:00:00",
   "earliestStartDate": "2026-07-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -38,7 +38,7 @@
     "Rail engineering operative - operations"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-v2-0?view=epa",
   "ssa1": "4 Engineering and Manufacturing Technologies",
   "ssa2": "4.1 Engineering",
   "version": "2.0",
@@ -343,7 +343,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2016-04-19T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -366,12 +366,12 @@
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2026-07-03T08:20:49 +00:00",
-  "lastUpdated": "2026-07-03T00:00:00 +00:00",
+  "lastUpdated": "2026-08-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0317",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0317-v2-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -812,5 +812,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-07-27T00:00:00"
+  "publishDate": "2026-08-03T00:00:00"
 }
