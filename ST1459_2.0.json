@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "2026-02-27T00:00:00",
+  "changedDate": "2026-08-04T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -306,7 +306,13 @@
   "epaApprovalDate": "",
   "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Skills England",
+    "contactName": "",
+    "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
   "integration": "Mandatory qualification only",
@@ -346,7 +352,7 @@
   "clusterId": "237",
   "clusterDescription": "Direct and oversee the creation, analysis and auditing of financial information for internal and external clients and the regulatory authorities often requiring specialist knowledge",
   "createdDate": "2026-02-27T09:50:41 +00:00",
-  "lastUpdated": "2026-02-27T00:00:00 +00:00",
+  "lastUpdated": "2026-08-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. It replaces the occupational standard and assessment for the tax related aspects of ST0001 - accountancy or taxation professional. A lead-in period of approximately 6 months will commence when the apprenticeship is approved for delivery with a funding band. At the end of the lead-in period, starts can commence. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
   "occupationCode": "OCC1459",
@@ -1156,5 +1162,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-02-27T00:00:00"
+  "publishDate": "2026-08-04T00:00:00"
 }
