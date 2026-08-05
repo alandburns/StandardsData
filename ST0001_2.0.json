@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Occupational standard and assessment plan revised.",
-  "changedDate": "2026-07-09T00:00:00",
+  "changedDate": "2026-08-04T00:00:00",
   "earliestStartDate": "2026-12-18T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -175,11 +175,11 @@
   "epaPublished": "true",
   "fundingApprovalDate": "",
   "eQAProvider": {
-    "providerName": "Ofqual",
+    "providerName": "Skills England",
     "contactName": "",
-    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
-    "contactEmail": "",
-    "webLink": "https://contact.ofqual.gov.uk/"
+    "contactAddress": "London office: Sanctuary Buildings, 20 Great Smith Street, London SW1P 3BT<br>Coventry office: Level 2 Cheylesmore House, 5 Quinton Rd, Coventry CV1 2WT",
+    "contactEmail": "skills.england@education.gov.uk",
+    "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "",
   "integratedApprenticeship": false,
@@ -210,7 +210,7 @@
   "clusterId": "237",
   "clusterDescription": "Direct and oversee the creation, analysis and auditing of financial information for internal and external clients and the regulatory authorities often requiring specialist knowledge",
   "createdDate": "2026-02-27T09:42:48 +00:00",
-  "lastUpdated": "2026-07-09T00:00:00 +00:00",
+  "lastUpdated": "2026-08-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-11-07T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0001",
