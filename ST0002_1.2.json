@@ -5,13 +5,13 @@
   "referenceNumber": "ST0002",
   "learningAimClassCode": "",
   "title": "Assistant accountant",
-  "status": "Approved for delivery",
-  "approvedForDeliveryPausedStarts": false,
+  "status": "Retired",
+  "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0002",
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "End-point assessment plan, standard and funding revised.",
-  "changedDate": "2026-07-09T00:00:00",
+  "changedDate": "2026-08-12T00:00:00",
   "earliestStartDate": "2023-08-01T00:00:00",
   "latestStartDate": "2026-08-11T00:00:00",
   "latestEndDate": null,
@@ -220,7 +220,7 @@
   "clusterId": "236",
   "clusterDescription": "Undertake routine accountancy support analysis and report on financial activities including dealing with HMRC",
   "createdDate": "2023-08-25T12:58:16 +00:00",
-  "lastUpdated": "2026-07-09T00:00:00 +00:00",
+  "lastUpdated": "2026-08-12T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-09-07T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0002",
@@ -464,5 +464,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-08-11T00:00:00"
+  "publishDate": "2026-08-12T00:00:00"
 }
