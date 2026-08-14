@@ -125,10 +125,6 @@
       "detail": "The moral and ethical issues and recommended best practice when incorporating technology such as AI within productions . "
     },
     {
-      "knowledgeId": "e27717b5-cc0c-4343-a0a3-56ff0faa8b43",
-      "detail": "End-to-end production workflow from pre-production through to distribution, and how the stages of production and departments interact. "
-    },
-    {
       "knowledgeId": "ff6702a4-cb02-4fab-bbda-9fce33716193",
       "detail": "Methods to produce and maintain a project plan that delivers client objectives whilst setting internal targets. "
     },
@@ -277,10 +273,6 @@
       "detail": "Ensure the programme deliverables are produced to meet technical standards such as format and quality for domestic or international delivery. "
     },
     {
-      "skillId": "0fb44d2d-8f87-425b-85e7-7d3582235197",
-      "detail": "Plan the production workflow. Agree timelines and responsibilities with each department."
-    },
-    {
       "skillId": "e0cc657b-57bb-4fbd-a550-3d8a8f13ee39",
       "detail": "Make informed and project critical decisions on resource allocations relating to post production. "
     },
@@ -379,7 +371,7 @@
   "cluster": "Media, broadcast and production professional",
   "clusterId": "29",
   "clusterDescription": "Leadership, management, and the application technology of resources to create, produce and deliver broadcast content and artistic productions, often requiring specialist expertise",
-  "createdDate": "2026-07-10T10:35:21 +00:00",
+  "createdDate": "2026-08-13T11:29:24 +00:00",
   "lastUpdated": "2026-07-29T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2026-04-28T00:00:00 +00:00",
   "banners": "This apprenticeship standard was approved for delivery by Skills England. However, starts on the apprenticeship will only be possible once a suitable assessment organisation is in place. Once an assessment organisation is in place, funding for apprentice starts will be permitted and this message will be removed.",
@@ -604,7 +596,6 @@
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b5d2cb34-b421-4af0-943f-7c02ef80e27f",
-        "e27717b5-cc0c-4343-a0a3-56ff0faa8b43",
         "ff6702a4-cb02-4fab-bbda-9fce33716193",
         "2e799b20-cb70-4650-b50f-a31ce90de86a",
         "8e52c658-78f0-4f31-8d5a-ecad36905f6a",
@@ -616,7 +607,6 @@
       "mappedSkills": [
         "db760ef7-8a82-42c4-a4f4-e5f6e10480b3",
         "c7256d2d-661b-4b70-8cae-87ffef8184a5",
-        "0fb44d2d-8f87-425b-85e7-7d3582235197",
         "e0cc657b-57bb-4fbd-a550-3d8a8f13ee39",
         "e3f19111-5797-4fe7-a218-0f90b75ed49e",
         "274d3852-4715-48c5-9fb6-245b1b9b323b",
@@ -633,7 +623,6 @@
       "mappedBehaviour": [],
       "mappedKnowledge": [
         "b5d2cb34-b421-4af0-943f-7c02ef80e27f",
-        "e27717b5-cc0c-4343-a0a3-56ff0faa8b43",
         "ff6702a4-cb02-4fab-bbda-9fce33716193",
         "2308a065-1a86-4e2f-aa5e-1ab14ab25bca",
         "2e799b20-cb70-4650-b50f-a31ce90de86a",
@@ -645,7 +634,6 @@
       ],
       "mappedSkills": [
         "db760ef7-8a82-42c4-a4f4-e5f6e10480b3",
-        "0fb44d2d-8f87-425b-85e7-7d3582235197",
         "e0cc657b-57bb-4fbd-a550-3d8a8f13ee39",
         "e3f19111-5797-4fe7-a218-0f90b75ed49e",
         "38347d01-8521-4660-b596-acbd4edd7085",
