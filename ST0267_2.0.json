@@ -5,13 +5,13 @@
   "referenceNumber": "ST0267",
   "learningAimClassCode": "",
   "title": "Lifting technician",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0267",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
+  "versionNumber": "2.0",
   "change": "Occupational standard and assessment plan revised",
-  "changedDate": "2026-08-13T00:00:00",
+  "changedDate": "2026-09-01T00:00:00",
   "earliestStartDate": "2026-08-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -38,7 +38,7 @@
     "Overhead crane technician"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0267-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0267-v2-0?view=epa",
   "ssa1": "5 Construction, Planning and the Built Environment",
   "ssa2": "5.2 Building and construction",
   "version": "2.0",
@@ -724,7 +724,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2017-12-01T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -749,12 +749,12 @@
   "clusterId": "103",
   "clusterDescription": "Prepare and operate specialist on-site plant and equipment, which could include lifting, pile driving, and pipe laying",
   "createdDate": "2026-08-13T08:50:17 +00:00",
-  "lastUpdated": "2026-08-13T00:00:00 +00:00",
+  "lastUpdated": "2026-09-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-12-01T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0267",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0267-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0267-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0267-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0267-v2-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -3244,5 +3244,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-08-28T00:00:00"
+  "publishDate": "2026-09-01T00:00:00"
 }
