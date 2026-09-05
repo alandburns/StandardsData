@@ -108,15 +108,15 @@
     },
     {
       "knowledgeId": "5b00bdd9-fac2-458e-b154-26a7bf2efb79",
-      "detail": "The\u00A0importance\u00A0of\u00A0only\u00A0using\u00A0approved\u00A0processes,\u00A0procedures,\u00A0documentation\u00A0and\u00A0the\u00A0potential\u00A0implications\u00A0for\u00A0the\u00A0organisation\u00A0if\u00A0this\u00A0is\u00A0not\u00A0followed."
+      "detail": "The importance of only using approved processes, procedures, documentation and the potential implications for the organisation if this is not followed."
     },
     {
       "knowledgeId": "d1148e6b-e551-45de-bcb2-283d6586eef8",
-      "detail": "Non-destructive\u00A0testing\u00A0reports\u00A0and\u00A0radiographs\u00A0to\u00A0identify\u00A0particular\u00A0defect\u00A0types\u00A0and\u00A0the\u00A0associated\u00A0improvements\u00A0to\u00A0process\u00A0and\u00A0technique\u00A0needed to prevent recurrence."
+      "detail": "Non-destructive testing reports and radiographs to identify particular defect types and the associated improvements to process and technique needed to prevent recurrence."
     },
     {
       "knowledgeId": "f6a0e3f6-820b-4169-b977-befc4cec2e2e",
-      "detail": "Risks\u00A0and\u00A0mitigation\u00A0measures\u00A0associated\u00A0with\u00A0welding\u00A0and\u00A0the\u00A0working\u00A0environment,\u00A0and\u00A0the\u00A0organisational\u00A0risk\u00A0management\u00A0processes."
+      "detail": "Risks and mitigation measures associated with welding and the working environment, and the organisational risk management processes."
     },
     {
       "knowledgeId": "9894c38b-779b-4e19-9a4b-5b816a47c14f",
@@ -164,11 +164,11 @@
   "skills": [
     {
       "skillId": "9606dffc-98ea-488e-b706-9bbf77f67a43",
-      "detail": "Work\u00A0safely\u00A0at\u00A0all\u00A0times,\u00A0comply\u00A0with\u00A0health,\u00A0safety\u00A0and\u00A0environmental\u00A0legislation,\u00A0regulations\u00A0and\u00A0organisational\u00A0requirements."
+      "detail": "Work safely at all times, comply with health, safety and environmental legislation, regulations and organisational requirements."
     },
     {
       "skillId": "17c1ab34-7b1a-4d17-9f7a-e47d99af1c69",
-      "detail": "Can obtain,\u00A0check\u00A0and\u00A0use\u00A0appropriate\u00A0documentation\u00A0(such\u00A0as\u00A0job\u00A0instructions,\u00A0drawings,\u00A0quality\u00A0control\u00A0documentation)."
+      "detail": "Can obtain, check and use appropriate documentation (such as job instructions, drawing, quality control documentation)."
     },
     {
       "skillId": "0c9c147c-012e-4620-b473-c685f49793d9",
@@ -184,7 +184,7 @@
     },
     {
       "skillId": "10db8dc0-4612-41ac-a11d-deafffa689b6",
-      "detail": "Inspect\u00A0assembly\u00A0to\u00A0be\u00A0welded\u00A0and\u00A0undertake\u00A0remedial\u00A0work\u00A0to\u00A0comply\u00A0with\u00A0specification,\u00A0or\u00A0implement\u00A0quality\u00A0steps\u00A0if\u00A0rejected."
+      "detail": "Inspect assembly to be welded and undertake remedial work to comply with specification, or implement quality steps if rejected."
     },
     {
       "skillId": "04370977-7b1a-4133-8b7f-2ba0668877ef",
@@ -212,7 +212,7 @@
     },
     {
       "skillId": "21fa5221-6282-483a-aa4e-aceea71c6107",
-      "detail": "Restore\u00A0the\u00A0work\u00A0area\u00A0on\u00A0completion\u00A0of\u00A0the\u00A0activity\u00A0and\u00A0where\u00A0applicable\u00A0return\u00A0any\u00A0resources\u00A0and\u00A0consumables\u00A0to\u00A0the\u00A0appropriate\u00A0location."
+      "detail": "Restore the work area on completion of the activity and where applicable return any resources and consumables to the appropriate location."
     },
     {
       "skillId": "dde61f69-bc78-4fa6-ba77-b0506bc65e36",
@@ -269,7 +269,7 @@
   "cluster": "Fabrication and welding operative or technician",
   "clusterId": "259",
   "clusterDescription": "Make products and plant by cutting, forming, jointing and shaping of materials",
-  "createdDate": "2026-09-02T10:58:35 +00:00",
+  "createdDate": "2026-09-04T14:41:09 +00:00",
   "lastUpdated": "2026-09-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-19T00:00:00 +00:00",
   "banners": "",
