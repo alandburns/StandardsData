@@ -117,7 +117,7 @@
     },
     {
       "knowledgeId": "765aebca-7112-43ce-bd4a-120110358942",
-      "detail": "The\u00A0requirements\u00A0for\u00A0correct\u00A0storage,\u00A0handling\u00A0and\u00A0segregation\u00A0of\u00A0materials\u00A0and\u00A0tooling\u00A0to\u00A0prevent\u00A0cross\u00A0contamination between sensitive materials "
+      "detail": "The requirements for correct storage, handling and segregation of materials and tooling to prevent cross contamination between sensitive materials"
     },
     {
       "knowledgeId": "7718fbf9-2f0a-49cf-959a-d6ea3bdabdb0",
@@ -216,8 +216,8 @@
       "detail": "Prepare,\u00A0check\u00A0and\u00A0protect\u00A0materials\u00A0and\u00A0work\u00A0areas\u00A0ready\u00A0for\u00A0welding"
     },
     {
-      "skillId": "fbfb6f96-7fd5-406b-87ca-f40e9d032c4f",
-      "detail": "Inspect the\u00A0assembly\u00A0to\u00A0be\u00A0welded\u00A0and\u00A0undertake\u00A0remedial\u00A0work\u00A0to\u00A0comply\u00A0with\u00A0specification,\u00A0or\u00A0implement\u00A0quality\u00A0steps\u00A0if\u00A0rejected"
+      "skillId": "d617420d-f603-46e7-b41d-809be5dd6980",
+      "detail": "Inspect the assembly to be welded and undertake remedial work to comply with specification, or implement quality steps if rejected"
     },
     {
       "skillId": "52c0de05-b160-4263-953e-d4c12841beb3",
@@ -249,15 +249,15 @@
     },
     {
       "skillId": "2be5484b-5b79-453f-95a1-1817a3085715",
-      "detail": "Restore\u00A0the\u00A0work\u00A0area\u00A0on\u00A0completion\u00A0of\u00A0the\u00A0activity\u00A0and\u00A0where\u00A0applicable\u00A0return\u00A0any\u00A0resources\u00A0and\u00A0consumables\u00A0to\u00A0the\u00A0appropriate\u00A0location"
+      "detail": "Restore the work area on completion of the activity and where applicable return any resources and consumables to the appropriate location"
     },
     {
       "skillId": "695165ae-7e43-4efe-9e46-8dd4752b0f92",
-      "detail": "Deal\u00A0promptly\u00A0and\u00A0effectively\u00A0with\u00A0problems\u00A0within\u00A0the\u00A0limits\u00A0of\u00A0their\u00A0responsibility\u00A0using\u00A0approved\u00A0diagnostic\u00A0methods\u00A0and\u00A0techniques"
+      "detail": "Deal promptly and effectively with problems within the limits of their responsibility using approved diagnostic methods and techniques"
     },
     {
       "skillId": "1b97631e-1dc6-42fd-a80f-108bbd286a24",
-      "detail": "Complete\u00A0any\u00A0required\u00A0documentation\u00A0using\u00A0the\u00A0defined\u00A0recording\u00A0systems\u00A0at\u00A0the\u00A0appropriate\u00A0stages\u00A0of\u00A0the\u00A0work\u00A0activity"
+      "detail": "Complete any required documentation using the defined recording systems at the appropriate stages of the work activity "
     },
     {
       "skillId": "a3170a46-ba79-4f15-ba6d-196fd2124f86",
@@ -265,7 +265,7 @@
     },
     {
       "skillId": "92ce912f-321b-4c77-8def-dd047b06d8b8",
-      "detail": "Produce\u00A0pipe welds\u00A0using\u00A0Three\u00A0material\u00A0groups\u00A0from\u00A0Carbon\u00A0Steel,\u00A0Low\u00A0Alloy\u00A0Steel,\u00A0High\u00A0Alloy\u00A0Ferritic/Martensitic\u00A0Steel, Austenitic\u00A0Stainless\u00A0Steel,\u00A0Nickel\u00A0&\u00A0Nickel\u00A0Alloys,\u00A0Aluminium\u00A0&\u00A0Aluminium\u00A0alloys,\u00A0Titanium\u00A0&\u00A0Titanium\u00A0Alloys,\u00A0Copper\u00A0&\u00A0Copper\u00A0Alloys"
+      "detail": "Produce pipe welds using Three material groups from Carbon Stell, Low Alloy Steel, High Alloy Ferritic/Martensitic Steel, Austenitic Stainless Steel, Nickel & Nickel Alloys, Aluminium & Aluminium alloys, Titanium & Titanium Alloys, Copper & Copper Alloys"
     },
     {
       "skillId": "a0c1ebb4-48d2-45ae-953d-a3aa8d514632",
@@ -319,7 +319,7 @@
   "cluster": "Fabrication and welding operative or technician",
   "clusterId": "259",
   "clusterDescription": "Make products and plant by cutting, forming, jointing and shaping of materials",
-  "createdDate": "2026-09-02T10:27:33 +00:00",
+  "createdDate": "2026-09-04T14:34:03 +00:00",
   "lastUpdated": "2026-09-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-07-19T00:00:00 +00:00",
   "banners": "",
@@ -376,7 +376,6 @@
         "3f321da2-dfbe-4c56-b730-fdf9a87dec34",
         "8f2a9bcf-03f6-4145-8a78-c1e3e52adf9b",
         "c33563ef-c5b3-4cc4-90b1-34a1985c599c",
-        "fbfb6f96-7fd5-406b-87ca-f40e9d032c4f",
         "52c0de05-b160-4263-953e-d4c12841beb3",
         "3ecab442-7f27-4ee8-844e-60835668c5cc",
         "b223cf6b-ba1a-4a2c-a222-1e898e301cbc",
@@ -444,7 +443,6 @@
         "23d752f1-860f-49bb-9ce1-efd64e86c46b",
         "c9fdc40a-96e1-46b3-ad5c-52ac44e34db6",
         "3f321da2-dfbe-4c56-b730-fdf9a87dec34",
-        "fbfb6f96-7fd5-406b-87ca-f40e9d032c4f",
         "37a83ecf-99c5-4ff1-865d-d6e14adc48e6",
         "695165ae-7e43-4efe-9e46-8dd4752b0f92"
       ],
@@ -483,7 +481,6 @@
         "3f321da2-dfbe-4c56-b730-fdf9a87dec34",
         "8f2a9bcf-03f6-4145-8a78-c1e3e52adf9b",
         "c33563ef-c5b3-4cc4-90b1-34a1985c599c",
-        "fbfb6f96-7fd5-406b-87ca-f40e9d032c4f",
         "df5d8958-5abb-4a65-a72b-28da657c3f10",
         "3ecab442-7f27-4ee8-844e-60835668c5cc",
         "b223cf6b-ba1a-4a2c-a222-1e898e301cbc",
@@ -522,7 +519,6 @@
         "c9fdc40a-96e1-46b3-ad5c-52ac44e34db6",
         "3f321da2-dfbe-4c56-b730-fdf9a87dec34",
         "c33563ef-c5b3-4cc4-90b1-34a1985c599c",
-        "fbfb6f96-7fd5-406b-87ca-f40e9d032c4f",
         "3ecab442-7f27-4ee8-844e-60835668c5cc",
         "b223cf6b-ba1a-4a2c-a222-1e898e301cbc",
         "695165ae-7e43-4efe-9e46-8dd4752b0f92",
@@ -631,7 +627,6 @@
         "c9fdc40a-96e1-46b3-ad5c-52ac44e34db6",
         "3f321da2-dfbe-4c56-b730-fdf9a87dec34",
         "c33563ef-c5b3-4cc4-90b1-34a1985c599c",
-        "fbfb6f96-7fd5-406b-87ca-f40e9d032c4f",
         "52c0de05-b160-4263-953e-d4c12841beb3",
         "df5d8958-5abb-4a65-a72b-28da657c3f10",
         "3ecab442-7f27-4ee8-844e-60835668c5cc",
@@ -693,7 +688,6 @@
         "3f321da2-dfbe-4c56-b730-fdf9a87dec34",
         "8f2a9bcf-03f6-4145-8a78-c1e3e52adf9b",
         "c33563ef-c5b3-4cc4-90b1-34a1985c599c",
-        "fbfb6f96-7fd5-406b-87ca-f40e9d032c4f",
         "52c0de05-b160-4263-953e-d4c12841beb3",
         "df5d8958-5abb-4a65-a72b-28da657c3f10",
         "3ecab442-7f27-4ee8-844e-60835668c5cc",
@@ -823,7 +817,6 @@
       "mappedSkills": [
         "23d752f1-860f-49bb-9ce1-efd64e86c46b",
         "c9fdc40a-96e1-46b3-ad5c-52ac44e34db6",
-        "fbfb6f96-7fd5-406b-87ca-f40e9d032c4f",
         "37a83ecf-99c5-4ff1-865d-d6e14adc48e6",
         "695165ae-7e43-4efe-9e46-8dd4752b0f92"
       ],
@@ -858,7 +851,6 @@
       "mappedSkills": [
         "23d752f1-860f-49bb-9ce1-efd64e86c46b",
         "c9fdc40a-96e1-46b3-ad5c-52ac44e34db6",
-        "fbfb6f96-7fd5-406b-87ca-f40e9d032c4f",
         "37a83ecf-99c5-4ff1-865d-d6e14adc48e6",
         "695165ae-7e43-4efe-9e46-8dd4752b0f92"
       ],
@@ -976,6 +968,7 @@
       "mappedSkills": [
         "23d752f1-860f-49bb-9ce1-efd64e86c46b",
         "c9fdc40a-96e1-46b3-ad5c-52ac44e34db6",
+        "d617420d-f603-46e7-b41d-809be5dd6980",
         "df5d8958-5abb-4a65-a72b-28da657c3f10",
         "2544260a-014d-45c2-b6a6-284af881e2ea",
         "bdb339e4-c3da-4276-870f-2c748152f347",
@@ -1015,6 +1008,7 @@
       "mappedSkills": [
         "23d752f1-860f-49bb-9ce1-efd64e86c46b",
         "c9fdc40a-96e1-46b3-ad5c-52ac44e34db6",
+        "d617420d-f603-46e7-b41d-809be5dd6980",
         "37a83ecf-99c5-4ff1-865d-d6e14adc48e6",
         "2544260a-014d-45c2-b6a6-284af881e2ea",
         "bdb339e4-c3da-4276-870f-2c748152f347",
