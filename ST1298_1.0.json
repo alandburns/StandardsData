@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-06-23T00:00:00",
+  "changedDate": "2026-09-04T00:00:00",
   "earliestStartDate": "2025-06-23T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-08-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manage specialist working dogs effectively to support business objectives when operating in complex or high pressure environments or situations.",
   "level": 3,
@@ -316,7 +316,7 @@
   "clusterId": "148",
   "clusterDescription": "Routine and detailed care, handling and training of animals",
   "createdDate": "2025-04-07T13:31:22 +00:00",
-  "lastUpdated": "2025-06-23T00:00:00 +00:00",
+  "lastUpdated": "2026-09-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2025-06-23T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1298",
@@ -816,5 +816,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-06-23T00:00:00"
+  "publishDate": "2027-08-26T00:00:00"
 }
