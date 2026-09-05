@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2026-06-30T00:00:00",
+  "changedDate": "2026-09-04T00:00:00",
   "earliestStartDate": "2018-06-22T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -206,9 +206,9 @@
   "clusterId": "229",
   "clusterDescription": "Sail small vessels unsupervised",
   "createdDate": "2017-11-14T17:08:59 +00:00",
-  "lastUpdated": "2026-06-30T00:00:00 +00:00",
+  "lastUpdated": "2026-09-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-06-22T00:00:00 +00:00",
-  "banners": "We are proposing to retire this occupation and apprenticeship for new starts due to low starts, and a lack of training provider. If you would like to raise any concerns with the proposed retirement please complete the form&nbsp;with your views by 5pm on Friday 14 August 2026.Please note that retirement of this standard has not yet been agreed or authorised.",
+  "banners": "We are proposing to retire this occupation and apprenticeship for new starts due to low apprenticeship starts and a lack of available training providers. The consultation has now closed. All responses will be carefully considered before a final recommendation is made.Please note that retirement of this standard has not yet been authorised and is still available for new starts.",
   "occupationCode": "OCC0427",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0427-v1-0?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0427-v1-0",
@@ -220,5 +220,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-06-30T00:00:00"
+  "publishDate": "2026-09-04T00:00:00"
 }
