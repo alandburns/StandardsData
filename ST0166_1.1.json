@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2026-07-27T00:00:00",
+  "changedDate": "2026-09-09T00:00:00",
   "earliestStartDate": "2026-07-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -656,7 +656,7 @@
   "clusterId": "122",
   "clusterDescription": "Day-to-day welfare, health (including breeding) and training (riding, racing and driving) of horses",
   "createdDate": "2024-12-10T12:11:41 +00:00",
-  "lastUpdated": "2026-07-27T00:00:00 +00:00",
+  "lastUpdated": "2026-09-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-04-13T00:00:00 +00:00",
   "banners": "For the attention of all Employers, Training Providers and EPAOs - please note that under no circumstances should the removal of a horseshoe be carried out by an unauthorised person during the training or assessment of a candidate unless rendering first aid in case of an emergency to a horse. Please adhere to the legislation as laid down in the Farriers Registration Act, 1975 (as amended), paying particular attention to sections 16 and 18.",
   "occupationCode": "OCC0166",
@@ -1299,5 +1299,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-07-27T00:00:00"
+  "publishDate": "2026-09-09T00:00:00"
 }
