@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "End-point assessment plan, standard and funding revised.",
-  "changedDate": "2026-05-13T00:00:00",
+  "changedDate": "2026-09-08T00:00:00",
   "earliestStartDate": "2023-04-06T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -268,9 +268,9 @@
   "clusterId": "15",
   "clusterDescription": "Provide safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2023-05-25T14:35:43 +00:00",
-  "lastUpdated": "2026-05-13T00:00:00 +00:00",
+  "lastUpdated": "2026-09-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-05-08T00:00:00 +00:00",
-  "banners": "From 1st September 2026, this apprenticeship will not be government funded. Any apprentice who started this apprenticeship before 1st September 2026 will continue to be funded through to completion. This apprenticeship will remain available for delivery for privately funded apprentices.",
+  "banners": "New starts on this apprenticeship are not government funded from 1st September 2026. Any apprentice who started this apprenticeship before 1st September 2026 will continue to be funded through to completion. This apprenticeship remains available for delivery for privately funded apprentices.",
   "occupationCode": "OCC0386",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0386-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0386-v1-1",
@@ -553,5 +553,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-05-13T00:00:00"
+  "publishDate": "2026-09-08T00:00:00"
 }
