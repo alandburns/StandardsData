@@ -5,13 +5,13 @@
   "referenceNumber": "ST0964",
   "learningAimClassCode": "",
   "title": "Digital product manager",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0964",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
+  "versionNumber": "2.0",
   "change": "Occupational standard and assessment plan revised",
-  "changedDate": "2026-06-05T00:00:00",
+  "changedDate": "2026-09-08T00:00:00",
   "earliestStartDate": "2026-09-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -34,7 +34,7 @@
     "Digital product analyst"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0964-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0964-v2-0?view=epa",
   "ssa1": "6 Digital Technology",
   "ssa2": "6.1 Digital technology (practitioners)",
   "version": "2.0",
@@ -244,7 +244,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2023-05-11T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -272,12 +272,12 @@
   "clusterId": "197",
   "clusterDescription": "Build and test simple, high quality codes across various layers (front end, logic and database) and interpret design documents and specifications",
   "createdDate": "2026-06-05T09:03:15 +00:00",
-  "lastUpdated": "2026-06-05T00:00:00 +00:00",
+  "lastUpdated": "2026-09-08T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-05-11T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0964",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0964-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0964-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0964-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0964-v2-0",
   "qualifications": [],
   "professionalRecognition": [],
   "duties": [
@@ -675,5 +675,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-09-01T00:00:00"
+  "publishDate": "2026-09-08T00:00:00"
 }
