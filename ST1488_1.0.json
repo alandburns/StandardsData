@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2025-04-17T00:00:00",
+  "changedDate": "2026-09-09T00:00:00",
   "earliestStartDate": "2025-04-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-09T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carrying out a range of general and specialist roles within hospitality businesses, including bars, cafes, conference centres, restaurants and hotels.",
   "level": 2,
@@ -315,7 +315,7 @@
   "clusterId": "78",
   "clusterDescription": "Preparation and serving food and drinks, taking and managing bookings, and managing events",
   "createdDate": "2025-02-18T08:35:52 +00:00",
-  "lastUpdated": "2025-04-17T00:00:00 +00:00",
+  "lastUpdated": "2026-09-09T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-12-18T00:00:00 +00:00",
   "banners": "Options 1-4 of ST0233 Hospitality Team Member are replaced with this new apprenticeship.\u00A0\n Options 1-4 of ST0233 will be retired.\u00A0",
   "occupationCode": "OCC1488",
@@ -760,5 +760,5 @@
   ],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2025-04-17T00:00:00"
+  "publishDate": "2027-03-09T00:00:00"
 }
