@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2026-09-09T00:00:00",
+  "changedDate": "2026-09-11T00:00:00",
   "earliestStartDate": "2023-02-21T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-08-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Manage and implement accounting, finance systems and processes.",
   "level": 6,
@@ -406,7 +406,7 @@
   "clusterId": "237",
   "clusterDescription": "Direct and oversee the creation, analysis and auditing of financial information for internal and external clients and the regulatory authorities often requiring specialist knowledge",
   "createdDate": "2024-12-09T15:02:50 +00:00",
-  "lastUpdated": "2026-09-09T00:00:00 +00:00",
+  "lastUpdated": "2026-09-11T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-02-21T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1303",
@@ -791,5 +791,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-09-09T00:00:00"
+  "publishDate": "2027-08-26T00:00:00"
 }
