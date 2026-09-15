@@ -73,7 +73,7 @@
     },
     {
       "knowledgeId": "e5e36fc1-6add-4194-a915-73f5c09f47d2",
-      "detail": "Welding\u00A0controls\u00A0to\u00A0establish\u00A0and\u00A0maintain\u00A0the\u00A0key\u00A0primary\u00A0parameters\u00A0associated\u00A0with\u00A0the\u00A0welding\u00A0process\u00A0(such as\u00A0Current,\u00A0Arc\u00A0 Voltage,\u00A0Wire\u00A0Feed\u00A0Speed,\u00A0Shielding Gas\u00A0Flow\u00A0Rates,\u00A0Electrode Polarity etc.)"
+      "detail": "Welding controls to establish and maintain the key primary parameters associated with the welding process(such as Current, Arc Voltage, Wire Feed Speed, Shielding Gas Flow Rates, Electrode Polarity etc.)"
     },
     {
       "knowledgeId": "bae5dbff-ff2c-4ae6-927d-7e15d570b067",
@@ -201,7 +201,7 @@
     },
     {
       "skillId": "c9fdc40a-96e1-46b3-ad5c-52ac44e34db6",
-      "detail": "Obtain,\u00A0check\u00A0and\u00A0use\u00A0appropriate\u00A0documentation\u00A0(such\u00A0as\u00A0job\u00A0instructions,\u00A0drawings,\u00A0quality\u00A0control\u00A0documentation)"
+      "detail": "Obtain, check and use appropriate documentation {such as job instructions, drawings, quality control documentation)"
     },
     {
       "skillId": "3f321da2-dfbe-4c56-b730-fdf9a87dec34",
