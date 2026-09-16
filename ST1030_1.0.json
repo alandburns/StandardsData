@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-11-06T00:00:00",
+  "changedDate": "2026-09-15T00:00:00",
   "earliestStartDate": "2024-10-16T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Support statutory safeguarding responsibilities and demonstrate how organisations work to protect an individual’s health, wellbeing and human rights. Enable individuals to live free from harm, abuse and neglect.",
   "level": 3,
@@ -350,7 +350,7 @@
   "clusterId": "48",
   "clusterDescription": "Assess, review and deliver services to support and meet the needs of clients under the direct guidance of professional leadership",
   "createdDate": "2024-08-02T09:34:31 +00:00",
-  "lastUpdated": "2024-11-06T00:00:00 +00:00",
+  "lastUpdated": "2026-09-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-10-14T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1030",
@@ -884,5 +884,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-11-06T00:00:00"
+  "publishDate": "2027-03-24T00:00:00"
 }
