@@ -11,8 +11,8 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Assessment plan revised",
-  "changedDate": "2026-09-02T00:00:00",
-  "earliestStartDate": "2027-02-25T00:00:00",
+  "changedDate": "2026-09-18T00:00:00",
+  "earliestStartDate": "2027-03-02T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Maintains golf courses and surrounding areas, including mowing, turf care, irrigation, bunkers and tees, ensuring safe, high-quality surfaces.",
@@ -125,7 +125,7 @@
     },
     {
       "knowledgeId": "ec677eab-7be0-4fb0-8e63-632a3dad1507",
-      "detail": "Identification and control of weeds, pests, diseases and turf disorders (weeds including: daisy, dandelion, slender speedwell, yarrow, white clover, buttercup, procumbent pearlwort, great plantain, ribwort plantain, common chickweed, Lesser trefoil, moss, knotgrass, cats ear. Pests including:  earthworms, chafer grubs, leatherjackets, mole, rabbit, badger and bird damage. Diseases and disorders including: Microdochium Patch, Red Thread, Anthracnose, Fairy Rings, Take-all Patch, Dollar Spot.  Turfgrass disorders including: dry patch, black layer, drought, nutrient imbalance, compaction, thatch)."
+      "detail": "Identification and control of weeds, pests, diseases and turf disorders (weeds including: daisy, dandelion, Slender speedwell, yarrow, White clover, Creeping buttercup, Procumbent pearlwort, Greater plantain, Ribwort plantain, Common chickweed, Lesser trefoil, moss, knotgrass, catsear. Pests including:  earthworms, chafer grubs, leatherjackets, mole, rabbit, badger and bird damage. Diseases and disorders including: Microdochium Patch, Red Thread, Anthracnose, Fairy Rings, Take-all Patch, Dollar Spot.  Turfgrass disorders including: Dry patch, Black layer, drought, nutrient imbalance, compaction, thatch)."
     },
     {
       "knowledgeId": "5a923721-258a-4f0a-ba3b-d10053194a49",
@@ -161,7 +161,7 @@
     },
     {
       "knowledgeId": "2fd0de08-50dd-4d2c-96ea-491a61d28528",
-      "detail": "Plant, tree and shrub identification and characteristics (Plants (herbaceous, bedding, wildflower and invasive) including: Himalayan balsam, marsh marigold, brachen, fern, ornamental yarrow, purple loosestrife, French marigold, fuchsia, busy lizzy, petunia, common poppy, ornamental daisy, ragwort, bluebell, harebell, Japanese knotweed, giant hogweed.  Trees including:  Scots pine, English oak, silver birch, beech, ash, hawthorn.  Shrubs including:  broom, cotoneaster, gorse, laurel, dogwood, heather, photinia)."
+      "detail": "Plant, tree and shrub identification and characteristics (Plants (herbaceous, bedding, wildflower and invasive) including: Himalayan balsam, bracken, Ornamental yarrow, Purple loosestrife, French marigold, fuchsia, Busy lizzy, petunia, Common poppy, Ornamental daisy, ragwort, bluebell, harebell, Japanese knotweed, Giant hogweed.  Trees including:  Scots pine, English oak, Silver birch, beech, ash, rowan, hawthorn.  Shrubs including:  broom, cotoneaster, gorse, laurel, dogwood, heather, photinia)."
     }
   ],
   "behaviours": [
@@ -315,7 +315,7 @@
   "integration": "None",
   "integratedDegree": "",
   "tbReference": "TB0719",
-  "tbMainContact": "Golf@the-gtc.co.uk",
+  "tbMainContact": "skills.england@dwp.gov.uk",
   "involvedEmployers": "British & International Golf Greenkeepers Association (BIGGA) , England Golf , Frilford Heath Golf Club, Gaudet Luce Golf Club, Greenkeepers Training Committee Ltd, Leyland Golf Club Ltd, Portmore Golf Club, Royal Birkdale, Sunningdale Golf Club, The London Club, The Richmond Golf Club, Trentham Golf Club, Woburn Golf Club",
   "otherInvolvedStakeholders": "",
   "regulated": false,
@@ -331,8 +331,8 @@
   "cluster": "Landscape horticulture operative or technician",
   "clusterId": "161",
   "clusterDescription": "The design, construction and maintenance of gardens, designed landscapes and sports turf facilities for private, commercial and community use",
-  "createdDate": "2026-09-02T11:46:48 +00:00",
-  "lastUpdated": "2026-09-02T00:00:00 +00:00",
+  "createdDate": "2026-09-18T08:52:36 +00:00",
+  "lastUpdated": "2026-09-18T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2015-03-26T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0209",
@@ -876,5 +876,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2027-02-25T00:00:00"
+  "publishDate": "2027-03-02T00:00:00"
 }
