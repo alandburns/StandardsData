@@ -384,7 +384,7 @@
   "cluster": "Business manager",
   "clusterId": "25",
   "clusterDescription": "Lead and manage a project (business/process improvement), business support services and/or run a practice using the full range of business systems, procedures and accounting practice. Includes the ability to set-up and develop a new business",
-  "createdDate": "2026-09-08T09:43:57 +00:00",
+  "createdDate": "2026-09-25T08:46:51 +00:00",
   "lastUpdated": "2026-07-22T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-07T00:00:00 +00:00",
   "banners": "",
@@ -742,7 +742,8 @@
         "a665fcfe-ba6b-4683-bdf9-af48a7078610"
       ],
       "mappedSkills": [
-        "a98b9ed5-3e97-4f7d-8425-c827675d642c"
+        "a98b9ed5-3e97-4f7d-8425-c827675d642c",
+        "8f8c72c8-7d2b-4720-bfd5-f7ac51ffff12"
       ],
       "criteriaForMeasuringPerformance": ""
     },
@@ -822,7 +823,6 @@
         "034e3053-8708-4835-8434-bc641e4f0848"
       ],
       "mappedSkills": [
-        "8f8c72c8-7d2b-4720-bfd5-f7ac51ffff12",
         "cf642510-aad1-4d94-b193-3a12b1126b25",
         "a0d15afb-6d9f-4078-b887-7f9bca9ae5b8",
         "cb882461-44d5-4240-a81c-fb10be81b96d",
@@ -849,7 +849,6 @@
         "034e3053-8708-4835-8434-bc641e4f0848"
       ],
       "mappedSkills": [
-        "8f8c72c8-7d2b-4720-bfd5-f7ac51ffff12",
         "a0d15afb-6d9f-4078-b887-7f9bca9ae5b8",
         "cb882461-44d5-4240-a81c-fb10be81b96d",
         "e71238a0-a91f-414b-b347-44dab7a7c5a1",
