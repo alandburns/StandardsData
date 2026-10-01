@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2025-06-20T00:00:00",
+  "changedDate": "2026-09-30T00:00:00",
   "earliestStartDate": "2025-06-20T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-03-24T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Health play specialists provide therapeutic play interventions to support children from birth to young adulthood in healthcare settings.",
   "level": 5,
@@ -448,7 +448,7 @@
   "clusterId": "10",
   "clusterDescription": "Provide direct patient contact and high quality care with in-depth knowledge of the factors influencing health and ill-health using specialist expertise",
   "createdDate": "2025-04-07T16:40:28 +00:00",
-  "lastUpdated": "2025-06-20T00:00:00 +00:00",
+  "lastUpdated": "2026-09-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0829",
@@ -814,5 +814,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-06-20T00:00:00"
+  "publishDate": "2027-03-24T00:00:00"
 }
