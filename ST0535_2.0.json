@@ -11,8 +11,8 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "Occupational standard and assessment plan revised",
-  "changedDate": "2026-05-27T00:00:00",
-  "earliestStartDate": "2027-01-13T00:00:00",
+  "changedDate": "2026-10-01T00:00:00",
+  "earliestStartDate": "2027-08-27T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
   "overviewOfRole": "Reading medical notes or records and analysing the contents which then translate into alphanumeric codes that accurately represent the patient’s stay.",
@@ -318,9 +318,9 @@
   "clusterId": "43",
   "clusterDescription": "Provide technical and science-based support to patients delivering testing, diagnosis, monitoring services etc. of a low risk, routine nature and also the manufacture of appliances and devices",
   "createdDate": "2026-05-28T08:44:47 +00:00",
-  "lastUpdated": "2026-05-27T00:00:00 +00:00",
+  "lastUpdated": "2026-10-01T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-04-12T00:00:00 +00:00",
-  "banners": "This standard included a\u00A0transition arrangement for the minimum off‑the‑job training requirement for learners starting between 1 August and 31 December 2025.",
+  "banners": "",
   "occupationCode": "OCC0535",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0535-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0535-in-revision",
@@ -332,5 +332,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2027-01-13T00:00:00"
+  "publishDate": "2027-08-27T00:00:00"
 }
