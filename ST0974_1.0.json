@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-05-30T00:00:00",
+  "changedDate": "2026-10-06T00:00:00",
   "earliestStartDate": "2023-05-25T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "A digital designer works closely with colleagues to deliver high-quality learning activities.",
   "level": 5,
@@ -252,7 +252,7 @@
   "clusterId": "194",
   "clusterDescription": "Facilitate and instigate direct communication online between the end user or customer and the organisation, implementing communication strategies to support business objectives.",
   "createdDate": "2024-12-17T10:27:28 +00:00",
-  "lastUpdated": "2023-05-30T00:00:00 +00:00",
+  "lastUpdated": "2026-10-06T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-05-25T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0974",
@@ -722,5 +722,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-05-30T00:00:00"
+  "publishDate": "2027-04-12T00:00:00"
 }
