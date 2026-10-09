@@ -182,7 +182,7 @@
     "webLink": "https://www.gov.uk/government/organisations/skills-england"
   },
   "approvedForDelivery": "",
-  "integratedApprenticeship": false,
+  "integratedApprenticeship": true,
   "integration": "Mandatory qualification only",
   "integratedDegree": "non-degree qualification",
   "tbReference": "TB0071",
@@ -209,7 +209,7 @@
   "cluster": "Professional accountant",
   "clusterId": "237",
   "clusterDescription": "Direct and oversee the creation, analysis and auditing of financial information for internal and external clients and the regulatory authorities often requiring specialist knowledge",
-  "createdDate": "2026-02-27T09:42:48 +00:00",
+  "createdDate": "2026-10-07T10:37:28 +00:00",
   "lastUpdated": "2026-08-04T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-11-07T00:00:00 +00:00",
   "banners": "",
@@ -222,14 +222,6 @@
       "title": "ACCA Chartered Certified Accountant",
       "level": "7 (non-degree qualification)",
       "anyAdditionalInformation": "Attainment of this apprenticeship means that an apprentice can apply for chartered certified accountant status with ACCA subject to meeting the 3 years Qualifying Work Experience requirement and any character or suitability tests that may be relevant to ACCA. Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
-      "qualificationEpaIntegration": "",
-      "mappedOptions": []
-    },
-    {
-      "qualificationId": "ff6e0c86-4841-43f6-bf4e-5340987ec478",
-      "title": "CIMA Chartered Global Management Accountant",
-      "level": "7 (non-degree qualification)",
-      "anyAdditionalInformation": "Attainment of this apprenticeship means that an apprentice can apply for chartered global management accountant status with CIMA subject to meeting the 3 years Qualifying Work Experience requirement and any character or suitability tests that may be relevant to CIMA. Please refer to the Awarding Organisation to confirm if English and maths is a regulatory requirement or is an essential component of any mandatory qualification.",
       "qualificationEpaIntegration": "",
       "mappedOptions": []
     },
@@ -264,12 +256,6 @@
       "level": "Chartered and Certified Accountant",
       "isPartial": "partial",
       "partialFreeText": "subject to 3 years qualifying work experience and any character or suitability tests that may be relevant to ACCA"
-    },
-    {
-      "bodyName": "Chartered Institute of Management Accountants (CIMA)",
-      "level": "Chartered Global Management Accountant",
-      "isPartial": "partial",
-      "partialFreeText": "subject to 3 years qualifying work experience and any character or suitability tests that may be relevant to CIMA"
     },
     {
       "bodyName": "Chartered Institute of Public Finance Accountants (CIPFA)",
