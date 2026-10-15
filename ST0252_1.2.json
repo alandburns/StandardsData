@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard, end-point assessment plan and funding band revised.",
-  "changedDate": "2025-07-14T00:00:00",
+  "changedDate": "2026-10-14T00:00:00",
   "earliestStartDate": "2025-04-01T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carrying out the installation or maintenance, repair and modernisation of lifts and escalators.",
   "level": 3,
@@ -603,7 +603,7 @@
   "clusterId": "19",
   "clusterDescription": "Install, maintain and service plant and equipment",
   "createdDate": "2025-04-17T07:44:06 +00:00",
-  "lastUpdated": "2025-07-14T00:00:00 +00:00",
+  "lastUpdated": "2026-10-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-01-29T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0252",
@@ -1573,5 +1573,5 @@
   ],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-07-14T00:00:00"
+  "publishDate": "2027-04-12T00:00:00"
 }
