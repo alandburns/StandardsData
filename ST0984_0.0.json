@@ -1,55 +1,316 @@
 {
   "templateType": "Occupational Standard",
-  "shortAssessment": false,
+  "shortAssessment": true,
   "larsCode": 0,
   "referenceNumber": "ST0984",
   "learningAimClassCode": "",
   "title": "General builder",
-  "status": "Proposal in development",
+  "status": "In development",
   "approvedForDeliveryPausedStarts": null,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0984",
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "0001-01-01T00:00:00",
-  "earliestStartDate": null,
+  "changedDate": "2026-10-14T00:00:00",
+  "earliestStartDate": "2027-03-11T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
-  "overviewOfRole": "",
+  "overviewOfRole": "Multi-skilled to a foundational level in bricklaying, carpentry, plastering and painting &amp; decorating. ",
   "level": 2,
-  "ePALength": 0,
-  "typicalDuration": 0,
-  "minimumHoursForCompliance": "",
-  "maxFunding": 0,
+  "ePALength": 3,
+  "typicalDuration": 24,
+  "minimumHoursForCompliance": "578",
+  "maxFunding": 12000,
   "maxFundingAdditionalInformation": "",
   "route": "Construction and the built environment",
   "keywords": [],
   "jobRoles": [],
   "entryRequirements": "",
-  "assessmentPlanUrl": "",
-  "ssa1": "",
-  "ssa2": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0984?view=epa",
+  "ssa1": "5 Construction, Planning and the Built Environment",
+  "ssa2": "5.2 Building and construction",
   "version": "0.0",
   "standardInformation": "",
-  "occupationalSummary": "",
-  "knowledges": [],
-  "behaviours": [],
-  "skills": [],
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the construction industry, predominantly within businesses operating in the housebuilding sector and the Repair Maintenance and Improvement (RMI) sector. There is an expectation that, due to the nature of their work and the average size of their teams, this occupation would be more commonly found within and used by micro, small and medium-sized construction businesses, where there is a need for operatives to be multi-skilled to give flexibility to deliver on small projects. Employees of this occupation would be particularly well-suited to working within businesses undertaking domestic alterations or new-builds on small sites, where there are both new structures as well as refurbishments and retrofits of existing structures. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to undertake a variety of fundamental skills on a construction project. Employees in this occupation are multi-skilled to perform routine tasks&amp;nbsp;in bricklaying, carpentry, plastering and painting. They will either work alongside and support experienced specialists in these trades, or hand over tasks to them when the complexity is beyond their skillset. They also understand how buildings have been constructed over time in order to identify different building techniques within the properties that are being renovated in order to tailor their approach to the work. Additionally, with the need to retrofit housing stock to meet required levels of carbon emissions, employees are equipped with the skills needed for the installation an awareness of energy efficient measures.&amp;nbsp;&lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with colleagues and customers. They work as part of a team, reporting to their supervisor, to deliver the requirements of a project. As a result of the multi-skilled focus of their work, employees build relationships across their business, undertaking work alongside colleagues skilled in a variety of trades. Interacting with a range of colleagues within the business forms a critical element of the apprenticeship to enable a full understanding of different stages of construction processes and their interdependence in creating the finished, new-build, renovation or refurbishment. Employees will also possess good customer service skills as some of their work will be undertaken in the home of clients. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for completing the on-site tasks assigned to them, working within a team to keep the project running to schedule. Employees monitor aspects of their own work to ensure they have sufficient materials allocated for the job, the quality of their workmanship and reporting any delays which could impact on the next section of the work to their immediate supervisor. Duties and responsibilities may vary on a day-to-day basis. Employees must be aware of the limits of their own competence, ensuring they only carry out work that they have been trained to do.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+      "detail": "Awareness of health and safety regulations, standards, and guidance and impact on role. Control of Lead at Work Regulations. The Building Safety Act. Control of Substances Hazardous to Health (CoSHH). Fire safety. Health and Safety at Work Act. Asbestos awareness. Manual handling. signage, fire extinguishers. Safety signage. Situational awareness. Slips, trips, and falls. Working in confined spaces. Working at height. Electrical safety respiratory protective equipment (RPE) and dust suppression."
+    },
+    {
+      "knowledgeId": "7c778ee4-524f-42e9-8357-39287bb45273",
+      "detail": "Personal protective equipment (PPE): types and use."
+    },
+    {
+      "knowledgeId": "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+      "detail": "Safe systems of work: site inductions, toolbox talks, risk assessments, method statements and hazard identification in the work area."
+    },
+    {
+      "knowledgeId": "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+      "detail": "Impact of the sector on the environment: efficient use of resources, recycling, reuse, surface water contamination and safe disposal of waste."
+    },
+    {
+      "knowledgeId": "21ad875b-e892-4715-9334-1889f0da24dd",
+      "detail": "The importance and considerations of the environment and sustainability: thermal qualities, airtightness and ventilation in buildings, surface and foul water."
+    },
+    {
+      "knowledgeId": "605c4101-4cb8-4810-8658-95fc2291717a",
+      "detail": "Principles of building: foundations, roofs, solid walls and walls including cavity, floors, utilities and services, insulation, fire, moisture including damp proofing, air protection and retrofit."
+    },
+    {
+      "knowledgeId": "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+      "detail": "Standards and regulations associated with general building activities: British standards, building regulations and warranty provider standards."
+    },
+    {
+      "knowledgeId": "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+      "detail": "Materials and their characteristics: bricks and blocks, masonry components, mortars, concrete and steel lintels, Rolled Steel Joist (RSJ), fire stopping, insulation, hard wood and softwood, manufactured timber-based products, ironmongery and components. Plasterboard, floating coat plasters, finishing coat plasters, sand and cement render, silicone renders, plaster and render components. Water-borne and solvent-borne paints and filling materials."
+    },
+    {
+      "knowledgeId": "1ba618be-3b40-42ff-b797-2f887172e6a9",
+      "detail": "Modern methods of construction: rapid build technology, precast components, alternative frame and cladding systems, masonry support systems and methods of installation. "
+    },
+    {
+      "knowledgeId": "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+      "detail": "Methods of interpreting and extracting relevant information from drawings and specifications."
+    },
+    {
+      "knowledgeId": "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+      "detail": "Basic principles of digital design and modelling systems."
+    },
+    {
+      "knowledgeId": "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+      "detail": "Basic resource estimation techniques."
+    },
+    {
+      "knowledgeId": "54617864-1413-4c7c-87fa-1b1b4e744591",
+      "detail": "Brick and block walling techniques: setting out, construction and joint finishing. "
+    },
+    {
+      "knowledgeId": "3f94c175-fc84-4b54-9734-2def883dff55",
+      "detail": "Masonry component installation techniques: Damp proof courses (DPCs), wall ties, wall starters, lintels, cavity closers and the importance and installation of fire stopping."
+    },
+    {
+      "knowledgeId": "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+      "detail": "Basic principles of concrete installation: preparation, laying damp proof membranes (DPM), reinforcement, tamping and finishing. "
+    },
+    {
+      "knowledgeId": "e147b89d-8376-42aa-ab44-235faa67ddfa",
+      "detail": "Basic principles of below ground drainage installation: combined and separate systems, gradients, protection, piping, fittings, lubricants, inspections chambers and gulleys."
+    },
+    {
+      "knowledgeId": "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+      "detail": "First fix carpentry installation techniques: joists, partition walls and first fix floor coverings."
+    },
+    {
+      "knowledgeId": "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+      "detail": "Second fix carpentry installation techniques: non-fire doors, skirting board, architrave and timber-based flooring."
+    },
+    {
+      "knowledgeId": "2eff1c97-a4c5-440a-9e3b-d79a3fa0ac9a",
+      "detail": "Carpentry associated components, uses and installation techniques: ironmongery, mechanical fixings and adhesives. "
+    },
+    {
+      "knowledgeId": "3fc9243a-8bca-468b-898d-e413d35539f6",
+      "detail": "Plasterboard installation techniques: mechanical and adhesive fixing and joint reinforcement tapes."
+    },
+    {
+      "knowledgeId": "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+      "detail": "Floating coat plaster and scratch coat render application techniques: tools, background preparation, mechanical key application and mixing."
+    },
+    {
+      "knowledgeId": "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+      "detail": "Finishing coat (setting coat) plaster and plain face render application techniques: tools, mixing, drying times, beading and finishing. "
+    },
+    {
+      "knowledgeId": "ab28b896-4760-4c68-960b-a78eebb6ad19",
+      "detail": "Surface preparation techniques to receive paint systems: new and existing timber and plaster including surface conditions and defects found in existing buildings, knotting, priming or sealing, filling and abrading."
+    },
+    {
+      "knowledgeId": "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+      "detail": "Water-borne and solvent-borne paint application techniques: brush and roller and coat requirements. "
+    },
+    {
+      "knowledgeId": "fa6f39c4-a287-4335-8942-4c87833747c4",
+      "detail": "Methods of protecting materials and work: frost, water and construction damage."
+    },
+    {
+      "knowledgeId": "bc579e06-5652-4a70-88a6-8ee3077a0753",
+      "detail": "The integrity of masonry structures and structural alteration techniques."
+    },
+    {
+      "knowledgeId": "abcca26b-6087-4df9-8f11-f9be60006c62",
+      "detail": "The roles and responsibilities of a general builder and the purpose and inter-dependencies of other trade operatives."
+    },
+    {
+      "knowledgeId": "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+      "detail": "Common defect identification and rectification techniques."
+    },
+    {
+      "knowledgeId": "0854e4c8-76d2-44fe-854b-f22758caa602",
+      "detail": "Verbal communication techniques and construction terminology."
+    },
+    {
+      "knowledgeId": "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+      "detail": "Principles of good team working."
+    },
+    {
+      "knowledgeId": "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+      "detail": "Inclusion, equity and diversity in the workplace."
+    },
+    {
+      "knowledgeId": "188684c0-8798-4407-8206-ed7a94aa3339",
+      "detail": "Well-being: mental and physical health considerations in self and others and how to access support."
+    },
+    {
+      "knowledgeId": "589c76bd-8593-49dd-af38-0025510ee1c4",
+      "detail": "Common tools and equipment used in general building."
+    },
+    {
+      "knowledgeId": "f2cb8b3e-df5c-4585-9d44-bcda58812a5a",
+      "detail": "The principles of heritage building, considerations and like for like replacement. "
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+      "detail": "Put health, safety and wellbeing first."
+    },
+    {
+      "behaviourId": "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+      "detail": "Consider the environment when using resources and carrying out tasks."
+    },
+    {
+      "behaviourId": "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+      "detail": "Contribute to an inclusive and diverse culture."
+    },
+    {
+      "behaviourId": "5c59c498-3d03-48cd-ae7b-263f866945bc",
+      "detail": "Seek learning and development opportunities."
+    },
+    {
+      "behaviourId": "999d527b-e5ab-4dc4-86db-4b724fe9a149",
+      "detail": "Team-focus to meet team goals including, considering the wider build team."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+      "detail": "Comply with health and safety regulations, standards, and guidance."
+    },
+    {
+      "skillId": "840de925-1f56-4a3f-8870-52ac7e48e664",
+      "detail": "Identify and use personal protective equipment (PPE)."
+    },
+    {
+      "skillId": "f57ddf01-d704-4bb9-b392-5140bec5c860",
+      "detail": "Comply with environmental and sustainability regulations, standards, and guidance. Segregate resources for reuse, recycling and disposal."
+    },
+    {
+      "skillId": "70f59806-481f-4207-bc94-b28b781e671b",
+      "detail": "Comply with industry regulations, standards, and guidance."
+    },
+    {
+      "skillId": "a809f068-2791-4685-846c-5250c82f39d9",
+      "detail": "Read and use information from drawings and specifications."
+    },
+    {
+      "skillId": "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+      "detail": "Estimate and select required resources."
+    },
+    {
+      "skillId": "6c7d04dc-1602-4ee6-9238-284f124d7374",
+      "detail": "Prepare and maintain the working area."
+    },
+    {
+      "skillId": "3095059e-a398-48f1-89d9-305ecf0d3927",
+      "detail": "Select, use and store tools materials and equipment."
+    },
+    {
+      "skillId": "f381d67d-5adb-4696-810f-dd3bf646079e",
+      "detail": "Apply methods and techniques to set out, build and joint finish brick and block masonry. For example, brick garden walls, blocking and bricking up doors and windows, structural block walls, basic cavity walls and single skin brick or block walls."
+    },
+    {
+      "skillId": "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+      "detail": "Apply installation techniques for masonry-based components, for example, DPCs, wall ties, wall starters, lintels and cavity closers."
+    },
+    {
+      "skillId": "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+      "detail": "Apply installation techniques for first fix carpentry, for example, joists, partition walls and floor coverings."
+    },
+    {
+      "skillId": "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+      "detail": "Apply installation techniques for second fix carpentry, including, non-fire doors, skirting board, architrave and laying timber based flooring. "
+    },
+    {
+      "skillId": "40945354-69c4-4310-9c90-74f67ab4f13a",
+      "detail": "Apply installation techniques for carpentry associated components, including ironmongery, mechanical fixings and adhesive. "
+    },
+    {
+      "skillId": "8a8db1d6-167f-4dc2-a874-7d387a24c9a4",
+      "detail": "Fix plasterboard for example, mechanical or adhesive fixing and reinforce joints."
+    },
+    {
+      "skillId": "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+      "detail": "Apply floating coat plaster and scratch coat render including applying mechanical key."
+    },
+    {
+      "skillId": "24294748-9690-4808-a519-55b1e333ab8a",
+      "detail": "Apply finishing coat plaster and plain face render, including fixing beading."
+    },
+    {
+      "skillId": "e737a454-00e4-4c00-b57b-0d6873420b08",
+      "detail": "Prepare surfaces for paint, including new or existing timber and plaster."
+    },
+    {
+      "skillId": "ee0c5415-2749-46f5-bf1f-7798a581282f",
+      "detail": "Apply water-borne and solvent-borne paint to surfaces, using roller and brush."
+    },
+    {
+      "skillId": "bde7fc12-c160-4130-9ba8-282daac16973",
+      "detail": "Apply techniques to alter an existing masonry structure, for example, load bearing wall removal or creation of a new door or window opening."
+    },
+    {
+      "skillId": "da442ccd-156c-40ad-8f04-48fabaa44341",
+      "detail": "Identify common defects and undertake remedial works, for example, rot repairs and timber replacement, repair holes or damaged plasterboard, blown plaster or render, re-pointing or brick replacement."
+    },
+    {
+      "skillId": "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+      "detail": "Escalate tasks beyond limits of competency. "
+    },
+    {
+      "skillId": "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+      "detail": "Protect materials and work."
+    },
+    {
+      "skillId": "d17fc019-ae06-493f-a653-118faf4c2d95",
+      "detail": "Verbally communicate with others, applying construction terminology."
+    },
+    {
+      "skillId": "0cc5c954-8a4a-4d65-b568-d70f55527d24",
+      "detail": "Apply team working principles to their own and the wider build team."
+    }
+  ],
   "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
-  "standardPublished": "false",
+  "standardPublished": "true",
   "epaApprovalDate": "",
-  "epaPublished": "false",
+  "epaPublished": "true",
   "fundingApprovalDate": "",
-  "eQAProvider": null,
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
   "approvedForDelivery": "",
   "integratedApprenticeship": null,
-  "integration": null,
+  "integration": "None",
   "integratedDegree": "",
-  "tbReference": "",
+  "tbReference": "TB0676",
   "tbMainContact": "skills.england@dwp.gov.uk",
-  "involvedEmployers": "",
+  "involvedEmployers": "Beau Homes, Carl Construction Ltd, Create For You , Earl & Calman Builders Ltd, Eco-Tiffin, Fairgrove Homes, Federation of Master Builders, Gateville Ltd, Green Life Contractors , Home Builders Federation, IPSUM UK, Kingdon Design and Construction, Kisiel Group, Leeds College of Building (LCB) , Paul Morris General Building Ltd, The Building Crafts College (BCC)",
   "otherInvolvedStakeholders": "",
   "regulated": false,
   "regulatedBody": "",
@@ -58,12 +319,12 @@
   "greenJobTitles": [],
   "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
   "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
-  "pathway": null,
-  "cluster": null,
-  "clusterId": null,
-  "clusterDescription": null,
-  "createdDate": "2026-03-17T10:26:35 +00:00",
-  "lastUpdated": "",
+  "pathway": "Onsite Construction",
+  "cluster": "Core building tradesperson",
+  "clusterId": "5",
+  "clusterDescription": "Able to use of a range of building materials (wood, brick, block, stone etc.) to construct part/whole structures and also those which are needed to finish a structure (e.g. paint and decorate). Work across domestic through to infrastructure projects and covers both routine and complex work elements. Interprets drawings, contracts, and specifications. Has knowledge of building methods and materials including heritage ones and knowledge of appropriate regulations",
+  "createdDate": "2026-10-14T10:50:27 +00:00",
+  "lastUpdated": "2026-10-14T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
   "banners": "",
   "occupationCode": "OCC0984",
@@ -71,11 +332,753 @@
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0984",
   "qualifications": [],
   "professionalRecognition": [],
-  "duties": [],
+  "duties": [
+    {
+      "dutyID": "ee0b012c-84d2-4294-889e-6be17a289162",
+      "dutyDetail": "Assess the safety of the workplace before starting work, make the work area safe and work safely on site at all times.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+        "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+        "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+        "5c59c498-3d03-48cd-ae7b-263f866945bc",
+        "999d527b-e5ab-4dc4-86db-4b724fe9a149"
+      ],
+      "mappedKnowledge": [
+        "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+        "7c778ee4-524f-42e9-8357-39287bb45273",
+        "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+        "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+        "21ad875b-e892-4715-9334-1889f0da24dd",
+        "605c4101-4cb8-4810-8658-95fc2291717a",
+        "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+        "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+        "1ba618be-3b40-42ff-b797-2f887172e6a9",
+        "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+        "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+        "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+        "54617864-1413-4c7c-87fa-1b1b4e744591",
+        "3f94c175-fc84-4b54-9734-2def883dff55",
+        "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+        "e147b89d-8376-42aa-ab44-235faa67ddfa",
+        "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+        "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+        "3fc9243a-8bca-468b-898d-e413d35539f6",
+        "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+        "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+        "ab28b896-4760-4c68-960b-a78eebb6ad19",
+        "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+        "fa6f39c4-a287-4335-8942-4c87833747c4",
+        "bc579e06-5652-4a70-88a6-8ee3077a0753",
+        "abcca26b-6087-4df9-8f11-f9be60006c62",
+        "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+        "0854e4c8-76d2-44fe-854b-f22758caa602",
+        "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+        "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+        "188684c0-8798-4407-8206-ed7a94aa3339",
+        "589c76bd-8593-49dd-af38-0025510ee1c4",
+        "f2cb8b3e-df5c-4585-9d44-bcda58812a5a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+        "840de925-1f56-4a3f-8870-52ac7e48e664",
+        "f57ddf01-d704-4bb9-b392-5140bec5c860",
+        "70f59806-481f-4207-bc94-b28b781e671b",
+        "a809f068-2791-4685-846c-5250c82f39d9",
+        "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+        "6c7d04dc-1602-4ee6-9238-284f124d7374",
+        "3095059e-a398-48f1-89d9-305ecf0d3927",
+        "f381d67d-5adb-4696-810f-dd3bf646079e",
+        "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+        "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+        "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+        "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+        "24294748-9690-4808-a519-55b1e333ab8a",
+        "e737a454-00e4-4c00-b57b-0d6873420b08",
+        "ee0c5415-2749-46f5-bf1f-7798a581282f",
+        "bde7fc12-c160-4130-9ba8-282daac16973",
+        "da442ccd-156c-40ad-8f04-48fabaa44341",
+        "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+        "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+        "d17fc019-ae06-493f-a653-118faf4c2d95",
+        "0cc5c954-8a4a-4d65-b568-d70f55527d24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cedba4f1-079f-4aba-8d20-01088c5ce100",
+      "dutyDetail": "Assist with calculation of the correct quantity of materials required. Carry out batch code checks when materials are delivered to ensure a continuity of colour shades on tiles, wallpaper and wooden flooring before starting work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+        "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+        "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+        "5c59c498-3d03-48cd-ae7b-263f866945bc",
+        "999d527b-e5ab-4dc4-86db-4b724fe9a149"
+      ],
+      "mappedKnowledge": [
+        "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+        "7c778ee4-524f-42e9-8357-39287bb45273",
+        "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+        "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+        "21ad875b-e892-4715-9334-1889f0da24dd",
+        "605c4101-4cb8-4810-8658-95fc2291717a",
+        "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+        "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+        "1ba618be-3b40-42ff-b797-2f887172e6a9",
+        "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+        "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+        "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+        "54617864-1413-4c7c-87fa-1b1b4e744591",
+        "3f94c175-fc84-4b54-9734-2def883dff55",
+        "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+        "e147b89d-8376-42aa-ab44-235faa67ddfa",
+        "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+        "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+        "3fc9243a-8bca-468b-898d-e413d35539f6",
+        "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+        "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+        "ab28b896-4760-4c68-960b-a78eebb6ad19",
+        "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+        "fa6f39c4-a287-4335-8942-4c87833747c4",
+        "bc579e06-5652-4a70-88a6-8ee3077a0753",
+        "abcca26b-6087-4df9-8f11-f9be60006c62",
+        "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+        "0854e4c8-76d2-44fe-854b-f22758caa602",
+        "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+        "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+        "188684c0-8798-4407-8206-ed7a94aa3339",
+        "589c76bd-8593-49dd-af38-0025510ee1c4",
+        "f2cb8b3e-df5c-4585-9d44-bcda58812a5a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+        "840de925-1f56-4a3f-8870-52ac7e48e664",
+        "f57ddf01-d704-4bb9-b392-5140bec5c860",
+        "70f59806-481f-4207-bc94-b28b781e671b",
+        "a809f068-2791-4685-846c-5250c82f39d9",
+        "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+        "6c7d04dc-1602-4ee6-9238-284f124d7374",
+        "3095059e-a398-48f1-89d9-305ecf0d3927",
+        "f381d67d-5adb-4696-810f-dd3bf646079e",
+        "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+        "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+        "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+        "8a8db1d6-167f-4dc2-a874-7d387a24c9a4",
+        "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+        "24294748-9690-4808-a519-55b1e333ab8a",
+        "e737a454-00e4-4c00-b57b-0d6873420b08",
+        "ee0c5415-2749-46f5-bf1f-7798a581282f",
+        "bde7fc12-c160-4130-9ba8-282daac16973",
+        "da442ccd-156c-40ad-8f04-48fabaa44341",
+        "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+        "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+        "d17fc019-ae06-493f-a653-118faf4c2d95",
+        "0cc5c954-8a4a-4d65-b568-d70f55527d24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3c59f8b1-b83f-45da-92e3-71ba474839e7",
+      "dutyDetail": "Undertake basic bricklaying duties required for new-build projects and the construction of an extension or other walls required within a renovation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+        "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+        "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+        "5c59c498-3d03-48cd-ae7b-263f866945bc",
+        "999d527b-e5ab-4dc4-86db-4b724fe9a149"
+      ],
+      "mappedKnowledge": [
+        "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+        "7c778ee4-524f-42e9-8357-39287bb45273",
+        "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+        "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+        "21ad875b-e892-4715-9334-1889f0da24dd",
+        "605c4101-4cb8-4810-8658-95fc2291717a",
+        "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+        "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+        "1ba618be-3b40-42ff-b797-2f887172e6a9",
+        "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+        "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+        "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+        "54617864-1413-4c7c-87fa-1b1b4e744591",
+        "3f94c175-fc84-4b54-9734-2def883dff55",
+        "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+        "e147b89d-8376-42aa-ab44-235faa67ddfa",
+        "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+        "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+        "3fc9243a-8bca-468b-898d-e413d35539f6",
+        "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+        "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+        "ab28b896-4760-4c68-960b-a78eebb6ad19",
+        "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+        "fa6f39c4-a287-4335-8942-4c87833747c4",
+        "bc579e06-5652-4a70-88a6-8ee3077a0753",
+        "abcca26b-6087-4df9-8f11-f9be60006c62",
+        "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+        "0854e4c8-76d2-44fe-854b-f22758caa602",
+        "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+        "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+        "188684c0-8798-4407-8206-ed7a94aa3339",
+        "589c76bd-8593-49dd-af38-0025510ee1c4",
+        "f2cb8b3e-df5c-4585-9d44-bcda58812a5a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+        "840de925-1f56-4a3f-8870-52ac7e48e664",
+        "f57ddf01-d704-4bb9-b392-5140bec5c860",
+        "70f59806-481f-4207-bc94-b28b781e671b",
+        "a809f068-2791-4685-846c-5250c82f39d9",
+        "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+        "6c7d04dc-1602-4ee6-9238-284f124d7374",
+        "3095059e-a398-48f1-89d9-305ecf0d3927",
+        "f381d67d-5adb-4696-810f-dd3bf646079e",
+        "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+        "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+        "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+        "8a8db1d6-167f-4dc2-a874-7d387a24c9a4",
+        "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+        "24294748-9690-4808-a519-55b1e333ab8a",
+        "e737a454-00e4-4c00-b57b-0d6873420b08",
+        "ee0c5415-2749-46f5-bf1f-7798a581282f",
+        "bde7fc12-c160-4130-9ba8-282daac16973",
+        "da442ccd-156c-40ad-8f04-48fabaa44341",
+        "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+        "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+        "d17fc019-ae06-493f-a653-118faf4c2d95",
+        "0cc5c954-8a4a-4d65-b568-d70f55527d24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2af1e358-eef3-4378-acb5-ca1850131366",
+      "dutyDetail": "Undertake basic carpentry duties to fit out a new-build site, an extension or the replacement of features in an existing structure.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+        "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+        "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+        "5c59c498-3d03-48cd-ae7b-263f866945bc",
+        "999d527b-e5ab-4dc4-86db-4b724fe9a149"
+      ],
+      "mappedKnowledge": [
+        "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+        "7c778ee4-524f-42e9-8357-39287bb45273",
+        "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+        "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+        "21ad875b-e892-4715-9334-1889f0da24dd",
+        "605c4101-4cb8-4810-8658-95fc2291717a",
+        "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+        "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+        "1ba618be-3b40-42ff-b797-2f887172e6a9",
+        "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+        "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+        "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+        "54617864-1413-4c7c-87fa-1b1b4e744591",
+        "3f94c175-fc84-4b54-9734-2def883dff55",
+        "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+        "e147b89d-8376-42aa-ab44-235faa67ddfa",
+        "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+        "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+        "2eff1c97-a4c5-440a-9e3b-d79a3fa0ac9a",
+        "3fc9243a-8bca-468b-898d-e413d35539f6",
+        "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+        "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+        "ab28b896-4760-4c68-960b-a78eebb6ad19",
+        "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+        "fa6f39c4-a287-4335-8942-4c87833747c4",
+        "bc579e06-5652-4a70-88a6-8ee3077a0753",
+        "abcca26b-6087-4df9-8f11-f9be60006c62",
+        "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+        "0854e4c8-76d2-44fe-854b-f22758caa602",
+        "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+        "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+        "188684c0-8798-4407-8206-ed7a94aa3339",
+        "589c76bd-8593-49dd-af38-0025510ee1c4",
+        "f2cb8b3e-df5c-4585-9d44-bcda58812a5a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+        "840de925-1f56-4a3f-8870-52ac7e48e664",
+        "f57ddf01-d704-4bb9-b392-5140bec5c860",
+        "70f59806-481f-4207-bc94-b28b781e671b",
+        "a809f068-2791-4685-846c-5250c82f39d9",
+        "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+        "6c7d04dc-1602-4ee6-9238-284f124d7374",
+        "3095059e-a398-48f1-89d9-305ecf0d3927",
+        "f381d67d-5adb-4696-810f-dd3bf646079e",
+        "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+        "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+        "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+        "40945354-69c4-4310-9c90-74f67ab4f13a",
+        "8a8db1d6-167f-4dc2-a874-7d387a24c9a4",
+        "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+        "24294748-9690-4808-a519-55b1e333ab8a",
+        "e737a454-00e4-4c00-b57b-0d6873420b08",
+        "ee0c5415-2749-46f5-bf1f-7798a581282f",
+        "bde7fc12-c160-4130-9ba8-282daac16973",
+        "da442ccd-156c-40ad-8f04-48fabaa44341",
+        "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+        "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+        "d17fc019-ae06-493f-a653-118faf4c2d95",
+        "0cc5c954-8a4a-4d65-b568-d70f55527d24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d39e35fe-7959-40e6-87b2-5557d1617cb8",
+      "dutyDetail": "Undertake basic plastering duties to prepare walls for painting.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+        "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+        "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+        "5c59c498-3d03-48cd-ae7b-263f866945bc",
+        "999d527b-e5ab-4dc4-86db-4b724fe9a149"
+      ],
+      "mappedKnowledge": [
+        "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+        "7c778ee4-524f-42e9-8357-39287bb45273",
+        "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+        "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+        "21ad875b-e892-4715-9334-1889f0da24dd",
+        "605c4101-4cb8-4810-8658-95fc2291717a",
+        "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+        "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+        "1ba618be-3b40-42ff-b797-2f887172e6a9",
+        "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+        "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+        "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+        "54617864-1413-4c7c-87fa-1b1b4e744591",
+        "3f94c175-fc84-4b54-9734-2def883dff55",
+        "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+        "e147b89d-8376-42aa-ab44-235faa67ddfa",
+        "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+        "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+        "3fc9243a-8bca-468b-898d-e413d35539f6",
+        "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+        "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+        "ab28b896-4760-4c68-960b-a78eebb6ad19",
+        "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+        "fa6f39c4-a287-4335-8942-4c87833747c4",
+        "bc579e06-5652-4a70-88a6-8ee3077a0753",
+        "abcca26b-6087-4df9-8f11-f9be60006c62",
+        "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+        "0854e4c8-76d2-44fe-854b-f22758caa602",
+        "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+        "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+        "188684c0-8798-4407-8206-ed7a94aa3339",
+        "589c76bd-8593-49dd-af38-0025510ee1c4",
+        "f2cb8b3e-df5c-4585-9d44-bcda58812a5a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+        "840de925-1f56-4a3f-8870-52ac7e48e664",
+        "f57ddf01-d704-4bb9-b392-5140bec5c860",
+        "70f59806-481f-4207-bc94-b28b781e671b",
+        "a809f068-2791-4685-846c-5250c82f39d9",
+        "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+        "6c7d04dc-1602-4ee6-9238-284f124d7374",
+        "3095059e-a398-48f1-89d9-305ecf0d3927",
+        "f381d67d-5adb-4696-810f-dd3bf646079e",
+        "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+        "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+        "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+        "8a8db1d6-167f-4dc2-a874-7d387a24c9a4",
+        "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+        "24294748-9690-4808-a519-55b1e333ab8a",
+        "e737a454-00e4-4c00-b57b-0d6873420b08",
+        "ee0c5415-2749-46f5-bf1f-7798a581282f",
+        "bde7fc12-c160-4130-9ba8-282daac16973",
+        "da442ccd-156c-40ad-8f04-48fabaa44341",
+        "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+        "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+        "d17fc019-ae06-493f-a653-118faf4c2d95",
+        "0cc5c954-8a4a-4d65-b568-d70f55527d24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "48dc6ddd-7754-4fcd-ba37-16323791a3a4",
+      "dutyDetail": "Undertake painting and decorating duties on new sections and on the existing structures of the building in the final stages of construction.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+        "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+        "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+        "5c59c498-3d03-48cd-ae7b-263f866945bc",
+        "999d527b-e5ab-4dc4-86db-4b724fe9a149"
+      ],
+      "mappedKnowledge": [
+        "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+        "7c778ee4-524f-42e9-8357-39287bb45273",
+        "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+        "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+        "21ad875b-e892-4715-9334-1889f0da24dd",
+        "605c4101-4cb8-4810-8658-95fc2291717a",
+        "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+        "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+        "1ba618be-3b40-42ff-b797-2f887172e6a9",
+        "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+        "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+        "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+        "54617864-1413-4c7c-87fa-1b1b4e744591",
+        "3f94c175-fc84-4b54-9734-2def883dff55",
+        "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+        "e147b89d-8376-42aa-ab44-235faa67ddfa",
+        "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+        "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+        "3fc9243a-8bca-468b-898d-e413d35539f6",
+        "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+        "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+        "ab28b896-4760-4c68-960b-a78eebb6ad19",
+        "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+        "fa6f39c4-a287-4335-8942-4c87833747c4",
+        "bc579e06-5652-4a70-88a6-8ee3077a0753",
+        "abcca26b-6087-4df9-8f11-f9be60006c62",
+        "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+        "0854e4c8-76d2-44fe-854b-f22758caa602",
+        "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+        "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+        "188684c0-8798-4407-8206-ed7a94aa3339",
+        "589c76bd-8593-49dd-af38-0025510ee1c4",
+        "f2cb8b3e-df5c-4585-9d44-bcda58812a5a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+        "840de925-1f56-4a3f-8870-52ac7e48e664",
+        "f57ddf01-d704-4bb9-b392-5140bec5c860",
+        "70f59806-481f-4207-bc94-b28b781e671b",
+        "a809f068-2791-4685-846c-5250c82f39d9",
+        "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+        "6c7d04dc-1602-4ee6-9238-284f124d7374",
+        "3095059e-a398-48f1-89d9-305ecf0d3927",
+        "f381d67d-5adb-4696-810f-dd3bf646079e",
+        "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+        "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+        "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+        "8a8db1d6-167f-4dc2-a874-7d387a24c9a4",
+        "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+        "24294748-9690-4808-a519-55b1e333ab8a",
+        "e737a454-00e4-4c00-b57b-0d6873420b08",
+        "ee0c5415-2749-46f5-bf1f-7798a581282f",
+        "bde7fc12-c160-4130-9ba8-282daac16973",
+        "da442ccd-156c-40ad-8f04-48fabaa44341",
+        "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+        "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+        "d17fc019-ae06-493f-a653-118faf4c2d95",
+        "0cc5c954-8a4a-4d65-b568-d70f55527d24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cfe033f9-c18a-4a6f-9f3f-b7c61df3e286",
+      "dutyDetail": "Communicate clearly and professionally with the client during all interactions, maintaining a healthy relationship between company and client, remaining highly aware that they are undertaking work within the client’s home and notifying a supervisor of any potential issues as they develop.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+        "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+        "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+        "5c59c498-3d03-48cd-ae7b-263f866945bc",
+        "999d527b-e5ab-4dc4-86db-4b724fe9a149"
+      ],
+      "mappedKnowledge": [
+        "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+        "7c778ee4-524f-42e9-8357-39287bb45273",
+        "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+        "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+        "21ad875b-e892-4715-9334-1889f0da24dd",
+        "605c4101-4cb8-4810-8658-95fc2291717a",
+        "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+        "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+        "1ba618be-3b40-42ff-b797-2f887172e6a9",
+        "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+        "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+        "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+        "54617864-1413-4c7c-87fa-1b1b4e744591",
+        "3f94c175-fc84-4b54-9734-2def883dff55",
+        "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+        "e147b89d-8376-42aa-ab44-235faa67ddfa",
+        "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+        "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+        "3fc9243a-8bca-468b-898d-e413d35539f6",
+        "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+        "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+        "ab28b896-4760-4c68-960b-a78eebb6ad19",
+        "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+        "fa6f39c4-a287-4335-8942-4c87833747c4",
+        "bc579e06-5652-4a70-88a6-8ee3077a0753",
+        "abcca26b-6087-4df9-8f11-f9be60006c62",
+        "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+        "0854e4c8-76d2-44fe-854b-f22758caa602",
+        "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+        "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+        "188684c0-8798-4407-8206-ed7a94aa3339",
+        "589c76bd-8593-49dd-af38-0025510ee1c4",
+        "f2cb8b3e-df5c-4585-9d44-bcda58812a5a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+        "840de925-1f56-4a3f-8870-52ac7e48e664",
+        "f57ddf01-d704-4bb9-b392-5140bec5c860",
+        "70f59806-481f-4207-bc94-b28b781e671b",
+        "a809f068-2791-4685-846c-5250c82f39d9",
+        "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+        "6c7d04dc-1602-4ee6-9238-284f124d7374",
+        "3095059e-a398-48f1-89d9-305ecf0d3927",
+        "f381d67d-5adb-4696-810f-dd3bf646079e",
+        "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+        "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+        "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+        "8a8db1d6-167f-4dc2-a874-7d387a24c9a4",
+        "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+        "24294748-9690-4808-a519-55b1e333ab8a",
+        "e737a454-00e4-4c00-b57b-0d6873420b08",
+        "ee0c5415-2749-46f5-bf1f-7798a581282f",
+        "bde7fc12-c160-4130-9ba8-282daac16973",
+        "da442ccd-156c-40ad-8f04-48fabaa44341",
+        "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+        "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+        "d17fc019-ae06-493f-a653-118faf4c2d95",
+        "0cc5c954-8a4a-4d65-b568-d70f55527d24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "7fefdf9b-6374-45ba-bf27-9152b729ea52",
+      "dutyDetail": "Dispose of on-site waste in a correct and safe way, ensuring adherence to environmental and sustainability practices. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+        "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+        "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+        "5c59c498-3d03-48cd-ae7b-263f866945bc",
+        "999d527b-e5ab-4dc4-86db-4b724fe9a149"
+      ],
+      "mappedKnowledge": [
+        "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+        "7c778ee4-524f-42e9-8357-39287bb45273",
+        "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+        "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+        "21ad875b-e892-4715-9334-1889f0da24dd",
+        "605c4101-4cb8-4810-8658-95fc2291717a",
+        "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+        "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+        "1ba618be-3b40-42ff-b797-2f887172e6a9",
+        "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+        "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+        "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+        "54617864-1413-4c7c-87fa-1b1b4e744591",
+        "3f94c175-fc84-4b54-9734-2def883dff55",
+        "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+        "e147b89d-8376-42aa-ab44-235faa67ddfa",
+        "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+        "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+        "3fc9243a-8bca-468b-898d-e413d35539f6",
+        "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+        "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+        "ab28b896-4760-4c68-960b-a78eebb6ad19",
+        "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+        "fa6f39c4-a287-4335-8942-4c87833747c4",
+        "bc579e06-5652-4a70-88a6-8ee3077a0753",
+        "abcca26b-6087-4df9-8f11-f9be60006c62",
+        "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+        "0854e4c8-76d2-44fe-854b-f22758caa602",
+        "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+        "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+        "188684c0-8798-4407-8206-ed7a94aa3339",
+        "589c76bd-8593-49dd-af38-0025510ee1c4",
+        "f2cb8b3e-df5c-4585-9d44-bcda58812a5a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+        "840de925-1f56-4a3f-8870-52ac7e48e664",
+        "f57ddf01-d704-4bb9-b392-5140bec5c860",
+        "70f59806-481f-4207-bc94-b28b781e671b",
+        "a809f068-2791-4685-846c-5250c82f39d9",
+        "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+        "6c7d04dc-1602-4ee6-9238-284f124d7374",
+        "3095059e-a398-48f1-89d9-305ecf0d3927",
+        "f381d67d-5adb-4696-810f-dd3bf646079e",
+        "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+        "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+        "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+        "8a8db1d6-167f-4dc2-a874-7d387a24c9a4",
+        "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+        "24294748-9690-4808-a519-55b1e333ab8a",
+        "e737a454-00e4-4c00-b57b-0d6873420b08",
+        "ee0c5415-2749-46f5-bf1f-7798a581282f",
+        "bde7fc12-c160-4130-9ba8-282daac16973",
+        "da442ccd-156c-40ad-8f04-48fabaa44341",
+        "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+        "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+        "d17fc019-ae06-493f-a653-118faf4c2d95",
+        "0cc5c954-8a4a-4d65-b568-d70f55527d24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0cbd72fd-5738-4bfe-a416-983e513ab78f",
+      "dutyDetail": "Check adherence to relevant and current building regulations at regular intervals during the project.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+        "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+        "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+        "5c59c498-3d03-48cd-ae7b-263f866945bc",
+        "999d527b-e5ab-4dc4-86db-4b724fe9a149"
+      ],
+      "mappedKnowledge": [
+        "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+        "7c778ee4-524f-42e9-8357-39287bb45273",
+        "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+        "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+        "21ad875b-e892-4715-9334-1889f0da24dd",
+        "605c4101-4cb8-4810-8658-95fc2291717a",
+        "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+        "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+        "1ba618be-3b40-42ff-b797-2f887172e6a9",
+        "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+        "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+        "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+        "54617864-1413-4c7c-87fa-1b1b4e744591",
+        "3f94c175-fc84-4b54-9734-2def883dff55",
+        "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+        "e147b89d-8376-42aa-ab44-235faa67ddfa",
+        "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+        "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+        "3fc9243a-8bca-468b-898d-e413d35539f6",
+        "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+        "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+        "ab28b896-4760-4c68-960b-a78eebb6ad19",
+        "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+        "fa6f39c4-a287-4335-8942-4c87833747c4",
+        "bc579e06-5652-4a70-88a6-8ee3077a0753",
+        "abcca26b-6087-4df9-8f11-f9be60006c62",
+        "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+        "0854e4c8-76d2-44fe-854b-f22758caa602",
+        "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+        "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+        "188684c0-8798-4407-8206-ed7a94aa3339",
+        "589c76bd-8593-49dd-af38-0025510ee1c4",
+        "f2cb8b3e-df5c-4585-9d44-bcda58812a5a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+        "840de925-1f56-4a3f-8870-52ac7e48e664",
+        "f57ddf01-d704-4bb9-b392-5140bec5c860",
+        "70f59806-481f-4207-bc94-b28b781e671b",
+        "a809f068-2791-4685-846c-5250c82f39d9",
+        "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+        "6c7d04dc-1602-4ee6-9238-284f124d7374",
+        "3095059e-a398-48f1-89d9-305ecf0d3927",
+        "f381d67d-5adb-4696-810f-dd3bf646079e",
+        "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+        "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+        "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+        "8a8db1d6-167f-4dc2-a874-7d387a24c9a4",
+        "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+        "24294748-9690-4808-a519-55b1e333ab8a",
+        "e737a454-00e4-4c00-b57b-0d6873420b08",
+        "ee0c5415-2749-46f5-bf1f-7798a581282f",
+        "bde7fc12-c160-4130-9ba8-282daac16973",
+        "da442ccd-156c-40ad-8f04-48fabaa44341",
+        "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+        "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+        "d17fc019-ae06-493f-a653-118faf4c2d95",
+        "0cc5c954-8a4a-4d65-b568-d70f55527d24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0b2f4158-b344-4cd7-a815-295e7a85747f",
+      "dutyDetail": "Liaise with relevant supervisors to support energy efficient installations in line with current environmental and safety regulations, with the aim of creating properties with low carbon emissions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d5c28a41-164a-47d3-8a45-fd5a0e5b6f03",
+        "f6ee9e70-9aa4-4568-9616-54154593e6e3",
+        "4c369575-90c8-48ba-bd51-a64bd8f62b5d",
+        "5c59c498-3d03-48cd-ae7b-263f866945bc",
+        "999d527b-e5ab-4dc4-86db-4b724fe9a149"
+      ],
+      "mappedKnowledge": [
+        "c6460861-bcdc-480f-a5b2-c6263530aa1e",
+        "7c778ee4-524f-42e9-8357-39287bb45273",
+        "a4ad012a-702f-4fb3-bf60-15705dfe7883",
+        "8cf020cd-65e6-4dae-95aa-8ddd9d288c00",
+        "21ad875b-e892-4715-9334-1889f0da24dd",
+        "605c4101-4cb8-4810-8658-95fc2291717a",
+        "13acb29b-7890-4b68-919e-1cd3fe9332d3",
+        "55c697ac-d3b6-4fdd-aac8-d8aeea20d67a",
+        "1ba618be-3b40-42ff-b797-2f887172e6a9",
+        "5ad5805b-7455-42d8-95d8-1b0b910e655f",
+        "8f16fd7f-c04d-4b9d-89bb-a718fe9f0f8c",
+        "9c780b16-4fe3-4ae5-8c2d-b07283675ad6",
+        "54617864-1413-4c7c-87fa-1b1b4e744591",
+        "3f94c175-fc84-4b54-9734-2def883dff55",
+        "df2d86cf-7498-49aa-9f8a-d4c4b68190b9",
+        "e147b89d-8376-42aa-ab44-235faa67ddfa",
+        "9d89386f-9f04-47b9-8878-4235f8fd7e9e",
+        "fbd7524a-8d99-4abd-be24-854dbe0e7087",
+        "3fc9243a-8bca-468b-898d-e413d35539f6",
+        "dcd7d10a-392a-4cc8-bbe5-76978fb58ae5",
+        "2b3a22f8-17d3-4407-b390-fa81974cc21c",
+        "ab28b896-4760-4c68-960b-a78eebb6ad19",
+        "cdb5a611-6267-4483-be9c-b6e84b5a34f5",
+        "fa6f39c4-a287-4335-8942-4c87833747c4",
+        "bc579e06-5652-4a70-88a6-8ee3077a0753",
+        "abcca26b-6087-4df9-8f11-f9be60006c62",
+        "d9b4d886-0e63-4af1-ac1e-545f1ef0192d",
+        "0854e4c8-76d2-44fe-854b-f22758caa602",
+        "922f0676-22ed-4b4a-a3b7-82d8fc87463a",
+        "e2d00d70-95a7-4718-9cde-8ca4243dd508",
+        "188684c0-8798-4407-8206-ed7a94aa3339",
+        "589c76bd-8593-49dd-af38-0025510ee1c4",
+        "f2cb8b3e-df5c-4585-9d44-bcda58812a5a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6470cf38-3ec2-4e0b-99e6-14421a4c7e54",
+        "840de925-1f56-4a3f-8870-52ac7e48e664",
+        "f57ddf01-d704-4bb9-b392-5140bec5c860",
+        "70f59806-481f-4207-bc94-b28b781e671b",
+        "a809f068-2791-4685-846c-5250c82f39d9",
+        "f9f1ea6e-a3a4-41fa-ad06-05a600f9e8f1",
+        "6c7d04dc-1602-4ee6-9238-284f124d7374",
+        "3095059e-a398-48f1-89d9-305ecf0d3927",
+        "f381d67d-5adb-4696-810f-dd3bf646079e",
+        "fe66028d-b1d8-4d7e-baba-19e9beff93de",
+        "7505cd7a-77c6-4d7a-8fed-6168941adfcb",
+        "d2449937-742d-408a-b7d0-458e4ea3d3e6",
+        "8a8db1d6-167f-4dc2-a874-7d387a24c9a4",
+        "d72c0fe6-f6cd-4364-a752-5abfa64f84f2",
+        "24294748-9690-4808-a519-55b1e333ab8a",
+        "e737a454-00e4-4c00-b57b-0d6873420b08",
+        "ee0c5415-2749-46f5-bf1f-7798a581282f",
+        "bde7fc12-c160-4130-9ba8-282daac16973",
+        "da442ccd-156c-40ad-8f04-48fabaa44341",
+        "7c3eaa16-5b57-467d-a29b-a5a293de833e",
+        "a4e2ddc2-b0d9-4e7d-b199-65f99325abea",
+        "d17fc019-ae06-493f-a653-118faf4c2d95",
+        "0cc5c954-8a4a-4d65-b568-d70f55527d24"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
   "options": [],
   "regulationDetail": [],
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-03-17T10:26:35.647"
+  "publishDate": "2027-03-11T00:00:00"
 }
