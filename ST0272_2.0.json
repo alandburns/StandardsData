@@ -1,0 +1,684 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 55,
+  "referenceNumber": "ST0272",
+  "learningAimClassCode": "",
+  "title": "Leadership and management professional",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0272",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-10-15T00:00:00",
+  "earliestStartDate": "2027-01-29T00:00:00",
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Leadership and management professionals guide organisations and lead teams towards achieving their goals and agreed outcomes.",
+  "level": 6,
+  "ePALength": 4,
+  "typicalDuration": 48,
+  "minimumHoursForCompliance": "926",
+  "maxFunding": 22000,
+  "maxFundingAdditionalInformation": "",
+  "route": "Business and administration",
+  "keywords": [
+    "management",
+    "leadership",
+    "team leader",
+    "CMDA",
+    "chartered manager",
+    "manager"
+  ],
+  "jobRoles": [
+    "Area manager",
+    "General manager",
+    "Store manager",
+    "Product manager",
+    "Operations manager",
+    "Account manager",
+    "Flight operations manager",
+    "Directorate manager",
+    "Senior office manager",
+    "Strategic manager",
+    "Department manager",
+    "Commercial operations manager",
+    "Development manager",
+    "Partnership manager",
+    "Planning manager",
+    "Improvement manager",
+    "Services manager"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0272-in-revision?view=epa",
+  "ssa1": "15 Business, Administration, Finance and Law",
+  "ssa2": "15.3 Business management",
+  "version": "2.0",
+  "standardInformation": "&lt;p&gt;A Chartered Manager is someone who can take responsibility for people, projects, operations and/or services to deliver long term organisational success, with the professional recognition of their ability to deliver impact, behave ethically and demonstrate their commitment to continual learning and development.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Occupation /Profile: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Professional managers in the private, public or third sector and all sizes of organisation.&amp;nbsp; Specific job roles may include: Manager; Senior Manager; Head of Department; Operations Manager; or anyone with significant management responsibilities.&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Professional managers capable of managing complexity and delivering impact at a strategic and/or operational level with management and leadership responsibility for setting and delivering organisational objectives through a wide range of functions.&lt;/li&gt;\n&lt;li&gt;Professional managers who want to develop fully all aspects of their management and leadership skills, knowledge, self-awareness and behaviours. These include strategic decision making, setting direction and achieving results, building and leading teams, clear communication, developing skills and motivating others, fostering inclusive and ethical cultures, leading change, project management, financial management, innovation, risk management, &amp;amp; developing stakeholder relationships.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Requirements: &lt;/strong&gt;&lt;/h3&gt;\n&lt;table border=&quot;0&quot; width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;113&quot; style=&quot;width: 113px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;624&quot; style=&quot;width: 624px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required &lt;/strong&gt;(through formal learning and applied according to business environment)&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;2&quot; width=&quot;737&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Organisational Performance – delivering a long-term purpose&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Operational Strategy&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Understand how to develop and implement organisational strategy and plans, including approaches to resource and supply chain management, workforce development, sustainability, taking and managing risk, monitoring and evaluation, and quality assurance.&amp;nbsp; Know how to manage change in the organisation.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Project Management&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Know how a project moves through planning, design, development, deployment and evaluation. Understand risk management models and reporting, risk benefit analysis and H&amp;amp;S implications.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Business Finance&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Understand financial strategies, including budgets, financial management and accounting, and how to provide financial reports.&amp;nbsp; Understand approaches to procurement and contracting, and legal requirements.&amp;nbsp; Understand commercial context in an organisational setting and how this changes over time.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Sales and Marketing&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Know how to create marketing and sales strategies.&amp;nbsp; Know how to segment and target relevant markets and customers (global and local), analysis of opportunities and ways to market. Understand the need for innovation in product and service design.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Digital business &amp;amp; new technologies&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Understand approaches to innovation and digital technologies and their impact on organisations, and how their application can be used for organisational improvement and development.&amp;nbsp; Understand innovation and digital technology’s impact on data and knowledge management for analysing business decision-making.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;2&quot; width=&quot;737&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Interpersonal Excellence – leading people and developing collaborative relationships&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Understand different forms of communication (written, verbal non-verbal, digital) and how to apply them. Know how to maintain personal presence and present to large groups. &amp;nbsp;Awareness of interpersonal skills of effective listening, influencing techniques, negotiating and persuasion.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Leading People&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Understand different inclusive leadership styles and models, how to develop teams and support people using coaching and mentoring approaches. Understand organisational culture and diversity management.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Managing People&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Know how to recruit, manage and develop people, using inclusive talent management approaches.&amp;nbsp; How to use HR systems and processes to ensure legal requirements, H&amp;amp;S, and well-being needs. Know how to set goals and manage performance.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Developing Collaborative Relationships&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Understand approaches to stakeholder, customer and supplier management, developing engagement, facilitating cross functional working and negotiation. Know how to shape common purpose, as well as approaches to conflict management and dispute resolution.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;2&quot; width=&quot;737&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Personal Effectiveness – managing self&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Awareness of self and others&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Know how to be self–aware and recognise different learning styles.&amp;nbsp; Know how to use emotional and social intelligence, and active listening and open questioning to work effectively with others.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Management of Self&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Know how to manage time, set goals, prioritise activities and undertake forward planning in a business environment with a focus on outcomes.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Decision Making&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Know how to undertake research, data analysis, problem solving and decision-making techniques, and understand the values, ethics and governance of your organisation.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot; width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;113&quot; style=&quot;width: 113px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skills &lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;624&quot; style=&quot;width: 624px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required&lt;/strong&gt; (acquired and demonstrated through continuous professional development in the workplace)&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;2&quot; width=&quot;737&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Organisational Performance -– delivering a long-term purpose&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Operational Strategy&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Support the development of organisational strategies and plans. Develop and deliver operational plans; being able to set targets and KPIs, manage resources, and monitor and measure outcomes to establish operational effectiveness, efficiencies and excellence.&amp;nbsp;&amp;nbsp; Produce reports that clearly present information and data, using a range of interpretation and analytical processes.&amp;nbsp; Gain wide support to deliver successful outcomes.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Project Management&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Plan, organise and manage resources in order to achieve organisational goals.&amp;nbsp; Identify key outcomes, develop and implement plans and monitor progress, and provide reports as required.&amp;nbsp; Proactively identify risk and create plans for their mitigation. Able to initiate, lead and drive change within the organisation, identifying barriers/challenges and how to overcome them. Ability to use widely recognised project management tools.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Business Finance&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Managing budgets, controlling expenditure and production of financial reports.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Sales and Marketing&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Use of customer insight and analysis of data to determine and drive customer service outcomes and improve customer relationships.&amp;nbsp; Creative approaches to developing solutions to meet customer need.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Digital business &amp;amp; new technologies&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Able to identify service/organisational improvements and opportunities for innovation and growth, using qualitative and quantitative analysis of information and data and benchmarking against others.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;2&quot; width=&quot;737&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Interpersonal Excellence – leading people and developing collaborative relationships&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Communication&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Communicate clearly, effectively and regularly using oral, written and digital channels and platforms.&amp;nbsp; Use active listening and open questioning to structure conversations and discussions, and able to challenge when appropriate.&amp;nbsp; Manage and chair meetings and clearly present actions and outcomes. Ability to apply influencing and persuading skills, to the dynamics and politics of personal interactions.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Leading People&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Able to articulate organisational purpose and values.&amp;nbsp; Support the creation of an inclusive, high performance work culture. Enable others to achieve by developing and supporting them through coaching and mentoring.&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Managing People&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Able to build teams, empower and motivate others to improve performance or achieve outcomes.&amp;nbsp; Able to delegate to others, provide clear guidance and monitor progress. Ability to set goals and accountabilities.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Developing Collaborative Relationships&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Able to build rapport and trust, develop networks and maintain relationships with people from a range of cultures, backgrounds and levels. &amp;nbsp;Able to contribute within a team environment. &amp;nbsp;Effectively influence and negotiate, being able to have challenging conversations and give constructive feedback.&amp;nbsp; Work collaboratively with internal and external customers and suppliers.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td colspan=&quot;2&quot; width=&quot;737&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Personal Effectiveness – managing self&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Awareness of self and others&amp;nbsp;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Able to reflect on own performance, identifying and acting on learning and development needs. Ability to understand impact on others.&amp;nbsp; Can manage stress and personal well-being, and confident in knowing core values and drivers.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Management of Self&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Able to create personal development plan, and use widely recognised tools and techniques to ensure the management of time and pressure effectively, and prioritisation and strategic alignment of activities.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Decision Making&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Use evidence-based tools and ethical approaches to undertake problem solving and critical analysis, synthesis and evaluation to support decision making.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot; width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;113&quot; style=&quot;width: 113px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Behaviours &lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;624&quot; style=&quot;width: 624px;&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What is required &lt;/strong&gt;(developed and exhibited in the workplace)&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Takes responsibility&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Drive to achieve in all aspects of work. Demonstrates resilience and determination when managing difficult situations.&amp;nbsp; Seeks new opportunities underpinned by commercial acumen and sound judgement.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Inclusive&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Open, approachable, authentic, and able to build trust with others.&amp;nbsp;&amp;nbsp; Seeks the views of others and values diversity internally and externally.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Agile&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Flexible to the needs of the organisation. Is creative, innovative and enterprising when seeking solutions to business needs. Positive and adaptable, responding well to feedback and need for change. Open to new ways of working and new management theories.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;Professionalism&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;624&quot;&gt;\n&lt;p&gt;Sets an example, and is ethical, fair, consistent and impartial.&amp;nbsp; Operates within organisational values and adheres to the requirements of relevant professional bodies.&lt;/p&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;h3&gt;&lt;strong&gt;Duration: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The typical duration for this apprenticeship is 4 years, but will depend on the previous experience of the apprentice.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Entry requirements:&amp;nbsp; &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Individual employers will set the selection criteria for their Apprenticeships. Most candidates will have A levels (or equivalent) or existing relevant Level 3 qualifications, and English, Maths and ICT at Level 2. Other relevant or prior experience may also be considered as an alternative.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Qualifications:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Successful apprentices will achieve a degree in management and business [either BA (Hons); BSc (Hons) or BBA (Hons)] and also have the option to be assessed for Chartered Manager status. &amp;nbsp;&lt;strong&gt;English and Maths - &lt;/strong&gt;English and Maths will be required to be demonstrated at a minimum of Level 2.&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This apprenticeship standard is at Level 6.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Link to professional registration: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Successful apprentices will have the option to apply for professional recognition as Chartered Managers and Members of the Chartered Management Institute (CMgr MCMI) and/or as a member of the Institute for Leadership &amp;amp; Management or other relevant professional body.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review date: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This apprenticeship standard should be reviewed three years after approval of the standard.&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;The Leadership and management professional role spans a variety of organisations across private, public, and third sectors, from small businesses to multinational corporations. They work in leadership and management roles, influencing people, processes, and products in alignment with agreed outcomes. Leadership and management professionals have a broad scope of responsibility that includes guiding organisations and leading teams towards achieving their goals and agreed outcomes.&lt;/p&gt;\n&lt;p&gt;Their daily tasks include working with colleagues and departments like HR, finance, IT and legal, while building and maintaining relationships with internal and external stakeholders. Whether working in-office, onsite, or remotely, they are expected to provide inclusive leadership, set objectives, and ensure their achievement.&lt;/p&gt;\n&lt;p&gt;In smaller organisations, they may take on multiple functions, contributing directly to the execution of strategic goals across various departments.&lt;/p&gt;\n&lt;p&gt;An employee in the leadership and management professional occupation is accountable for leadership and development within their teams, as well as fostering their own professional growth. Their duties encompass individual and team well-being, promoting responsible and sustainable work practices, and driving project delivery, innovation, continuous improvement, and change management.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;As well as leading, a leadership and management professional works as part of a team or network, helping with budget planning and managing resources. They analyse data and make decisions that impact the organisation and have the power to guide and influence others, including making ethical choices, managing important relationships, and building a positive culture. This includes influencing and following codes of practice and making sure the organisation complies with laws, especially around fairness, diversity, inclusion, and governance.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "f2ed8fc2-a864-415a-adea-72d8d423fe17",
+      "detail": "Principles, theories and models for developing and implementing organisational strategy "
+    },
+    {
+      "knowledgeId": "1e6cac6d-d1b7-442f-a3be-97a21220602d",
+      "detail": "The impact of ethical and sustainable decisions on strategic planning and organisational decision making    "
+    },
+    {
+      "knowledgeId": "0a6aaa5c-e216-446b-8208-8ddf31d3ad83",
+      "detail": "Strategies for internal and or external stakeholder engagement and management"
+    },
+    {
+      "knowledgeId": "7e292397-ee20-4e1d-973a-d25a28e244c9",
+      "detail": "Factors impacting the changing and future landscape of workforce management for example, multi-generational workforces, hybrid working and automation "
+    },
+    {
+      "knowledgeId": "560af7a8-f9cb-4f0a-9cab-d5d5c6933c57",
+      "detail": "Strategic approaches to workforce management for example  recruitment, performance management, reward, talent management, resource planning and leading teams "
+    },
+    {
+      "knowledgeId": "b951652b-d57e-48ce-9a34-b3d364970528",
+      "detail": "Approaches to monitoring and managing individual and team health and wellbeing"
+    },
+    {
+      "knowledgeId": "5ec194fd-5f70-4398-8516-ca94f2af0906",
+      "detail": "Leadership approaches and models in different situational and organisational contexts"
+    },
+    {
+      "knowledgeId": "c11d4065-4a67-423b-8a90-cecd2916257e",
+      "detail": "The roles of leaders as coaches, mentors and managers of conflict and challenge"
+    },
+    {
+      "knowledgeId": "e18616fd-e04e-4f63-9d67-80b1c251ccf1",
+      "detail": "Approaches to managing and developing self as an inclusive leader                                                                                                                                                                                                                                                                                                                                                                                                                                                        "
+    },
+    {
+      "knowledgeId": "11652c5a-4a39-42c7-bca9-7e8864d0b7fd",
+      "detail": "Approaches to developing and influencing organisational culture and the principles of equity, equality, diversity and inclusion"
+    },
+    {
+      "knowledgeId": "f95ed506-38f9-4fe5-a804-557e0513f643",
+      "detail": "Theories and approaches to inspire, motivate and manage people across the performance range"
+    },
+    {
+      "knowledgeId": "36ee2eab-f043-4c9d-9d1a-22a7e50543ac",
+      "detail": "Approaches to setting goals and measuring performance at individual and team levels"
+    },
+    {
+      "knowledgeId": "46dca852-3939-4396-8d84-1c44a7ba604b",
+      "detail": "Theories and strategies to organisational and team communication."
+    },
+    {
+      "knowledgeId": "4dd07b9a-75d0-4ddd-8c0c-b88b9adc4c04",
+      "detail": "Approaches to adapting communication for different audiences and situations."
+    },
+    {
+      "knowledgeId": "641d26a9-8166-4dad-81cc-fd309f5abd78",
+      "detail": "Importance of values, ethics and culture in approaches to organisational governance"
+    },
+    {
+      "knowledgeId": "7a6dab9f-ca6c-4536-97a0-5f5bf842be1b",
+      "detail": "Organisational key regulatory and statutory requirements"
+    },
+    {
+      "knowledgeId": "d8a92f0b-cfc3-440f-8c52-7db533619d92",
+      "detail": "Factors which affect risk strategies, how to develop decisions that balance innovation, business continuity and risk mitigation."
+    },
+    {
+      "knowledgeId": "0549917f-6e86-4a68-b5fa-4c9d240dcc7f",
+      "detail": "Approaches to creation, implementation and evaluation of organisational processes, policies and procedures"
+    },
+    {
+      "knowledgeId": "27b5b2d0-5321-4a08-a065-d37d7bad5aef",
+      "detail": "Project lifecycle, including how to lead and manage teams to deliver outcomes aligned to organisational goals and strategy"
+    },
+    {
+      "knowledgeId": "b7754365-f1ba-4e54-9701-03ce87331387",
+      "detail": "Approaches, models and metrics for proposal development and project management"
+    },
+    {
+      "knowledgeId": "90a75d0a-b010-4d9d-b906-8e76076264aa",
+      "detail": "Models of change and innovation, how to overcome barriers to change and best practices in leading through uncertainty"
+    },
+    {
+      "knowledgeId": "d876d942-208c-476b-8c5b-8ca289cb856e",
+      "detail": "Techniques to develop resilience in self and others"
+    },
+    {
+      "knowledgeId": "58463c88-c3de-4e8d-85d2-471ccee0aedd",
+      "detail": "Models or principles of continuous improvement including the use of metrics and technology to lead improvement activities"
+    },
+    {
+      "knowledgeId": "ec7cb752-5352-4806-863a-d6f0c4bccdd8",
+      "detail": "Principles of data analysis, evaluation and communication to support management decision making"
+    },
+    {
+      "knowledgeId": "96a8660e-a8e8-4eb1-b7f6-a00ebadbfb2f",
+      "detail": "Approaches to digital innovations and frontier digital technologies, their impact and how their application can be used for organisational improvement and development"
+    },
+    {
+      "knowledgeId": "54866064-b50d-4e93-a40f-dab92c4fcfbe",
+      "detail": "Practical and cultural considerations of embedding new technologies and the risks or controls which these may present."
+    },
+    {
+      "knowledgeId": "00eced45-3c41-4ea1-bd65-0b39ef67bb3c",
+      "detail": "Methods to interpret and analyse financial and resource management information to make informed management decisions"
+    },
+    {
+      "knowledgeId": "eb5ab8fc-9489-4850-9a17-0e70d9c1c866",
+      "detail": "Approaches to calculation of metrics to support proposals and projects (such as use of labour, return on investment, cash flow requirements)"
+    },
+    {
+      "knowledgeId": "4d08a10e-ca3b-4652-9446-6e3479b9cbd8",
+      "detail": "Approaches to sustainability into organisational practices and how to measure progress."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "408fdb08-45cd-4b4c-af3d-55b7c326e769",
+      "detail": "Role models ethical behaviour and values"
+    },
+    {
+      "behaviourId": "58d94efe-3323-47d1-a38d-b4dee710a8fe",
+      "detail": "Demonstrates transparency, honesty and integrity in working interactions"
+    },
+    {
+      "behaviourId": "91f20cb4-2880-413f-828e-7270d0336f42",
+      "detail": "Values and enables a diversity of views to support decision making"
+    },
+    {
+      "behaviourId": "f806d9be-fedb-48ce-91d6-bdca9ec67940",
+      "detail": "Operates collaboratively, leads by example and encourages and facilitates co-operation."
+    },
+    {
+      "behaviourId": "8f2f796f-8fd8-4f49-acff-75d5eabf9fdc",
+      "detail": "Demonstrates tenacity, accountability and flexibility"
+    },
+    {
+      "behaviourId": "2b4bc9fc-2d68-41a7-b548-37dc6cc92f0a",
+      "detail": "Enables learning opportunities and continuous professional development for self and others"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "c226a058-71b8-4f40-a3d7-f443c78734a3",
+      "detail": "Develop and execute organisational strategies, plans and projects in line with ethical and sustainable practices"
+    },
+    {
+      "skillId": "3bd41186-b036-4fbd-9788-31278a8f764b",
+      "detail": "Lead individuals and teams to deliver organisational strategy, goals and projects"
+    },
+    {
+      "skillId": "844185db-6327-424b-9e01-0287f8c4ff38",
+      "detail": "Collaborate within the organisation and create purposeful alignment to overall strategic direction"
+    },
+    {
+      "skillId": "7eb5d38d-2695-42e8-b5a3-e371fa1360a9",
+      "detail": "Influence and manage stakeholder relationships by using tools and frameworks to assess and enhance engagement and impact"
+    },
+    {
+      "skillId": "e42c84a7-3544-4853-88bb-348b49a93506",
+      "detail": "Negotiate and challenge in order to drive strategic outcomes"
+    },
+    {
+      "skillId": "761e918c-79a9-47ab-b734-d1d0cc9fd9ff",
+      "detail": "Evaluate current and future workforce needs, applying equality, diversity and inclusion principles"
+    },
+    {
+      "skillId": "5a3e34ee-f7a6-4f2a-9063-be944cbfcc57",
+      "detail": "Input to or influence the organisation's strategic workforce plan or talent management processes to build capability and talent."
+    },
+    {
+      "skillId": "60b6d6b2-5058-4efa-9a1b-4fb2b81aca2c",
+      "detail": "Demonstrate leadership and management best practices, for example relationship building, adapting approaches and managing conflict and challenge"
+    },
+    {
+      "skillId": "1e470026-3bce-4d10-a983-cd1f42c2c116",
+      "detail": "Demonstrate approaches to foster collaboration that promotes an inclusive organisation culture "
+    },
+    {
+      "skillId": "ede8fc83-5d89-405b-a097-598575cade26",
+      "detail": "Use coaching and mentoring theories and approaches to support the achievement of individual and organisational objectives"
+    },
+    {
+      "skillId": "f6839370-6ed9-4967-bcaa-ab8365057fb0",
+      "detail": "Set, measure and manage individual or team objectives and performance to achieve organisational goals"
+    },
+    {
+      "skillId": "dcba95a1-9b65-46a3-aec4-a3786899876c",
+      "detail": "Develop and implement open and multi-directional communication across the team"
+    },
+    {
+      "skillId": "717b12e2-8f6b-4937-a7de-9229d2223a02",
+      "detail": "Use and evaluate channels, tools and techniques to meet and adapt to internal and external stakeholder needs"
+    },
+    {
+      "skillId": "b6f90640-696b-4075-bdf0-62a79000bd6b",
+      "detail": "Make recommendations to develop the strategies that support risk mitigation, contingency planning and organisational resilience"
+    },
+    {
+      "skillId": "2ad6386d-411b-4f87-8edc-f65c1967686b",
+      "detail": "Collaborate with stakeholders to identify or implement improvements to organisational processes, policies and procedures"
+    },
+    {
+      "skillId": "d4877e1b-3249-424a-89ed-e555dc39e56c",
+      "detail": "Lead strategic projects, inspiring and motivating individuals and the team to achieve key performance indicators"
+    },
+    {
+      "skillId": "99e7e25a-315e-4e30-930a-1356b55b35a3",
+      "detail": "Drive and deliver improvements or growth in organisational process, product or service"
+    },
+    {
+      "skillId": "5670da60-13e7-47b0-9ccf-19639a41015b",
+      "detail": "Lead through change and transformation to achieve organisational strategy and objectives"
+    },
+    {
+      "skillId": "005fe044-d4da-45eb-af2d-d99948d71285",
+      "detail": "Apply problem-solving techniques, identifying opportunities, and making informed recommendations that enhance organisational outcomes"
+    },
+    {
+      "skillId": "72eebac7-c466-46a3-a84f-e62bed396df8",
+      "detail": "Use data visualisation and analysis tools to inform or influence the team and organisation to make evidence-based decisions."
+    },
+    {
+      "skillId": "2f1b77f8-2622-4363-90cb-ff06a11e503e",
+      "detail": "Evaluate current and emerging technologies and make recommendations that consider ethics and risks, aligned with organisational policies"
+    },
+    {
+      "skillId": "e068f7b2-22a8-4472-b08b-bb775d12e08c",
+      "detail": "Apply commercial acumen to manage resources and make effective financial decisions"
+    },
+    {
+      "skillId": "393682f0-3519-4f04-9f8c-6bc27c7c2136",
+      "detail": "Develop and embed the sustainability agenda within the area of responsibility, reviewing and or improving current policies and practices, delivering progress against targets and KPIs"
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Office for Students",
+    "contactName": "",
+    "contactAddress": "Westward House<br>Lime Kiln Close<br>Stoke Gifford<br>BRISTOL<br>BS34 8SR<br>tel 0117 931 7317",
+    "contactEmail": "apprenticeshipEQA@officeforstudents.org.uk",
+    "webLink": "https://www.officeforstudents.org.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": true,
+  "integration": "Degree-apprenticeship",
+  "integratedDegree": "integrated degree",
+  "tbReference": "TB0630",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Nestle, Greencore, NHS England, Cancer Research, Lloyds Bank PLC, Morrisons, GXO, Salutem, The Rugby Players association, AJ Bell, University Hospitals Sussex NHS Foundation Trust, NSPCC, Turning Point, EasyJet, Jet2, Amazon, W H Smith, British Army, DVSA, Deloitte, CMI. \nCity & Guilds (ILM), Corndel, Manchester Metropolitan University, ",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Area manager",
+    "General manager",
+    "Store manager",
+    "Product manager",
+    "Operations manager",
+    "Account manager",
+    "Flight operations manager",
+    "Directorate manager",
+    "Senior office manager",
+    "Strategic manager",
+    "Department manager",
+    "Commercial operations manager",
+    "Development manager",
+    "Partnership manager",
+    "Planning manager",
+    "Improvement manager",
+    "Services manager"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Management and Administration",
+  "cluster": "Management professional",
+  "clusterId": "68",
+  "clusterDescription": "Leader of a business process and/or unit requiring the ability to analyse and improve complex business-wide processes and risks. Also includes the ability to provide a full range of company legal and financial knowledge relevant to running a company",
+  "createdDate": "2026-10-15T13:01:48 +00:00",
+  "lastUpdated": "2026-10-15T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2015-10-08T00:00:00 +00:00",
+  "banners": "New starts on this apprenticeship are not government funded from 1st September 2026. Any apprentice who started this apprenticeship before 1st September 2026 will continue to be funded through to completion. This apprenticeship remains available for delivery for privately funded apprentices",
+  "occupationCode": "OCC0272",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0272-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0272-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "b5affbd2-1fb1-4dd5-84f1-fce42c3062d9",
+      "title": "Leadership and management degree",
+      "level": "6 (integrated degree)",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Chartered Management Institute",
+      "level": "Member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institute for Leadership and Management",
+      "level": "Member",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "ede81bfa-f3f3-45f6-84b9-1690a8245c90",
+      "dutyDetail": "Develop ethical and sustainable solutions which meet strategic organisational and stakeholder needs",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8f2f796f-8fd8-4f49-acff-75d5eabf9fdc"
+      ],
+      "mappedKnowledge": [
+        "f2ed8fc2-a864-415a-adea-72d8d423fe17",
+        "1e6cac6d-d1b7-442f-a3be-97a21220602d"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "c226a058-71b8-4f40-a3d7-f443c78734a3",
+        "3bd41186-b036-4fbd-9788-31278a8f764b",
+        "844185db-6327-424b-9e01-0287f8c4ff38"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0c7e7dfe-fa31-4012-a077-6e0b4aaa4163",
+      "dutyDetail": "Develop and manage strategic relationships with internal and external stakeholders to enable organisational delivery",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "408fdb08-45cd-4b4c-af3d-55b7c326e769",
+        "58d94efe-3323-47d1-a38d-b4dee710a8fe",
+        "f806d9be-fedb-48ce-91d6-bdca9ec67940"
+      ],
+      "mappedKnowledge": [
+        "0a6aaa5c-e216-446b-8208-8ddf31d3ad83"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "7eb5d38d-2695-42e8-b5a3-e371fa1360a9",
+        "e42c84a7-3544-4853-88bb-348b49a93506"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "34ce8088-7998-4b77-855b-f7c7baabd32d",
+      "dutyDetail": "Shape and drive current and future workforce development throughout the employee lifecycle within scope of the role",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "58d94efe-3323-47d1-a38d-b4dee710a8fe",
+        "f806d9be-fedb-48ce-91d6-bdca9ec67940"
+      ],
+      "mappedKnowledge": [
+        "7e292397-ee20-4e1d-973a-d25a28e244c9",
+        "560af7a8-f9cb-4f0a-9cab-d5d5c6933c57",
+        "b951652b-d57e-48ce-9a34-b3d364970528"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "761e918c-79a9-47ab-b734-d1d0cc9fd9ff",
+        "5a3e34ee-f7a6-4f2a-9063-be944cbfcc57"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d17b18c4-f5d3-4b9b-a8e0-ff65d0399296",
+      "dutyDetail": "Lead, manage and motivate individuals and teams to achieve organisational outcomes",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "408fdb08-45cd-4b4c-af3d-55b7c326e769",
+        "2b4bc9fc-2d68-41a7-b548-37dc6cc92f0a"
+      ],
+      "mappedKnowledge": [
+        "5ec194fd-5f70-4398-8516-ca94f2af0906",
+        "c11d4065-4a67-423b-8a90-cecd2916257e",
+        "e18616fd-e04e-4f63-9d67-80b1c251ccf1"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "60b6d6b2-5058-4efa-9a1b-4fb2b81aca2c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "54ceb72f-3e7f-464e-aa3c-5b72db9211bb",
+      "dutyDetail": "Shape and influence organisational culture to achieve equity, diversity, inclusion and belonging principles",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "8f2f796f-8fd8-4f49-acff-75d5eabf9fdc",
+        "2b4bc9fc-2d68-41a7-b548-37dc6cc92f0a"
+      ],
+      "mappedKnowledge": [
+        "11652c5a-4a39-42c7-bca9-7e8864d0b7fd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1e470026-3bce-4d10-a983-cd1f42c2c116"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e7af5035-34e6-4cfa-95e3-1b2dd773506b",
+      "dutyDetail": "Empower and support individuals and the wider organisation to achieve objectives",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2b4bc9fc-2d68-41a7-b548-37dc6cc92f0a"
+      ],
+      "mappedKnowledge": [
+        "f95ed506-38f9-4fe5-a804-557e0513f643",
+        "36ee2eab-f043-4c9d-9d1a-22a7e50543ac"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ede8fc83-5d89-405b-a097-598575cade26",
+        "f6839370-6ed9-4967-bcaa-ab8365057fb0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "02e0a584-7f0a-47ce-87a9-642a23e6b32c",
+      "dutyDetail": "Drive a culture of open, multi-directional and effective communication",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "91f20cb4-2880-413f-828e-7270d0336f42"
+      ],
+      "mappedKnowledge": [
+        "46dca852-3939-4396-8d84-1c44a7ba604b",
+        "4dd07b9a-75d0-4ddd-8c0c-b88b9adc4c04"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "dcba95a1-9b65-46a3-aec4-a3786899876c",
+        "717b12e2-8f6b-4937-a7de-9229d2223a02"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4f9f2480-977e-43d6-a3b3-bc7d0da81987",
+      "dutyDetail": "Drive and implement organisational compliance, governance, regulatory and statutory requirements in own area of responsibility",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "408fdb08-45cd-4b4c-af3d-55b7c326e769"
+      ],
+      "mappedKnowledge": [
+        "641d26a9-8166-4dad-81cc-fd309f5abd78",
+        "7a6dab9f-ca6c-4536-97a0-5f5bf842be1b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f68fd040-0872-4b91-a6aa-01776741a345",
+      "dutyDetail": "Own, manage and mitigate risks related to area of responsibility",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "d8a92f0b-cfc3-440f-8c52-7db533619d92"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b6f90640-696b-4075-bdf0-62a79000bd6b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3cfcd5a1-62d7-4b8b-bae5-87beb8439ba4",
+      "dutyDetail": "Engage with wider organisation to enhance ways of working, policies and procedures to ensure they are fit for the future of the organisation",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "91f20cb4-2880-413f-828e-7270d0336f42",
+        "8f2f796f-8fd8-4f49-acff-75d5eabf9fdc"
+      ],
+      "mappedKnowledge": [
+        "0549917f-6e86-4a68-b5fa-4c9d240dcc7f"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2ad6386d-411b-4f87-8edc-f65c1967686b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2576d15a-0590-4346-aa6e-37ed444ced02",
+      "dutyDetail": "Collaborate across the organisation to lead or deliver projects in alignment with organisational strategic priorities",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "91f20cb4-2880-413f-828e-7270d0336f42",
+        "f806d9be-fedb-48ce-91d6-bdca9ec67940"
+      ],
+      "mappedKnowledge": [
+        "27b5b2d0-5321-4a08-a065-d37d7bad5aef",
+        "b7754365-f1ba-4e54-9701-03ce87331387"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d4877e1b-3249-424a-89ed-e555dc39e56c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c3c3e5ee-345a-489b-b601-85d0e31aca32",
+      "dutyDetail": "Drive innovation and change to deliver impactful outcomes for the organisation",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "f806d9be-fedb-48ce-91d6-bdca9ec67940",
+        "8f2f796f-8fd8-4f49-acff-75d5eabf9fdc"
+      ],
+      "mappedKnowledge": [
+        "90a75d0a-b010-4d9d-b906-8e76076264aa",
+        "d876d942-208c-476b-8c5b-8ca289cb856e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "99e7e25a-315e-4e30-930a-1356b55b35a3",
+        "5670da60-13e7-47b0-9ccf-19639a41015b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6ed47495-abad-4602-8d05-369bf3a7b339",
+      "dutyDetail": "Lead a culture of continuous improvement and excellence within your area of the organisation",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "91f20cb4-2880-413f-828e-7270d0336f42",
+        "2b4bc9fc-2d68-41a7-b548-37dc6cc92f0a"
+      ],
+      "mappedKnowledge": [
+        "58463c88-c3de-4e8d-85d2-471ccee0aedd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "005fe044-d4da-45eb-af2d-d99948d71285"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ebbe5859-3313-44b7-a622-59eaabbfe583",
+      "dutyDetail": "Drive the collation, analysis and communication of relevant data to inform and influence evidence-based strategic decisions to improve team capability and performance",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "2b4bc9fc-2d68-41a7-b548-37dc6cc92f0a"
+      ],
+      "mappedKnowledge": [
+        "ec7cb752-5352-4806-863a-d6f0c4bccdd8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "72eebac7-c466-46a3-a84f-e62bed396df8"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9f58c910-dc6b-4ef8-83af-25e0f29d5c0a",
+      "dutyDetail": "Role model the use of current and emerging technologies to drive forward organisational capabilities, creating more efficient and effective ways of delivering impactful outcomes",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "408fdb08-45cd-4b4c-af3d-55b7c326e769"
+      ],
+      "mappedKnowledge": [
+        "96a8660e-a8e8-4eb1-b7f6-a00ebadbfb2f",
+        "54866064-b50d-4e93-a40f-dab92c4fcfbe"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "2f1b77f8-2622-4363-90cb-ff06a11e503e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2919d5b7-fc94-4040-836b-63fad88f4280",
+      "dutyDetail": "Interpret financial information and its impact to make informed management decisions",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "91f20cb4-2880-413f-828e-7270d0336f42"
+      ],
+      "mappedKnowledge": [
+        "00eced45-3c41-4ea1-bd65-0b39ef67bb3c",
+        "eb5ab8fc-9489-4850-9a17-0e70d9c1c866"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e068f7b2-22a8-4472-b08b-bb775d12e08c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e3885f1f-4f4a-4527-ab2d-3bc983cf09fe",
+      "dutyDetail": "Role model leadership to drive the sustainability agenda, inspiring advocacy, innovation and continuous improvement",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "408fdb08-45cd-4b4c-af3d-55b7c326e769"
+      ],
+      "mappedKnowledge": [
+        "4d08a10e-ca3b-4652-9446-6e3479b9cbd8"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "393682f0-3519-4f04-9f8c-6bc27c7c2136"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2027-01-29T00:00:00"
+}
