@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.2",
   "change": "Occupational standard and end-point assessment plan revised. ",
-  "changedDate": "2024-12-02T00:00:00",
+  "changedDate": "2026-10-15T00:00:00",
   "earliestStartDate": "2024-12-02T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-14T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Pruning, felling and maintaining trees.",
   "level": 2,
@@ -239,7 +239,7 @@
   "clusterId": "111",
   "clusterDescription": "A full range of work to plant, maintain, manage and remove or harvest trees and/or woodland",
   "createdDate": "2024-12-02T11:08:25 +00:00",
-  "lastUpdated": "2024-12-02T00:00:00 +00:00",
+  "lastUpdated": "2026-10-15T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-06-27T00:00:00 +00:00",
   "banners": "From 01/09/2025, the revised LANTRA Level 3 Award in Accessing a Tree Using a Rope and Harness &amp; Aerial Rescue will be accepted in place of :LANTRA Level 2 Award in Accessing a Tree Using a Rope and Harness and LANTRA Level 3 Award in Aerial Tree Rescue Operations; Professional Body recognition:Society for the Environment (SocEnv) – Meets criteria for Entry-Level Environmentalist (ELEnv) applicationUpon receiving the apprenticeship certificate, individuals become eligible to apply for ELEnv, confirming that the necessary requirements have been met. To gain this status, applicants must also be a member of a professional body licensed by the SocEnv. ELEnv is awarded for up to a maximum of three years, during which registrants are expected to progress, supported by their professional body, to a competency registration (REnvTech, REnvP, or CEnv). More details can be found at https://skills.socenv.org.uk/entry-level-environmentalist/",
   "occupationCode": "OCC0223",
@@ -603,5 +603,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-12-02T00:00:00"
+  "publishDate": "2027-04-14T00:00:00"
 }
