@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding have been revised",
-  "changedDate": "2023-05-05T00:00:00",
+  "changedDate": "2026-10-16T00:00:00",
   "earliestStartDate": "2023-05-06T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-12T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Supporting the class teacher to enhance learning.",
   "level": 3,
@@ -253,7 +253,7 @@
   "clusterId": "176",
   "clusterDescription": "Supports the development of a students' learning skills, behaviours and overall knowledge both one-to-one and in a small group",
   "createdDate": "2023-03-06T13:20:00 +00:00",
-  "lastUpdated": "2023-05-05T00:00:00 +00:00",
+  "lastUpdated": "2026-10-16T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-06-26T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0454",
@@ -658,5 +658,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2023-05-06T00:00:00"
+  "publishDate": "2027-04-12T00:00:00"
 }
