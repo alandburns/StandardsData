@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Standard, end-point assessment plan and funding revised.",
-  "changedDate": "2022-07-28T00:00:00",
+  "changedDate": "2026-10-20T00:00:00",
   "earliestStartDate": "2022-05-16T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carrying out tests to make sure computer software works as intended and is fit for purpose.",
   "level": 4,
@@ -267,7 +267,7 @@
   "clusterId": "197",
   "clusterDescription": "Build and test simple, high quality codes across various layers (front end, logic and database) and interpret design documents and specifications",
   "createdDate": "2022-05-20T08:29:30 +00:00",
-  "lastUpdated": "2022-07-28T00:00:00 +00:00",
+  "lastUpdated": "2026-10-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2016-04-21T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0129",
@@ -933,5 +933,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2022-07-28T00:00:00"
+  "publishDate": "2027-04-26T00:00:00"
 }
