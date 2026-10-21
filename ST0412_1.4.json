@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.4",
   "change": "SSA updated",
-  "changedDate": "2025-12-09T00:00:00",
+  "changedDate": "2026-10-20T00:00:00",
   "earliestStartDate": "2025-12-09T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -310,7 +310,7 @@
   "clusterId": "81",
   "clusterDescription": "Manage diverse environments, providing technical support in a range of specialist areas",
   "createdDate": "2025-12-08T09:38:29 +00:00",
-  "lastUpdated": "2025-12-09T00:00:00 +00:00",
+  "lastUpdated": "2026-10-20T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-07-10T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0412",
@@ -779,5 +779,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-09T00:00:00"
+  "publishDate": "2026-10-20T00:00:00"
 }
