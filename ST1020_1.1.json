@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard and end-point assessment plan revised.",
-  "changedDate": "2026-05-05T00:00:00",
+  "changedDate": "2026-10-21T00:00:00",
   "earliestStartDate": "2024-01-17T00:00:00",
   "latestStartDate": "2026-05-04T00:00:00",
   "latestEndDate": null,
@@ -275,9 +275,9 @@
   "clusterId": "65",
   "clusterDescription": "Design, plan, assemble, install, house, commission, test, maintain, service and repair of all forms of a buildings' emergency, security and utility systems",
   "createdDate": "2024-01-17T10:57:35 +00:00",
-  "lastUpdated": "2026-05-05T00:00:00 +00:00",
+  "lastUpdated": "2026-10-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2023-08-09T00:00:00 +00:00",
-  "banners": "",
+  "banners": "A temporary dispensation has been applied to the assessment plan version ST1020/V1.1 and ST1020/V1.2 for this apprenticeship. The dispensation will run indefinitely until all apprentices registered to ST1020/V1.1 and ST1020V1.2 only, are complete. The dispensation may be withdrawn if no longer necessary.&nbsp;End-point assessment organisations (EPAOs) delivering EPAs for the apprenticeship will implement the dispensation as required, supported, and monitored by the relevant EQA provider.&nbsp;&nbsp;The key changes are:&nbsp;&nbsp;To allow assessment method 1, ‘practical assessment with questions’ to be carried out over a minimum of 18 hours and over 3 working days.",
   "occupationCode": "OCC1020",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1020-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1020-v1-1",
@@ -681,5 +681,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": true,
-  "publishDate": "2026-05-05T00:00:00"
+  "publishDate": "2026-10-21T00:00:00"
 }
