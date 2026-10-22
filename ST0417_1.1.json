@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Occupational standard, end-point assessment and funding band revised.",
-  "changedDate": "2025-03-03T00:00:00",
+  "changedDate": "2026-10-21T00:00:00",
   "earliestStartDate": "2025-02-28T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -306,9 +306,9 @@
   "clusterId": "40",
   "clusterDescription": "Building/structure design, research, commercial cost management, contracts management with a wide range of knowledge of current technology developments and options, contracts, procurement and tracking. Consults with clients to determine functional and spatial requirements of new or renovated structures",
   "createdDate": "2025-08-04T08:59:58 +00:00",
-  "lastUpdated": "2025-03-03T00:00:00 +00:00",
+  "lastUpdated": "2026-10-21T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2017-10-04T00:00:00 +00:00",
-  "banners": "",
+  "banners": "A temporary dispensation has been applied to the assessment plan version ST0417/V1.1 for this apprenticeship. The dispensation will run indefinitely until all apprentices registered to ST0417/V1.1 only, are complete. The dispensation may be withdrawn if no longer necessary.&nbsp;End-point assessment organisations (EPAOs) delivering EPAs for the apprenticeship will implement the dispensation as required, supported, and monitored by the relevant EQA provider.&nbsp;\nThe key changes are:&nbsp;Allow assessment methods to be carried out in any order.&nbsp;Allow the project: technical report and presentation with questioning and professional discussion underpinned by a portfolio of evidence to be assessed and graded by one independent assessor.&nbsp;Remove the requirement for independent assessors to be active, trained and recognised professional reviewers (IEng and above) through a licensed Professional Engineering Institution.&nbsp;Allow overall EPA grading to be carried out by one independent assessor.\nNote: This apprenticeship continues to align with the requirements for Incorporated Engineer (IEng). Apprentices will remain eligible to apply for IEng professional review, via an Engineering Council licenced Professional Engineering Institution, on achievement of this degree apprenticeship.\n&nbsp;",
   "occupationCode": "OCC0417",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0417-v1-1?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0417-v1-1",
@@ -704,5 +704,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-03-03T00:00:00"
+  "publishDate": "2026-10-21T00:00:00"
 }
