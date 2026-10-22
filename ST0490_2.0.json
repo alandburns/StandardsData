@@ -1,6 +1,6 @@
 {
   "templateType": "Apprenticeship Standard",
-  "shortAssessment": false,
+  "shortAssessment": true,
   "larsCode": 822,
   "referenceNumber": "ST0490",
   "learningAimClassCode": "Z0002070",
