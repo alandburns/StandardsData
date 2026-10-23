@@ -161,27 +161,7 @@
     },
     {
       "skillId": "7136a2dc-4258-4e49-a202-7612cda309e2",
-      "detail": "Training or Learning design: Design, construct and structure training or learning resources to meet a variety of needs."
-    },
-    {
-      "skillId": "3f9ed0a0-bb11-4d70-baae-6c6fa2e83a2e",
-      "detail": "Training or Learning design: Research of delivery options and resources including digital, online or blended solutions. Including identifying existing resources."
-    },
-    {
-      "skillId": "be3d1784-ac0b-488c-87fb-66d1e613bd3a",
-      "detail": "Training or Learning design: Planning programmes, sessions or modules."
-    },
-    {
-      "skillId": "07dfb6c8-9856-4b17-a43e-f76ed81fa914",
-      "detail": "Training or Learning design: Selecting appropriate delivery methods"
-    },
-    {
-      "skillId": "a701aad3-64db-47cf-ae3d-9ed6e52fc87a",
-      "detail": "Training or Learning design: Designing creative, engaging, appropriate, and inclusive learning activities, for example e-learning, digital collaboration, group sessions or blended."
-    },
-    {
-      "skillId": "715052f2-247b-400e-b62a-59553f8c3e4a",
-      "detail": "Training or Learning design: Developing materials and resources to support learning."
+      "detail": "Training or Learning design: Design, construct and structure training or learning resources to meet a variety of needs:\n- Research of delivery options and resources including digital, online or blended solutions. Including identifying existing resources\n- Planning programmes, sessions or modules\n- Selecting appropriate delivery methods\n- Designing creative, engaging, appropriate, and inclusive learning activities, for example e-learning, digital collaboration, group sessions or blended\n- Developing materials and resources to support learning."
     },
     {
       "skillId": "edf3e638-b77d-4dc6-8d1c-22d684de21e5",
@@ -277,7 +257,7 @@
   "cluster": "Human resources administrator",
   "clusterId": "96",
   "clusterDescription": "Provision of largely transactional human resource services e.g. recruitment, HR administration, rewards and recognition, training and development, etc",
-  "createdDate": "2026-09-02T10:00:29 +00:00",
+  "createdDate": "2026-10-22T10:12:48 +00:00",
   "lastUpdated": "2026-09-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2018-08-08T00:00:00 +00:00",
   "banners": "",
