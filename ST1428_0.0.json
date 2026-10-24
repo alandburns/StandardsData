@@ -1,0 +1,498 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 0,
+  "referenceNumber": "ST1428",
+  "learningAimClassCode": "",
+  "title": "Production accounts assistant",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1428",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "2026-10-23T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "To support a production's accountancy and administration services, varying according to the specific needs and scale of a production.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 12,
+  "minimumHoursForCompliance": "",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Creative and design",
+  "keywords": [
+    "production accounts assistant",
+    "accountancy",
+    "assistant",
+    "film",
+    "television",
+    "production",
+    "theatre"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1428?view=epa",
+  "ssa1": "9 Arts, Media and Publishing",
+  "ssa2": "9.3 Media and communication",
+  "version": "0.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the screen industries, primarily film and TV production, but also within short form and commercial production. It can also be found in theatrical productions. During production, the production accounting teams supports the production management team, including line producers and production managers, to finalise budgets, create costs reports for resources and oversee all payments, manage payroll, and provide daily or weekly cost reports for those different stages of the creative process. The role requires an understanding of the production workflow process, and the costs and different financial processes associated with different types of productions.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to undertake accounting and administration tasks under the direction of senior staff within production accounting departments, across the specific needs and scale of the production lifecycle.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation typically interacts with production accountants, the wider production team and crew, other finance teams and external suppliers.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for assisting with accounts management throughout production across one or more projects. This can include general bookkeeping, maintaining records of invoices, payments, receipts and other transactions, and supporting accounts services such as payroll, petty cash and purchase orders. They may also be responsible for processing payments, using accounting software and filing.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "e08bfe92-8558-42e0-8610-498a998694ac",
+      "detail": "The requirements of each department on a production and how they interact with each other."
+    },
+    {
+      "knowledgeId": "8c520ed9-ea61-4a82-b495-04499a29e2da",
+      "detail": "The role and responsibilities of a production accounts assistant and the impact this has on the success of the production."
+    },
+    {
+      "knowledgeId": "9adfd4ec-26b2-4930-ab1b-0938d9e1c156",
+      "detail": "How different production environments, formats and budgets affect the scale of production and the structure of the departments."
+    },
+    {
+      "knowledgeId": "591e5a4d-e1e1-48f9-a485-36497efabc45",
+      "detail": "The production documents to be sourced and read for example the script, production accounting manuals, production briefs, production schedules and memos."
+    },
+    {
+      "knowledgeId": "dc3da153-b764-4d19-b8bf-0b7ec12257e2",
+      "detail": "The value of production content and confidentiality to the business or organisation. Why it is important to maintain data security, and the legal and regulatory requirements such as copyright and intellectual property rights."
+    },
+    {
+      "knowledgeId": "2bdd942d-ddf8-41c7-ac9d-fa2f5451ae77",
+      "detail": "Industry regulations, codes of practice, organisational policies, licences and legal requirements that might affect a production including social media policy."
+    },
+    {
+      "knowledgeId": "2c089204-5a96-4fa9-b010-482041524157",
+      "detail": "Principles of data security and legislative requirements regarding data handling in a financial and accounting context."
+    },
+    {
+      "knowledgeId": "50485de3-b3b2-4aa3-9dc4-a180a298cee0",
+      "detail": "The importance of environmental sustainability and departmental processes for working on a production. For example, Albert Carbon Calculator for activities that contribute to the monitoring and reduction of the carbon footprint."
+    },
+    {
+      "knowledgeId": "ffa0bf7d-52c2-465d-a4b1-ad3a77710384",
+      "detail": "Specialist accounting software and applications used on productions."
+    },
+    {
+      "knowledgeId": "afae27cc-2193-4de7-a318-b5f7e3472971",
+      "detail": "Basic tax principles and regulations, including VAT, Payroll Taxes, UK Film and TV TaxRelief, International Withholding Tax, Foreign Entertainers Unit Tax (FEU) and HMRC Film & TV Guidance Notes."
+    },
+    {
+      "knowledgeId": "0de3e0c7-edd6-45d9-be3f-ce1fd3664c3b",
+      "detail": "Contracting and Right to Work legislation."
+    },
+    {
+      "knowledgeId": "3c4aa07b-f90e-458c-99f6-01db6c57e565",
+      "detail": "Key aspects and industry terminology of each stage within end-to-end production workflowsduring the production lifecycle."
+    },
+    {
+      "knowledgeId": "2b3ad525-9add-4b20-9203-73cccdd14eac",
+      "detail": "The difference between above- the-line (ATL) and below-the-line (BTL) costs and when they occur."
+    },
+    {
+      "knowledgeId": "bf548457-80af-401b-ae93-957ae7024765",
+      "detail": "The difference between the costs and income charged to the balance sheet versus thosecharged to the cost of the production."
+    },
+    {
+      "knowledgeId": "26d8babe-0fe6-413d-954a-eb1906220e84",
+      "detail": "Sign-off, filing and data entry procedures as described either on the production’s manual,accounts memo or company policy."
+    },
+    {
+      "knowledgeId": "50c08701-a5ef-4fa1-bfb5-9e7f14737b29",
+      "detail": "How to identify discrepancies and who to report these to."
+    },
+    {
+      "knowledgeId": "1e74b921-a3c9-403d-9ff0-e681b6a25784",
+      "detail": "Communication styles. How the type, format and frequency of communication can impacton the success of a production."
+    },
+    {
+      "knowledgeId": "5f894a34-237f-4cce-8171-16c396db40eb",
+      "detail": "The needs of the creative team, such as technical, logistical or organisational requirementsand be aware of the impact this can have on the production budget."
+    },
+    {
+      "knowledgeId": "589c2f04-1020-4763-8c69-4e744dacc1f2",
+      "detail": "Where to find the evidence to support ad hoc submissions, for example productioninsurance claims, audit queries and requests from internal and external sources."
+    },
+    {
+      "knowledgeId": "fc880e54-7323-4495-8a38-fadfa6e23067",
+      "detail": "Procedures for collecting, recording, organising and filing evidence."
+    },
+    {
+      "knowledgeId": "a21844fc-a0c6-4287-9e06-8fcd378ec221",
+      "detail": "Approaches to identifying crew who will require a purchase card, associated limits, thosewho will not and the arrangements that need to be put in place to address this."
+    },
+    {
+      "knowledgeId": "e6449691-a095-41b6-a9e4-a3a74b398a20",
+      "detail": "Types of expense claim forms for example petty cash forms, expense forms and requestsfor these."
+    },
+    {
+      "knowledgeId": "4e8f528b-8c5b-4c47-9d8d-703f6c78a35f",
+      "detail": "The effect of department and production deadlines, including bank payments cuts off,payroll day payments, bank holidays or special shooting days."
+    },
+    {
+      "knowledgeId": "dadda561-25e1-4b35-8348-7fd5c5665966",
+      "detail": "How to process foreign expenses."
+    },
+    {
+      "knowledgeId": "5b409066-99d6-4263-89e7-dab94ea23148",
+      "detail": "VAT principles and their application to payments."
+    },
+    {
+      "knowledgeId": "f94301c7-a0d9-4405-b579-7bde507c43e3",
+      "detail": "Approaches to maintaining up-to-date knowledge of existing and evolving production tools, technology and trends and managing and marketing own skills and services."
+    },
+    {
+      "knowledgeId": "91aed683-539b-4e95-9e5e-9c37760dec10",
+      "detail": "The employment structure and opportunities of the sector, how freelance and employedroles work across industry, the responsibilities these working profiles entail and the importance ofself-promotion."
+    },
+    {
+      "knowledgeId": "323fec8b-9d38-45f2-b03a-55c8fbb146da",
+      "detail": "Methods and approaches to recording skills and professional development."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "e1572458-ada5-47b6-9b02-c0365e0c4566",
+      "detail": "Maintain commercial confidentiality and professional practice at all times."
+    },
+    {
+      "behaviourId": "55817f78-b988-4d1d-98a3-af7eddcb00b5",
+      "detail": "Has a strong work ethic and commitment to achieving high standards, maintaining accuracy and consistency with attention to detail at all times."
+    },
+    {
+      "behaviourId": "353c3550-2e5f-41ab-bad9-5dd65c36b073",
+      "detail": "Work on own initiative, be proactive and inquisitive. Takes ownership of work and if errors are made, take personal responsibility to manage them."
+    },
+    {
+      "behaviourId": "ac465661-5173-4f5b-95b2-336bc950aca4",
+      "detail": "Act in a professional and ethical manner, in line with accepted production etiquette, embracing equality, diversity and inclusion in the workplace."
+    },
+    {
+      "behaviourId": "052dc8a2-0e26-4d3a-84e6-7018ae84ba44",
+      "detail": "Takes the initiative and responsibility for own learning and development, working with andlearning from peers."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "89a14da6-3322-41ef-a6bf-8cd5f4f13e82",
+      "detail": "Clarify your role, the outcomes and standards you are expected to work to at the start of production."
+    },
+    {
+      "skillId": "0cc9a771-4e2b-4366-8bd5-771309c83b4e",
+      "detail": "Maintain the confidentiality of production information, access permissions and storage."
+    },
+    {
+      "skillId": "bb8bd2c1-6b3c-4df0-8dbf-017c8b24d566",
+      "detail": "Keep confidential information secure and do not disclose it to unauthorised people."
+    },
+    {
+      "skillId": "cc9b8d8b-83d3-4b17-a9ba-e26e0305f468",
+      "detail": "Contribute to the monitoring and compliance for the production relating to legal, regulatory, organisational and industry codes of practice."
+    },
+    {
+      "skillId": "4203a260-e15f-4160-858b-016c0b2dbecd",
+      "detail": "Request access to the various accounting software and applications for the production."
+    },
+    {
+      "skillId": "26398f23-e90b-4853-b3fb-599e5a4ff2b2",
+      "detail": "Assist with the raising and collation of contracting and Right to Work documentation."
+    },
+    {
+      "skillId": "8e3f3794-07fd-4516-8dae-af740a6dddc0",
+      "detail": "Assist with the recording of production expenditure."
+    },
+    {
+      "skillId": "40fe0ece-1cbd-4443-8a01-5ae0c76726d1",
+      "detail": "Add or edit suppliers information as advised by head of department."
+    },
+    {
+      "skillId": "a27d22b6-f490-4935-acc9-71cb1a3dc5c8",
+      "detail": "Check suppliers’ payments, invoices and reconciliations against purchase orders (PO)."
+    },
+    {
+      "skillId": "38903ee9-bbbd-4b74-b321-acfb0cfb342d",
+      "detail": "Confirm that expenditure is allocated to the correct cost code."
+    },
+    {
+      "skillId": "9d221fa3-0ed4-4a50-b49d-59878f247db5",
+      "detail": "Identify and deduct available balances on purchase orders (PO)."
+    },
+    {
+      "skillId": "e8ca7777-4291-4592-b8b2-1b5668098239",
+      "detail": "Maintain communications with suppliers regarding accounts."
+    },
+    {
+      "skillId": "46cf060c-ff8c-46b5-8513-d9bb037f1e72",
+      "detail": "Ensure payments are authorised in line with the production’s sign-off policy."
+    },
+    {
+      "skillId": "287ed2ab-c7a3-4229-ad1f-f500e980cc9f",
+      "detail": "Maintain filing and data entry records."
+    },
+    {
+      "skillId": "99b3a081-4c63-491e-9b3c-111e7ed540b9",
+      "detail": "Identify discrepancies and either resolve them, or refer to the appropriate person if outside your own authority."
+    },
+    {
+      "skillId": "d537b5f6-4200-44c4-acda-108f5f3fff80",
+      "detail": "Prioritise work to ensure that tasks are completed on schedule."
+    },
+    {
+      "skillId": "9c9a19cf-2396-4704-a7d3-359821ad0030",
+      "detail": "Build relationships with partners on productions such as suppliers, cast and crew."
+    },
+    {
+      "skillId": "fd579170-2b7d-43bc-926f-ffb209ed3724",
+      "detail": "Liaise with other departments, acting as a point of contact for the accounting team on theproduction."
+    },
+    {
+      "skillId": "e2c00887-3821-467f-81e8-e749cefda4dd",
+      "detail": "Work within the production or organisations policies, regulations, procedures, and timescales relating to accounts, adapting to operational changes as they occur and managing crew expectations."
+    },
+    {
+      "skillId": "e32cb405-fb16-46a7-b7ed-65e74c64b862",
+      "detail": "Analyse and record expense forms, petty cash forms, receipts or invoices and codeaccordingly."
+    },
+    {
+      "skillId": "ab9a4b55-cc7a-4f2a-b31b-7a31d6177242",
+      "detail": "Deal with repayment of crew expenses and topping up purchase cards."
+    },
+    {
+      "skillId": "f18ecdeb-d7eb-494d-80ff-5868b657b235",
+      "detail": "Deal with lost receipts or money."
+    },
+    {
+      "skillId": "c886fb1f-2c05-488b-8c83-65a0ad861aaa",
+      "detail": "Process foreign receipts in a manner that minimises cost of transactions."
+    },
+    {
+      "skillId": "3c51672a-477d-4346-9f80-bdf107dc09b0",
+      "detail": "Record transactions, allocating to the correct expenditure code and department,communicating balances to the crew and heads of department."
+    },
+    {
+      "skillId": "8d05756a-dc62-426f-9956-35f1bbcbe21f",
+      "detail": "Apply VAT input principles as per HMRC processes and follow internal protocols."
+    },
+    {
+      "skillId": "4fe2621a-cd3e-4713-977f-5bfc9ee88088",
+      "detail": "Maintain approved level of cards and floats, checking daily floats, requests andreconciliations that may be received."
+    },
+    {
+      "skillId": "e7e6ad6e-b52b-46c0-af53-bfafaeced5fe",
+      "detail": "Report any significant variations in spending in line with production policy."
+    },
+    {
+      "skillId": "59afa5fc-1145-486b-9713-a50fb2bc8265",
+      "detail": "Keep up to date with production tools, standards, trends and emerging technologies andtheir use and impact across the sector."
+    },
+    {
+      "skillId": "bf165251-1a2c-4312-94fb-1db11161790c",
+      "detail": "Develop networks with contacts and promote and market own skills and services."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0887",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "",
+  "otherInvolvedStakeholders": "AIM, AAT, BFI, Expectation TV, Hartswood Films, ITV, London Screen Academy, Red Planet Pictures, ScreenSkills,  Sky, Warner Bros Discovery",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Media, Broadcast and Production",
+  "cluster": "Media, Music and Broadcast Assistant",
+  "clusterId": "42",
+  "clusterDescription": "Production and distribution of media content using communications, archive and visual technology",
+  "createdDate": "2026-10-23T12:20:40 +00:00",
+  "lastUpdated": "2026-10-23T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": null,
+  "banners": "",
+  "occupationCode": "OCC1428",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1428?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1428",
+  "qualifications": [],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "c5f088a2-3214-4ebc-ada7-0d3b1cad33ab",
+      "dutyDetail": "Understand production documentation such as production briefs and production schedules to support cost-effective production and postproduction processes.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "e08bfe92-8558-42e0-8610-498a998694ac",
+        "8c520ed9-ea61-4a82-b495-04499a29e2da",
+        "9adfd4ec-26b2-4930-ab1b-0938d9e1c156",
+        "591e5a4d-e1e1-48f9-a485-36497efabc45",
+        "dc3da153-b764-4d19-b8bf-0b7ec12257e2"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "89a14da6-3322-41ef-a6bf-8cd5f4f13e82",
+        "0cc9a771-4e2b-4366-8bd5-771309c83b4e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "81ae1e3d-46bb-43be-8aa9-fae4b90a1492",
+      "dutyDetail": "Support compliance with production-related legislation and reporting.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "e1572458-ada5-47b6-9b02-c0365e0c4566"
+      ],
+      "mappedKnowledge": [
+        "dc3da153-b764-4d19-b8bf-0b7ec12257e2",
+        "2bdd942d-ddf8-41c7-ac9d-fa2f5451ae77",
+        "2c089204-5a96-4fa9-b010-482041524157",
+        "50485de3-b3b2-4aa3-9dc4-a180a298cee0"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "bb8bd2c1-6b3c-4df0-8dbf-017c8b24d566",
+        "cc9b8d8b-83d3-4b17-a9ba-e26e0305f468"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "727e20a3-235c-4097-bcad-abd4172ac0fa",
+      "dutyDetail": "Support the set-up of production finance policies and processes, ensuring accurate expenditure projections related to production and postproduction.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "ffa0bf7d-52c2-465d-a4b1-ad3a77710384",
+        "afae27cc-2193-4de7-a318-b5f7e3472971",
+        "0de3e0c7-edd6-45d9-be3f-ce1fd3664c3b"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "4203a260-e15f-4160-858b-016c0b2dbecd",
+        "26398f23-e90b-4853-b3fb-599e5a4ff2b2",
+        "8e3f3794-07fd-4516-8dae-af740a6dddc0",
+        "40fe0ece-1cbd-4443-8a01-5ae0c76726d1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bbf1d060-35b7-4760-a415-07d7e0c84553",
+      "dutyDetail": "Assist the review and reporting of above-the-line (ATL) and below-the-line (BTL) costs relating to the production lifecycle.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "55817f78-b988-4d1d-98a3-af7eddcb00b5"
+      ],
+      "mappedKnowledge": [
+        "3c4aa07b-f90e-458c-99f6-01db6c57e565",
+        "2b3ad525-9add-4b20-9203-73cccdd14eac",
+        "bf548457-80af-401b-ae93-957ae7024765",
+        "26d8babe-0fe6-413d-954a-eb1906220e84",
+        "50c08701-a5ef-4fa1-bfb5-9e7f14737b29"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "a27d22b6-f490-4935-acc9-71cb1a3dc5c8",
+        "38903ee9-bbbd-4b74-b321-acfb0cfb342d",
+        "9d221fa3-0ed4-4a50-b49d-59878f247db5",
+        "e8ca7777-4291-4592-b8b2-1b5668098239",
+        "46cf060c-ff8c-46b5-8513-d9bb037f1e72",
+        "287ed2ab-c7a3-4229-ad1f-f500e980cc9f",
+        "99b3a081-4c63-491e-9b3c-111e7ed540b9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3b099676-a6af-4dec-9700-95b474284677",
+      "dutyDetail": "Work with other departments to track and process spend against budget and other financial information.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "353c3550-2e5f-41ab-bad9-5dd65c36b073",
+        "ac465661-5173-4f5b-95b2-336bc950aca4"
+      ],
+      "mappedKnowledge": [
+        "1e74b921-a3c9-403d-9ff0-e681b6a25784",
+        "5f894a34-237f-4cce-8171-16c396db40eb",
+        "589c2f04-1020-4763-8c69-4e744dacc1f2",
+        "fc880e54-7323-4495-8a38-fadfa6e23067"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d537b5f6-4200-44c4-acda-108f5f3fff80",
+        "9c9a19cf-2396-4704-a7d3-359821ad0030",
+        "fd579170-2b7d-43bc-926f-ffb209ed3724",
+        "e2c00887-3821-467f-81e8-e749cefda4dd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b88a12ca-67e6-4367-b575-94ffcb6124bc",
+      "dutyDetail": "Process and review expense payments, resolving issues throughout the production lifecycle.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a21844fc-a0c6-4287-9e06-8fcd378ec221",
+        "e6449691-a095-41b6-a9e4-a3a74b398a20",
+        "4e8f528b-8c5b-4c47-9d8d-703f6c78a35f",
+        "dadda561-25e1-4b35-8348-7fd5c5665966",
+        "5b409066-99d6-4263-89e7-dab94ea23148"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e32cb405-fb16-46a7-b7ed-65e74c64b862",
+        "ab9a4b55-cc7a-4f2a-b31b-7a31d6177242",
+        "f18ecdeb-d7eb-494d-80ff-5868b657b235",
+        "c886fb1f-2c05-488b-8c83-65a0ad861aaa",
+        "3c51672a-477d-4346-9f80-bdf107dc09b0",
+        "8d05756a-dc62-426f-9956-35f1bbcbe21f",
+        "4fe2621a-cd3e-4713-977f-5bfc9ee88088",
+        "e7e6ad6e-b52b-46c0-af53-bfafaeced5fe"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "483bf820-4ade-4435-b317-4b1d89489289",
+      "dutyDetail": "Undertake continuous professional development and keep up-to-date with industry advances relevant to own role.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "052dc8a2-0e26-4d3a-84e6-7018ae84ba44"
+      ],
+      "mappedKnowledge": [
+        "f94301c7-a0d9-4405-b579-7bde507c43e3",
+        "91aed683-539b-4e95-9e5e-9c37760dec10",
+        "323fec8b-9d38-45f2-b03a-55c8fbb146da"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "59afa5fc-1145-486b-9713-a50fb2bc8265",
+        "bf165251-1a2c-4312-94fb-1db11161790c"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-10-23T00:00:00"
+}
