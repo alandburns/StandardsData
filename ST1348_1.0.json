@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2024-04-22T00:00:00",
+  "changedDate": "2026-10-26T00:00:00",
   "earliestStartDate": "2024-04-19T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Ensure the serviceability and condition of the sewerage network, providing rapid response to failures in the sewerage network, and investigate causes of the issues.",
   "level": 2,
@@ -43,7 +43,7 @@
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "&lt;p&gt;.&lt;/p&gt;",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the utilities sector, in the waste water industry. Drainage network operatives work in both domestic and commercial settings, providing customer service in the provision of sewerage maintenance services, ensuring the health and safety of employees, customers, suppliers, and communities. This is a field-based occupation, working at company and private premises, that includes public highways, to clean, clear and identify defects to maintain private and public drainage systems. &lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is to ensure the serviceability and condition of the sewerage network, providing rapid response to failures in the sewerage network, and investigate causes of the issues. Drainage network operatives ensure the health, safety and welfare of self, other members of the team and the public, while providing excellent customer service to both internal and external customers. This is a field-based occupation, working flexible hours to respond to emergencies, and persons in this occupation typically have a driver’s licence. Drainage network operatives use and operate a wide range of plant and equipment to deliver thorough maintenance to sewerage assets in line with operating procedures, ensuring all equipment is used appropriately and maintained. &lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with colleagues, such as managers, engineers, surveyors, building contractors, and other utilities, as well as the public. They may also come into contact with regulatory bodies such as the Environment Agency and Local Councils.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for ensuring that jobs are completed in line with company procedures, troubleshooting any problems and liaising with technical specialists regarding access and equipment issues. Drainage network operatives enjoy solving problems, are comfortable working in confined spaces and follow and understand safety regulations and instructions. They will also be skilled in using a variety of tools and machinery. Persons in this occupation are good communicators keeping members of the public and work colleagues informed and are confident working alone when required, and within a close team.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the utilities sector, in the waste water industry. Drainage network operatives work in both domestic and commercial settings, providing customer service in the provision of sewerage maintenance services, ensuring the health and safety of employees, customers, suppliers, and communities. This is a field-based occupation, working at company and private premises, that includes public highways, to clean, clear and identify defects to maintain private and public drainage systems. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to ensure the serviceability and condition of the sewerage network, providing rapid response to failures in the sewerage network, and investigate causes of the issues. Drainage network operatives ensure the health, safety and welfare of self, other members of the team and the public, while providing excellent customer service to both internal and external customers. This is a field-based occupation, working flexible hours to respond to emergencies, and persons in this occupation typically have a driver’s licence. Drainage network operatives use and operate a wide range of plant and equipment to deliver thorough maintenance to sewerage assets in line with operating procedures, ensuring all equipment is used appropriately and maintained. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with colleagues, such as managers, engineers, surveyors, building contractors, and other utilities, as well as the public. They may also come into contact with regulatory bodies such as the Environment Agency and Local Councils.&lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for ensuring that jobs are completed in line with company procedures, troubleshooting any problems and liaising with technical specialists regarding access and equipment issues. Drainage network operatives enjoy solving problems, are comfortable working in confined spaces and follow and understand safety regulations and instructions. They will also be skilled in using a variety of tools and machinery. Persons in this occupation are good communicators keeping members of the public and work colleagues informed and are confident working alone when required, and within a close team.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "bcf86236-3228-4660-ad07-1d59b8a9c329",
@@ -294,7 +294,7 @@
   "clusterId": "256",
   "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2024-06-10T08:23:04 +00:00",
-  "lastUpdated": "2024-04-22T00:00:00 +00:00",
+  "lastUpdated": "2026-10-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2024-04-19T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC1348",
@@ -690,5 +690,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2024-04-22T00:00:00"
+  "publishDate": "2027-04-26T00:00:00"
 }
