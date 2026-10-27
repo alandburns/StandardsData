@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.0",
   "change": "Approved for delivery",
-  "changedDate": "2023-02-15T00:00:00",
+  "changedDate": "2026-10-26T00:00:00",
   "earliestStartDate": "2020-08-24T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-04-26T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Carry out operations in a clean water or waste water treatment facility to ensure water safety.",
   "level": 2,
@@ -49,7 +49,7 @@
   "ssa2": "4.1 Engineering",
   "version": "1.0",
   "standardInformation": "",
-  "occupationalSummary": "&lt;p&gt;This occupation is found in the water industry, in clean water and waste water treatment. Water treatment operatives work for clean water and/or waste water treatment companies regulated by OFWAT - Office of Water Services (UK government), all of which are large organisations. Operatives typically work in only one type of water treatment. &lt;br /&gt;&lt;br /&gt;This is a core and options apprenticeship standard. Apprentices will complete the core requirements, plus one option: &lt;br /&gt;1. Clean water process operative. &lt;br /&gt;2. Waste water process operative.&lt;br /&gt;&lt;br /&gt;The broad purpose of the occupation is is to carry out operations in a clean water or waste water treatment facility to ensure water safety. In both environments they operate treatment work assets and take, monitor, record and interpret water samples to ensure treatment processes are working effectively. To support treatment processes, they receive and store chemical deliveries, assess and optimise energy on site and carry out site checks for safety, security and productivity purposes, reporting any faults, issues and concerns that need escalation. In waste water they are focused on safe effluent discharge and in clean water for maintaining water quality and hygiene standards.&lt;br /&gt;&lt;br /&gt;In their daily work, an employee in this occupation interacts with colleagues such as managers, water process technicians, engineers, maintenance engineer’s, delivery drivers, contractors, other treatment operatives and customers (internal/external). They may work as part of a small or large team, depending on the scale of the treatment facility. They will typically work under the supervision of a treatment works manager or senior water process technician. They will typically spend their time in a clean water or waste water treatment works.&lt;br /&gt;&lt;br /&gt;An employee in this occupation will be responsible for completing work to the required standard, following procedures and ensuring health and safety, and regulatory compliance, for example DWI (Drinking Water Inspectorate) and EA (Environment Agency); failure to do so could have serious consequences for self, public health and the environment. Ensuring optimisation of the treatment processes, balancing water quality against cost (energy and chemical usage). &lt;br /&gt;&lt;br /&gt;Recording daily activities and work completed for example, completion of the daily plant log. They are responsible for the safety and well-being of themselves, reporting site security and safety concerns in line with company procedures and demonstrating the expected behaviours of their organisation.&lt;br /&gt;&lt;br /&gt;Water treatment operatives must have a valid National Water Hygiene (Blue) card.&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the water industry, in clean water and waste water treatment. Water treatment operatives work for clean water and/or waste water treatment companies regulated by OFWAT - Office of Water Services (UK government), all of which are large organisations. Operatives typically work in only one type of water treatment. &lt;br&gt;&lt;br&gt;This is a core and options apprenticeship standard. Apprentices will complete the core requirements, plus one option: &lt;br&gt;1. Clean water process operative. &lt;br&gt;2. Waste water process operative.&lt;br&gt;&lt;br&gt;The broad purpose of the occupation is is to carry out operations in a clean water or waste water treatment facility to ensure water safety. In both environments they operate treatment work assets and take, monitor, record and interpret water samples to ensure treatment processes are working effectively. To support treatment processes, they receive and store chemical deliveries, assess and optimise energy on site and carry out site checks for safety, security and productivity purposes, reporting any faults, issues and concerns that need escalation. In waste water they are focused on safe effluent discharge and in clean water for maintaining water quality and hygiene standards.&lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with colleagues such as managers, water process technicians, engineers, maintenance engineer’s, delivery drivers, contractors, other treatment operatives and customers (internal/external). They may work as part of a small or large team, depending on the scale of the treatment facility. They will typically work under the supervision of a treatment works manager or senior water process technician. They will typically spend their time in a clean water or waste water treatment works.&lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for completing work to the required standard, following procedures and ensuring health and safety, and regulatory compliance, for example DWI (Drinking Water Inspectorate) and EA (Environment Agency); failure to do so could have serious consequences for self, public health and the environment. Ensuring optimisation of the treatment processes, balancing water quality against cost (energy and chemical usage). &lt;br&gt;&lt;br&gt;Recording daily activities and work completed for example, completion of the daily plant log. They are responsible for the safety and well-being of themselves, reporting site security and safety concerns in line with company procedures and demonstrating the expected behaviours of their organisation.&lt;br&gt;&lt;br&gt;Water treatment operatives must have a valid National Water Hygiene (Blue) card.&lt;/p&gt;",
   "knowledges": [
     {
       "knowledgeId": "85600d49-79e0-45b1-9329-49d76f7a21fc",
@@ -369,7 +369,7 @@
   "clusterId": "256",
   "clusterDescription": "Maintain and improve product and process integrity and quality, production and process efficiency, and the overall health and safety of the working environment",
   "createdDate": "2020-06-05T10:52:18 +00:00",
-  "lastUpdated": "2023-02-15T00:00:00 +00:00",
+  "lastUpdated": "2026-10-26T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2020-08-24T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0876",
@@ -897,5 +897,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2023-02-15T00:00:00"
+  "publishDate": "2027-04-26T00:00:00"
 }
