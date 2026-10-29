@@ -1,0 +1,1038 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 0,
+  "referenceNumber": "ST1499",
+  "learningAimClassCode": "",
+  "title": "Power industry electrical systems engineer",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1499",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "2026-10-28T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Manage power industry electrical projects, or the operational delivery of power industry work.",
+  "level": 4,
+  "ePALength": 6,
+  "typicalDuration": 30,
+  "minimumHoursForCompliance": "",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "power industry electrical systems engineer",
+    "power industry",
+    "electrical projects",
+    "electrical transmission",
+    "distribution network industry"
+  ],
+  "jobRoles": [],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1499?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "0.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the electrical transmission and distribution network industry. This industry is made up of employers of all sizes, such as network operators and their contractors. These organisations are responsible for the transmission and distribution of electricity from where it is generated, across the country through networks of overhead lines, underground cables and substations to where it is used by commercial and non-commercial customers. Power industry electrical systems engineers may work on the high voltage transmission network or the high or low voltage distribution network. This is a core and options apprenticeship standard. An apprentice must be trained and assessed on the core and one option relevant to their role. The options are: • electrical project engineer • operational delivery engineer • asset management engineer.&lt;/p&gt;\n&lt;p&gt;The broad purpose of the occupation is to manage power system assets or work such as network alterations, installation of new plant and equipment and asset refurbishment work. Once the work is complete, Power industry electrical systems engineers carry out audits to check that work has been completed to safety and quality standards. Infrastructure projects of this nature are essential for the delivery of the Department for Energy Security and Net Zero strategic objectives, allowing the integration of green technologies such as wind and solar equipment into the network and supporting the connection of flexible energy upgrades, such as hydrogen, thermal generation, new nuclear and battery storage.&lt;/p&gt;\n&lt;p&gt;Electrical project engineers ensure that projects are completed to time, budget and specification. They ensure that health, safety and environmental concerns are managed effectively throughout the project and key stakeholders are kept informed as work progresses.&lt;/p&gt;\n&lt;p&gt;Operational delivery engineers issue safety documents and work instructions to Working Parties, overseeing work where necessary to ensure it is carried out safely and to specification.&lt;/p&gt;\n&lt;p&gt;Asset management engineers monitor asset condition and performance, and use this to develop maintenance, inspection and refurbishment plans. When an asset fails, they contribute to the investigation.&lt;/p&gt;\n&lt;p&gt;The electrical transmission and distribution industry operates 365 a year, so Power industry electrical systems engineers often work shifts or work an on-call rota. They typically work outdoors in all weathers and may require a driving licence to enable them to travel to work sites and infrastructure projects in their area. They will also be required to gain authorisations from their employer to enable them to complete certain tasks.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with the craftspersons, engineers and contractors that make up the Working Party or project team. They may also work with control room engineers to schedule works and communicate with customers to update on progress. A Power industry electrical systems engineer usually reports to a senior engineer.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation will be responsible for contributing to site and project safety by ensuring work is completed in line with the electricity system safety rules.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "ea37119a-0141-45d7-9a09-4f8556c45483",
+      "detail": "Core - The electrical power sector, its types of organisations, how they interact, their structure, role and function. Sector regulators, stakeholders and its customers' requirements."
+    },
+    {
+      "knowledgeId": "beee776c-9537-4533-bb02-f23f585b88e9",
+      "detail": "Core - Engineer's role, responsibilities limits of autonomy and coordination with other business functions. Reporting channels within the power sector."
+    },
+    {
+      "knowledgeId": "a5ab5ee7-9622-40a4-8283-efb0c9cdeca5",
+      "detail": "Core - Techniques and approaches for the planning and prioritisation of work tasks, taking into consideration business planning practices, resource planning and management."
+    },
+    {
+      "knowledgeId": "e01bd9fb-7612-4adb-aa53-13f7a84c6488",
+      "detail": "Core - Electrical power principles: three phase alternating current and direct current theories; voltage; dynamic and static engineering systems; application of electrical and electronic circuit theory."
+    },
+    {
+      "knowledgeId": "28c4c00c-6bd6-4875-924c-6f455036265b",
+      "detail": "Core - Electricity network design, construction, capabilities, complexities, operations and topologies. "
+    },
+    {
+      "knowledgeId": "039a98a4-1fd4-433e-9cb7-870a593c60a6",
+      "detail": "Core - Design, operation, function and limitations of transmission or distribution plant and equipment. Substations, transformers, switchgear and auxiliary equipment. Overhead lines. Components that make up the transmission or distribution network."
+    },
+    {
+      "knowledgeId": "f250e93c-68f4-4445-bfef-4e2b55fd500a",
+      "detail": "Core - Electricity network principles of operation in normal and fault conditions. Overhead network, underground network and associated protective devices."
+    },
+    {
+      "knowledgeId": "aebd0392-0f7b-41b5-8c90-b5b4066ba4f5",
+      "detail": "Core - Interfaces between the system voltage control boundaries relevant to the engineer's role or level of authorisation."
+    },
+    {
+      "knowledgeId": "fbba47d3-4c25-46d6-8930-2590e683dcb9",
+      "detail": "Core - Awareness of health and safety regulations relevant to the engineer's role. Construction Design and Management (CDM) requirements. Control of Substances Hazardous to Health (COSHH). Display Screen Equipment. Fire regulations. Health and Safety at Work Act – responsibilities. Managing Health and Safety at Work Regulations. Manual handling. Noise regulation. Provision and use of Work Equipment Regulations (PUWER). Personal Protective Equipment (PPE). Working at height. Reporting of Injuries, Diseases and Dangerous Occurrence Regulations (RIDDOR). Electricity at Work Regulations."
+    },
+    {
+      "knowledgeId": "e0cd4ccf-8612-41f8-be9c-55eecb6b775b",
+      "detail": "Core - Health and safety procedures and safe systems of work for working on the electrical network, plant and equipment. Electrical safety."
+    },
+    {
+      "knowledgeId": "5206f36d-fdb6-4420-96b2-82597b61328c",
+      "detail": "Core - How to carry out safety briefings."
+    },
+    {
+      "knowledgeId": "65db8b53-614c-4ef5-88f6-c63a0b1391eb",
+      "detail": "Core - Risk assessments, risk management techniques and approaches, the hierarchy of control. Method statements."
+    },
+    {
+      "knowledgeId": "36405dbb-9cb2-4806-b922-5a33037ca892",
+      "detail": "Core - Incident management and emergency procedures."
+    },
+    {
+      "knowledgeId": "da18b022-6b9e-4528-b5d5-0dfefb288c8d",
+      "detail": "Core - Awareness of regulatory frameworks, regulatory measures and reporting requirements."
+    },
+    {
+      "knowledgeId": "3a311a99-eded-4ebc-92f1-b8792ad5380f",
+      "detail": "Core - Electricity Safety, Quality and Continuity Regulations (ESQCR). "
+    },
+    {
+      "knowledgeId": "41b25a4c-9ff2-4754-b6f1-7453fc285a03",
+      "detail": "Core - The impact of low carbon energy on the network.  Environmental regulations and standards: Environmental Protection Act and Hazardous Waste Regulations. The environmental impact of equipment containing SF6. Environmental incidents."
+    },
+    {
+      "knowledgeId": "cd1c841d-ade7-47e8-b110-cc531c4fd7ee",
+      "detail": "Core - Sustainability principles, design and development considerations. Waste reduction and recycling. "
+    },
+    {
+      "knowledgeId": "b4d96f29-f081-4e17-a083-55a87bbb276c",
+      "detail": "Core - Construction and electrical drawings."
+    },
+    {
+      "knowledgeId": "ccc12999-f09b-4918-b89c-6016d29d8bab",
+      "detail": "Core - Engineering technical specifications, policies and engineering standards relevant to the role and organisation. What they are and how to use them."
+    },
+    {
+      "knowledgeId": "352706b0-1a93-4370-a29c-262e99774d09",
+      "detail": "Core - Health, safety and quality management audits and inspections, requirements and approaches."
+    },
+    {
+      "knowledgeId": "8c7d75d8-cd46-4950-af97-a5732c714154",
+      "detail": "Core - Awareness and consequence of asset risk, monetised risk process."
+    },
+    {
+      "knowledgeId": "092a37d9-2362-4546-acc4-24c2775e6500",
+      "detail": "Core - Documentation: methods and requirements - electronic and paper. "
+    },
+    {
+      "knowledgeId": "f5c15056-83fc-4062-a009-5876bd92ac3c",
+      "detail": "Core - Report writing and data analysis techniques. Reporting systems."
+    },
+    {
+      "knowledgeId": "147a4f77-46ed-40de-bf70-946b40422587",
+      "detail": "Core - Problem solving and fault-finding techniques."
+    },
+    {
+      "knowledgeId": "ef880745-9b67-4534-b169-9aa762fbaabc",
+      "detail": "Core - Continuous improvement principles and techniques."
+    },
+    {
+      "knowledgeId": "76986b9c-a0f5-4869-937b-b2b3950e2c8a",
+      "detail": "Core - Team working principles."
+    },
+    {
+      "knowledgeId": "d9f5fdc2-b929-4959-972b-fdcaca37399f",
+      "detail": "Core - Communication techniques: verbal and written."
+    },
+    {
+      "knowledgeId": "73d8301b-04a8-47c2-8fb4-f0d25b7c6aed",
+      "detail": "Core - Information technology and digital: digital interfaces, email, Management Information Systems (MIS), spreadsheets, presentation, word processing, virtual communication, Artificial Intelligence (AI), learning platforms, work collaboration platforms. General Data Protection Regulation (GDPR). General cyber security."
+    },
+    {
+      "knowledgeId": "be1292d9-2bf3-4617-854e-4811b34646ed",
+      "detail": "Core - Awareness of network operational cyber security and impact. Network Information Systems Regulations."
+    },
+    {
+      "knowledgeId": "b2d46d64-9724-4f70-b659-cbc4f7341132",
+      "detail": "Core - Emerging technologies and their impact on projected future load Impact on the network. "
+    },
+    {
+      "knowledgeId": "1030bfce-4937-444a-b255-d7a98e128266",
+      "detail": "Core - Future impact of shifting generation on network topography."
+    },
+    {
+      "knowledgeId": "15f8dd79-7b55-45f8-a171-394c00d44b0b",
+      "detail": "Asset management - Awareness of technical specifications, type registration and design assurance. Asset refurbishment specifications. Asset engineering procedures. Purpose and requirements. "
+    },
+    {
+      "knowledgeId": "4ac5e14a-85ec-4b01-9dd2-1373e7a5860f",
+      "detail": "Asset management - Asset management principles, long term network resilience or replacement strategies and objectives. Asset safety, compliance and the impact of business strategy. "
+    },
+    {
+      "knowledgeId": "af52b7d7-2418-48f6-8076-8c201b292b46",
+      "detail": "Asset management – Appreciation of testing, inspection and maintenance methods and techniques for plant and equipment. Maintenance and inspection plans. "
+    },
+    {
+      "knowledgeId": "142da6a8-de2b-4605-a379-77b93989f315",
+      "detail": "Asset management - Network performance data and analysis techniques. "
+    },
+    {
+      "knowledgeId": "4e137b17-2b49-493c-b77a-0dfdd6895c6d",
+      "detail": "Asset management - Condition monitoring, asset performance data and analysis techniques. Asset risk assessment, mitigations and constraints applied to assets. "
+    },
+    {
+      "knowledgeId": "7d5f23e3-984c-4cc2-b3de-4950833f3d15",
+      "detail": "Asset management - Component condition assessments, requirements for re-use, recycling and disposal. "
+    },
+    {
+      "knowledgeId": "0ef305d2-9bfa-410d-91b5-8f22bde7439f",
+      "detail": "Asset management - Reverse engineering of original materials and analysis techniques. Properties and suitability of materials. The impact on the component and asset. "
+    },
+    {
+      "knowledgeId": "f795c6d5-b39b-4516-b8d1-79f2d3888a08",
+      "detail": "Asset management - Procedures for the investigation of asset, system or process failure. "
+    },
+    {
+      "knowledgeId": "9d17436a-4144-4fd9-9db3-4587d87f9345",
+      "detail": "Asset management engineer - Plant and equipment proposals. "
+    },
+    {
+      "knowledgeId": "0ea39bf8-f076-4c50-a6c8-b4685ca6722e",
+      "detail": "Electrical project engineer - Awareness of the need for land access. Planning consents and wayleaves for the purpose of land access."
+    },
+    {
+      "knowledgeId": "542dfef7-e7b1-4e5e-bed3-4da65ca1496a",
+      "detail": "Electrical project engineer - Project planning, implementation and monitoring techniques and approaches."
+    },
+    {
+      "knowledgeId": "41388f9b-96f0-429f-bc7e-3f96d2652d70",
+      "detail": "Electrical project engineer - Procurement and contract management. Contract controls and tendering."
+    },
+    {
+      "knowledgeId": "fd5f5553-1e16-4cd0-9b85-c7b357e4e9f4",
+      "detail": "Electrical project engineer - Costings and financial considerations. Budget management."
+    },
+    {
+      "knowledgeId": "76c3e499-ae9a-4aac-911d-f00a1687b9d7",
+      "detail": "Electrical project engineer - Resource requirements."
+    },
+    {
+      "knowledgeId": "f58bcb1b-7262-40eb-bff5-16674f52630e",
+      "detail": "Electrical project engineer - Protection system design, standards and parameters."
+    },
+    {
+      "knowledgeId": "eda7fc06-deda-4e91-aba5-c60786ff082c",
+      "detail": "Electrical project engineer - Asset security and access requirements."
+    },
+    {
+      "knowledgeId": "b1df31e5-852e-4e16-9955-2c7d02d30f49",
+      "detail": "Electrical project engineer - Work specifications, variations and sign off procedures."
+    },
+    {
+      "knowledgeId": "8b1bbba4-723f-45de-8dc1-37bf9589805d",
+      "detail": "Electrical project engineer - Project team leadership and project coordination techniques and approaches."
+    },
+    {
+      "knowledgeId": "34b1a133-4876-453d-9f9b-b6958a4d624c",
+      "detail": "Electrical project engineer - Appreciation of construction and installation techniques for underground cables, overhead lines, plant, switchgear, protection and auxiliary equipment."
+    },
+    {
+      "knowledgeId": "733fc602-dc7f-4596-b07d-dbf54f77a18d",
+      "detail": "Electrical project engineer - Appreciation of techniques and requirements for commissioning overhead lines, underground cables, plant, switchgear, protection and auxiliary equipment. Testing sequences."
+    },
+    {
+      "knowledgeId": "5157f0ff-38b9-4bd2-8065-cfb5a87b1131",
+      "detail": "Operational delivery engineer - Procedures for the management of control boundaries."
+    },
+    {
+      "knowledgeId": "d47252ce-9581-46c5-a449-e83fecc22790",
+      "detail": "Operational delivery engineer - Operation of electricity system apparatus on the electricity network."
+    },
+    {
+      "knowledgeId": "37829844-6162-4d3a-9a3e-dfc0fb672588",
+      "detail": "Operational delivery engineer - Operational delivery work planning."
+    },
+    {
+      "knowledgeId": "0555c76f-b66c-4f52-b723-3426f7a76187",
+      "detail": "Operational delivery engineer - Receiving, preparation, issue, transfer and cancellation of safety documents. Permit to Work, Limitation of Access and Sanction for Test. When they are used and requirements for briefing recipients."
+    },
+    {
+      "knowledgeId": "8499b347-95b5-4f08-a8d6-ed079962e2f0",
+      "detail": "Operational delivery engineer - Contractor management and considerations for the management of contractors working on engineering projects. Tendering processes and contractual arrangements."
+    },
+    {
+      "knowledgeId": "203faf6e-bc56-4767-a472-7f12be2fe77a",
+      "detail": "Operational delivery engineer – Managing and directing working parties, issuing work instructions."
+    },
+    {
+      "knowledgeId": "8ba4e452-ae05-4054-ade6-b7a2c8313bf8",
+      "detail": "Operational delivery engineer – Monitoring procedures for work activities and equipment, approaches for monitoring budget and timescales."
+    },
+    {
+      "knowledgeId": "d4b05061-e26e-492a-8985-fe0e0bd772cc",
+      "detail": "Operational delivery engineer - Pre-energisation checks for electricity system equipment relevant to the role."
+    },
+    {
+      "knowledgeId": "a1c671fc-ad26-4cf8-b21e-daa15de95cde",
+      "detail": "Operational delivery engineer - Asset management records for decommissioning, commissioning, maintenance and alterations to the network. Procedures and regulatory requirements."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "49155a6f-f8b4-49ed-80a6-51fd192026bb",
+      "detail": "Take responsibility for health and safety."
+    },
+    {
+      "behaviourId": "3d43f7e2-10a0-40bf-b441-db1671d5156e",
+      "detail": "Collaborate with others for example, within teams, across disciplines, and external stakeholders, promoting inclusion."
+    },
+    {
+      "behaviourId": "9142a62c-e620-4f37-9492-176740b91098",
+      "detail": "Take responsibility for the quality of work. For example, decisive, self-reliant, and motivated."
+    },
+    {
+      "behaviourId": "2bffc0c0-27e9-4f17-9446-222ecf9afca5",
+      "detail": "Respond and adapt to work demands and situations."
+    },
+    {
+      "behaviourId": "7c61da9c-e221-406f-ada2-16937f708e3c",
+      "detail": "Committed to maintaining and enhancing competence of self and others through Continued Professional Development (CPD)."
+    },
+    {
+      "behaviourId": "e619682b-5064-48b0-acde-9946a60c9c0d",
+      "detail": "Considers the environment and sustainability. "
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "b8f2e104-8132-4b69-970e-85b9ab991445",
+      "detail": "Core - Plan, organise and prioritise work."
+    },
+    {
+      "skillId": "e69f625d-4e81-4808-a0bb-225e2e7a958e",
+      "detail": "Core - Apply electrical power principles to complete work tasks."
+    },
+    {
+      "skillId": "1a81e954-1100-4cfc-b17c-3fef276d8d04",
+      "detail": "Core - Apply health and safety policies, procedures and electricity network safe systems of work."
+    },
+    {
+      "skillId": "d0eb5fc5-859b-4c81-8683-2713c578c606",
+      "detail": "Core - Carry out safety briefings for staff and contractors on site."
+    },
+    {
+      "skillId": "08f17126-4eaf-4de1-b6d1-7ae60a55efcd",
+      "detail": "Core - Undertake the risk assessment required for the task and apply the hierarchy of control."
+    },
+    {
+      "skillId": "02a56443-6053-4a8b-a347-602302b8b774",
+      "detail": "Core - Follow emergency and incident response procedures."
+    },
+    {
+      "skillId": "6862403e-e839-4484-8b07-9f8116f55f53",
+      "detail": "Core - Comply with regulations and manage work to meet regulatory and legislative requirements."
+    },
+    {
+      "skillId": "b1bcdae6-ef91-46eb-a519-a52a8c1750d1",
+      "detail": "Core - Apply environmental and sustainability procedures in compliance with regulations, standards and guidelines. "
+    },
+    {
+      "skillId": "39e71a30-c416-4aab-8636-dfe099bad1a6",
+      "detail": "Core - Read and interpret technical specifications."
+    },
+    {
+      "skillId": "4f64a4b6-270e-42f8-ad31-e9fa7fa0111e",
+      "detail": "Core - Interpret and use construction and electrical system diagrams and drawings."
+    },
+    {
+      "skillId": "1005834f-bd6a-4d2d-8409-0df2fa8b566b",
+      "detail": "Core - Carry out health, safety and quality audits and inspections."
+    },
+    {
+      "skillId": "4eab07fa-92dd-424c-9cb6-cafd419765ba",
+      "detail": "Core - Evaluate the risk and system impact of work options to support business decisions. "
+    },
+    {
+      "skillId": "747f3f53-7fde-46dd-b0c1-ac272a533ad5",
+      "detail": "Core - Complete required documentation for the work activity."
+    },
+    {
+      "skillId": "fb479d4b-57c1-43fa-a315-93ac2e36dc92",
+      "detail": "Core - Complete technical reports."
+    },
+    {
+      "skillId": "ff5e8c63-397a-4708-b21b-9c08c14173ff",
+      "detail": "Core - Collect record and interpret internal and external data and information. Use information and data to support business decisions."
+    },
+    {
+      "skillId": "20ff3fef-d41a-413b-9d33-1071b1eb2791",
+      "detail": "Core - Apply problem solving or fault-finding techniques."
+    },
+    {
+      "skillId": "131e6e20-2188-45bf-8737-f131afa815af",
+      "detail": "Core - Use continuous improvement techniques and make recommendations for the optimisation of systems or processes."
+    },
+    {
+      "skillId": "23600507-bfbc-493e-a272-d38a78a8767d",
+      "detail": "Core - Apply teamworking principles."
+    },
+    {
+      "skillId": "4f993a43-7ee6-407f-a482-705bfb282e95",
+      "detail": "Core - Communicate verbally and in writing with others for example, colleagues, contractors and stakeholders. Matching technique to audience."
+    },
+    {
+      "skillId": "4b34839f-8886-4a20-ba01-1f5b4b86dd3c",
+      "detail": "Core - Establish and maintain productive working relationships, for example with colleagues, contractors or stakeholders."
+    },
+    {
+      "skillId": "ca98fedf-f007-46ad-89f0-4cbaac1e9e57",
+      "detail": "Core - Use information and digital technology. Comply with GDPR and cyber security regulations and policies."
+    },
+    {
+      "skillId": "40c9d4e4-43a4-4578-9379-d903df6d2330",
+      "detail": "Asset management - Develop asset refurbishment specifications. "
+    },
+    {
+      "skillId": "9146f8f2-3b21-474c-a9cc-49dcbdb0208f",
+      "detail": "Asset management - Contribute to the development and application of asset engineering procedures. "
+    },
+    {
+      "skillId": "7cd0bef1-eafd-4935-a101-3b25ae84f2d7",
+      "detail": "Asset management - Contribute to the development of long-term network resilience or replacement strategic plans. Complete risk assessment, identify viable options for risk mitigation and suggest preferred option. "
+    },
+    {
+      "skillId": "1e17f3bd-49c0-432d-8e5a-f3761fd1a29d",
+      "detail": "Asset Management - Develop maintenance and inspection plans for an identified asset technology."
+    },
+    {
+      "skillId": "985af223-5206-49d1-9518-62d22471a9bc",
+      "detail": "Asset management - Carry out network performance analysis. "
+    },
+    {
+      "skillId": "fe4ad1a0-d74d-4e33-8a46-c62f4cc86d6d",
+      "detail": "Asset management - Carry out a single asset performance analysis and specify mitigations or constraints. "
+    },
+    {
+      "skillId": "054cbbd9-e442-4c24-ae89-3e78b6b56fdd",
+      "detail": "Asset management - Identify assets for refurbishment or replacement. "
+    },
+    {
+      "skillId": "6d8e3bba-b339-46e4-8249-5a55b6867d7f",
+      "detail": "Asset management – Lead on the reverse engineering of components. "
+    },
+    {
+      "skillId": "2cf9d06d-f308-4853-82df-ca94c9e6208e",
+      "detail": "Asset management - Take part in the investigation of asset, systems or process failure. "
+    },
+    {
+      "skillId": "4e7281cf-249d-4224-b91a-4f2f84306ab3",
+      "detail": "Asset management - Compile information and data required for technical regulatory returns. "
+    },
+    {
+      "skillId": "17d01617-6309-42ba-be40-05fdc8e3e9d7",
+      "detail": "Asset management - Evaluate plant and equipment proposals and make recommendations. "
+    },
+    {
+      "skillId": "edb5cc12-9fcf-40ef-8e32-7795e8a8ff5b",
+      "detail": "Electrical project engineer - Prepare a prioritised project plan and monitor implementation."
+    },
+    {
+      "skillId": "02fa24d3-fb5c-4b57-ac71-20cc4941ab16",
+      "detail": "Electrical project engineer - Contribute to the overall management of the contracts."
+    },
+    {
+      "skillId": "07840762-dcae-400e-823f-8e63a6bf6ff3",
+      "detail": "Electrical project engineer - Contribute to the overall management of the project budget and monitor project costs."
+    },
+    {
+      "skillId": "7c591506-59e0-4c51-bf81-0c3acfb8c9bd",
+      "detail": "Electrical project engineer - Identify, monitor and update resource requirements."
+    },
+    {
+      "skillId": "7bca2964-10f4-4dbc-9bfe-2f248b88dcbe",
+      "detail": "Electrical project engineer - Follow asset security and access requirements."
+    },
+    {
+      "skillId": "0dd84ac2-b1e9-439e-86a7-0a6921b83528",
+      "detail": "Electrical project engineer - Write and agree work specifications and variations. Sign off completed work."
+    },
+    {
+      "skillId": "b5a9b8a6-cc3e-440a-afff-cc72bc404db1",
+      "detail": "Electrical project engineer - Establish and lead a project team, coordinate project activities."
+    },
+    {
+      "skillId": "b3fc5cc7-349d-41fa-8660-61936b509e1d",
+      "detail": "Operational delivery engineer - Operate electricity system apparatus."
+    },
+    {
+      "skillId": "8bd82ca4-19bd-44db-bc99-e2039b68bf6a",
+      "detail": "Operational delivery engineer - Issue and cancel safety documents. Brief document(s) recipient(s)."
+    },
+    {
+      "skillId": "3563cda0-54b4-4782-a93b-f638fded777b",
+      "detail": "Operational delivery engineer - Direct Working Parties working on the network. Issue work instructions."
+    },
+    {
+      "skillId": "7d7f3702-ebfd-4a5f-8531-9c1dbeeee0f5",
+      "detail": "Operational delivery engineer - Monitor the safety of Working Parties carrying out their duties."
+    },
+    {
+      "skillId": "010c819c-e3c8-47d2-8120-0c38924a01d7",
+      "detail": "Operational delivery engineer - Monitor work activities and equipment to ensure operation within project timescales and cost."
+    },
+    {
+      "skillId": "a808c72c-2eb8-492c-a826-4eb823da61f1",
+      "detail": "Operational delivery engineer - Implement procedures for achieving safety from the inherent dangers of the system."
+    },
+    {
+      "skillId": "6a3fc042-a06f-49e6-b7f9-f669682d82c4",
+      "detail": "Operational delivery engineer - Apply network design principles, follow work specifications and requirements."
+    },
+    {
+      "skillId": "2c9e1a7e-749a-44c0-9c5a-4d81ef5abd93",
+      "detail": "Operational delivery engineer - Interpret the Safety Rules and supporting procedures to make decisions."
+    },
+    {
+      "skillId": "7983a25d-96de-48c9-93b9-374b50f0631a",
+      "detail": "Operational delivery engineer - Carry out pre-energisation checks for electricity system equipment."
+    },
+    {
+      "skillId": "ca5ef619-c943-461a-b668-0fa2f5efab76",
+      "detail": "Operational delivery engineer - Maintain or update asset records."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0164",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Balfour Beatty, Electricity North West Limited (ENWL), Energy and Utility Skills, EUIAS, Loughborough College, National Grid, RWE, Scottish Power, UK Power Networks",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [],
+  "greenJobTitles": [
+    "Asset management engineer",
+    "Lead field engineer",
+    "Operational delivery engineer",
+    "Power industry electrical project engineer",
+    "Power industry site engineer",
+    "Senior authorised person (sap)",
+    "Transmission network engineer"
+  ],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Engineering, manufacturing, process and control",
+  "cluster": "Quality improvement and project control manager",
+  "clusterId": "258",
+  "clusterDescription": "Maintain and improve the integrity and quality of complex products and processes, improve whole production and process technologies, and the overall health and safety of the working environment",
+  "createdDate": "2026-10-28T14:07:18 +00:00",
+  "lastUpdated": "2026-10-28T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": null,
+  "banners": "",
+  "occupationCode": "OCC1499",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1499?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1499",
+  "qualifications": [],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institution of Engineering and Technology (TBC)",
+      "level": "Engineering Technician (TBC)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "20f3361e-7c65-4224-8da3-719023af0d05",
+      "dutyDetail": "Communicate complex information and manage relationships with internal and external stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3d43f7e2-10a0-40bf-b441-db1671d5156e"
+      ],
+      "mappedKnowledge": [
+        "ea37119a-0141-45d7-9a09-4f8556c45483",
+        "beee776c-9537-4533-bb02-f23f585b88e9",
+        "092a37d9-2362-4546-acc4-24c2775e6500",
+        "f5c15056-83fc-4062-a009-5876bd92ac3c",
+        "76986b9c-a0f5-4869-937b-b2b3950e2c8a",
+        "d9f5fdc2-b929-4959-972b-fdcaca37399f",
+        "73d8301b-04a8-47c2-8fb4-f0d25b7c6aed"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "d0eb5fc5-859b-4c81-8683-2713c578c606",
+        "747f3f53-7fde-46dd-b0c1-ac272a533ad5",
+        "fb479d4b-57c1-43fa-a315-93ac2e36dc92",
+        "23600507-bfbc-493e-a272-d38a78a8767d",
+        "4f993a43-7ee6-407f-a482-705bfb282e95",
+        "4b34839f-8886-4a20-ba01-1f5b4b86dd3c",
+        "ca98fedf-f007-46ad-89f0-4cbaac1e9e57"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "40ca9ecb-1e43-4169-ac83-92be912184b1",
+      "dutyDetail": "Ensure the health and safety of those working on or near the electrical power network.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "49155a6f-f8b4-49ed-80a6-51fd192026bb",
+        "3d43f7e2-10a0-40bf-b441-db1671d5156e"
+      ],
+      "mappedKnowledge": [
+        "beee776c-9537-4533-bb02-f23f585b88e9",
+        "f250e93c-68f4-4445-bfef-4e2b55fd500a",
+        "fbba47d3-4c25-46d6-8930-2590e683dcb9",
+        "e0cd4ccf-8612-41f8-be9c-55eecb6b775b",
+        "5206f36d-fdb6-4420-96b2-82597b61328c",
+        "65db8b53-614c-4ef5-88f6-c63a0b1391eb",
+        "36405dbb-9cb2-4806-b922-5a33037ca892",
+        "76986b9c-a0f5-4869-937b-b2b3950e2c8a"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1a81e954-1100-4cfc-b17c-3fef276d8d04",
+        "d0eb5fc5-859b-4c81-8683-2713c578c606",
+        "08f17126-4eaf-4de1-b6d1-7ae60a55efcd",
+        "6862403e-e839-4484-8b07-9f8116f55f53",
+        "1005834f-bd6a-4d2d-8409-0df2fa8b566b",
+        "23600507-bfbc-493e-a272-d38a78a8767d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a8ad0baf-c385-4e89-84fd-a59273970e30",
+      "dutyDetail": "Oversee the completion of work tasks to meet regulatory, environmental and legislative requirements. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3d43f7e2-10a0-40bf-b441-db1671d5156e",
+        "9142a62c-e620-4f37-9492-176740b91098",
+        "2bffc0c0-27e9-4f17-9446-222ecf9afca5",
+        "e619682b-5064-48b0-acde-9946a60c9c0d"
+      ],
+      "mappedKnowledge": [
+        "beee776c-9537-4533-bb02-f23f585b88e9",
+        "a5ab5ee7-9622-40a4-8283-efb0c9cdeca5",
+        "e01bd9fb-7612-4adb-aa53-13f7a84c6488",
+        "28c4c00c-6bd6-4875-924c-6f455036265b",
+        "039a98a4-1fd4-433e-9cb7-870a593c60a6",
+        "f250e93c-68f4-4445-bfef-4e2b55fd500a",
+        "aebd0392-0f7b-41b5-8c90-b5b4066ba4f5",
+        "5206f36d-fdb6-4420-96b2-82597b61328c",
+        "65db8b53-614c-4ef5-88f6-c63a0b1391eb",
+        "da18b022-6b9e-4528-b5d5-0dfefb288c8d",
+        "3a311a99-eded-4ebc-92f1-b8792ad5380f",
+        "41b25a4c-9ff2-4754-b6f1-7453fc285a03",
+        "cd1c841d-ade7-47e8-b110-cc531c4fd7ee",
+        "ccc12999-f09b-4918-b89c-6016d29d8bab",
+        "092a37d9-2362-4546-acc4-24c2775e6500",
+        "f5c15056-83fc-4062-a009-5876bd92ac3c",
+        "147a4f77-46ed-40de-bf70-946b40422587",
+        "76986b9c-a0f5-4869-937b-b2b3950e2c8a",
+        "73d8301b-04a8-47c2-8fb4-f0d25b7c6aed",
+        "be1292d9-2bf3-4617-854e-4811b34646ed",
+        "b2d46d64-9724-4f70-b659-cbc4f7341132",
+        "1030bfce-4937-444a-b255-d7a98e128266"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "b8f2e104-8132-4b69-970e-85b9ab991445",
+        "e69f625d-4e81-4808-a0bb-225e2e7a958e",
+        "1a81e954-1100-4cfc-b17c-3fef276d8d04",
+        "08f17126-4eaf-4de1-b6d1-7ae60a55efcd",
+        "6862403e-e839-4484-8b07-9f8116f55f53",
+        "b1bcdae6-ef91-46eb-a519-a52a8c1750d1",
+        "39e71a30-c416-4aab-8636-dfe099bad1a6",
+        "4f64a4b6-270e-42f8-ad31-e9fa7fa0111e",
+        "747f3f53-7fde-46dd-b0c1-ac272a533ad5",
+        "20ff3fef-d41a-413b-9d33-1071b1eb2791",
+        "23600507-bfbc-493e-a272-d38a78a8767d",
+        "4b34839f-8886-4a20-ba01-1f5b4b86dd3c",
+        "ca98fedf-f007-46ad-89f0-4cbaac1e9e57"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3f1ecc13-1af0-42fc-9eca-3a527ceb405f",
+      "dutyDetail": "Manage risks and implement control measures or contingency planning where necessary.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3d43f7e2-10a0-40bf-b441-db1671d5156e",
+        "2bffc0c0-27e9-4f17-9446-222ecf9afca5"
+      ],
+      "mappedKnowledge": [
+        "e01bd9fb-7612-4adb-aa53-13f7a84c6488",
+        "f250e93c-68f4-4445-bfef-4e2b55fd500a",
+        "aebd0392-0f7b-41b5-8c90-b5b4066ba4f5",
+        "65db8b53-614c-4ef5-88f6-c63a0b1391eb",
+        "36405dbb-9cb2-4806-b922-5a33037ca892",
+        "cd1c841d-ade7-47e8-b110-cc531c4fd7ee",
+        "8c7d75d8-cd46-4950-af97-a5732c714154",
+        "be1292d9-2bf3-4617-854e-4811b34646ed",
+        "b2d46d64-9724-4f70-b659-cbc4f7341132",
+        "1030bfce-4937-444a-b255-d7a98e128266"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1a81e954-1100-4cfc-b17c-3fef276d8d04",
+        "08f17126-4eaf-4de1-b6d1-7ae60a55efcd",
+        "02a56443-6053-4a8b-a347-602302b8b774",
+        "4eab07fa-92dd-424c-9cb6-cafd419765ba",
+        "ff5e8c63-397a-4708-b21b-9c08c14173ff"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "aeed24dd-2909-49b8-99d0-a0ef2ea8ad84",
+      "dutyDetail": "Contribute to the continuous improvement of assets, processes or systems.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3d43f7e2-10a0-40bf-b441-db1671d5156e",
+        "7c61da9c-e221-406f-ada2-16937f708e3c"
+      ],
+      "mappedKnowledge": [
+        "e01bd9fb-7612-4adb-aa53-13f7a84c6488",
+        "039a98a4-1fd4-433e-9cb7-870a593c60a6",
+        "147a4f77-46ed-40de-bf70-946b40422587",
+        "ef880745-9b67-4534-b169-9aa762fbaabc",
+        "73d8301b-04a8-47c2-8fb4-f0d25b7c6aed",
+        "b2d46d64-9724-4f70-b659-cbc4f7341132",
+        "1030bfce-4937-444a-b255-d7a98e128266"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ff5e8c63-397a-4708-b21b-9c08c14173ff",
+        "131e6e20-2188-45bf-8737-f131afa815af",
+        "ca98fedf-f007-46ad-89f0-4cbaac1e9e57"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4e8f33e9-0e4d-49a8-98bb-c9626f113e1f",
+      "dutyDetail": "Carry out audits.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "3d43f7e2-10a0-40bf-b441-db1671d5156e"
+      ],
+      "mappedKnowledge": [
+        "ccc12999-f09b-4918-b89c-6016d29d8bab",
+        "352706b0-1a93-4370-a29c-262e99774d09",
+        "092a37d9-2362-4546-acc4-24c2775e6500",
+        "f5c15056-83fc-4062-a009-5876bd92ac3c",
+        "73d8301b-04a8-47c2-8fb4-f0d25b7c6aed"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "1005834f-bd6a-4d2d-8409-0df2fa8b566b",
+        "fb479d4b-57c1-43fa-a315-93ac2e36dc92",
+        "ff5e8c63-397a-4708-b21b-9c08c14173ff",
+        "ca98fedf-f007-46ad-89f0-4cbaac1e9e57"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "28f78881-11ba-4c0e-a869-12835ab90bf5",
+      "dutyDetail": "Monitor asset and component condition and performance to inform maintenance planning.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "15f8dd79-7b55-45f8-a171-394c00d44b0b",
+        "4e137b17-2b49-493c-b77a-0dfdd6895c6d",
+        "7d5f23e3-984c-4cc2-b3de-4950833f3d15"
+      ],
+      "mappedOptions": [
+        "2b419c96-57c4-429e-80ee-4469991b3959"
+      ],
+      "mappedSkills": [
+        "985af223-5206-49d1-9518-62d22471a9bc",
+        "fe4ad1a0-d74d-4e33-8a46-c62f4cc86d6d",
+        "054cbbd9-e442-4c24-ae89-3e78b6b56fdd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8e7b5938-e773-4674-82d1-7839ac6ee4c2",
+      "dutyDetail": "Contribute to the development of long term strategic asset maintenance planning.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "4ac5e14a-85ec-4b01-9dd2-1373e7a5860f",
+        "142da6a8-de2b-4605-a379-77b93989f315",
+        "0ef305d2-9bfa-410d-91b5-8f22bde7439f",
+        "9d17436a-4144-4fd9-9db3-4587d87f9345"
+      ],
+      "mappedOptions": [
+        "2b419c96-57c4-429e-80ee-4469991b3959"
+      ],
+      "mappedSkills": [
+        "7cd0bef1-eafd-4935-a101-3b25ae84f2d7",
+        "4e7281cf-249d-4224-b91a-4f2f84306ab3",
+        "17d01617-6309-42ba-be40-05fdc8e3e9d7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9fcd5a81-1423-451c-8a63-78c27c9e3ae1",
+      "dutyDetail": "Develop asset maintenance, inspection and refurbishment plans.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "15f8dd79-7b55-45f8-a171-394c00d44b0b",
+        "4ac5e14a-85ec-4b01-9dd2-1373e7a5860f",
+        "af52b7d7-2418-48f6-8076-8c201b292b46",
+        "0ef305d2-9bfa-410d-91b5-8f22bde7439f"
+      ],
+      "mappedOptions": [
+        "2b419c96-57c4-429e-80ee-4469991b3959"
+      ],
+      "mappedSkills": [
+        "40c9d4e4-43a4-4578-9379-d903df6d2330",
+        "9146f8f2-3b21-474c-a9cc-49dcbdb0208f",
+        "1e17f3bd-49c0-432d-8e5a-f3761fd1a29d",
+        "054cbbd9-e442-4c24-ae89-3e78b6b56fdd",
+        "6d8e3bba-b339-46e4-8249-5a55b6867d7f",
+        "17d01617-6309-42ba-be40-05fdc8e3e9d7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2e6a5efd-3a27-4fef-ad84-3252e1fbc113",
+      "dutyDetail": "Contribute to the investigation of asset, system or process failure.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "142da6a8-de2b-4605-a379-77b93989f315",
+        "f795c6d5-b39b-4516-b8d1-79f2d3888a08"
+      ],
+      "mappedOptions": [
+        "2b419c96-57c4-429e-80ee-4469991b3959"
+      ],
+      "mappedSkills": [
+        "054cbbd9-e442-4c24-ae89-3e78b6b56fdd",
+        "2cf9d06d-f308-4853-82df-ca94c9e6208e",
+        "4e7281cf-249d-4224-b91a-4f2f84306ab3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e175478c-a2c1-4586-bcd9-654f4483ccc0",
+      "dutyDetail": "Develop project plans.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0ea39bf8-f076-4c50-a6c8-b4685ca6722e",
+        "542dfef7-e7b1-4e5e-bed3-4da65ca1496a",
+        "41388f9b-96f0-429f-bc7e-3f96d2652d70",
+        "fd5f5553-1e16-4cd0-9b85-c7b357e4e9f4",
+        "76c3e499-ae9a-4aac-911d-f00a1687b9d7",
+        "f58bcb1b-7262-40eb-bff5-16674f52630e",
+        "34b1a133-4876-453d-9f9b-b6958a4d624c",
+        "733fc602-dc7f-4596-b07d-dbf54f77a18d"
+      ],
+      "mappedOptions": [
+        "2dd6951a-de64-4d03-b649-8fb3c9837f19"
+      ],
+      "mappedSkills": [
+        "edb5cc12-9fcf-40ef-8e32-7795e8a8ff5b",
+        "7c591506-59e0-4c51-bf81-0c3acfb8c9bd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "4699a898-0abf-4689-b1dd-47e5c2e4e1ee",
+      "dutyDetail": "Manage the delivery of electrical projects. Ensuring work is delivered on time, on budget and to specification.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "b4d96f29-f081-4e17-a083-55a87bbb276c",
+        "0ea39bf8-f076-4c50-a6c8-b4685ca6722e",
+        "542dfef7-e7b1-4e5e-bed3-4da65ca1496a",
+        "41388f9b-96f0-429f-bc7e-3f96d2652d70",
+        "fd5f5553-1e16-4cd0-9b85-c7b357e4e9f4",
+        "76c3e499-ae9a-4aac-911d-f00a1687b9d7",
+        "f58bcb1b-7262-40eb-bff5-16674f52630e",
+        "8b1bbba4-723f-45de-8dc1-37bf9589805d",
+        "34b1a133-4876-453d-9f9b-b6958a4d624c",
+        "733fc602-dc7f-4596-b07d-dbf54f77a18d"
+      ],
+      "mappedOptions": [
+        "2dd6951a-de64-4d03-b649-8fb3c9837f19"
+      ],
+      "mappedSkills": [
+        "02fa24d3-fb5c-4b57-ac71-20cc4941ab16",
+        "07840762-dcae-400e-823f-8e63a6bf6ff3",
+        "7c591506-59e0-4c51-bf81-0c3acfb8c9bd",
+        "0dd84ac2-b1e9-439e-86a7-0a6921b83528"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f9c60342-b187-43fa-b545-b1cd3ad48173",
+      "dutyDetail": "Lead and brief an electrical project team, ensuring the safety of staff and contractors and the security of resources and assets.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "b4d96f29-f081-4e17-a083-55a87bbb276c",
+        "0ea39bf8-f076-4c50-a6c8-b4685ca6722e",
+        "542dfef7-e7b1-4e5e-bed3-4da65ca1496a",
+        "41388f9b-96f0-429f-bc7e-3f96d2652d70",
+        "fd5f5553-1e16-4cd0-9b85-c7b357e4e9f4",
+        "76c3e499-ae9a-4aac-911d-f00a1687b9d7",
+        "f58bcb1b-7262-40eb-bff5-16674f52630e",
+        "eda7fc06-deda-4e91-aba5-c60786ff082c",
+        "b1df31e5-852e-4e16-9955-2c7d02d30f49",
+        "8b1bbba4-723f-45de-8dc1-37bf9589805d",
+        "34b1a133-4876-453d-9f9b-b6958a4d624c",
+        "733fc602-dc7f-4596-b07d-dbf54f77a18d"
+      ],
+      "mappedOptions": [
+        "2dd6951a-de64-4d03-b649-8fb3c9837f19"
+      ],
+      "mappedSkills": [
+        "7c591506-59e0-4c51-bf81-0c3acfb8c9bd",
+        "7bca2964-10f4-4dbc-9bfe-2f248b88dcbe",
+        "b5a9b8a6-cc3e-440a-afff-cc72bc404db1"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "0940833f-f817-485c-9b08-d6efe5e1eb73",
+      "dutyDetail": "Plan and organise electrical maintenance and installation work.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "5157f0ff-38b9-4bd2-8065-cfb5a87b1131",
+        "37829844-6162-4d3a-9a3e-dfc0fb672588",
+        "8499b347-95b5-4f08-a8d6-ed079962e2f0"
+      ],
+      "mappedOptions": [
+        "45cfdf5b-2501-4011-aff4-f6e944d2ddd5"
+      ],
+      "mappedSkills": [
+        "010c819c-e3c8-47d2-8120-0c38924a01d7",
+        "a808c72c-2eb8-492c-a826-4eb823da61f1",
+        "6a3fc042-a06f-49e6-b7f9-f669682d82c4",
+        "2c9e1a7e-749a-44c0-9c5a-4d81ef5abd93",
+        "7983a25d-96de-48c9-93b9-374b50f0631a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "331b42e3-2810-4ae9-a5e3-e3f098b843e4",
+      "dutyDetail": "Issue safety documents.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0555c76f-b66c-4f52-b723-3426f7a76187",
+        "203faf6e-bc56-4767-a472-7f12be2fe77a"
+      ],
+      "mappedOptions": [
+        "45cfdf5b-2501-4011-aff4-f6e944d2ddd5"
+      ],
+      "mappedSkills": [
+        "8bd82ca4-19bd-44db-bc99-e2039b68bf6a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bae0fa00-88d0-4ba5-a7c3-367955c47872",
+      "dutyDetail": "Manage staff and contractors working on the electricity network.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "5157f0ff-38b9-4bd2-8065-cfb5a87b1131",
+        "37829844-6162-4d3a-9a3e-dfc0fb672588",
+        "8499b347-95b5-4f08-a8d6-ed079962e2f0",
+        "203faf6e-bc56-4767-a472-7f12be2fe77a",
+        "8ba4e452-ae05-4054-ade6-b7a2c8313bf8",
+        "d4b05061-e26e-492a-8985-fe0e0bd772cc"
+      ],
+      "mappedOptions": [
+        "45cfdf5b-2501-4011-aff4-f6e944d2ddd5"
+      ],
+      "mappedSkills": [
+        "3563cda0-54b4-4782-a93b-f638fded777b",
+        "7d7f3702-ebfd-4a5f-8531-9c1dbeeee0f5",
+        "010c819c-e3c8-47d2-8120-0c38924a01d7",
+        "a808c72c-2eb8-492c-a826-4eb823da61f1",
+        "6a3fc042-a06f-49e6-b7f9-f669682d82c4",
+        "2c9e1a7e-749a-44c0-9c5a-4d81ef5abd93",
+        "7983a25d-96de-48c9-93b9-374b50f0631a"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "682d4ecf-fe41-4e41-8c25-6645ad8c321e",
+      "dutyDetail": "Carry out operational switching.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "d47252ce-9581-46c5-a449-e83fecc22790"
+      ],
+      "mappedOptions": [
+        "45cfdf5b-2501-4011-aff4-f6e944d2ddd5"
+      ],
+      "mappedSkills": [
+        "b3fc5cc7-349d-41fa-8660-61936b509e1d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5e61541b-5801-442e-83a2-b99d3848b037",
+      "dutyDetail": "Maintain and update asset records.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a1c671fc-ad26-4cf8-b21e-daa15de95cde"
+      ],
+      "mappedOptions": [
+        "45cfdf5b-2501-4011-aff4-f6e944d2ddd5"
+      ],
+      "mappedSkills": [
+        "ca5ef619-c943-461a-b668-0fa2f5efab76"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "2b419c96-57c4-429e-80ee-4469991b3959",
+      "title": "Asset management engineer",
+      "occupationCode": "OCC1499A"
+    },
+    {
+      "optionId": "2dd6951a-de64-4d03-b649-8fb3c9837f19",
+      "title": "Electrical project engineer",
+      "occupationCode": "OCC1499B"
+    },
+    {
+      "optionId": "45cfdf5b-2501-4011-aff4-f6e944d2ddd5",
+      "title": "Operational delivery engineer",
+      "occupationCode": "OCC1499C"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-10-28T00:00:00"
+}
