@@ -5,13 +5,13 @@
   "referenceNumber": "ST0120",
   "learningAimClassCode": "",
   "title": "Digital support technician",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0120",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
+  "versionNumber": "2.0",
   "change": "Occupational standard and assessment plan revised",
-  "changedDate": "2026-08-12T00:00:00",
+  "changedDate": "2026-10-29T00:00:00",
   "earliestStartDate": "2026-10-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -52,7 +52,7 @@
     "Technical support professional"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0120-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0120-v2-0?view=epa",
   "ssa1": "6 Digital Technology",
   "ssa2": "6.1 Digital technology (practitioners)",
   "version": "2.0",
@@ -208,10 +208,7 @@
       "detail": "Support end-user systems physically or remotely. For example: software, hardware, operating systems or applications"
     }
   ],
-  "optionsUnstructuredTemplate": [
-    "Digital Applications Technician",
-    "Digital Service Technician"
-  ],
+  "optionsUnstructuredTemplate": [],
   "proposalApproved": "",
   "standardApproved": "",
   "standardPublished": "true",
@@ -225,7 +222,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2019-04-11T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -263,12 +260,12 @@
   "clusterId": "187",
   "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2026-08-12T13:21:28 +00:00",
-  "lastUpdated": "2026-08-12T00:00:00 +00:00",
+  "lastUpdated": "2026-10-29T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-04-11T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0120",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0120-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0120-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0120-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0120-v2-0",
   "qualifications": [],
   "professionalRecognition": [
     {
@@ -507,26 +504,7 @@
   ],
   "options": [],
   "regulationDetail": [],
-  "optionsUnstructuredKsbMapping": [
-    {
-      "coreOrOptionTitle": "Core",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Digital Applications Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    },
-    {
-      "coreOrOptionTitle": "Digital Service Technician",
-      "mappedBehaviour": [],
-      "mappedKnowledge": [],
-      "mappedSkills": []
-    }
-  ],
+  "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
   "publishDate": "2026-10-29T00:00:00"
