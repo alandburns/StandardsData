@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "2.0",
   "change": "Occupational standard and assessment plan revised",
-  "changedDate": "2026-10-29T00:00:00",
+  "changedDate": "2026-10-30T00:00:00",
   "earliestStartDate": "2026-10-29T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -260,7 +260,7 @@
   "clusterId": "187",
   "clusterDescription": "Help internal and external customers to install and use IT technology along with trouble - shooting their problems. Skills are developed across IT security and data management",
   "createdDate": "2026-08-12T13:21:28 +00:00",
-  "lastUpdated": "2026-10-29T00:00:00 +00:00",
+  "lastUpdated": "2026-10-30T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-04-11T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0120",
@@ -507,5 +507,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2026-10-29T00:00:00"
+  "publishDate": "2026-10-30T00:00:00"
 }
