@@ -5,13 +5,13 @@
   "referenceNumber": "ST0135",
   "learningAimClassCode": "",
   "title": "Early years educator",
-  "status": "In development",
-  "approvedForDeliveryPausedStarts": null,
+  "status": "Approved for delivery",
+  "approvedForDeliveryPausedStarts": false,
   "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0135",
   "qualificationStandardUrl": null,
-  "versionNumber": "",
+  "versionNumber": "2.0",
   "change": "End point assessment plan revised",
-  "changedDate": "2026-07-02T00:00:00",
+  "changedDate": "2026-11-02T00:00:00",
   "earliestStartDate": "2026-11-01T00:00:00",
   "latestStartDate": null,
   "latestEndDate": null,
@@ -39,7 +39,7 @@
     "Nursery worker"
   ],
   "entryRequirements": "",
-  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0135-in-revision?view=epa",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0135-v2-0?view=epa",
   "ssa1": "1 Health, Public Services and Care",
   "ssa2": "1.5 Child development and well being",
   "version": "2.0",
@@ -289,7 +289,7 @@
     "contactEmail": "",
     "webLink": "https://contact.ofqual.gov.uk/"
   },
-  "approvedForDelivery": "",
+  "approvedForDelivery": "2019-04-03T00:00:00 +00:00",
   "integratedApprenticeship": null,
   "integration": "None",
   "integratedDegree": "",
@@ -316,12 +316,12 @@
   "clusterId": "176",
   "clusterDescription": "Supports the development of a students' learning skills, behaviours and overall knowledge both one-to-one and in a small group",
   "createdDate": "2026-04-28T08:36:19 +00:00",
-  "lastUpdated": "2026-07-02T00:00:00 +00:00",
+  "lastUpdated": "2026-11-02T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-04-03T00:00:00 +00:00",
-  "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. A lead-in period is currently in effect until 1st November 2026. At the end of the lead-in period, it will replace the current version for new starts with a funding band of £7,000. Until then, the current end-point assessment remains in place. For further details of the changes to apprenticeship assessment, please refer to the Department for Education's support guidance.",
+  "banners": "",
   "occupationCode": "OCC0135",
-  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0135-in-revision?view=standard#OccupationalStandard",
-  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0135-in-revision",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0135-v2-0?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0135-v2-0",
   "qualifications": [
     {
       "qualificationId": "67fa9275-9ec5-4b9d-a939-dc421f3128ec",
@@ -670,5 +670,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": true,
   "coronationEmblem": false,
-  "publishDate": "2026-11-01T00:00:00"
+  "publishDate": "2026-11-02T00:00:00"
 }
