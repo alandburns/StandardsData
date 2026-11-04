@@ -11,9 +11,9 @@
   "qualificationStandardUrl": null,
   "versionNumber": "1.1",
   "change": "Updated SSA",
-  "changedDate": "2025-12-10T00:00:00",
+  "changedDate": "2026-11-03T00:00:00",
   "earliestStartDate": "2025-12-10T00:00:00",
-  "latestStartDate": null,
+  "latestStartDate": "2027-05-13T00:00:00",
   "latestEndDate": null,
   "overviewOfRole": "Producing and assembling bespoke pieces of furniture to meet individual customers’ requirements.",
   "level": 3,
@@ -371,7 +371,7 @@
   "clusterId": "63",
   "clusterDescription": "Use traditional hand craft skills to shape and sculpt natural materials",
   "createdDate": "2025-12-08T09:37:24 +00:00",
-  "lastUpdated": "2025-12-10T00:00:00 +00:00",
+  "lastUpdated": "2026-11-03T00:00:00 +00:00",
   "occupationalStandardApprovalDate": "2019-09-30T00:00:00 +00:00",
   "banners": "",
   "occupationCode": "OCC0639",
@@ -385,5 +385,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2025-12-10T00:00:00"
+  "publishDate": "2027-05-13T00:00:00"
 }
