@@ -330,7 +330,7 @@
     "webLink": "http://https://www.barstandardsboard.org.uk/"
   },
   "approvedForDelivery": "2024-02-19T00:00:00 +00:00",
-  "integratedApprenticeship": true,
+  "integratedApprenticeship": false,
   "integration": "Statutory integration",
   "integratedDegree": "",
   "tbReference": "TB0846",
