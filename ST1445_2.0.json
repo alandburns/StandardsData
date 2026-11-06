@@ -11,7 +11,7 @@
   "qualificationStandardUrl": null,
   "versionNumber": "",
   "change": "",
-  "changedDate": "2026-03-02T00:00:00",
+  "changedDate": "2026-11-05T00:00:00",
   "earliestStartDate": null,
   "latestStartDate": null,
   "latestEndDate": null,
@@ -21,7 +21,7 @@
   "typicalDuration": 24,
   "minimumHoursForCompliance": "418",
   "maxFunding": 0,
-  "maxFundingAdditionalInformation": "",
+  "maxFundingAdditionalInformation": "Max funding is £0",
   "route": "Protective services",
   "keywords": [
     "fraud control specialist",
@@ -376,9 +376,9 @@
   "clusterId": "50",
   "clusterDescription": "Lead and manage a team providing safety, security, prevention, enforcement, protection and investigation services largely on behalf of society",
   "createdDate": "2026-03-02T14:17:02 +00:00",
-  "lastUpdated": "2026-03-02T00:00:00 +00:00",
+  "lastUpdated": "2026-11-05T00:00:00 +00:00",
   "occupationalStandardApprovalDate": null,
-  "banners": "The below apprenticeship assessment plan is approved by Skills England under the 2025/2026 apprenticeship assessment reforms and is available for information only. A lead-in period of approximately 6 months will commence when the apprenticeship is approved for delivery with a funding band. At the end of the lead-in period, starts can commence allowing providers and employers to start working with assessment organisations to deliver this assessment. For further details of the changes to apprenticeship assessment , please refer to the Department for Education's support guidance.",
+  "banners": "",
   "occupationCode": "OCC1445",
   "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1445-in-revision?view=standard#OccupationalStandard",
   "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1445-in-revision",
@@ -961,5 +961,5 @@
   "optionsUnstructuredKsbMapping": [],
   "careerStarter": false,
   "coronationEmblem": false,
-  "publishDate": "2026-03-02T00:00:00"
+  "publishDate": "2026-11-05T00:00:00"
 }
