@@ -1,0 +1,700 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 537,
+  "referenceNumber": "ST0008",
+  "learningAimClassCode": "",
+  "title": "Leader in adult care",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0008",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised",
+  "changedDate": "2026-11-06T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Leading the care service and managing teams of carers to look after adults with care needs.",
+  "level": 5,
+  "ePALength": 0,
+  "typicalDuration": 18,
+  "minimumHoursForCompliance": "418",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Care services",
+  "keywords": [
+    "health",
+    "leader",
+    "care",
+    "adult care",
+    "social care",
+    "care services",
+    "health and science"
+  ],
+  "jobRoles": [
+    "Adult social care manager",
+    "Care home manager",
+    "Care leader",
+    "Care manager",
+    "Care services manager",
+    "Care unit manager",
+    "Clinical care services manger",
+    "General manager care home",
+    "Leader in adult social care",
+    "Registered manager",
+    "Service manager",
+    "Unit manager"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0008-in-revision?view=epa",
+  "ssa1": "1 Health, Public Services and Care",
+  "ssa2": "1.3 Health and social care",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Occupations: Leader in Adult Care&lt;/strong&gt;&amp;nbsp;&lt;/h3&gt;\n&lt;h4&gt;Role Profile (what the successful candidate should be able to do at the end of the Apprenticeship)&lt;/h4&gt;\n&lt;p&gt;The Leader in Adult Care will guide and inspire teams to make positive differences to someone’s life when they are faced with physical, practical, social, emotional, psychological or intellectual challenges. They will be a leader of the care team and will develop and implement a values-based culture at a service or unit level. They may be responsible for business development, financial control, organisational resilience and continuity as well as for managing risk and leading on organisational change. &amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;A &lt;strong&gt;Leader in Adult Care &lt;/strong&gt;has responsibility for managing community or residential based services. This role has a large element of leadership, whether with other care workers and networks or in leading the service itself. A successful apprentice will have met all the requirements. They have a responsibility to ensure the service is safe, effective, caring, responsive to people’s needs and well-led. They may be a registered manager of a service, unit, deputy or assistant manager. They will be responsible for ensuring regulatory compliance of the care given and the values and training of staff with established standards and regulations.&lt;/p&gt;\n&lt;p&gt;These are the personal attributes and behaviours expected of all Leaders in Adult Care carrying out their roles:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Care – is caring consistently and enough about individuals to make a positive difference to their lives&lt;/li&gt;\n&lt;li&gt;Compassion – is delivering care and support with kindness, consideration, dignity, empathy and respect&lt;/li&gt;\n&lt;li&gt;Courage – is doing the right thing for people and speaking up if the individual they support is at risk&lt;/li&gt;\n&lt;li&gt;Communication – good communication is central to successful caring relationships and effective team working&lt;/li&gt;\n&lt;li&gt;Competence – is applying knowledge and skills to provide high quality care and support&lt;/li&gt;\n&lt;li&gt;Commitment – to improving the experience of people who need care and support ensuring it is person centred&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;Leaders in Adult Care may work in residential or nursing homes, domiciliary care, community day centres, a person’s own home or some clinical healthcare settings. The role of Leader in Adult Care in this standard also covers Personal Assistants who operate in a management role but they may only work directly for one individual who needs support and/or care services.&lt;/p&gt;\n&lt;p&gt;&lt;strong&gt;Typical job titles &lt;/strong&gt;include registered, assistant, deputy, unit or service manager.&lt;/p&gt;\n&lt;table border=&quot;0&quot; width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;113&quot; style=&quot;width: 113px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Knowledge&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;605&quot; style=&quot;width: 605px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What the Leader in Adult Care on completion must know and understand:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Tasks and responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Statutory frameworks, standards, guidance and Codes of Practice which underpin practice in relation to the safe delivery of services&lt;/li&gt;\n&lt;li&gt;Systems and processes needed to ensure compliance with regulations and organisational policies and procedures including health and safety and risk management&lt;/li&gt;\n&lt;li&gt;Principles of risk management, assessment and outcome based practice&lt;/li&gt;\n&lt;li&gt;Principles and underpinning theories of change management including approaches, tools and techniques that support the change process&lt;/li&gt;\n&lt;li&gt;Legislative and regulatory frameworks which inform quality standards&lt;/li&gt;\n&lt;li&gt;Theories and models that underpin performance and appraisal including disciplinary procedures&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Dignity and human rights&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Legislation and policy initiatives on the promotion of diversity, equality and inclusion in services they lead&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Communication &lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Legal and ethical frameworks in relation to confidentiality and sharing information&lt;/li&gt;\n&lt;li&gt;Range of tools and strategies to enhance communication including technology&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Safeguarding&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Legislation, national and local solutions for the safeguarding of adults and children including reporting requirements&lt;/li&gt;\n&lt;li&gt;The elements needed to create a culture that supports whistleblowing in the organisation&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Health and wellbeing&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Models of monitoring, reporting and responding to changes in health and wellbeing&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Professional development&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Principles of professional development&lt;/li&gt;\n&lt;li&gt;Goals and aspirations that support own professional development and how to access available opportunities&lt;/li&gt;\n&lt;li&gt;Elements needed to create a culture that values learning, professional development, reflective practice and evidence based practice&lt;/li&gt;\n&lt;li&gt;Systems and processes necessary to ensure professional development opportunities are identified, planned, sourced, evaluated and recorded for workers&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Leadership&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Theories of management and leadership and their application to adult care&lt;/li&gt;\n&lt;li&gt;Features of effective team performance&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;table border=&quot;0&quot; width=&quot;0&quot;&gt;\n&lt;tbody&gt;\n&lt;tr&gt;\n&lt;th width=&quot;113&quot; style=&quot;width: 113px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Skills&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;th width=&quot;605&quot; style=&quot;width: 605px&quot;&gt;\n&lt;p&gt;&lt;strong&gt;What the Leader in Adult Care on completion must be able to do:&lt;/strong&gt;&lt;/p&gt;\n&lt;/th&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Tasks and responsibilities&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and apply systems and processes needed to ensure compliance with regulations and organisational policies and procedures&lt;/li&gt;\n&lt;li&gt;Implement strategies to support others to manage the risks presented when balancing individual rights and professional duty of care&lt;/li&gt;\n&lt;li&gt;Develop and apply systems and processes that monitor and sustain quality of the service, including assessments, care plans and service delivery&lt;/li&gt;\n&lt;li&gt;Lead and support others to work in a person centred way and to ensure active participation which enhances the well-being and quality of life of individuals&lt;/li&gt;\n&lt;li&gt;Encourage and enable both staff and people who access care and support to be involved in the co-production of how the service operates&lt;/li&gt;\n&lt;li&gt;Manage all resources in delivering complex care and support efficiently and effectively&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Dignity and human rights&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and lead implementation of organisational practices to create and sustain a culture that actively champions dignity and respects diversity, inclusion and fairness in the workplace&lt;/li&gt;\n&lt;li&gt;Develop and lead a culture that values courage in working in ways that may challenge workers’ own cultural and belief systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Communication&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Develop and implement organisational processes to ensure that records and reports are written clearly and concisely and to keep information safe and preserve confidentiality&lt;/li&gt;\n&lt;li&gt;Translate policy and guidance into understandable information for a range of audiences including people who access care and support, carers and families and other colleagues&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Safeguarding&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Implement systems to train and support work colleagues to enable them to recognise and respond to potential signs of abuse and or unsafe practices, following organisational policies and procedures&lt;/li&gt;\n&lt;li&gt;Monitor and evaluate the effectiveness of organisational policies, systems and processes for safeguarding&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Health and wellbeing&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Lead the implementation of policies, procedures and practices to manage health, safety and risk to individuals and others in health and social care to ensure compliance with legislation, standards and guidance&lt;/li&gt;\n&lt;li&gt;Implement health and safety and risk management policies, procedures and practices to create a culture that values health and well-being in the organisation&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Monitor, evaluate and improve health, safety and risk management policies and practices in the service&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Professional development&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Apply evaluated research and evidence-based practice in own setting&lt;/li&gt;\n&lt;li&gt;Take initiative to research and disseminate current drivers in the adult care landscape&lt;/li&gt;\n&lt;li&gt;Embed systems to improve performance of self and/or work colleagues through supervision, reflective practice and learning and development opportunities&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;tr&gt;\n&lt;td width=&quot;113&quot;&gt;\n&lt;p&gt;&lt;strong&gt;Leadership&lt;/strong&gt;&lt;/p&gt;\n&lt;/td&gt;\n&lt;td width=&quot;605&quot;&gt;\n&lt;ul&gt;\n&lt;li&gt;Show a well-developed sense of their own behaviour and impact on others modelling a values-based culture&lt;/li&gt;\n&lt;li&gt;Create a supportive culture that values initiative and innovation and recognises the variety of skills of all within the service, both workers and individuals supported&lt;/li&gt;\n&lt;li&gt;Adopt a team approach, recognising contributions of team members and able to lead a team where required&lt;/li&gt;\n&lt;/ul&gt;\n&lt;/td&gt;\n&lt;/tr&gt;\n&lt;/tbody&gt;\n&lt;/table&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Qualifications&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Level 5 Diploma in Leading and Managing an Adult Care Service.&amp;nbsp;&lt;/li&gt;\n&lt;li&gt;Apprentices without level 2 English and maths will need to achieve this level prior to completion of their Apprenticeship.&lt;/li&gt;\n&lt;li&gt;For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Duration: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Typically 18 months&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Level: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;5&lt;/p&gt;\n&lt;h3&gt;Indust&lt;strong&gt;ry-specific&lt;/strong&gt; requirements.&lt;/h3&gt;\n&lt;p&gt;Undertake the Disclosure and Barring Service process and provide the result.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review date:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;This apprenticeship will be reviewed in accordance with our change request policy.&lt;/p&gt;\n&lt;p&gt;&lt;br&gt;&lt;br&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p style=&quot;margin: 10pt 0&quot;&gt;The broad purpose of the occupation is to lead adult care services and manage teams who support adults with care needs. Leaders in Adult Care guide and inspire others to provide safe, effective, caring and person-centred support for people facing physical, practical, social, emotional, psychological or intellectual challenges. They develop a values based culture and may lead service improvement, business development, financial control, risk management, continuity planning and organisational change.&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;margin: 10pt 0&quot;&gt;In their daily work, an employee in this occupation interacts with adults who need care and support, their families, carers, advocates, care workers, managers and wider professional networks. They may also work with commissioners, regulators, safeguarding teams, health and social care professionals and community partners to ensure services meet people’s needs and comply with relevant standards.&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;margin: 10pt 0&quot;&gt;An employee in this occupation will be responsible for providing strategic and operational leadership across services including residential care, nursing care, domiciliary care, supported living, extra care housing, community-based services, learning disability, mental health, dementia and other specialist adult care settings.&lt;/p&gt;\n&lt;p style=&quot;margin: 10pt 0&quot;&gt;They inspire and enable teams to deliver high quality, person-centred care that promotes dignity, independence, wellbeing and positive outcomes. They create and sustain a values-based culture, driving workforce development, recruitment, retention, continuous improvement and digital transformation to meet the changing needs of people and communities. Working collaboratively with individuals, families, carers, health and care professionals, commissioners and community partners, they build effective partnerships that support integrated care and improved outcomes. They may also lead quality assurance, financial performance, organisational resilience, risk management and service innovation to ensure safe, sustainable and future focused care services.&lt;/p&gt;\n&lt;p style=&quot;margin: 10pt 0&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p style=&quot;margin: 10pt 0&quot;&gt;&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "025e4ff9-4ee1-4735-99b4-849479c85170",
+      "detail": "Leadership and management approaches to support team performance and delivery of organisational objectives."
+    },
+    {
+      "knowledgeId": "f272f47c-6ec2-4bb9-9d22-2e19d352275e",
+      "detail": "Ethical leadership approaches and decision‑making in practice."
+    },
+    {
+      "knowledgeId": "512132e2-21d2-452c-8c6c-ee71338e0de7",
+      "detail": "Techniques for promoting positive organisational culture and inclusive and psychologically safe environments, and the impact of communicating visions and values on engagement and accountability."
+    },
+    {
+      "knowledgeId": "b0a53027-a1b1-4528-8d81-4f570ed2d9cd",
+      "detail": "Workforce development approaches, including Continuous Professional Development, coaching, mentoring, and learning cultures, to maintain competence and capability."
+    },
+    {
+      "knowledgeId": "1ea5bf25-1466-461b-a8b4-6410317c3332",
+      "detail": "Workforce planning, monitoring, and staffing models to maintain service quality."
+    },
+    {
+      "knowledgeId": "f14d7103-606c-4aef-8b2f-694932e5fd47",
+      "detail": "Recruitment approaches aligned with workforce needs and policy requirements."
+    },
+    {
+      "knowledgeId": "53995d9a-99de-434b-b9b4-729d5eaf7c12",
+      "detail": "Approaches to supervision, appraisal and performance management."
+    },
+    {
+      "knowledgeId": "2141aa10-716b-487c-880b-7d4fc3cd5f3c",
+      "detail": "Person‑centred approaches, including strengths‑based and co‑produced care."
+    },
+    {
+      "knowledgeId": "b93df712-c52f-40ea-b693-383e020a01ed",
+      "detail": "Advocacy approaches and the influence of organisational culture on outcomes."
+    },
+    {
+      "knowledgeId": "fd241a6c-d0b6-4f22-b68b-54166648a3e7",
+      "detail": "Approaches to monitoring and evaluating trauma‑informed care and Positive Behaviour Support."
+    },
+    {
+      "knowledgeId": "a48ecace-7c42-43db-be79-603e71c3f52c",
+      "detail": "Stakeholder roles, responsibilities, and collaborative working across integrated health and social care systems."
+    },
+    {
+      "knowledgeId": "a8ab3e2b-12cf-4574-ba4e-54dc21eeb7de",
+      "detail": "Safeguarding frameworks and their implications for accountability and governance."
+    },
+    {
+      "knowledgeId": "ed918f9b-21e8-41c9-84a7-5aa4911f0ca5",
+      "detail": "The role of services within safeguarding enquiries and investigations."
+    },
+    {
+      "knowledgeId": "a48e5d85-36a7-4aef-9d74-f1dfd463d9ed",
+      "detail": "Health and safety requirements, incident reporting, and safe systems of work."
+    },
+    {
+      "knowledgeId": "d74e8302-fca8-492c-823a-acec3feea9c3",
+      "detail": "Risk assessment approaches to identify and respond to hazards."
+    },
+    {
+      "knowledgeId": "3068caf3-d311-428d-892a-0b8ccd5a99d4",
+      "detail": "Financial planning, compliance, and performance monitoring systems."
+    },
+    {
+      "knowledgeId": "89df0865-25f6-4410-9728-26b458b9e429",
+      "detail": "Approaches to procurement and sustainable resource management, including consideration of environmental, social and economic factors."
+    },
+    {
+      "knowledgeId": "6ee21508-d1e2-4605-9420-2d92185f835e",
+      "detail": "National policy for monitoring record‑keeping, reporting, maintaining confidentiality and information security."
+    },
+    {
+      "knowledgeId": "3eae55ef-b232-4677-9c6b-285810d2b495",
+      "detail": "Models and approaches for planning and implementing organisational change."
+    },
+    {
+      "knowledgeId": "0668a1e8-72b4-416a-9508-383fd1789f39",
+      "detail": "Leadership communication styles and how to adapt these to motivate and support stakeholders."
+    },
+    {
+      "knowledgeId": "58767c7b-adc9-465a-b3db-de5ac1816ff3",
+      "detail": "Approaches to quality assurance models that drive evidence-based improvements and outcomes."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "7181258f-6fca-4e71-bcd4-a954ea1aeec1",
+      "detail": "Accountability and professional integrity."
+    },
+    {
+      "behaviourId": "df3bf130-abe8-468b-9847-98da3631cc5c",
+      "detail": "Compassion and respect."
+    },
+    {
+      "behaviourId": "4bfff161-12ad-4e60-b3a7-e9ce2cdbfd08",
+      "detail": "Commitment to learning and development."
+    },
+    {
+      "behaviourId": "b71adad3-98a9-44fa-bb4a-1bd5617a2445",
+      "detail": "Collaborative and inclusive leadership."
+    },
+    {
+      "behaviourId": "febb28f7-fa9f-48b4-99d6-23e83bf80a3c",
+      "detail": "Adaptive and innovative"
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "13488a90-d324-4aae-9019-14c8d6bbce1e",
+      "detail": "Apply leadership and management approaches to lead teams and deliver organisational objectives."
+    },
+    {
+      "skillId": "af3a1810-f02a-46e2-be0f-f40dd0ee3bd6",
+      "detail": "Apply ethical leadership approaches to support decision‑making and professional practice."
+    },
+    {
+      "skillId": "800e722e-3681-4c24-b532-6bddcd26ac73",
+      "detail": "Promote inclusive and psychologically safe environments and communicate vision and values to support engagement and accountability."
+    },
+    {
+      "skillId": "cf0634ae-9d69-4da4-b932-b2c71e11a2a6",
+      "detail": "Manage workforce development through Continuous Professional Development, coaching, and mentoring to maintain competence and capability."
+    },
+    {
+      "skillId": "e2557873-e385-4821-a1d7-f14f08cfd1df",
+      "detail": "Apply workforce planning and staffing models to maintain service quality."
+    },
+    {
+      "skillId": "9fb66c6d-1867-437f-bbd9-86edee0659f1",
+      "detail": "Apply recruitment approaches to attract and select individuals aligned to organisational values and workforce needs."
+    },
+    {
+      "skillId": "fc1c0d6e-5364-4303-b893-0d5ba96c02f9",
+      "detail": "Apply processes to review performance, address issues and support continuous improvement."
+    },
+    {
+      "skillId": "766ba1bf-b92c-498d-99bf-9448cfe40968",
+      "detail": "Apply strengths‑based and co‑produced approaches to lead and advise teams to deliver personalised care."
+    },
+    {
+      "skillId": "a1c210fc-eb09-4c9e-bcd2-9096c624115a",
+      "detail": "Promote and apply advocacy approaches to improve outcomes."
+    },
+    {
+      "skillId": "0fb957bf-fbc0-4c25-b9ef-56564c51df03",
+      "detail": "Monitor and evaluate the use of trauma-informed care and Positive Behaviour Support in line with frameworks."
+    },
+    {
+      "skillId": "dcdae29b-dcfb-4108-a284-f59ad6a9b155",
+      "detail": "Work with stakeholders to support integrated care and coordinated outcomes."
+    },
+    {
+      "skillId": "72bce396-fda2-4bf1-b0cc-9cce83181198",
+      "detail": "Apply safeguarding frameworks to ensure safe and accountable practice."
+    },
+    {
+      "skillId": "b0ae469c-5075-4c45-9e30-feb83f521a32",
+      "detail": "Contribute to safeguarding enquiries and investigations as a stakeholder."
+    },
+    {
+      "skillId": "131dc470-0e9f-4c9a-b48f-215dffe89d06",
+      "detail": "Implement health and safety procedures and safe systems of work."
+    },
+    {
+      "skillId": "613593be-8194-4d48-8e19-3018b9f04af0",
+      "detail": "Apply risk assessment to manage risks."
+    },
+    {
+      "skillId": "eae92147-8d75-41a7-9caf-636e119cb0bc",
+      "detail": "Apply financial and performance monitoring approaches to support compliance and service delivery."
+    },
+    {
+      "skillId": "cfd3640b-6b21-4b00-a9bb-d9db5a74066e",
+      "detail": "Apply procurement and sustainable resource management approaches, including consideration of environmental, social and economic factors."
+    },
+    {
+      "skillId": "ab067a64-3b98-49c4-9ddc-ab9641706471",
+      "detail": "Apply monitoring processes to ensure accurate records and maintain information security and confidentiality."
+    },
+    {
+      "skillId": "5cf4ae73-b927-4c41-98e1-e46040bad76d",
+      "detail": "Apply change management approaches to plan and implement organisational change."
+    },
+    {
+      "skillId": "462e556c-ca4f-433f-9410-f71e84a6a3a3",
+      "detail": "Adapt communication approaches to engage, motivate and support stakeholders."
+    },
+    {
+      "skillId": "9d35e7d7-1383-4406-98b7-78e31cc992d9",
+      "detail": "Plans and implements quality assurance models to drive evidence-based improvements and outcomes. "
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": false,
+  "integration": "Mandatory qualification with apprenticeship assessment",
+  "integratedDegree": "",
+  "tbReference": "TB0067",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Avida Care, Caretech Community Services Ltd, Creative Support,  CTTM, Hand in Hands, Lifeways Group, Hendra Healthcare (Ludlow) Ltd, Hertfordshire County Council, Leeds City Council, Surrey County Council, Avery Group, West of England Centre for Inclusive Living, Woodford Homecare, Voyage Care",
+  "otherInvolvedStakeholders": "Salutem Care, Anchor, Barchester Healthcare, CareTech, Central Bedfordshire Council, Creative Support, Hand in Hands, Hendra Healthcare (Ludlow) Limited, Hertfordshire County Council, Surrey County Council, London Borough of Tower Hamlets, West of England Centre for Inclusive Living and Education, Ivolve care, Cand Healthcare , Leeds City Council, Voyage Care, Hertfordshire County council, Cambridge County Council , Mencap ,New Cross Health Care ,Walnut care, Housing 21, HC-One Ltd",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Adult social care manager",
+    "Care home manager",
+    "Care leader",
+    "Care manager",
+    "Care services manager",
+    "Care unit manager",
+    "Clinical care services manger",
+    "General manager care home",
+    "Leader in adult social care",
+    "Registered manager",
+    "Service manager",
+    "Unit manager"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Care Services",
+  "cluster": "Adult care manager",
+  "clusterId": "145",
+  "clusterDescription": "Lead, coach, guide team members to deliver care to clients and client groups whilst also seeking to achieve a high level of self development usually based on a care specialism",
+  "createdDate": "2026-11-06T10:26:45 +00:00",
+  "lastUpdated": "2026-11-06T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2020-02-03T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0008",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0008-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0008-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "00a66859-335d-4f7d-89ea-bf94786e4f0a",
+      "title": "Level 5 Diploma in Leadership Management for Adult Care",
+      "level": "5",
+      "anyAdditionalInformation": "The qualification number varies depending on which awarding organisation offers the qualification, but must be approved by Skills for Care.\nPlease refer to the Awarding Organisation to confirm if English and maths is an essential component of any mandatory qualification.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [],
+  "duties": [
+    {
+      "dutyID": "fea062d1-883a-43a0-9000-89640a3ef8e9",
+      "dutyDetail": "Lead workforce recruitment, development and performance management to build a resilient, skilled and future ready workforce.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1",
+        "4bfff161-12ad-4e60-b3a7-e9ce2cdbfd08",
+        "febb28f7-fa9f-48b4-99d6-23e83bf80a3c"
+      ],
+      "mappedKnowledge": [
+        "025e4ff9-4ee1-4735-99b4-849479c85170",
+        "f272f47c-6ec2-4bb9-9d22-2e19d352275e",
+        "b0a53027-a1b1-4528-8d81-4f570ed2d9cd",
+        "f14d7103-606c-4aef-8b2f-694932e5fd47",
+        "89df0865-25f6-4410-9728-26b458b9e429",
+        "0668a1e8-72b4-416a-9508-383fd1789f39"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13488a90-d324-4aae-9019-14c8d6bbce1e",
+        "af3a1810-f02a-46e2-be0f-f40dd0ee3bd6",
+        "cf0634ae-9d69-4da4-b932-b2c71e11a2a6",
+        "9fb66c6d-1867-437f-bbd9-86edee0659f1",
+        "cfd3640b-6b21-4b00-a9bb-d9db5a74066e",
+        "462e556c-ca4f-433f-9410-f71e84a6a3a3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "2bdefa76-955a-408f-9f85-810baaf2e554",
+      "dutyDetail": "Motivate and engage team members to collaborate towards shared goals, fostering an inclusive culture that supports learning, mentoring, and continuous professional development.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1",
+        "df3bf130-abe8-468b-9847-98da3631cc5c",
+        "b71adad3-98a9-44fa-bb4a-1bd5617a2445"
+      ],
+      "mappedKnowledge": [
+        "025e4ff9-4ee1-4735-99b4-849479c85170",
+        "f272f47c-6ec2-4bb9-9d22-2e19d352275e",
+        "53995d9a-99de-434b-b9b4-729d5eaf7c12",
+        "b93df712-c52f-40ea-b693-383e020a01ed",
+        "3068caf3-d311-428d-892a-0b8ccd5a99d4",
+        "3eae55ef-b232-4677-9c6b-285810d2b495",
+        "0668a1e8-72b4-416a-9508-383fd1789f39"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13488a90-d324-4aae-9019-14c8d6bbce1e",
+        "af3a1810-f02a-46e2-be0f-f40dd0ee3bd6",
+        "fc1c0d6e-5364-4303-b893-0d5ba96c02f9",
+        "a1c210fc-eb09-4c9e-bcd2-9096c624115a",
+        "eae92147-8d75-41a7-9caf-636e119cb0bc",
+        "5cf4ae73-b927-4c41-98e1-e46040bad76d",
+        "462e556c-ca4f-433f-9410-f71e84a6a3a3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d241ba8b-7df4-41cb-b7ef-80d643d77cda",
+      "dutyDetail": "Champion personalised, strengths‑based and co‑produced care, ensuring all voices, rights and aspirations shape all support and decision‑making.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1",
+        "df3bf130-abe8-468b-9847-98da3631cc5c"
+      ],
+      "mappedKnowledge": [
+        "2141aa10-716b-487c-880b-7d4fc3cd5f3c",
+        "b93df712-c52f-40ea-b693-383e020a01ed",
+        "fd241a6c-d0b6-4f22-b68b-54166648a3e7",
+        "d74e8302-fca8-492c-823a-acec3feea9c3",
+        "0668a1e8-72b4-416a-9508-383fd1789f39"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "766ba1bf-b92c-498d-99bf-9448cfe40968",
+        "a1c210fc-eb09-4c9e-bcd2-9096c624115a",
+        "0fb957bf-fbc0-4c25-b9ef-56564c51df03",
+        "462e556c-ca4f-433f-9410-f71e84a6a3a3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1f09b686-ab90-4e0a-a2e3-44f33c165761",
+      "dutyDetail": "Ensure robust health and safety practices through dynamic risk management, consistent incident reporting, and proactive mitigation of hazards.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1"
+      ],
+      "mappedKnowledge": [
+        "1ea5bf25-1466-461b-a8b4-6410317c3332",
+        "2141aa10-716b-487c-880b-7d4fc3cd5f3c",
+        "a48e5d85-36a7-4aef-9d74-f1dfd463d9ed"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e2557873-e385-4821-a1d7-f14f08cfd1df",
+        "766ba1bf-b92c-498d-99bf-9448cfe40968",
+        "131dc470-0e9f-4c9a-b48f-215dffe89d06",
+        "613593be-8194-4d48-8e19-3018b9f04af0"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "46c6e2af-ec20-4ee6-baeb-aca191792c1d",
+      "dutyDetail": "Lead and oversee safeguarding policies and procedures for adults, that comply with local and national legislation.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1"
+      ],
+      "mappedKnowledge": [
+        "025e4ff9-4ee1-4735-99b4-849479c85170",
+        "1ea5bf25-1466-461b-a8b4-6410317c3332",
+        "a8ab3e2b-12cf-4574-ba4e-54dc21eeb7de",
+        "ed918f9b-21e8-41c9-84a7-5aa4911f0ca5",
+        "a48e5d85-36a7-4aef-9d74-f1dfd463d9ed",
+        "6ee21508-d1e2-4605-9420-2d92185f835e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13488a90-d324-4aae-9019-14c8d6bbce1e",
+        "e2557873-e385-4821-a1d7-f14f08cfd1df",
+        "72bce396-fda2-4bf1-b0cc-9cce83181198",
+        "b0ae469c-5075-4c45-9e30-feb83f521a32",
+        "131dc470-0e9f-4c9a-b48f-215dffe89d06",
+        "ab067a64-3b98-49c4-9ddc-ab9641706471"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "634328b1-bd48-4c41-ac4c-3b30540d617f",
+      "dutyDetail": "Evaluate and apply organisational contingency plans to maintain continuity of care during critical incidents or service disruptions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1"
+      ],
+      "mappedKnowledge": [
+        "1ea5bf25-1466-461b-a8b4-6410317c3332",
+        "fd241a6c-d0b6-4f22-b68b-54166648a3e7",
+        "a48e5d85-36a7-4aef-9d74-f1dfd463d9ed",
+        "6ee21508-d1e2-4605-9420-2d92185f835e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e2557873-e385-4821-a1d7-f14f08cfd1df",
+        "0fb957bf-fbc0-4c25-b9ef-56564c51df03",
+        "131dc470-0e9f-4c9a-b48f-215dffe89d06",
+        "ab067a64-3b98-49c4-9ddc-ab9641706471"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "d84e129f-bbb6-45cd-92d9-de48eebb876a",
+      "dutyDetail": "Build strong, collaborative partnerships with internal and external stakeholders to champion high‑quality social care and deliver better outcomes across the wider care and health system.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1",
+        "b71adad3-98a9-44fa-bb4a-1bd5617a2445"
+      ],
+      "mappedKnowledge": [
+        "1ea5bf25-1466-461b-a8b4-6410317c3332",
+        "b93df712-c52f-40ea-b693-383e020a01ed",
+        "a48ecace-7c42-43db-be79-603e71c3f52c",
+        "0668a1e8-72b4-416a-9508-383fd1789f39"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e2557873-e385-4821-a1d7-f14f08cfd1df",
+        "a1c210fc-eb09-4c9e-bcd2-9096c624115a",
+        "dcdae29b-dcfb-4108-a284-f59ad6a9b155",
+        "462e556c-ca4f-433f-9410-f71e84a6a3a3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "93ebb64a-d06e-4c0b-ad78-795485f23a82",
+      "dutyDetail": "Set and communicate a clear strategic vision that aligns team purpose, strengthens service direction and ensures everyone understands their contribution to shared goals.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1"
+      ],
+      "mappedKnowledge": [
+        "025e4ff9-4ee1-4735-99b4-849479c85170",
+        "512132e2-21d2-452c-8c6c-ee71338e0de7",
+        "1ea5bf25-1466-461b-a8b4-6410317c3332",
+        "b93df712-c52f-40ea-b693-383e020a01ed",
+        "a48ecace-7c42-43db-be79-603e71c3f52c",
+        "3068caf3-d311-428d-892a-0b8ccd5a99d4",
+        "3eae55ef-b232-4677-9c6b-285810d2b495"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13488a90-d324-4aae-9019-14c8d6bbce1e",
+        "800e722e-3681-4c24-b532-6bddcd26ac73",
+        "e2557873-e385-4821-a1d7-f14f08cfd1df",
+        "a1c210fc-eb09-4c9e-bcd2-9096c624115a",
+        "dcdae29b-dcfb-4108-a284-f59ad6a9b155",
+        "eae92147-8d75-41a7-9caf-636e119cb0bc",
+        "5cf4ae73-b927-4c41-98e1-e46040bad76d"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fc74ac75-8549-45bf-9426-7d875889917f",
+      "dutyDetail": "Lead effective financial planning, budget management and resource allocation to ensure operational sustainability and alignment with strategic priorities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1"
+      ],
+      "mappedKnowledge": [
+        "025e4ff9-4ee1-4735-99b4-849479c85170",
+        "f272f47c-6ec2-4bb9-9d22-2e19d352275e",
+        "3068caf3-d311-428d-892a-0b8ccd5a99d4",
+        "89df0865-25f6-4410-9728-26b458b9e429"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13488a90-d324-4aae-9019-14c8d6bbce1e",
+        "af3a1810-f02a-46e2-be0f-f40dd0ee3bd6",
+        "eae92147-8d75-41a7-9caf-636e119cb0bc",
+        "cfd3640b-6b21-4b00-a9bb-d9db5a74066e"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "1a041ec6-2a68-4909-8f1c-7f207ce3da3c",
+      "dutyDetail": "Embed sustainable and environmentally responsible practices across service delivery, resource planning and organisational culture.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1",
+        "b71adad3-98a9-44fa-bb4a-1bd5617a2445"
+      ],
+      "mappedKnowledge": [
+        "025e4ff9-4ee1-4735-99b4-849479c85170",
+        "53995d9a-99de-434b-b9b4-729d5eaf7c12",
+        "b93df712-c52f-40ea-b693-383e020a01ed",
+        "89df0865-25f6-4410-9728-26b458b9e429",
+        "6ee21508-d1e2-4605-9420-2d92185f835e",
+        "58767c7b-adc9-465a-b3db-de5ac1816ff3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13488a90-d324-4aae-9019-14c8d6bbce1e",
+        "fc1c0d6e-5364-4303-b893-0d5ba96c02f9",
+        "a1c210fc-eb09-4c9e-bcd2-9096c624115a",
+        "cfd3640b-6b21-4b00-a9bb-d9db5a74066e",
+        "ab067a64-3b98-49c4-9ddc-ab9641706471",
+        "9d35e7d7-1383-4406-98b7-78e31cc992d9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "104f1a91-dfbc-4267-8510-965603b37d75",
+      "dutyDetail": "Promote a compassionate, equitable and inclusive culture that values diversity and enhances the wellbeing of people drawing on care, staff and wider communities.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1",
+        "df3bf130-abe8-468b-9847-98da3631cc5c",
+        "b71adad3-98a9-44fa-bb4a-1bd5617a2445"
+      ],
+      "mappedKnowledge": [
+        "025e4ff9-4ee1-4735-99b4-849479c85170",
+        "f272f47c-6ec2-4bb9-9d22-2e19d352275e",
+        "512132e2-21d2-452c-8c6c-ee71338e0de7",
+        "53995d9a-99de-434b-b9b4-729d5eaf7c12",
+        "b93df712-c52f-40ea-b693-383e020a01ed",
+        "a48ecace-7c42-43db-be79-603e71c3f52c",
+        "0668a1e8-72b4-416a-9508-383fd1789f39"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13488a90-d324-4aae-9019-14c8d6bbce1e",
+        "af3a1810-f02a-46e2-be0f-f40dd0ee3bd6",
+        "800e722e-3681-4c24-b532-6bddcd26ac73",
+        "fc1c0d6e-5364-4303-b893-0d5ba96c02f9",
+        "a1c210fc-eb09-4c9e-bcd2-9096c624115a",
+        "dcdae29b-dcfb-4108-a284-f59ad6a9b155",
+        "462e556c-ca4f-433f-9410-f71e84a6a3a3"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "f21c2f99-a1b3-419e-89b3-589c98eeef2d",
+      "dutyDetail": "Drive organisational change using recognised models and engagement strategies, preparing and influencing stakeholders through transitions and improvements.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1",
+        "febb28f7-fa9f-48b4-99d6-23e83bf80a3c"
+      ],
+      "mappedKnowledge": [
+        "025e4ff9-4ee1-4735-99b4-849479c85170",
+        "a48ecace-7c42-43db-be79-603e71c3f52c",
+        "3eae55ef-b232-4677-9c6b-285810d2b495",
+        "0668a1e8-72b4-416a-9508-383fd1789f39",
+        "58767c7b-adc9-465a-b3db-de5ac1816ff3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13488a90-d324-4aae-9019-14c8d6bbce1e",
+        "dcdae29b-dcfb-4108-a284-f59ad6a9b155",
+        "5cf4ae73-b927-4c41-98e1-e46040bad76d",
+        "462e556c-ca4f-433f-9410-f71e84a6a3a3",
+        "9d35e7d7-1383-4406-98b7-78e31cc992d9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c36e468b-e7bb-41e5-ac67-c5c62ae9f89e",
+      "dutyDetail": "Take  responsibility  for continuous personal and professional development through self‑reflection, feedback and evidence informed learning to strengthen leadership and improve outcomes. ",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1",
+        "4bfff161-12ad-4e60-b3a7-e9ce2cdbfd08"
+      ],
+      "mappedKnowledge": [
+        "b0a53027-a1b1-4528-8d81-4f570ed2d9cd"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "cf0634ae-9d69-4da4-b932-b2c71e11a2a6"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ed18249d-ec3e-464a-90a7-cc8a12ef5ce8",
+      "dutyDetail": "Critically apply leadership, management and adult care theories to inform sound decision‑making and enhance service effectiveness.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1"
+      ],
+      "mappedKnowledge": [
+        "025e4ff9-4ee1-4735-99b4-849479c85170",
+        "512132e2-21d2-452c-8c6c-ee71338e0de7",
+        "1ea5bf25-1466-461b-a8b4-6410317c3332",
+        "f14d7103-606c-4aef-8b2f-694932e5fd47",
+        "3068caf3-d311-428d-892a-0b8ccd5a99d4",
+        "58767c7b-adc9-465a-b3db-de5ac1816ff3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "13488a90-d324-4aae-9019-14c8d6bbce1e",
+        "800e722e-3681-4c24-b532-6bddcd26ac73",
+        "e2557873-e385-4821-a1d7-f14f08cfd1df",
+        "9fb66c6d-1867-437f-bbd9-86edee0659f1",
+        "eae92147-8d75-41a7-9caf-636e119cb0bc",
+        "9d35e7d7-1383-4406-98b7-78e31cc992d9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "bfe88753-295c-4be9-a79c-23c5d0223689",
+      "dutyDetail": "Ensure full regulatory compliance through strong governance systems, quality assurance processes, accurate documentation, and active preparation for inspections and audits.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "7181258f-6fca-4e71-bcd4-a954ea1aeec1"
+      ],
+      "mappedKnowledge": [
+        "1ea5bf25-1466-461b-a8b4-6410317c3332",
+        "f14d7103-606c-4aef-8b2f-694932e5fd47",
+        "2141aa10-716b-487c-880b-7d4fc3cd5f3c",
+        "fd241a6c-d0b6-4f22-b68b-54166648a3e7",
+        "a8ab3e2b-12cf-4574-ba4e-54dc21eeb7de",
+        "ed918f9b-21e8-41c9-84a7-5aa4911f0ca5",
+        "6ee21508-d1e2-4605-9420-2d92185f835e",
+        "58767c7b-adc9-465a-b3db-de5ac1816ff3"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "e2557873-e385-4821-a1d7-f14f08cfd1df",
+        "766ba1bf-b92c-498d-99bf-9448cfe40968",
+        "0fb957bf-fbc0-4c25-b9ef-56564c51df03",
+        "72bce396-fda2-4bf1-b0cc-9cce83181198",
+        "b0ae469c-5075-4c45-9e30-feb83f521a32",
+        "ab067a64-3b98-49c4-9ddc-ab9641706471",
+        "9d35e7d7-1383-4406-98b7-78e31cc992d9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-11-06T00:00:00"
+}
