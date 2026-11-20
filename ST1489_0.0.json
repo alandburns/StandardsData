@@ -1,0 +1,750 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 0,
+  "referenceNumber": "ST1489",
+  "learningAimClassCode": "",
+  "title": "Emergency gas responder",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST1489",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "",
+  "changedDate": "2026-11-19T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Respond to gas escapes and carbon monoxide incidents to safeguard life and property.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 18,
+  "minimumHoursForCompliance": "",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "Emergency Gas Responder",
+    "Gas industry",
+    "Cooking",
+    "Heating",
+    "Natural Gas"
+  ],
+  "jobRoles": [
+    "Gas first call operative",
+    "Operational response engineer"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1489?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "0.0",
+  "standardInformation": "",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the gas industry. The gas network in Britain is made up of over 300,000 kilometres of pressurised pipes. These pipes transport natural gas from where it is extracted or stored to homes and businesses where it is used mainly for cooking, heating and manufacturing processes. Employees in this occupation will work for a distribution network operator who delivers gas to customers in their local area, or one of their contractors. &lt;br&gt;&lt;br&gt;The broad purpose of the occupation is to provide a first response for gas emergencies and gas escapes, either from natural gas, other fuel sources or carbon monoxide incidents, both inside and outside of customers’ properties. Natural gas is a hazardous substance so if a gas escape is suspected, employees in this occupation work with other emergency services and craft or tradespersons to safeguard life and property. They carry out emergency actions, making installations safe or carrying out repairs to pipework and meters to quickly restore a safe gas supply to homes and businesses where required. Gas emergency response craftspersons are required to have a driving licence and usually have working patterns covering 24 hours a day, 365 days a year so they can travel to emergencies as they occur. To carry out work on gas equipment the Emergency response craftsperson is required to become a member of a class of persons approved by the Health and Safety Executive to carry out gas work, which currently requires them to be registered with Gas Safe™. &lt;br&gt;&lt;br&gt;In their daily work, an employee in this occupation interacts with colleagues, members of the public, business owners, other craft and tradespersons and emergency service personnel to provide safety instructions and information, organise a response to the emergency and provide any follow up actions needed to return the area to normal operation. They typically report to a supervisor or line manager. &lt;br&gt;&lt;br&gt;An employee in this occupation will be responsible for working within the terms of their licence and following procedures to ensure the safety of themselves, their colleagues and others that are affected by gas emergencies. They must work to industry safety requirements and complete tasks within tight timescales. They usually work alone whilst on site, within a wider team of engineers and are responsible for ensuring their tools and equipment are maintained and stored in accordance with requirements.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "ae9db26d-5b7b-41c0-995c-676a97f13c66",
+      "detail": "The gas industry, organisations, customers and customer requirements, industry stakeholders and regulators. Health and Safety Executive."
+    },
+    {
+      "knowledgeId": "26a2f61a-b2fd-492e-b7dd-764197cbbe55",
+      "detail": "Gas emergency response role, responsibilities and limits of autonomy, including escalation procedures and coordination with other stakeholders, such as control centres, emergency services and other business functions."
+    },
+    {
+      "knowledgeId": "4c3a35f8-5567-4333-9a8a-151c1a94c17a",
+      "detail": "Work planning and time management techniques."
+    },
+    {
+      "knowledgeId": "82c5f84e-3f25-43ec-a20f-22216c487240",
+      "detail": "Awareness of health and safety regulations relevant to the gas emergency responder's responsibilities: Electricity at Work Regulations. Health and Safety at Work Act - own and employer's responsibilities. Managing Health and Safety at Work Regulations Provision and use of Work Equipment Regulations (PUWER). Lifting Operations and Lifting Equipment Regulations (LOLER). Dangerous Substances Explosive Atmospheres Regulations (DSEAR), Atmosphère Explosibles (ATEX) Directives. Working at Height Regulations. Confined spaces Regulations. Control of Substances Hazardous to Health (COSHH). Reporting of Injuries, Diseases and Dangerous Occurrence Regulations (RIDDOR). Noise at work regulations. Control of Asbestos regulations. Manual Handling Operations Regulations. Display Screen Equipment. Fire regulations. Pressure Systems Safety Regulations. Building Regulations. Construction Design and Management (CDM) Regulations. Control of Vibration at Work Regulations. Health and Safety (First-Aid) Regulations."
+    },
+    {
+      "knowledgeId": "0e282d89-d748-4e22-8224-9ed1e7c53920",
+      "detail": "Purpose, selection and safe use of personal Protective Equipment (PPE) and gas detection equipment: including their limitations, pre and post use checks, maintenance and storage."
+    },
+    {
+      "knowledgeId": "062b0a30-062e-4415-9cac-34a4fd3fb425",
+      "detail": "The Gas Safety (Installation and Use) Regulations."
+    },
+    {
+      "knowledgeId": "3d17ac31-1731-4ec7-833b-6ae615ae4962",
+      "detail": "The Gas Safety (Management) Regulations."
+    },
+    {
+      "knowledgeId": "f54904ed-013a-49b5-bca4-fecd4e7a0783",
+      "detail": "New Roads and Streetworks Act and the requirements for signing, lighting and guarding."
+    },
+    {
+      "knowledgeId": "ae41b563-e9c7-4b35-83d9-ba743ea71dff",
+      "detail": "Health and safety procedures and safe systems of work."
+    },
+    {
+      "knowledgeId": "581dd093-9ecb-4f12-bd5e-c4ead51bebf8",
+      "detail": "Risk assessments, risk management techniques and approaches, the hierarchy of control. Method statements."
+    },
+    {
+      "knowledgeId": "4ffb50a1-cd43-4919-b83f-2a9b394036a6",
+      "detail": "Lone working procedures."
+    },
+    {
+      "knowledgeId": "306309e4-012e-4931-a7d8-25e4fe347ffd",
+      "detail": "Environmental and sustainability principles, regulations and guidance. Environmental hazards that can arise from gas emergency response. Circular economy and re-use of materials and components. Recycling and waste management requirements. "
+    },
+    {
+      "knowledgeId": "ea26cc44-994f-4a59-ad1e-509a80795580",
+      "detail": "Alternative fuel sources, green technologies and future energy sources."
+    },
+    {
+      "knowledgeId": "069a4e13-db8f-4ef7-8243-41d889b530dc",
+      "detail": "Purpose, selection and use of hand tools, power tools and test meters. Pre and post use check, storage and maintenance requirements."
+    },
+    {
+      "knowledgeId": "10850256-3b72-4dcf-a627-89be1f5c22c7",
+      "detail": "Selection and use of approved parts and materials and compatibility. Quarantine procedures for faulty, damaged or obsolete equipment."
+    },
+    {
+      "knowledgeId": "7aadb533-1bc0-4b58-a52d-5bc02aa087e5",
+      "detail": "Awareness of engineering technical specifications, standards diagrams and instructions relevant to role and organisation. What they are and how to use them."
+    },
+    {
+      "knowledgeId": "0791af33-c4c3-4c8d-9b47-11fce3f1354d",
+      "detail": "Manufacturer's installation and site requirements. Ventilation requirements, chimney and flue types."
+    },
+    {
+      "knowledgeId": "0a5b130a-3236-452b-9e17-8b8f14da12f5",
+      "detail": "Standard Operating Procedures – what they are and why they are important."
+    },
+    {
+      "knowledgeId": "c9331300-9036-4ee1-ab80-d5fb3126e089",
+      "detail": "Maps and plans, paper and digital: what they are and how to use them."
+    },
+    {
+      "knowledgeId": "b553acd1-ae3a-4b40-9d7e-ac036ff2c2a3",
+      "detail": "Combustion theories, products and characteristics of combustion and combustion analysis, gas properties, carbon monoxide and types of burners. Natural gas, blended, hydrogen LPG and LNG."
+    },
+    {
+      "knowledgeId": "626cb2ac-e0fa-40fa-b04a-abdd26a9bbfd",
+      "detail": "Mathematical and scientific principles: pressure, area, volume, flow rates."
+    },
+    {
+      "knowledgeId": "1ab0cb20-2438-4546-aa34-5fe744645e76",
+      "detail": "Domestic gas appliances and how they work, including cooking appliances, space heaters, boilers. Flueing and ventilation systems."
+    },
+    {
+      "knowledgeId": "4139ce1f-438e-487a-8613-63422398dce3",
+      "detail": "How to detect and respond to an unsafe atmosphere."
+    },
+    {
+      "knowledgeId": "453403c1-7311-45df-b1d5-b8fcb8386e52",
+      "detail": "Signs, symptoms and sources of suspected carbon monoxide poisoning."
+    },
+    {
+      "knowledgeId": "c95fb903-7a50-4683-93be-0fd8b26a0a56",
+      "detail": "Downstream gas emergency actions and unsafe situations procedures. Use of notices and warning labels. "
+    },
+    {
+      "knowledgeId": "08e91c00-402e-4f86-926b-ab7b73960b30",
+      "detail": "Upstream pipeline gas emergency management procedures."
+    },
+    {
+      "knowledgeId": "576055ff-5460-44a7-91ff-72212796cf1f",
+      "detail": "Safe isolation procedures for electricity and gas. Operation, positioning and exchange of Emergency Control Valves (ECV)."
+    },
+    {
+      "knowledgeId": "9ccce6de-6d61-4218-b03c-072e57c3067d",
+      "detail": "Internal and external cable detection, underground and above ground plant and avoidance methods."
+    },
+    {
+      "knowledgeId": "d9678743-e537-4fdc-ab35-e568494287f7",
+      "detail": "Installation, commissioning and decommissioning techniques and approaches for pipework, fittings and meters. Methods for making redundant supplies safe."
+    },
+    {
+      "knowledgeId": "620c81e0-91cc-4f0d-92cc-2dc73a354a7f",
+      "detail": "Testing and purging techniques for domestic appliances and pipework, including: cooking appliances, gas fires, heating systems and ducted air."
+    },
+    {
+      "knowledgeId": "8093748e-d238-4600-ba51-ff9b13684ee0",
+      "detail": "How to record and interpret test data and equipment operating parameters for upstream and downstream gas equipment. Including working pressure, standing pressure, escape and let-by."
+    },
+    {
+      "knowledgeId": "e260275c-a6b7-4dd9-a8cc-70facd71cbaf",
+      "detail": "Problem solving, fault finding and diagnostic techniques."
+    },
+    {
+      "knowledgeId": "926fdca1-2f4c-45a3-8bf7-ef1b939162f4",
+      "detail": "Verbal communication and customer care policies and techniques."
+    },
+    {
+      "knowledgeId": "b8d244e4-621c-4e3e-b5d5-83deb0cd8c00",
+      "detail": "Written communication and documentation: methods and requirements -electronic and paper. Including job sheets, safety inspection sheets, safety notices and advice, reporting of near misses."
+    },
+    {
+      "knowledgeId": "07103c5e-eb19-4614-8d4d-ce9a5e9df9bb",
+      "detail": "Teamworking principles."
+    },
+    {
+      "knowledgeId": "0f581ce1-f2a3-4f4f-a476-293b783906cb",
+      "detail": "Equity, diversity, and inclusion in the workplace."
+    },
+    {
+      "knowledgeId": "caf40922-ffd1-461a-916e-e34e638bf923",
+      "detail": "Ethical principles and issues within gas engineering."
+    },
+    {
+      "knowledgeId": "7c2cbfa7-c2b0-497b-b71c-6d58f73fe299",
+      "detail": "How to use information technology and digital applications, for example: email, word processing and spreadsheets, virtual communication and collaboration. General Data Protection Regulation (GDPR) and Cyber security requirements and policies."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "877e95b9-edc7-453f-b156-a6f92907b2d1",
+      "detail": "Prioritises health, safety and welfare."
+    },
+    {
+      "behaviourId": "1be3dbda-f760-44d4-9467-b0db8a467764",
+      "detail": "Considers the environment and sustainability."
+    },
+    {
+      "behaviourId": "4a7978a4-3d48-487f-80c2-af911b9f8d29",
+      "detail": "Responds and adapts to work demands and situations."
+    },
+    {
+      "behaviourId": "d78c71de-e9f6-4ae9-8dd1-ae213b37e475",
+      "detail": "Acts and presents self professionally."
+    },
+    {
+      "behaviourId": "483a483a-0ad5-4e57-9ea9-6325d1bbf518",
+      "detail": "Takes responsibility for quality of work."
+    },
+    {
+      "behaviourId": "b19b0e72-5ac9-4130-8f91-701fbd147f21",
+      "detail": "Collaborate with others for example, within teams, across disciplines, and external stakeholders, promoting inclusion."
+    },
+    {
+      "behaviourId": "4ae1fb43-0e4e-42ad-a35b-d7300027cab5",
+      "detail": "Committed to continuous professional development in order to maintain and enhance competence."
+    },
+    {
+      "behaviourId": "f7fccc2b-2a28-41e3-8516-a4acd02fd6c2",
+      "detail": "Acts ethically."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "ef3f4748-3768-4615-83cc-c3f6ef69bc11",
+      "detail": "Recognise the limits of own capability and responsibility and take prompt and appropriate action to escalate issues beyond them, in line with procedures."
+    },
+    {
+      "skillId": "a15ed0e0-5f93-4762-abb7-3546751f92b7",
+      "detail": "Plan and organise own work."
+    },
+    {
+      "skillId": "d1bd7fb1-767a-4f18-bf0e-f2b175b5600b",
+      "detail": "Comply with health and safety regulations and follow health and safety procedures, risk assessments, method statements and safe systems of work. "
+    },
+    {
+      "skillId": "51cf6f81-f409-429b-919b-5d24356d303a",
+      "detail": "Select, check, use, maintain and store personal protective equipment (PPE) and gas detection equipment."
+    },
+    {
+      "skillId": "18e05365-dc8b-47ea-9ac7-57515e3597f4",
+      "detail": "Check and maintain signing, lighting and guarding."
+    },
+    {
+      "skillId": "22923d69-9b50-42dd-813c-eab976830003",
+      "detail": "Identify hazards and risks in the workplace. Apply the hierarchy of control."
+    },
+    {
+      "skillId": "84dff08e-18d0-49d1-8253-d2533648cc14",
+      "detail": "Apply environmental and sustainability principles and comply with regulations and guidance. Categorise decommissioned equipment or components for reuse, disposal or recycling."
+    },
+    {
+      "skillId": "a11c4442-27aa-4053-818f-a78713265f20",
+      "detail": "Select, check, use and store hand tools, power tools and test meters as required."
+    },
+    {
+      "skillId": "b69c2726-db67-4374-9d5b-1901306b1e49",
+      "detail": "Select and use parts and materials required to complete tasks."
+    },
+    {
+      "skillId": "fb7cdb81-49ad-4598-8b13-77b749f47c06",
+      "detail": "Interpret and apply technical documentation."
+    },
+    {
+      "skillId": "8bce5fdb-87cc-476c-997d-448f5d0e68da",
+      "detail": "Follow Standard Operating Procedures (SOPs)."
+    },
+    {
+      "skillId": "7bb755a3-df2f-4839-9596-e5d55b08877e",
+      "detail": "Use maps and plans."
+    },
+    {
+      "skillId": "969dfb49-15c0-41fb-8ce1-c24c843c8e08",
+      "detail": "Use mathematical and scientific principles as required for work tasks."
+    },
+    {
+      "skillId": "f92d9002-63a3-4b0d-83d1-412bf876f8d5",
+      "detail": "Detect an unsafe atmosphere and respond as required."
+    },
+    {
+      "skillId": "7a465b6f-5525-4ffc-9733-32cf4fdc318f",
+      "detail": "Follow downstream gas emergency actions and procedures for unsafe situations. Use notices warning labels."
+    },
+    {
+      "skillId": "5bd18e51-605a-4c97-9ba6-a6f851a559fd",
+      "detail": "Follow upstream pipeline gas emergency management procedures."
+    },
+    {
+      "skillId": "0f318a65-fb52-4516-87ff-cf356f2a6784",
+      "detail": "Follow safe isolation procedures for electricity and gas. Operate and exchange Emergency Control Valves (ECVs)."
+    },
+    {
+      "skillId": "c60dbac7-1dde-4c29-916d-b1fa6c251a94",
+      "detail": "Use detection and avoidance methods for cables and above and below ground plant."
+    },
+    {
+      "skillId": "04610390-ba5a-4926-8d26-133977c6866c",
+      "detail": "Install, test, purge, commission and decommission gas network assets."
+    },
+    {
+      "skillId": "76972040-caa2-49a5-8472-ad4a730efe11",
+      "detail": "Record and interpret test data and information relevant to the task using paper based or online systems."
+    },
+    {
+      "skillId": "8b230e12-32ee-484b-af31-c7a202dd8aed",
+      "detail": "Apply problem solving, fault finding and diagnostic techniques."
+    },
+    {
+      "skillId": "f26b88ea-e622-4a8c-9805-7f71a16ffdcd",
+      "detail": "Restore the work area and replenish supplies on completion of the activity."
+    },
+    {
+      "skillId": "2643b8d3-2b97-44af-bb96-8ee219ad0c0b",
+      "detail": "Communicate with others verbally, adapting to meet audience and situation, for example, customers, colleagues, managers or the general public to provide information and advice."
+    },
+    {
+      "skillId": "a32ceb48-8eb1-4484-9971-131280ea81c9",
+      "detail": "Use written communication and complete work documentation."
+    },
+    {
+      "skillId": "b2a8712c-fb00-493e-997e-5972f5e7e7af",
+      "detail": "Apply teamworking principles."
+    },
+    {
+      "skillId": "2dde5301-5e75-4ef1-be06-a889c249ddcf",
+      "detail": "Follow equity, diversity and inclusion policies and procedures."
+    },
+    {
+      "skillId": "21699829-4198-4d6c-bf2d-e8449d7e76c7",
+      "detail": "Uphold ethical principles."
+    },
+    {
+      "skillId": "88beed25-d315-4f15-b55a-10cdd9638fef",
+      "detail": "Carry out and record learning and development activities."
+    },
+    {
+      "skillId": "3502b780-486e-4236-8d5f-3fd625aab3fd",
+      "detail": "Use information technology and digital applications to complete work tasks. Comply with GDPR and cyber security regulations and policies."
+    }
+  ],
+  "optionsUnstructuredTemplate": [],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual is the intended EQA provider",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0003",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Cadent Gas, Energy and Environment Awards, Energy and Utility Skills, National Gas, Northern Gas Networks, Scotia Gas Network, Wales and West Utilities",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": false,
+  "typicalJobTitles": [
+    "Gas first call operative",
+    "Operational response engineer"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Service, repair and/or overhaul operative or technician",
+  "clusterId": "19",
+  "clusterDescription": "Install, maintain and service plant and equipment",
+  "createdDate": "2026-11-19T15:16:15 +00:00",
+  "lastUpdated": "2026-11-19T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": null,
+  "banners": "",
+  "occupationCode": "",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1489?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st1489",
+  "qualifications": [
+    {
+      "qualificationId": "1eae6c76-dffd-460d-99f8-37df73314622",
+      "title": "Matters of Gas Safety competency assessment for the following criteria: CESP1, MET4, REGT1 and TCP1A to meet the requirements of the practical assessment.",
+      "level": "2",
+      "anyAdditionalInformation": "",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": []
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Gas Engineers and Managers (TBC)",
+      "level": "EngTech (TBC)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    },
+    {
+      "bodyName": "Institution of Engineering and Technology (IET) ",
+      "level": "EngTech (TBC)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "9560b847-dfe4-433c-a6fb-499715e7d234",
+      "dutyDetail": "Respond to gas emergencies to safeguard life, property and the environment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "877e95b9-edc7-453f-b156-a6f92907b2d1",
+        "4a7978a4-3d48-487f-80c2-af911b9f8d29",
+        "d78c71de-e9f6-4ae9-8dd1-ae213b37e475",
+        "b19b0e72-5ac9-4130-8f91-701fbd147f21",
+        "4ae1fb43-0e4e-42ad-a35b-d7300027cab5",
+        "f7fccc2b-2a28-41e3-8516-a4acd02fd6c2"
+      ],
+      "mappedKnowledge": [
+        "ae9db26d-5b7b-41c0-995c-676a97f13c66",
+        "26a2f61a-b2fd-492e-b7dd-764197cbbe55",
+        "4c3a35f8-5567-4333-9a8a-151c1a94c17a",
+        "82c5f84e-3f25-43ec-a20f-22216c487240",
+        "0e282d89-d748-4e22-8224-9ed1e7c53920",
+        "f54904ed-013a-49b5-bca4-fecd4e7a0783",
+        "ae41b563-e9c7-4b35-83d9-ba743ea71dff",
+        "581dd093-9ecb-4f12-bd5e-c4ead51bebf8",
+        "4ffb50a1-cd43-4919-b83f-2a9b394036a6",
+        "0a5b130a-3236-452b-9e17-8b8f14da12f5",
+        "b553acd1-ae3a-4b40-9d7e-ac036ff2c2a3",
+        "1ab0cb20-2438-4546-aa34-5fe744645e76",
+        "4139ce1f-438e-487a-8613-63422398dce3",
+        "453403c1-7311-45df-b1d5-b8fcb8386e52",
+        "c95fb903-7a50-4683-93be-0fd8b26a0a56",
+        "08e91c00-402e-4f86-926b-ab7b73960b30",
+        "576055ff-5460-44a7-91ff-72212796cf1f",
+        "9ccce6de-6d61-4218-b03c-072e57c3067d",
+        "0f581ce1-f2a3-4f4f-a476-293b783906cb",
+        "caf40922-ffd1-461a-916e-e34e638bf923"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef3f4748-3768-4615-83cc-c3f6ef69bc11",
+        "a15ed0e0-5f93-4762-abb7-3546751f92b7",
+        "d1bd7fb1-767a-4f18-bf0e-f2b175b5600b",
+        "51cf6f81-f409-429b-919b-5d24356d303a",
+        "18e05365-dc8b-47ea-9ac7-57515e3597f4",
+        "22923d69-9b50-42dd-813c-eab976830003",
+        "8bce5fdb-87cc-476c-997d-448f5d0e68da",
+        "7bb755a3-df2f-4839-9596-e5d55b08877e",
+        "7a465b6f-5525-4ffc-9733-32cf4fdc318f",
+        "5bd18e51-605a-4c97-9ba6-a6f851a559fd",
+        "b2a8712c-fb00-493e-997e-5972f5e7e7af",
+        "2dde5301-5e75-4ef1-be06-a889c249ddcf",
+        "21699829-4198-4d6c-bf2d-e8449d7e76c7",
+        "88beed25-d315-4f15-b55a-10cdd9638fef"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "a862b37b-6c35-4986-906e-23f47cb136b1",
+      "dutyDetail": "Provide advice, support and instruction to the emergency services, crafts persons and members of the public.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "d78c71de-e9f6-4ae9-8dd1-ae213b37e475",
+        "b19b0e72-5ac9-4130-8f91-701fbd147f21",
+        "4ae1fb43-0e4e-42ad-a35b-d7300027cab5",
+        "f7fccc2b-2a28-41e3-8516-a4acd02fd6c2"
+      ],
+      "mappedKnowledge": [
+        "ae9db26d-5b7b-41c0-995c-676a97f13c66",
+        "26a2f61a-b2fd-492e-b7dd-764197cbbe55",
+        "ea26cc44-994f-4a59-ad1e-509a80795580",
+        "1ab0cb20-2438-4546-aa34-5fe744645e76",
+        "453403c1-7311-45df-b1d5-b8fcb8386e52",
+        "926fdca1-2f4c-45a3-8bf7-ef1b939162f4",
+        "b8d244e4-621c-4e3e-b5d5-83deb0cd8c00",
+        "07103c5e-eb19-4614-8d4d-ce9a5e9df9bb",
+        "0f581ce1-f2a3-4f4f-a476-293b783906cb",
+        "caf40922-ffd1-461a-916e-e34e638bf923",
+        "7c2cbfa7-c2b0-497b-b71c-6d58f73fe299"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef3f4748-3768-4615-83cc-c3f6ef69bc11",
+        "2643b8d3-2b97-44af-bb96-8ee219ad0c0b",
+        "a32ceb48-8eb1-4484-9971-131280ea81c9",
+        "b2a8712c-fb00-493e-997e-5972f5e7e7af",
+        "2dde5301-5e75-4ef1-be06-a889c249ddcf",
+        "21699829-4198-4d6c-bf2d-e8449d7e76c7",
+        "3502b780-486e-4236-8d5f-3fd625aab3fd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "fe42b6f9-a89e-430c-b071-193180344bf4",
+      "dutyDetail": "Investigate emergency situations to determine the cause and identify necessary actions.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "877e95b9-edc7-453f-b156-a6f92907b2d1",
+        "4a7978a4-3d48-487f-80c2-af911b9f8d29",
+        "d78c71de-e9f6-4ae9-8dd1-ae213b37e475",
+        "483a483a-0ad5-4e57-9ea9-6325d1bbf518",
+        "b19b0e72-5ac9-4130-8f91-701fbd147f21",
+        "4ae1fb43-0e4e-42ad-a35b-d7300027cab5",
+        "f7fccc2b-2a28-41e3-8516-a4acd02fd6c2"
+      ],
+      "mappedKnowledge": [
+        "ae9db26d-5b7b-41c0-995c-676a97f13c66",
+        "26a2f61a-b2fd-492e-b7dd-764197cbbe55",
+        "4c3a35f8-5567-4333-9a8a-151c1a94c17a",
+        "82c5f84e-3f25-43ec-a20f-22216c487240",
+        "ae41b563-e9c7-4b35-83d9-ba743ea71dff",
+        "581dd093-9ecb-4f12-bd5e-c4ead51bebf8",
+        "4ffb50a1-cd43-4919-b83f-2a9b394036a6",
+        "069a4e13-db8f-4ef7-8243-41d889b530dc",
+        "c9331300-9036-4ee1-ab80-d5fb3126e089",
+        "4139ce1f-438e-487a-8613-63422398dce3",
+        "576055ff-5460-44a7-91ff-72212796cf1f",
+        "8093748e-d238-4600-ba51-ff9b13684ee0",
+        "e260275c-a6b7-4dd9-a8cc-70facd71cbaf",
+        "07103c5e-eb19-4614-8d4d-ce9a5e9df9bb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef3f4748-3768-4615-83cc-c3f6ef69bc11",
+        "a15ed0e0-5f93-4762-abb7-3546751f92b7",
+        "d1bd7fb1-767a-4f18-bf0e-f2b175b5600b",
+        "51cf6f81-f409-429b-919b-5d24356d303a",
+        "22923d69-9b50-42dd-813c-eab976830003",
+        "a11c4442-27aa-4053-818f-a78713265f20",
+        "8bce5fdb-87cc-476c-997d-448f5d0e68da",
+        "7bb755a3-df2f-4839-9596-e5d55b08877e",
+        "969dfb49-15c0-41fb-8ce1-c24c843c8e08",
+        "f92d9002-63a3-4b0d-83d1-412bf876f8d5",
+        "76972040-caa2-49a5-8472-ad4a730efe11",
+        "8b230e12-32ee-484b-af31-c7a202dd8aed",
+        "b2a8712c-fb00-493e-997e-5972f5e7e7af",
+        "21699829-4198-4d6c-bf2d-e8449d7e76c7",
+        "3502b780-486e-4236-8d5f-3fd625aab3fd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3ca7cc5c-319d-40cc-b44c-1942872d10d1",
+      "dutyDetail": "Follow gas emergency and evacuation procedures.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4a7978a4-3d48-487f-80c2-af911b9f8d29",
+        "4ae1fb43-0e4e-42ad-a35b-d7300027cab5",
+        "f7fccc2b-2a28-41e3-8516-a4acd02fd6c2"
+      ],
+      "mappedKnowledge": [
+        "ae9db26d-5b7b-41c0-995c-676a97f13c66",
+        "26a2f61a-b2fd-492e-b7dd-764197cbbe55",
+        "4c3a35f8-5567-4333-9a8a-151c1a94c17a",
+        "82c5f84e-3f25-43ec-a20f-22216c487240",
+        "0e282d89-d748-4e22-8224-9ed1e7c53920",
+        "ae41b563-e9c7-4b35-83d9-ba743ea71dff",
+        "4ffb50a1-cd43-4919-b83f-2a9b394036a6",
+        "0a5b130a-3236-452b-9e17-8b8f14da12f5",
+        "453403c1-7311-45df-b1d5-b8fcb8386e52",
+        "c95fb903-7a50-4683-93be-0fd8b26a0a56",
+        "08e91c00-402e-4f86-926b-ab7b73960b30",
+        "0f581ce1-f2a3-4f4f-a476-293b783906cb",
+        "caf40922-ffd1-461a-916e-e34e638bf923"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef3f4748-3768-4615-83cc-c3f6ef69bc11",
+        "7a465b6f-5525-4ffc-9733-32cf4fdc318f",
+        "b2a8712c-fb00-493e-997e-5972f5e7e7af",
+        "2dde5301-5e75-4ef1-be06-a889c249ddcf",
+        "21699829-4198-4d6c-bf2d-e8449d7e76c7"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "45b41295-068a-49f4-bbb0-663f1e47612c",
+      "dutyDetail": "Carry out emergency gas work to maintain the gas transportation system and make installations and equipment safe. Organise follow up work.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "877e95b9-edc7-453f-b156-a6f92907b2d1",
+        "1be3dbda-f760-44d4-9467-b0db8a467764",
+        "4a7978a4-3d48-487f-80c2-af911b9f8d29",
+        "d78c71de-e9f6-4ae9-8dd1-ae213b37e475",
+        "483a483a-0ad5-4e57-9ea9-6325d1bbf518",
+        "4ae1fb43-0e4e-42ad-a35b-d7300027cab5",
+        "f7fccc2b-2a28-41e3-8516-a4acd02fd6c2"
+      ],
+      "mappedKnowledge": [
+        "ae9db26d-5b7b-41c0-995c-676a97f13c66",
+        "26a2f61a-b2fd-492e-b7dd-764197cbbe55",
+        "4c3a35f8-5567-4333-9a8a-151c1a94c17a",
+        "82c5f84e-3f25-43ec-a20f-22216c487240",
+        "0e282d89-d748-4e22-8224-9ed1e7c53920",
+        "062b0a30-062e-4415-9cac-34a4fd3fb425",
+        "3d17ac31-1731-4ec7-833b-6ae615ae4962",
+        "ae41b563-e9c7-4b35-83d9-ba743ea71dff",
+        "581dd093-9ecb-4f12-bd5e-c4ead51bebf8",
+        "4ffb50a1-cd43-4919-b83f-2a9b394036a6",
+        "306309e4-012e-4931-a7d8-25e4fe347ffd",
+        "069a4e13-db8f-4ef7-8243-41d889b530dc",
+        "10850256-3b72-4dcf-a627-89be1f5c22c7",
+        "7aadb533-1bc0-4b58-a52d-5bc02aa087e5",
+        "0a5b130a-3236-452b-9e17-8b8f14da12f5",
+        "b553acd1-ae3a-4b40-9d7e-ac036ff2c2a3",
+        "626cb2ac-e0fa-40fa-b04a-abdd26a9bbfd",
+        "1ab0cb20-2438-4546-aa34-5fe744645e76",
+        "576055ff-5460-44a7-91ff-72212796cf1f",
+        "9ccce6de-6d61-4218-b03c-072e57c3067d",
+        "8093748e-d238-4600-ba51-ff9b13684ee0",
+        "e260275c-a6b7-4dd9-a8cc-70facd71cbaf",
+        "926fdca1-2f4c-45a3-8bf7-ef1b939162f4",
+        "07103c5e-eb19-4614-8d4d-ce9a5e9df9bb"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef3f4748-3768-4615-83cc-c3f6ef69bc11",
+        "a15ed0e0-5f93-4762-abb7-3546751f92b7",
+        "d1bd7fb1-767a-4f18-bf0e-f2b175b5600b",
+        "51cf6f81-f409-429b-919b-5d24356d303a",
+        "18e05365-dc8b-47ea-9ac7-57515e3597f4",
+        "22923d69-9b50-42dd-813c-eab976830003",
+        "84dff08e-18d0-49d1-8253-d2533648cc14",
+        "a11c4442-27aa-4053-818f-a78713265f20",
+        "b69c2726-db67-4374-9d5b-1901306b1e49",
+        "fb7cdb81-49ad-4598-8b13-77b749f47c06",
+        "8bce5fdb-87cc-476c-997d-448f5d0e68da",
+        "7bb755a3-df2f-4839-9596-e5d55b08877e",
+        "969dfb49-15c0-41fb-8ce1-c24c843c8e08",
+        "f92d9002-63a3-4b0d-83d1-412bf876f8d5",
+        "0f318a65-fb52-4516-87ff-cf356f2a6784",
+        "c60dbac7-1dde-4c29-916d-b1fa6c251a94",
+        "04610390-ba5a-4926-8d26-133977c6866c",
+        "8b230e12-32ee-484b-af31-c7a202dd8aed",
+        "f26b88ea-e622-4a8c-9805-7f71a16ffdcd",
+        "b2a8712c-fb00-493e-997e-5972f5e7e7af",
+        "2dde5301-5e75-4ef1-be06-a889c249ddcf",
+        "21699829-4198-4d6c-bf2d-e8449d7e76c7",
+        "3502b780-486e-4236-8d5f-3fd625aab3fd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6f6bb0df-8178-4297-bec5-1283856f843e",
+      "dutyDetail": "Report investigation results.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "4ae1fb43-0e4e-42ad-a35b-d7300027cab5"
+      ],
+      "mappedKnowledge": [
+        "ae9db26d-5b7b-41c0-995c-676a97f13c66",
+        "26a2f61a-b2fd-492e-b7dd-764197cbbe55",
+        "926fdca1-2f4c-45a3-8bf7-ef1b939162f4",
+        "b8d244e4-621c-4e3e-b5d5-83deb0cd8c00",
+        "0f581ce1-f2a3-4f4f-a476-293b783906cb",
+        "7c2cbfa7-c2b0-497b-b71c-6d58f73fe299"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef3f4748-3768-4615-83cc-c3f6ef69bc11",
+        "969dfb49-15c0-41fb-8ce1-c24c843c8e08",
+        "76972040-caa2-49a5-8472-ad4a730efe11",
+        "2643b8d3-2b97-44af-bb96-8ee219ad0c0b",
+        "a32ceb48-8eb1-4484-9971-131280ea81c9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b5427b0d-9781-414b-80e6-c40e7de30511",
+      "dutyDetail": "Install and commission new pipework and meters.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "877e95b9-edc7-453f-b156-a6f92907b2d1",
+        "1be3dbda-f760-44d4-9467-b0db8a467764",
+        "4a7978a4-3d48-487f-80c2-af911b9f8d29",
+        "d78c71de-e9f6-4ae9-8dd1-ae213b37e475",
+        "483a483a-0ad5-4e57-9ea9-6325d1bbf518",
+        "4ae1fb43-0e4e-42ad-a35b-d7300027cab5",
+        "f7fccc2b-2a28-41e3-8516-a4acd02fd6c2"
+      ],
+      "mappedKnowledge": [
+        "ae9db26d-5b7b-41c0-995c-676a97f13c66",
+        "26a2f61a-b2fd-492e-b7dd-764197cbbe55",
+        "4c3a35f8-5567-4333-9a8a-151c1a94c17a",
+        "82c5f84e-3f25-43ec-a20f-22216c487240",
+        "0e282d89-d748-4e22-8224-9ed1e7c53920",
+        "062b0a30-062e-4415-9cac-34a4fd3fb425",
+        "3d17ac31-1731-4ec7-833b-6ae615ae4962",
+        "ae41b563-e9c7-4b35-83d9-ba743ea71dff",
+        "581dd093-9ecb-4f12-bd5e-c4ead51bebf8",
+        "4ffb50a1-cd43-4919-b83f-2a9b394036a6",
+        "306309e4-012e-4931-a7d8-25e4fe347ffd",
+        "069a4e13-db8f-4ef7-8243-41d889b530dc",
+        "10850256-3b72-4dcf-a627-89be1f5c22c7",
+        "7aadb533-1bc0-4b58-a52d-5bc02aa087e5",
+        "0791af33-c4c3-4c8d-9b47-11fce3f1354d",
+        "0a5b130a-3236-452b-9e17-8b8f14da12f5",
+        "b553acd1-ae3a-4b40-9d7e-ac036ff2c2a3",
+        "626cb2ac-e0fa-40fa-b04a-abdd26a9bbfd",
+        "d9678743-e537-4fdc-ab35-e568494287f7",
+        "620c81e0-91cc-4f0d-92cc-2dc73a354a7f",
+        "8093748e-d238-4600-ba51-ff9b13684ee0",
+        "e260275c-a6b7-4dd9-a8cc-70facd71cbaf",
+        "b8d244e4-621c-4e3e-b5d5-83deb0cd8c00",
+        "caf40922-ffd1-461a-916e-e34e638bf923"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "ef3f4748-3768-4615-83cc-c3f6ef69bc11",
+        "a15ed0e0-5f93-4762-abb7-3546751f92b7",
+        "d1bd7fb1-767a-4f18-bf0e-f2b175b5600b",
+        "51cf6f81-f409-429b-919b-5d24356d303a",
+        "22923d69-9b50-42dd-813c-eab976830003",
+        "84dff08e-18d0-49d1-8253-d2533648cc14",
+        "a11c4442-27aa-4053-818f-a78713265f20",
+        "b69c2726-db67-4374-9d5b-1901306b1e49",
+        "fb7cdb81-49ad-4598-8b13-77b749f47c06",
+        "8bce5fdb-87cc-476c-997d-448f5d0e68da",
+        "969dfb49-15c0-41fb-8ce1-c24c843c8e08",
+        "f92d9002-63a3-4b0d-83d1-412bf876f8d5",
+        "04610390-ba5a-4926-8d26-133977c6866c",
+        "8b230e12-32ee-484b-af31-c7a202dd8aed",
+        "f26b88ea-e622-4a8c-9805-7f71a16ffdcd",
+        "b2a8712c-fb00-493e-997e-5972f5e7e7af",
+        "21699829-4198-4d6c-bf2d-e8449d7e76c7",
+        "3502b780-486e-4236-8d5f-3fd625aab3fd"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-11-19T00:00:00"
+}
