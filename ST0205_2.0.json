@@ -1,0 +1,1299 @@
+{
+  "templateType": "Occupational Standard",
+  "shortAssessment": true,
+  "larsCode": 57,
+  "referenceNumber": "ST0205",
+  "learningAimClassCode": "",
+  "title": "Gas network craftsperson",
+  "status": "In development",
+  "approvedForDeliveryPausedStarts": null,
+  "url": "https://skillsengland.education.gov.uk/api/apprenticeshipstandards/ST0205",
+  "qualificationStandardUrl": null,
+  "versionNumber": "",
+  "change": "Occupational standard and assessment plan revised.",
+  "changedDate": "2026-11-20T00:00:00",
+  "earliestStartDate": null,
+  "latestStartDate": null,
+  "latestEndDate": null,
+  "overviewOfRole": "Building, maintaining and repairing parts for the country's gas network, to provide a reliable supply of gas to users.",
+  "level": 3,
+  "ePALength": 0,
+  "typicalDuration": 48,
+  "minimumHoursForCompliance": "696",
+  "maxFunding": 0,
+  "maxFundingAdditionalInformation": "",
+  "route": "Engineering and manufacturing",
+  "keywords": [
+    "utilities",
+    "installation",
+    "maintenance",
+    "utility services",
+    "pressure management",
+    "Gas Safe"
+  ],
+  "jobRoles": [
+    "E&I Engineer",
+    "E&I Technician",
+    "Gas Craftsperson",
+    "Network Maintenance Craftsperson",
+    "Pipeline Craftsperson",
+    "Pipeline Engineer",
+    "Pipeline Technician",
+    "Pressure Control Craftsperson",
+    "Pressure Control Operative",
+    "Pressure Control Technician"
+  ],
+  "entryRequirements": "",
+  "assessmentPlanUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0205-in-revision?view=epa",
+  "ssa1": "4 Engineering and Manufacturing Technologies",
+  "ssa2": "4.1 Engineering",
+  "version": "2.0",
+  "standardInformation": "&lt;h3&gt;&lt;strong&gt;Occupational profile&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;The United Kingdom’s gas network consists of approximately 286,000 kilometres (175,00 miles) of pipeline that supplies natural gas from on shore terminals through to 21.5 million gas users.&lt;/p&gt;\n&lt;p&gt;Natural gas is a hazardous substance. The safe operation, control and maintenance of the gas network is essential to avert major loss or interruption to supplies, this includes responding to and managing gas emergency situations to ensure potential safety issues are controlled and remediated without delay. This is the basis of the Gas Network Craftsperson’s occupation.&lt;/p&gt;\n&lt;p&gt;Gas Network Craftsperson’s are employed by organisations authorised to transport gas throughout the United Kingdom. These organisations vary from very large companies who own and operate networks that supply towns and cities across a wide geographical area, through to small companies who own independent networks that supply small housing developments with as few as 3 or 4 properties. They could be directly employed by the organisation that owns and/or manages the gas network or by an organisation that contracts their services to the networks.&lt;/p&gt;\n&lt;p&gt;They work as part of a larger team, which may include planners, designers, supervisors and managers. They are often deployed to site in pairs or alone, dependent on the activity being undertaken. Good communication skills are essential as the may have to interact with the general public, agencies and emergency services on safety related matters and also provide technical advice to other stakeholders. The projects worked on could have values in excess of &#163;250,000.&lt;/p&gt;\n&lt;p&gt;The occupation incorporates 4 specialist roles; the main duties and tasks for each role are as follows:&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Network Maintenance Craftsperson (Electrical &amp;amp; Instrumentation)&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Responsible for maintaining the controls and systems that measure, monitor, analyse and control the performance of the gas network. This forms part of a control system architecture that uses computers, networked data communications and graphical user interfaces for high-level process supervisory management associated with the gas transportation network. This may include the following:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Installing instrumentation and communications technology associated with the control of gas within the gas transportation network&lt;/li&gt;\n&lt;li&gt;Testing and maintaining instrumentation and communications systems associated with the control of gas within the gas transportation network&lt;/li&gt;\n&lt;li&gt;Responding to faults and taking action to restore operating systems&lt;/li&gt;\n&lt;li&gt;Monitoring and reporting on the performance of electrical and instrumentation control systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Network Maintenance Craftsperson (Pressure Management)&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Responsible for maintaining the controls and systems that measure, monitor and analyse pressures and flows within the gas network to ensure the safe and efficient operation of the gas transportation network. This may include the following:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Installing and maintaining equipment that controls flows and pressures within the gas transportation network in accordance with company procedures&lt;/li&gt;\n&lt;li&gt;Responding to faults and taking action to restore systems to full operation&lt;/li&gt;\n&lt;li&gt;Monitoring and reporting on the performance of pressure control systems&lt;/li&gt;\n&lt;li&gt;Undertaking corrosion monitoring of equipment and pipework and provide reports&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Network Pipelines Maintenance Craftsperson&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Responsible for the maintenance and protection of the gas transportation pipelines and associated connecting plant and equipment to ensure the safe operation of pipelines and prevent damage from third parties. These are specialist maintenance services that may include:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Under pressure drilling, flow stopping, fabrication, testing, in-line inspection, re-compression and valve repair to facilitate safe and efficient networks&lt;/li&gt;\n&lt;li&gt;Installing, maintaining, monitoring&amp;nbsp;and reporting on corrosion prevention systems on pressurised gas pipelines&lt;/li&gt;\n&lt;li&gt;Monitoring works adjacent to high pressure pipelines and take action to prevent damage&lt;/li&gt;\n&lt;li&gt;Locating and marking the route of high pressure pipelines&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h4&gt;&lt;strong&gt;Emergency Response Craftsperson&lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Responsible for attending reported gas emergencies to safeguard persons and property. This includes dealing with reported gas escapes both inside and outside of customers’ properties and responding to reports of carbon monoxide leakage. This may include the following:&lt;/p&gt;\n&lt;ul&gt;\n&lt;li&gt;Responding to reports of gas escapes and taking action to safeguard life and property in accordance with company procedures&lt;/li&gt;\n&lt;li&gt;Responding to reports of carbon monoxide and taking action to safeguard life in accordance with company procedures&lt;/li&gt;\n&lt;li&gt;Installing and replacing gas meters&lt;/li&gt;\n&lt;li&gt;Installing, testing and commissioning internal gas pipework&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;On completion of the apprenticeship the Emergency Response Craftsperson will be required to become a member of a class of persons approved by the Health and Safety Executive to carry out gas work, this currently requires them to be registered with Gas Safe&lt;strong&gt;™.&lt;/strong&gt;&lt;/p&gt;\n&lt;h4&gt;&lt;strong&gt;Typical job titles include: &lt;/strong&gt;&lt;/h4&gt;\n&lt;p&gt;Network Technician – Electrical and instrumentation, Network Craftsperson - Electrical and instrumentation, Pressure Control Craftsperson, Pressure Control Technician, Pipelines Technician, Pipelines Craftsperson, First Call Operative – Emergency, First Call engineer – Emergency&lt;/p&gt;\n&lt;p&gt;Apprentices must develop the core knowledge, skills and behaviours and skills for the option specific to their role.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Core Knowledge – Gas Network &lt;/strong&gt;&lt;strong&gt;Craftsperson’s must know&lt;/strong&gt;&lt;strong&gt; and understand:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Company testing and commissioning procedures needed to establish the condition of gas assets, equipment, network infrastructure and the actions needed as a result of the tests. This includes both practical applications and the use of diagnostic techniques and IT systems.&lt;/li&gt;\n&lt;li&gt;The requirements of the Gas Safety (Management) Regulations as relevant to their role, this being supported through company specific procedures involved in the practical installation and maintenance of gas network assets&lt;/li&gt;\n&lt;li&gt;The requirements of Health and safety standards and regulations, and environmental and regulatory requirements, including; The Health and Safety at Work Act Dangerous Substances Explosive Atmospheres Regulations, The ATEX Directives, The Management of Health and Safety regulations, PUWER, Working at Height Regulations, Confined spaces Regulations, COSHH, PPE Regulations, RIDDOR, Noise at work regulations, Control of Asbestos regulations and the Manual Handling Operations Regulations.&lt;/li&gt;\n&lt;li&gt;Company maintenance practices, processes and procedures associated with gas network systems, controls and equipment&lt;/li&gt;\n&lt;li&gt;Gas engineering and mechanical or electric principles and processes that underpin the location, diagnosis and rectification of faults&lt;/li&gt;\n&lt;li&gt;Company policies, procedures and engineering instructions as specified by the employer&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Core Skills – Gas Network Craftsperson’s have the following skills:&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Undertake and document risk assessments in accordance with company procedures&lt;/li&gt;\n&lt;li&gt;Comply with workplace health, safety &amp;amp; environmental practices and regulations, maintaining a safe and secure working environment&lt;/li&gt;\n&lt;li&gt;Follow engineering instructions and company procedures to complete tasks safely and on-time&lt;/li&gt;\n&lt;li&gt;Undertake inspection and examination of network assets in order to maintain the safe and compliant operation of the network to ensure the integrity, safety and security of supply&lt;/li&gt;\n&lt;li&gt;Maintain and/or install gas engineering assets, components and associated equipment&lt;/li&gt;\n&lt;li&gt;Install, test, purge and commission gas network assets&lt;/li&gt;\n&lt;li&gt;Operate powered tools and equipment, such as drills, angle grinders, brush cutters and shot blasting equipment as required for network maintenance operations.&lt;/li&gt;\n&lt;li&gt;Use approved gas detection equipment to ensure safe environment&lt;/li&gt;\n&lt;li&gt;Use Personal Protective Equipment (PPE) and safety equipment in accordance with manufacturer’s instructions and employer policy&lt;/li&gt;\n&lt;li&gt;Obtain and analyse asset condition and performance information to facilitate decision making&lt;/li&gt;\n&lt;li&gt;Identify, organise and use resources effectively to complete tasks, with consideration for cost, quality, safety, security and environmental impact&lt;/li&gt;\n&lt;li&gt;Through risk assessment, minimise risks to life, property and the environment when undertaking work activities&lt;/li&gt;\n&lt;li&gt;Accurately record job information, complete job reports and process&lt;/li&gt;\n&lt;li&gt;Liaise with gas consumers, statutory agencies and members of the public in order to ensure their safety&lt;/li&gt;\n&lt;li&gt;Accurately update company systems with details of work undertaken&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Core Behaviours &lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Display a self-disciplined, self-motivated approach&lt;/li&gt;\n&lt;li&gt;Deliver a polite, courteous professional service to all customers, stakeholders and members of the public as appropriate&lt;/li&gt;\n&lt;li&gt;Demonstrate and apply a safety first approach&lt;/li&gt;\n&lt;li&gt;Accept accountability when undertaking individual and team tasks&lt;/li&gt;\n&lt;li&gt;Follows instruction from appropriate supervision, and makes decisions when required.&lt;/li&gt;\n&lt;li&gt;Quality-focussed and professional in work and in personal standards&lt;/li&gt;\n&lt;li&gt;Recognise personal limitations and seek advice from managers, experts and specialists when required&lt;/li&gt;\n&lt;li&gt;Accepts responsibility for work undertaken&lt;/li&gt;\n&lt;li&gt;Receptive to the needs and concerns of others, especially where related to diversity and equality&lt;/li&gt;\n&lt;li&gt;Committed to carrying out and recording Continued Professional Development necessary to maintain and enhance competence&lt;/li&gt;\n&lt;li&gt;Exercises responsibilities in an ethical manner&lt;/li&gt;\n&lt;li&gt;Interacts with people and approaches work activities in a way that contributes to continuous self improvement&lt;/li&gt;\n&lt;/ul&gt;\n&lt;p&gt;&amp;nbsp;&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Specific Knowledge and Skills Requirements for each Role &lt;/strong&gt;&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;Option1. Network Maintenance Craftsperson (Electrical &amp;amp; Instrumentation)&lt;/strong&gt;&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;Skills Requirements &lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Apply electrical theories and principles and use equipment to carry out diagnostic fault finding procedures&lt;/li&gt;\n&lt;li&gt;Inspect, maintain, repair, overhaul test and calibrate instrumentation and control equipment and circuits in accordance with company procedures&lt;/li&gt;\n&lt;li&gt;Maintain site lighting and fixed and portable equipment which may include generators, batteries and associated equipment&lt;/li&gt;\n&lt;li&gt;Carry out cable testing across a range of voltages to ensure safety and suitability for use&lt;/li&gt;\n&lt;li&gt;Install, maintain and dismantle instruments, controllers, probes, attachments, cabling, meters and display units&lt;/li&gt;\n&lt;li&gt;Configure telemetry outstation and internal systems&lt;/li&gt;\n&lt;li&gt;Identify and resolve data quality and calibration issues&lt;/li&gt;\n&lt;li&gt;Test, calibrate and validate fixed and portable analogue and digital instrumentation using approved procedures and standards&lt;/li&gt;\n&lt;li&gt;Repair, maintain, configure and calibrate field instrumentation, communication devices and associated equipment used in system and process control&lt;/li&gt;\n&lt;li&gt;Use standards and specifications to improve the information gathered by telemetry data&lt;/li&gt;\n&lt;li&gt;Inspect and maintain security equipment, telecommunication devices and alarm systems&lt;/li&gt;\n&lt;li&gt;Carry out isolation procedures to ensure process or system stability and the safety of personnel when carrying out operations&lt;/li&gt;\n&lt;li&gt;Provide support to day-to-day users of instrumentation and control systems&lt;/li&gt;\n&lt;li&gt;Ensure consistent and valid data is available for business and regulation purposes&lt;/li&gt;\n&lt;li&gt;Apply electrical skills to install, maintain and dismantle a wide range of plant, machinery and components&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Knowledge Requirements &lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;The safety processes to be applied when testing for voltages across the range likely to be encountered&lt;/li&gt;\n&lt;li&gt;The permitry requirements when maintaining or configuring telemetry systems or undertaking works that may initiate system alarms&lt;/li&gt;\n&lt;li&gt;Recognise the processes to be followed in order to identify and resolve data quality and calibration issues&lt;/li&gt;\n&lt;li&gt;Understand how to test and calibrate instrumentation and control equipment in accordance with company specific procedures&lt;/li&gt;\n&lt;li&gt;The theories used to maintain, test and calibrate electrical equipment in line with company specific procedures&lt;/li&gt;\n&lt;li&gt;Understand how to safely apply diagnostic fault finding principles to electrical systems&lt;/li&gt;\n&lt;li&gt;Identify relevant, company specific procedures and know how to access such documentation&lt;/li&gt;\n&lt;li&gt;Legislative requirements affecting electrical works and be able to describe how such legislation may affect them&lt;/li&gt;\n&lt;li&gt;The hazards that could be encountered when maintaining both fixed and portable electrical equipment&lt;/li&gt;\n&lt;li&gt;Understand why safe isolation procedures must be followed when carrying out electrical or instrumentation operations&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Option 2. Network Maintenance Craftsperson (Pressure Management)&lt;/strong&gt;&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;Skills Requirements &lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Apply mechanical theories and principles for example thermo dynamics and laminar flow theories, in order to carry out diagnostic fault finding procedures&lt;/li&gt;\n&lt;li&gt;Carry out remote pressure monitoring &amp;amp; control on the gas network&lt;/li&gt;\n&lt;li&gt;Inspect and monitor mechanical systems and equipment in order to ensure safety and suitability for service&lt;/li&gt;\n&lt;li&gt;Undertake corrosion inspection activities&lt;/li&gt;\n&lt;li&gt;Maintain, dismantle and repair mechanical equipment and components&lt;/li&gt;\n&lt;li&gt;Test mechanical equipment and systems to ensure integrity, safety and security of supply&lt;/li&gt;\n&lt;li&gt;Assist in installing mechanical systems and equipment&lt;/li&gt;\n&lt;li&gt;Install, maintain and dismantle a wide range of complex plant, machinery and components including; pressure regulators, safety devices, system protection devices and monitoring equipment.&lt;/li&gt;\n&lt;li&gt;Consult design specifications to analyse and calculate mechanical system parameters and rectification procedures&lt;/li&gt;\n&lt;li&gt;Interpret plans and drawings to install, position or re-locate mechanical equipment and components&lt;/li&gt;\n&lt;li&gt;Test, service and repair mechanical equipment as part of planned preventative maintenance and/or reactive maintenance programmes&lt;/li&gt;\n&lt;li&gt;Install mechanical components including regulators, filters, valves, compressor equipment&lt;/li&gt;\n&lt;li&gt;Maintain mechanical components including regulators, filters, valves, compressor equipment&lt;/li&gt;\n&lt;li&gt;Apply pressure reduction techniques to assist in dealing with gas emergencies&lt;/li&gt;\n&lt;li&gt;Inspect and maintain condition monitoring equipment&lt;/li&gt;\n&lt;li&gt;Locate and avoid underground plant and equipment prior to and whilst undertaking activities&lt;/li&gt;\n&lt;li&gt;Install signing, lighting and guarding systems&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Knowledge Requirements &lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Understand how to apply diagnostic fault finding procedures to pressure control equipment&lt;/li&gt;\n&lt;li&gt;Understand how to operate the systems and processes used for remote pressure monitoring &amp;amp; control of the gas network&lt;/li&gt;\n&lt;li&gt;The permitry requirements when maintaining or configuring pressure control equipment&lt;/li&gt;\n&lt;li&gt;Company specific and legislative requirements for the inspection and monitoring of mechanical pressure control systems and equipment&lt;/li&gt;\n&lt;li&gt;The requirements for corrosion inspection activities in line with the requirements of both the pressure systems safety regulations and pipeline safety regulations&lt;/li&gt;\n&lt;li&gt;The hazards associated with working on systems that contain pressurised gas&lt;/li&gt;\n&lt;li&gt;The security of gas supply implications when undertaking pressure control work operations&lt;/li&gt;\n&lt;li&gt;The implications of the pressure systems safety regulations when assessing the suitability of equipment to be used&lt;/li&gt;\n&lt;li&gt;The safety processes to be followed when planning to access pressure control equipment&lt;/li&gt;\n&lt;li&gt;the New Roads and Street Works Act requirements for the provision of signing, lighting and guarding when working in or adjacent to the public highways&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Option 3. Network Pipelines Maintenance Craftsperson &lt;/strong&gt;&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;Skills Requirements &lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Apply non-destructive testing theories and principles in order to carry out diagnostic fault finding procedures&lt;/li&gt;\n&lt;li&gt;Apply the theories and principles of integrity testing, purging commissioning and de-commission of gas pipelines and associated equipment and components&lt;/li&gt;\n&lt;li&gt;Inspect, monitor, maintain, dismantle, install and repair pipeline systems and equipment for example; flow regulators, safety devices, system protection devices, measurement devices and monitoring equipment.&lt;/li&gt;\n&lt;li&gt;Remove, repair and replace components of gas transportation pipelines and associated equipment&lt;/li&gt;\n&lt;li&gt;Undertake corrosion prevention activities i.e. cathodic protection systems and monitoring, coating and wrapping&lt;/li&gt;\n&lt;li&gt;Take action to prevent third parties causing damage to gas transportation pipeline assets and equipment i.e. tracing, marking, monitoring third party activities and responding to encroachments&lt;/li&gt;\n&lt;li&gt;Liaise with relevant land owners and third parties e.g. statutory agencies and members of the public&lt;/li&gt;\n&lt;li&gt;Consult design specifications to analyse and calculate pipeline system parameters and rectification procedures&lt;/li&gt;\n&lt;li&gt;Interpret plans and drawings to install, position or re-locate pipeline equipment and components&lt;/li&gt;\n&lt;li&gt;Test, service and repair pipeline equipment as part of planned preventative maintenance and/or reactive maintenance programmes&lt;/li&gt;\n&lt;li&gt;Operate specialised tools and equipment for pipeline maintenance operations for example; in line inspection tools, damage assessment, intelligent pigging, valve repairs, flow stopping and under pressure drilling.&lt;/li&gt;\n&lt;li&gt;Locate and avoid underground plant and equipment prior to and whilst undertaking activities&lt;/li&gt;\n&lt;li&gt;Install signing, lighting and guarding systems&lt;/li&gt;\n&lt;li&gt;Liaise with emergency services and other statutory authorities as necessary&lt;/li&gt;\n&lt;li&gt;Organise additional resources to facilitate repairs as required&lt;/li&gt;\n&lt;li&gt;Respond to reported pipeline gas emergencies&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Knowledge Requirements &lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;The health and safety requirements when conducting operations on gas pipeline systems&lt;/li&gt;\n&lt;li&gt;Understand how to test and confirm the suitability and effectiveness of corrosion control measures&lt;/li&gt;\n&lt;li&gt;The requirements for the testing and inspection of pipelines in accordance with the Pipeline safety and Pressure systems safety regulations&lt;/li&gt;\n&lt;li&gt;The permitry requirements when entering or working on gas operational sites&lt;/li&gt;\n&lt;li&gt;The company specific requirements for the inspection of pipeline systems and associated systems and equipment, including the frequency of such inspection&lt;/li&gt;\n&lt;li&gt;The implications of and assessment of damage sustained to pipelines by third party persons&lt;/li&gt;\n&lt;li&gt;The hazards and permitry requirements associated with working on or in proximity of pipelines that contain pressurised gas&lt;/li&gt;\n&lt;li&gt;The implications of the pressure systems safety regulations when assessing the suitability of equipment to be used&lt;/li&gt;\n&lt;li&gt;Understand how to apply company specific procedures when responding to reported pipeline gas emergencies&lt;/li&gt;\n&lt;li&gt;The New Roads and Street Works Act requirements for the provision of signing, lighting and guarding when working in or adjacent to the public highways&lt;strong&gt;&amp;nbsp;&lt;/strong&gt;&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Option 4. Emergency Response Craftsperson&lt;/strong&gt;&lt;/h3&gt;\n&lt;h3&gt;&lt;strong&gt;Skills Requirements&lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;Respond to public reported upstream gas emergencies, including damage to or failure of gas mains and services that supply a consumer’s premise&lt;/li&gt;\n&lt;li&gt;Respond to public reported downstream gas emergencies, including reported gas escapes inside customers properties and reports of carbon monoxide&lt;/li&gt;\n&lt;li&gt;Carry out site investigations in relation to gas emergencies, in line with company procedures&lt;/li&gt;\n&lt;li&gt;Use gas detection equipment to identify gas concentrations&lt;/li&gt;\n&lt;li&gt;Interpret gas readings to determine the safety of the site&lt;/li&gt;\n&lt;li&gt;Apply evacuation procedures where required&lt;/li&gt;\n&lt;li&gt;Apply the industry unsafe situations procedures&lt;/li&gt;\n&lt;li&gt;Install and exchange gas meters and pressure regulators&lt;/li&gt;\n&lt;li&gt;Install domestic pipework&lt;/li&gt;\n&lt;li&gt;Tightness test, purge, commission and de-commission domestic gas pipework&lt;/li&gt;\n&lt;li&gt;Tightness test, purge, commission and de-commission non-domestic gas pipework&lt;/li&gt;\n&lt;li&gt;Locate and avoid underground plant and equipment whilst undertaking activities in the highway&lt;/li&gt;\n&lt;li&gt;Liaise with emergency services and other statutory authorities as necessary&lt;/li&gt;\n&lt;li&gt;Organise additional resources to facilitate repairs as required&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Knowledge Requirements &lt;/strong&gt;&lt;/h3&gt;\n&lt;ul&gt;\n&lt;li&gt;The safety actions to be applied where critical gas level concentrations are encountered when dealing with reported gas emergencies&lt;/li&gt;\n&lt;li&gt;The requirements of the Gas Safety (Management) Regulations when dealing with reported gas emergencies&lt;/li&gt;\n&lt;li&gt;The requirements of the relevant British standards in relation to the safe installation of gas appliances, pipework and meters&lt;/li&gt;\n&lt;li&gt;Understand how to identify gas appliances and installations that are not compliant with industry standards and may be deemed as unsafe&lt;/li&gt;\n&lt;li&gt;Understand how to comply with the requirements of the Gas Industry Unsafe Situations Procedure, including RIDDOR reporting requirements&lt;/li&gt;\n&lt;li&gt;Understand how to recognise the signs and symptoms of suspected carbon monoxide poisoning&lt;/li&gt;\n&lt;li&gt;Describe the requirements for the application of gas tightness testing procedures&lt;/li&gt;\n&lt;li&gt;The New Roads and Street Works Act requirements for the provision of signing, lighting and guarding when working in or adjacent to the public highways&lt;/li&gt;\n&lt;li&gt;Understand how to apply suitable control measures for the location and avoidance of supply apparatus and sub-structures prior to and whilst working on gas network assets&lt;/li&gt;\n&lt;li&gt;Understand when to liaise with emergency services and other statutory authorities as necessary&lt;/li&gt;\n&lt;/ul&gt;\n&lt;h3&gt;&lt;strong&gt;Level:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;3&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Duration:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Typically, 48 months&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Entry requirements:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Candidates will typically have 3 to 5 GCSEs at grades A to C or 9 to 4 (including mathematics, English and a science), or equivalent qualifications&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;English/maths:&lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;Apprentices without level 2 English and maths on entry will need to achieve this level prior to completing the end point assessment. For those with an education, health and care plan or a legacy statement the apprenticeships English and maths minimum requirement is Entry Level 3 and British Sign Language qualification are an alternative to English qualifications for whom this is their primary language.&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Link to Professional recognition&lt;/strong&gt;:&lt;/h3&gt;\n&lt;p&gt;Upon successful completion of this apprenticeship, individuals will be eligible for membership and professional registration as an Engineering Technician (EngTech) with the Institution of Gas Engineers and Managers (IGEM)&lt;/p&gt;\n&lt;h3&gt;&lt;strong&gt;Review: &lt;/strong&gt;&lt;/h3&gt;\n&lt;p&gt;After 3 years&lt;/p&gt;\n&lt;p&gt;&lt;a name=&quot;ST0205changelog&quot;&gt;&lt;/a&gt;&lt;/p&gt;",
+  "occupationalSummary": "&lt;p&gt;This occupation is found in the gas transportation industry. The gas network in Britain is made up of over 300,000 kilometres of pressurised pipes. These pipes transport natural gas from where it is extracted or stored to homes and businesses where it is used mainly for cooking, heating and manufacturing processes. Employees in this occupation will work for an organisation licenced by the Office of Gas and Electricity Markets (OfGEM) to transport gas, or an organisation that subcontracts to a licenced gas transporter. Organisations in this industry vary in size from small to large, with employees working on either the transmission network, which transports gas across the country through high pressure pipes, or on the distribution network which transports gas locally to homes and businesses. This is a core and options apprenticeship. An apprentice must be trained in the core and one option. The options are: Option 1. Network maintenance craftsperson (electrical and instrumentation) Option 2. Network maintenance craftsperson (pressure management) Option 3. Network pipelines maintenance craftsperson.&lt;/p&gt;\n&lt;p&gt;The broad purpose of this occupation is to install, maintain and repair gas network assets and equipment to ensure the safe and compliant operation of the above 2 bar network and to ensure the integrity, safety and security of gas supplies. Once complete, they carry out tests to ensure installations are working properly before commissioning. Gas network craftspersons also identify, diagnose and rectify faulty assets or equipment, bringing them back into service as quickly as possible. Breakdowns can happen at any time and may impact on the safety and security of gas supplies to homes and businesses so Gas network craftspersons usually work shifts and undertake standby rotas outside of regular working hours to enable a timely, efficient response. They may work in confined spaces or at height, depending on the location and type of assets or equipment they are working on.&amp;nbsp;&lt;/p&gt;\n&lt;p&gt;Electrical and instrumentation craftspersons repair and maintain electrical equipment, instrumentation, control and telemetry equipment used on the gas network. They configure and calibrate instrumentation and control equipment and maintain data security.&lt;/p&gt;\n&lt;p&gt;Pressure management craftspersons install, maintain and repair mechanical components used for pressure control on the gas network. They monitor pressure and apply pressure reduction techniques as necessary.&lt;/p&gt;\n&lt;p&gt;Pipelines maintenance craftspersons test and inspect pipelines for corrosion and integrity and repair and replace pipelines, components and equipment where needed to maintain the security of supply.&lt;/p&gt;\n&lt;p&gt;In their daily work, an employee in this occupation interacts with planners, designers, subcontractors, supervisors, managers and colleagues from other departments as part of a larger team, for example: pipeline, electrical and instrumentation and pressure control colleagues. Good communication skills are essential as they may have to communicate with the general public, agencies, emergency services and other stakeholders. Gas network craftspersons typically report to a supervisor or manager.&lt;/p&gt;\n&lt;p&gt;An employee in this occupation is responsible for following procedures to complete work tasks to timescales, in line with health, safety and regulatory requirements. They may work on site in pairs, alone or as part of a larger team, dependent on the task. They are responsible for ensuring the tools and equipment needed to carry out their work are fit for purpose.&lt;/p&gt;",
+  "knowledges": [
+    {
+      "knowledgeId": "831d5266-043a-49ed-a04e-a659958a03eb",
+      "detail": "Core: The gas industry, organisations, customers and customer requirements, industry stakeholders and regulators. Health and Safety Executive."
+    },
+    {
+      "knowledgeId": "87f87088-b1b7-458f-b0f6-46d114e27cc1",
+      "detail": "Core: Gas network craftsperson role, responsibilities and limits of autonomy and escalation procedures. Coordination with other stakeholders and business functions, including the emergency services."
+    },
+    {
+      "knowledgeId": "bbd2f324-efea-4aea-a041-cbb870c63918",
+      "detail": "Core: Work planning and time management techniques."
+    },
+    {
+      "knowledgeId": "7ed5add2-3549-4aad-b40b-181dbec7e514",
+      "detail": "Core: Awareness of health and safety regulations relevant to the craftspersons’ responsibilities: The Gas Safety (Installation and Use) Regulations. Electricity at Work Regulations. Health and Safety at Work Act - technician's responsibilities. Managing Health and Safety at Work Regulations Provision and use of Work Equipment Regulations (PUWER). Lifting Operations and Lifting Equipment Regulations (LOLER). Dangerous Substances Explosive Atmospheres Regulations (DSEAR), ATmosphère EXplosibles (ATEX) Directives. Working at Height Regulations. Confined spaces Regulations. Control of Substances Hazardous to Health (COSHH). Reporting of Injuries, Diseases and Dangerous Occurrence Regulations (RIDDOR). Noise at work regulations. Control of Asbestos regulations. Manual Handling Operations Regulations. Display Screen Equipment. Fire regulations. Building Regulations. Construction Design and Management (CDM) Regulations. Lone Working. Control of Vibration at Work Regulations. "
+    },
+    {
+      "knowledgeId": "4dfb839d-a23b-4ba1-81c9-b7609b3b7f25",
+      "detail": "Core: Gas emergency procedures."
+    },
+    {
+      "knowledgeId": "a93c95fd-2013-4df9-91bb-d6fcba96e5c0",
+      "detail": "Core: Emergency first aid."
+    },
+    {
+      "knowledgeId": "85369d36-baff-4383-9b3c-d03331a9d087",
+      "detail": "The requirements and purpose of the Pressure Systems Safety Regulations (PSSR) implications of non-compliance and relevance to the role."
+    },
+    {
+      "knowledgeId": "3ffb64a0-8e8e-4776-af49-2b3a63565162",
+      "detail": "Core: The requirements of the Gas Safety (Management) Regulations as relevant to the role."
+    },
+    {
+      "knowledgeId": "7462556c-555d-4a61-9a3b-055d1e78ebed",
+      "detail": "Core: Risk assessments, risk management techniques and approaches, method statements and control measures."
+    },
+    {
+      "knowledgeId": "b9046d21-73a9-48ba-96e9-001f68f1c835",
+      "detail": "Core: Health and safety procedures and safe systems of work."
+    },
+    {
+      "knowledgeId": "16642f13-8354-4818-99f5-3e400e071b45",
+      "detail": "Core: Safe control of operations."
+    },
+    {
+      "knowledgeId": "a2667f00-bced-4341-981e-6949593b4d9f",
+      "detail": "Core: Environmental and sustainability principles, regulations and guidance. Environmental hazards that can arise from gas network operations. Circular economy and re-use of materials and components. Recycling and waste management requirements. Environmental protection act and Waste Electrical and Electronic Equipment Directive (WEEE). Green technologies and alternative fuels."
+    },
+    {
+      "knowledgeId": "318502ba-c6cb-4ba7-b90d-b9a19d8238ee",
+      "detail": "Core: Regulatory frameworks, regulatory reporting measures and requirements."
+    },
+    {
+      "knowledgeId": "01fe55c9-0764-4611-9666-bae939eb9455",
+      "detail": "Core: Personal protective equipment, breathing apparatus and safety equipment: what it is used for and requirements for inspection and use."
+    },
+    {
+      "knowledgeId": "9b3f129f-d650-437a-9c99-af990e478029",
+      "detail": "Core: Purpose, selection and use of hand tools, power tools and equipment. Pre and post use check requirements. "
+    },
+    {
+      "knowledgeId": "36fa7085-e152-493c-a545-866eb41997a8",
+      "detail": "Core: Pre and post use check requirements and use of gas detection equipment."
+    },
+    {
+      "knowledgeId": "30b485fc-3af3-432a-a8fc-daf88e9d9ab7",
+      "detail": "Core: Storage and maintenance requirements for hand tools, power tools, gas detection equipment and other equipment."
+    },
+    {
+      "knowledgeId": "c70c14fa-32cd-46d4-beb4-c42949879fa5",
+      "detail": "Core: Selection and use of resources, considering materials certification, cost, quality, safety, security and environmental impact."
+    },
+    {
+      "knowledgeId": "af5204ec-b293-4018-b98a-4d2762169486",
+      "detail": "Core: Awareness of engineering technical specifications, standards diagrams and manufacturers' instructions relevant to role and organisation. What they are and how to use them."
+    },
+    {
+      "knowledgeId": "2f843cf0-61f8-4b5b-a3d8-b74a9603f52e",
+      "detail": "Core: Standard Operating Procedures – what they are and why they are important."
+    },
+    {
+      "knowledgeId": "311d8d42-192d-4df7-af73-c796ff5bafd6",
+      "detail": "Core: Safe isolation procedures for gas network assets. Reinstatement of supply."
+    },
+    {
+      "knowledgeId": "6047b6eb-08f7-4529-98b7-5450c44448b9",
+      "detail": "Core: Testing and inspection procedures and the actions needed as a result of the tests."
+    },
+    {
+      "knowledgeId": "b05bed0d-4948-42e0-b9c6-d608884a3124",
+      "detail": "Core: Installing, purging and commissioning gas network assets."
+    },
+    {
+      "knowledgeId": "75850e04-abbe-4a6e-a023-f40c160b317f",
+      "detail": "Core: Maintenance practices and procedures for gas network systems and assets."
+    },
+    {
+      "knowledgeId": "5798a18d-257d-459d-807a-381328eef663",
+      "detail": "Core: Problem solving, fault finding, diagnostic and rectification techniques."
+    },
+    {
+      "knowledgeId": "c7894e30-74c6-4cbb-8075-0c3532f1300a",
+      "detail": "Core: Asset condition and performance information and analysis techniques. Decision making and actions required."
+    },
+    {
+      "knowledgeId": "aea870e5-5b99-44e5-bca2-9f6a4aa605e0",
+      "detail": "Core: Quality assurance requirements."
+    },
+    {
+      "knowledgeId": "44082914-d082-4ec7-9f4b-e8f2bdb77a91",
+      "detail": "Core: Change management procedures for replacing components."
+    },
+    {
+      "knowledgeId": "a6b3e706-1ca4-4717-a341-79b771ce41af",
+      "detail": "Core: Documentation methods and requirements paper based and digital systems."
+    },
+    {
+      "knowledgeId": "acf3d959-1f52-4dec-9952-bcfbe6820592",
+      "detail": "Core: Continuous improvement principles and techniques."
+    },
+    {
+      "knowledgeId": "de32fbb9-61a3-45e1-b051-1013195cd5d5",
+      "detail": "Core: Teamworking principles."
+    },
+    {
+      "knowledgeId": "08f45169-d0de-466f-a036-15284827aa82",
+      "detail": "Core: Equity, diversity and inclusion in the workplace."
+    },
+    {
+      "knowledgeId": "7fd2a035-865b-4b17-97ef-40b2ab109c1e",
+      "detail": "Core: Ethical issues and principles."
+    },
+    {
+      "knowledgeId": "3137fff7-c261-4fb0-8060-2b5b54c19a54",
+      "detail": "Core: Communication techniques: verbal and written."
+    },
+    {
+      "knowledgeId": "b54c7ecb-cda9-4936-932a-a930a9fe8a72",
+      "detail": "Core: Information technology and digital systems. Awareness of General Data Protection Regulation (GDPR) and Cyber security."
+    },
+    {
+      "knowledgeId": "1634902a-c3c6-4817-be12-cb53a000c0c6",
+      "detail": "Network Maintenance (E&I): Electrical theories and principles. Basic concepts of electricity. Ohm's law, Kirchoff's law, circuits, conductors and insulators, basic AC theory, complex numbers, resistance and impedance - capacitive and inductive, transformers, polyphase AC circuits, power factor."
+    },
+    {
+      "knowledgeId": "4cc7bd66-9ab0-4202-ba3c-90f316b85ae7",
+      "detail": "Network Maintenance (E&I): The requirements of the current edition of the Wiring Regulations (BS7671)"
+    },
+    {
+      "knowledgeId": "b3626c9c-8afc-407f-b303-49d4873bce3e",
+      "detail": "Network Maintenance (E&I): Procedures for inspecting, maintaining, repairing and overhauling instrumentation, control equipment and circuits."
+    },
+    {
+      "knowledgeId": "b7113799-2d27-4f6a-ada4-0d2e7d257423",
+      "detail": "Network Maintenance (E&I): Procedures for inspecting, maintaining, repairing, overhauling and testing fixed and portable electrical equipment."
+    },
+    {
+      "knowledgeId": "45b98a55-9966-43fc-8bb5-68618f78d571",
+      "detail": "Network Maintenance (E&I): Procedures for testing, validating and calibrating fixed and portable, analogue and digital instrumentation and control equipment."
+    },
+    {
+      "knowledgeId": "0b1a1a53-3ca2-4884-8f28-640593d8ec1e",
+      "detail": "Network Maintenance (E&I): Cable testing procedures and requirements for a range of voltages."
+    },
+    {
+      "knowledgeId": "5c8801c2-29cb-4027-baa4-717dbd8567d7",
+      "detail": "Network Maintenance (E&I): Configuration and calibration requirements for instrumentation and control equipment."
+    },
+    {
+      "knowledgeId": "75d03e5d-b165-41bc-af62-27e698bf5e2b",
+      "detail": "Network Maintenance (E&I): Configuration requirements for telemetry outstation and internal systems."
+    },
+    {
+      "knowledgeId": "bd942217-cb6d-450a-b1ee-459186d1e0ec",
+      "detail": "Network Maintenance (E&I): Processes for identifying and resolving data quality and calibration issues."
+    },
+    {
+      "knowledgeId": "555d16ba-e734-449b-84a1-3c378d13e5c5",
+      "detail": "Network Maintenance (E&I): Maintenance and control of data security."
+    },
+    {
+      "knowledgeId": "dc80243b-73c2-4edc-abb2-1c2e608cdaf1",
+      "detail": "Network Maintenance (E&I): The information, advice and guidance required by users of instrumentation and control systems."
+    },
+    {
+      "knowledgeId": "a59b4cd5-c924-4c6d-9162-d7b6a472ede5",
+      "detail": "Network Maintenance (Pressure management): Mechanical theories and principles; pneumatics, hydraulics and pressure systems. "
+    },
+    {
+      "knowledgeId": "735940a5-e03b-4a19-ac34-e9b83db90a82",
+      "detail": "Network Maintenance (Pressure management): The pipeline safety regulations."
+    },
+    {
+      "knowledgeId": "2cc5a180-8f23-4126-b010-8409e940d182",
+      "detail": "Network Maintenance (Pressure management): The security of gas supply implications when undertaking pressure control work operations."
+    },
+    {
+      "knowledgeId": "4772fcc3-a96a-4f55-98aa-3265d412776e",
+      "detail": "Network Maintenance (Pressure management): An awareness of the Street works code of practice requirements for the provision of signing, lighting and guarding when working in or adjacent to public highways."
+    },
+    {
+      "knowledgeId": "83e912ae-952a-4f53-878c-0a418587164d",
+      "detail": "Network Maintenance (Pressure management): Pressure monitoring and control principles and techniques."
+    },
+    {
+      "knowledgeId": "a09d3d4a-44b0-49dc-b5b6-c4e49cef0af9",
+      "detail": "Network Maintenance (Pressure management): Decommissioning, installation and commissioning practices and techniques for mechanical components and equipment."
+    },
+    {
+      "knowledgeId": "51af1bb2-af5a-417d-9c79-bff87448081e",
+      "detail": "Network Maintenance (Pressure management): Inspection, monitoring and testing requirements for mechanical pressure control components and equipment."
+    },
+    {
+      "knowledgeId": "e8a3bf8e-783d-45bc-9d32-21f39e51f293",
+      "detail": "Network Maintenance (Pressure management): The requirements for corrosion inspection activities."
+    },
+    {
+      "knowledgeId": "29121383-0999-4492-bfbf-d615eae20de7",
+      "detail": "Network Maintenance (Pressure management): Maintenance and repair practices and techniques for mechanical equipment and components."
+    },
+    {
+      "knowledgeId": "90456550-8fba-4122-abae-5886509f87b8",
+      "detail": "Network Maintenance (Pressure management): Analysis and calculation methods for mechanical system parameters. Procedures for rectification."
+    },
+    {
+      "knowledgeId": "afd119dd-7423-409a-ad77-2ffad75c18ce",
+      "detail": "Network Maintenance (Pressure management): Pressure reduction principles and techniques."
+    },
+    {
+      "knowledgeId": "0e0f742b-5561-4d0e-96cb-5f641e6eabe6",
+      "detail": "Network pipelines maintenance: Mechanical theories and principles; pneumatics, hydraulics and pressure systems. Machine specifications, thermo dynamics and laminar flow theories."
+    },
+    {
+      "knowledgeId": "ca717165-b64c-452f-ba29-f2f19aaf0538",
+      "detail": "Network pipelines maintenance: An awareness of the Street works code of practice requirements for the provision of signing, lighting and guarding when working in or adjacent to public highways."
+    },
+    {
+      "knowledgeId": "44a39c22-fcaa-4299-b536-b8156cef5251",
+      "detail": "Network pipelines maintenance: The pipeline safety regulations."
+    },
+    {
+      "knowledgeId": "f302e932-85eb-4239-8ae0-965b32b3170e",
+      "detail": "Network pipelines maintenance: The requirements and frequency of testing and inspection for pipelines systems and associated systems and equipment."
+    },
+    {
+      "knowledgeId": "e539cfdb-5e21-439a-ba83-35b02de17590",
+      "detail": "Network pipelines maintenance: Theories and principles of integrity testing."
+    },
+    {
+      "knowledgeId": "8e71ad1c-88dd-4aca-a27f-97bcad573676",
+      "detail": "Network pipelines maintenance: Non-destructive testing theories and principles."
+    },
+    {
+      "knowledgeId": "0a0550b6-cd6d-4afc-a681-b510e5ec8e2d",
+      "detail": "Network pipelines maintenance: Corrosion control measures, testing procedures and their suitability."
+    },
+    {
+      "knowledgeId": "e687c938-ca75-4689-8cbc-3c8c5e14fb7c",
+      "detail": "Network pipelines maintenance: Procedures and techniques for the removal, repair and replacement of gas transportation pipelines, components and associated equipment."
+    },
+    {
+      "knowledgeId": "7ee5a4f6-5062-4603-8a63-f5acf6bf7972",
+      "detail": "Network pipelines maintenance: Maintenance policies and requirements for high pressure and low pressure storage."
+    },
+    {
+      "knowledgeId": "14dee071-9217-4f07-ab51-ef53c839fdad",
+      "detail": "Network pipelines maintenance: Valves, installation, testing, commissioning, operation and decommissioning practices and requirements."
+    },
+    {
+      "knowledgeId": "d531330e-b12c-47b6-a79d-c29595b2f569",
+      "detail": "Network pipelines maintenance: Analysis and calculation methods for pipeline system parameters. Procedures for rectification."
+    },
+    {
+      "knowledgeId": "91c4670a-d4c7-4520-a6fa-e4127fb2319d",
+      "detail": "Network pipelines maintenance: The causes and implications of damage to pipelines and gas network assets. How to prevent damage."
+    },
+    {
+      "knowledgeId": "b3bb7567-0c7c-4487-acd4-df9c316232c5",
+      "detail": "Network pipelines maintenance: Specialised tools and equipment for pipeline maintenance operations. Selection, pre and post use check, operation and storage requirements."
+    },
+    {
+      "knowledgeId": "110cb641-f275-4a5a-beb1-e6c499a62afc",
+      "detail": "Network pipelines maintenance: Principles and processes that underpin the locating of utility network assets; the requirements of health and safety guidance document 47 (HSG47) on avoiding damage to underground utility services."
+    }
+  ],
+  "behaviours": [
+    {
+      "behaviourId": "b85f7b26-c5c0-49c4-9166-4adb84fb5b15",
+      "detail": "Prioritises health and safety to ensure safety for self and others."
+    },
+    {
+      "behaviourId": "f7599d3d-e896-47f7-833a-fe87505c9989",
+      "detail": "Takes responsibility for quality of work."
+    },
+    {
+      "behaviourId": "c22146dc-48b3-4683-9359-f057b01a20b5",
+      "detail": "Acts professionally."
+    },
+    {
+      "behaviourId": "772bcb15-4ecd-4f26-b110-f51554e51aa6",
+      "detail": "Supportive of the needs and concerns of others, for example relating to diversity and inclusion."
+    },
+    {
+      "behaviourId": "ab07c066-14a6-4a7b-a18f-0c526f04e7a3",
+      "detail": "Committed to Continued Professional Development to maintain and enhance competence."
+    },
+    {
+      "behaviourId": "336dada2-5d5e-4269-9376-8ef7e1d96c1a",
+      "detail": "Acts ethically and upholds company values."
+    },
+    {
+      "behaviourId": "7b046429-faac-4af9-8c96-10de6de7c962",
+      "detail": "Collaborate within teams and with external stakeholders."
+    },
+    {
+      "behaviourId": "d2d2b3e4-b059-4d8a-aac9-bcb729f0ad46",
+      "detail": "Considers the environment and sustainability."
+    }
+  ],
+  "skills": [
+    {
+      "skillId": "6fbdd1f7-d1bb-41cd-8337-3c76e703abdb",
+      "detail": "Core: Identify limits of capability and responsibility and escalate issues beyond them."
+    },
+    {
+      "skillId": "febfae37-d14c-4863-b53f-984c6412f50a",
+      "detail": "Core: Plan work and manage time."
+    },
+    {
+      "skillId": "5087e419-02b1-4241-b140-71c5f989ae05",
+      "detail": "Core: Comply with workplace health, safety and environmental practices and regulations."
+    },
+    {
+      "skillId": "43269e16-073a-44b8-8dc4-ff68806075b7",
+      "detail": "Core: Respond in the event of an emergency first aid situation."
+    },
+    {
+      "skillId": "dcd71cbd-f679-4ff5-b66a-42d0fa2eed37",
+      "detail": "Core: Follow safe control of operations."
+    },
+    {
+      "skillId": "668b8cde-5779-4783-9533-76a247885a21",
+      "detail": "Core: Identify hazards and risks in the workplace. Apply the hierarchy of control."
+    },
+    {
+      "skillId": "2becddf6-0773-4cf6-822d-a8c57fb3123d",
+      "detail": "Core: Select, inspect and use Personal Protective Equipment (PPE), safety equipment and breathing apparatus."
+    },
+    {
+      "skillId": "77e63c39-493b-4c6b-a1b9-7bc82f8472f7",
+      "detail": "Core: Select, check and use powered tools or hand tools or equipment suitable for the task."
+    },
+    {
+      "skillId": "baf9dd79-83c3-4ae3-8562-067347cfe8c5",
+      "detail": "Core: Check and use gas detection equipment."
+    },
+    {
+      "skillId": "3cc3ec10-60f8-400c-8819-bf2416549b14",
+      "detail": "Core: Ensure hand tools, power tools, gas detection equipment and other equipment is maintained and stored."
+    },
+    {
+      "skillId": "f0c629df-6c08-49fa-9dc8-bc054e4c6cf9",
+      "detail": "Core: Select and use resources to complete tasks, with consideration for cost, quality, safety, security and environmental impact."
+    },
+    {
+      "skillId": "a3ddda7b-daf7-4014-a2e8-e85d5d4d02fa",
+      "detail": "Core: Follow engineering technical specifications, standards, diagrams and manufacturers' instructions."
+    },
+    {
+      "skillId": "2711fc4a-abe1-4793-b766-6f9ed69a70d3",
+      "detail": "Core: Follow standard operating procedures."
+    },
+    {
+      "skillId": "b5336fbb-9b7f-4cd4-a43d-2ed979bb80d6",
+      "detail": "Core: Follow safe isolation procedures for gas network assets and reinstate supply."
+    },
+    {
+      "skillId": "ba5ae04c-c973-456f-b173-8850f08bf993",
+      "detail": "Core: Test and inspect gas network assets."
+    },
+    {
+      "skillId": "89cb9ac0-73be-4fb7-8ab0-bb28052c33d2",
+      "detail": "Core: Apply problem solving, fault finding, diagnostic and rectification techniques."
+    },
+    {
+      "skillId": "d6418b16-55c5-4956-96fb-58ea1d7aeba9",
+      "detail": "Core: Install, test, purge and commission gas network assets."
+    },
+    {
+      "skillId": "9401c04c-e93c-4fb6-881a-701393094465",
+      "detail": "Core: Analyse asset condition and performance information and take action where required."
+    },
+    {
+      "skillId": "664fa966-e5d9-4b88-b891-a4d2ecf6eac1",
+      "detail": "Core: Maintain gas network systems and assets."
+    },
+    {
+      "skillId": "beba1290-89b8-4c88-80e5-3d04013c4dc5",
+      "detail": "Core: Follow quality assurance requirements."
+    },
+    {
+      "skillId": "26e8a10b-14bc-49cb-821d-1b5268613d3b",
+      "detail": "Core: Replace components in line with change management procedures."
+    },
+    {
+      "skillId": "cc0fb7bc-a290-4d88-b61a-3588b34b1656",
+      "detail": "Core: Record task information using paper-based or digital systems. For example: job reports or record instrument readings."
+    },
+    {
+      "skillId": "66dbb275-2d47-40ee-983f-f17930afc7f5",
+      "detail": "Core: Carry out and record learning and development activities."
+    },
+    {
+      "skillId": "9693927d-8bda-439e-806f-f5148b66dbd6",
+      "detail": "Core: Use continuous improvement techniques."
+    },
+    {
+      "skillId": "66b394a3-cdeb-4e8a-964a-534d51478041",
+      "detail": "Core: Apply teamworking principles."
+    },
+    {
+      "skillId": "bbcde8a7-ce2c-45b5-9036-2d3176bb05a3",
+      "detail": "Core: Follow equity, diversity and inclusion policies and procedures."
+    },
+    {
+      "skillId": "bcca52a8-bf22-401e-80d7-4c9c4233526b",
+      "detail": "Core: Uphold ethical principles."
+    },
+    {
+      "skillId": "fe5be6ad-beac-411d-b67d-6adb6070f01f",
+      "detail": "Core: Communicate with stakeholders for example: gas consumers, statutory agencies, land owners, land agents or members of the public."
+    },
+    {
+      "skillId": "df00a9a7-a45f-4af5-a162-395317b49f48",
+      "detail": "Core: Use information technology and digital systems. Comply with GDPR and cyber security regulations and policies."
+    },
+    {
+      "skillId": "f1734806-c3f6-49a5-9d4a-a59f52e3f0e1",
+      "detail": "Network Maintenance (E&I): Apply electrical theories and principles to work tasks."
+    },
+    {
+      "skillId": "e636d458-f2f2-495f-b768-c8b3f62bd60c",
+      "detail": "Network Maintenance (E&I): Install electrical equipment and cabling."
+    },
+    {
+      "skillId": "77028341-fd0d-45f4-9f9f-78e70f415bd5",
+      "detail": "Network Maintenance (E&I): Carry out cable testing across a range of voltages, as specified by BS7671."
+    },
+    {
+      "skillId": "7cf6f225-0f43-40a9-931b-6250007506b3",
+      "detail": "Network Maintenance (E&I): Install instrumentation and control equipment and circuits. "
+    },
+    {
+      "skillId": "c1d93d55-06ef-45c2-931b-699fec2b3460",
+      "detail": "Network Maintenance (E&I): Inspect, maintain, repair and overhaul instrumentation and control equipment and circuits."
+    },
+    {
+      "skillId": "6816cd12-adf1-476f-bd24-97df5997e9ae",
+      "detail": "Network Maintenance (E&I): Inspect, maintain, repair and overhaul instrumentation and control equipment and circuits."
+    },
+    {
+      "skillId": "65feb516-a82f-448a-bb8c-f7daf4872e3b",
+      "detail": "Network Maintenance (E&I): Test, calibrate and validate fixed and portable analogue and digital instrumentation and control equipment."
+    },
+    {
+      "skillId": "82c79b8e-402b-4021-a6ba-da32c95998b1",
+      "detail": "Network Maintenance (E&I): Configure and calibrate instrumentation and control equipment."
+    },
+    {
+      "skillId": "fa4bd047-54e9-4e41-aebf-f8556c9e87c5",
+      "detail": "Network Maintenance (E&I): Configure telemetry outstation and internal systems."
+    },
+    {
+      "skillId": "a82b7735-ceee-466a-a66d-8ce981fb2e34",
+      "detail": "Network Maintenance (E&I): Identify and resolve data quality and calibration issues."
+    },
+    {
+      "skillId": "46ecc3d5-ca31-48f8-bfd4-9f82751b20eb",
+      "detail": "Network Maintenance (E&I): Maintain and control data security."
+    },
+    {
+      "skillId": "e84318aa-b52a-4d42-8321-b06c7fbc6d61",
+      "detail": "Network Maintenance (E&I): Ensure consistent and valid data is available for business and regulation purposes."
+    },
+    {
+      "skillId": "b08ecc8f-2da1-4028-98c9-404f0c6aef96",
+      "detail": "Network Maintenance (E&I): Provide information, advice and guidance to users of instrumentation and control systems."
+    },
+    {
+      "skillId": "709f425c-8b8a-44bd-a67e-31f78d0a8f5a",
+      "detail": "Network Maintenance (Pressure management): Apply mechanical theories and principles to work tasks."
+    },
+    {
+      "skillId": "3a41e808-d069-49bd-b3dd-c2363c01e0f7",
+      "detail": "Network Maintenance (Pressure management): Check Street works Code of Practice is followed for signing, lighting and guarding systems."
+    },
+    {
+      "skillId": "8e8d6c24-227d-4765-b030-c7f1d7adb38b",
+      "detail": "Network Maintenance (Pressure management): Apply pressure monitoring and control principles and techniques."
+    },
+    {
+      "skillId": "464db523-1f58-4c1c-80d7-f89d7268bd78",
+      "detail": "Network Maintenance (Pressure management): Decommission, install and commission mechanical components and equipment."
+    },
+    {
+      "skillId": "eba145ec-3a16-4757-a4ba-651a3bc6d179",
+      "detail": "Network Maintenance (Pressure management): Inspect, monitor and test mechanical components and equipment."
+    },
+    {
+      "skillId": "dca1d83d-68a7-466e-ba24-ae7bfe77b57f",
+      "detail": "Network Maintenance (Pressure management): Undertake corrosion inspection activities."
+    },
+    {
+      "skillId": "c623ea71-9476-49d9-8ef5-69b555eeba3d",
+      "detail": "Network Maintenance (Pressure management): Maintain and repair mechanical equipment and components."
+    },
+    {
+      "skillId": "682d8d4f-0ff0-4a1c-b2ac-1078174fe3a5",
+      "detail": "Network Maintenance (Pressure management): Analyse and calculate mechanical system parameters and carry out rectification procedures where necessary."
+    },
+    {
+      "skillId": "d6e08613-8c8d-4e23-9ec7-6ebed0275608",
+      "detail": "Network Maintenance (Pressure management): Apply pressure reduction principles and techniques."
+    },
+    {
+      "skillId": "f83be936-db90-4140-99f9-cc603f68b88a",
+      "detail": "Network pipelines maintenance: Apply mechanical theories and principles."
+    },
+    {
+      "skillId": "c8320293-6c22-426b-b100-ea559eea6320",
+      "detail": "Network pipelines maintenance: Check Street works Code of Practice is followed for signing, lighting and guarding systems."
+    },
+    {
+      "skillId": "628580b8-8ed1-431d-b5a7-edc148e45965",
+      "detail": "Network pipelines maintenance: Apply the theories and principles of integrity testing."
+    },
+    {
+      "skillId": "2743440e-ec85-40bc-8085-5fe3a2aeff20",
+      "detail": "Network pipelines maintenance: Apply non-destructive testing theories and principles."
+    },
+    {
+      "skillId": "e8640542-4c23-4e5c-beda-79ba90b4dd0f",
+      "detail": "Network pipelines maintenance: Apply corrosion control measures, for example: cathodic protection systems and monitoring, coating and wrapping."
+    },
+    {
+      "skillId": "ced34397-7abd-456f-a507-fe110a6ec323",
+      "detail": "Network pipelines maintenance: Remove, repair and replace components of gas transportation pipelines and associated equipment."
+    },
+    {
+      "skillId": "02a35d4b-b5f6-4026-a815-8a088a4a82a0",
+      "detail": "Network pipelines maintenance: Analyse and calculate pipeline system parameters and carry out rectification where necessary."
+    },
+    {
+      "skillId": "e9ebb3c9-fe98-4e14-a7ef-b65c1aeab459",
+      "detail": "Network pipelines maintenance: Take action to prevent third parties causing damage to gas transportation pipeline assets and equipment, for example; tracing, marking, monitoring third party activities and responding to encroachments."
+    },
+    {
+      "skillId": "960405c7-65fb-4b3c-81fb-fea25742c59e",
+      "detail": "Network pipelines maintenance: Select, check, operate and store specialised tools and equipment for pipeline maintenance operations on gas network assets."
+    },
+    {
+      "skillId": "847544b2-8a01-44da-9178-95d4237b34b3",
+      "detail": "Network pipelines maintenance: Locate and avoid underground plant and equipment prior to and whilst undertaking activities."
+    },
+    {
+      "skillId": "285402cb-c257-48aa-9e97-425498df9a27",
+      "detail": "Network pipelines maintenance: Organise additional resources to facilitate repairs as required."
+    }
+  ],
+  "optionsUnstructuredTemplate": [
+    "Network Maintenance Craftsperson (Electrical & Instrumentation)",
+    "Network Maintenance Craftsperson (Pressure Management)",
+    "Network Pipelines Maintenance Craftsperson",
+    "Emergency Response Craftsperson"
+  ],
+  "proposalApproved": "",
+  "standardApproved": "",
+  "standardPublished": "true",
+  "epaApprovalDate": "",
+  "epaPublished": "true",
+  "fundingApprovalDate": "",
+  "eQAProvider": {
+    "providerName": "Ofqual",
+    "contactName": "",
+    "contactAddress": "Ofqual <br>Earlsdon Park, 53-55 Butts Road, Coventry, CV1 3BH",
+    "contactEmail": "",
+    "webLink": "https://contact.ofqual.gov.uk/"
+  },
+  "approvedForDelivery": "",
+  "integratedApprenticeship": null,
+  "integration": "None",
+  "integratedDegree": "",
+  "tbReference": "TB0454",
+  "tbMainContact": "skills.england@dwp.gov.uk",
+  "involvedEmployers": "Scotia Gas Networks, National Grid, Northern Gas Networks, L&G Utilities Ltd, Leven Energy Services, DCD, Utilergy, CMW Utilities Ltd, Butler Construction Ltd, SSE, Morrison Utility Services, Forefront Utilities",
+  "otherInvolvedStakeholders": "",
+  "regulated": false,
+  "regulatedBody": "",
+  "coreAndOptions": true,
+  "typicalJobTitles": [
+    "E&I Engineer",
+    "E&I Technician",
+    "Gas Craftsperson",
+    "Network Maintenance Craftsperson",
+    "Pipeline Craftsperson",
+    "Pipeline Engineer",
+    "Pipeline Technician",
+    "Pressure Control Craftsperson",
+    "Pressure Control Operative",
+    "Pressure Control Technician"
+  ],
+  "greenJobTitles": [],
+  "englishAndMathsQualifications": "&lt;p&gt;English and maths qualifications must be completed in line with the &lt;a rel=&quot;noopener&quot; href=&quot;https://www.gov.uk/guidance/apprenticeship-funding-rules&quot; target=&quot;_blank&quot;&gt;apprenticeship funding rules&lt;/a&gt;.&lt;/p&gt;",
+  "reviewDetails": "this apprenticeship will be reviewed in accordance with our change request policy.",
+  "pathway": "Maintenance, installation and repair",
+  "cluster": "Manufacturing or process maintenance operative or technician",
+  "clusterId": "71",
+  "clusterDescription": "Maintain and repair production and process plant and equipment in manufacturing",
+  "createdDate": "2026-11-20T13:21:29 +00:00",
+  "lastUpdated": "2026-11-20T00:00:00 +00:00",
+  "occupationalStandardApprovalDate": "2015-10-22T00:00:00 +00:00",
+  "banners": "",
+  "occupationCode": "OCC0205",
+  "occupationalStandardUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0205-in-revision?view=standard#OccupationalStandard",
+  "standardPageUrl": "https://skillsengland.education.gov.uk/apprenticeships/st0205-in-revision",
+  "qualifications": [
+    {
+      "qualificationId": "4f7dbbbc-c8d2-4023-825c-1d39b400ea45",
+      "title": "Emergency First Aid at Work",
+      "level": "2",
+      "anyAdditionalInformation": "This is an occupation where the type of work undertaken by craftspersons is hazardous, with a risk of harm to other staff members or the general public, the requirement for travelling and work patterns mean that employers require craftspersons to hold an emergency first aid at work qualification in order to discharge their responsibilities under the Health and Safety (First Aid) Regulations 1981. Suitable qualifications are offered by a number of Ofqual regulated awarding organisations, and the voluntary aid societies.",
+      "qualificationEpaIntegration": "",
+      "mappedOptions": [
+        {
+          "title": "Core",
+          "optionID": "core"
+        }
+      ]
+    }
+  ],
+  "professionalRecognition": [
+    {
+      "bodyName": "Institute of Gas Engineers and Managers",
+      "level": "Engineering Technician (Eng Tech)",
+      "isPartial": "full",
+      "partialFreeText": ""
+    }
+  ],
+  "duties": [
+    {
+      "dutyID": "e3c520e9-2eff-47af-a7a0-8fa4c2b0d3b8",
+      "dutyDetail": "Plan and prepare the work environment, tools and equipment.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b85f7b26-c5c0-49c4-9166-4adb84fb5b15",
+        "f7599d3d-e896-47f7-833a-fe87505c9989",
+        "c22146dc-48b3-4683-9359-f057b01a20b5"
+      ],
+      "mappedKnowledge": [
+        "87f87088-b1b7-458f-b0f6-46d114e27cc1",
+        "85369d36-baff-4383-9b3c-d03331a9d087",
+        "7462556c-555d-4a61-9a3b-055d1e78ebed",
+        "de32fbb9-61a3-45e1-b051-1013195cd5d5"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6fbdd1f7-d1bb-41cd-8337-3c76e703abdb",
+        "febfae37-d14c-4863-b53f-984c6412f50a",
+        "668b8cde-5779-4783-9533-76a247885a21",
+        "2becddf6-0773-4cf6-822d-a8c57fb3123d",
+        "77e63c39-493b-4c6b-a1b9-7bc82f8472f7",
+        "baf9dd79-83c3-4ae3-8562-067347cfe8c5",
+        "3cc3ec10-60f8-400c-8819-bf2416549b14",
+        "f0c629df-6c08-49fa-9dc8-bc054e4c6cf9"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "3ff527e0-ec36-4dac-aa22-07edb0ec9b8e",
+      "dutyDetail": "Maintain workplace health, safety and environmental compliance.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b85f7b26-c5c0-49c4-9166-4adb84fb5b15",
+        "f7599d3d-e896-47f7-833a-fe87505c9989",
+        "c22146dc-48b3-4683-9359-f057b01a20b5",
+        "ab07c066-14a6-4a7b-a18f-0c526f04e7a3",
+        "336dada2-5d5e-4269-9376-8ef7e1d96c1a",
+        "d2d2b3e4-b059-4d8a-aac9-bcb729f0ad46"
+      ],
+      "mappedKnowledge": [
+        "87f87088-b1b7-458f-b0f6-46d114e27cc1",
+        "7ed5add2-3549-4aad-b40b-181dbec7e514",
+        "4dfb839d-a23b-4ba1-81c9-b7609b3b7f25",
+        "a93c95fd-2013-4df9-91bb-d6fcba96e5c0",
+        "85369d36-baff-4383-9b3c-d03331a9d087",
+        "3ffb64a0-8e8e-4776-af49-2b3a63565162",
+        "7462556c-555d-4a61-9a3b-055d1e78ebed",
+        "b9046d21-73a9-48ba-96e9-001f68f1c835",
+        "16642f13-8354-4818-99f5-3e400e071b45",
+        "a2667f00-bced-4341-981e-6949593b4d9f",
+        "318502ba-c6cb-4ba7-b90d-b9a19d8238ee",
+        "01fe55c9-0764-4611-9666-bae939eb9455",
+        "30b485fc-3af3-432a-a8fc-daf88e9d9ab7",
+        "af5204ec-b293-4018-b98a-4d2762169486",
+        "2f843cf0-61f8-4b5b-a3d8-b74a9603f52e",
+        "6047b6eb-08f7-4529-98b7-5450c44448b9",
+        "a6b3e706-1ca4-4717-a341-79b771ce41af",
+        "acf3d959-1f52-4dec-9952-bcfbe6820592",
+        "de32fbb9-61a3-45e1-b051-1013195cd5d5",
+        "7fd2a035-865b-4b17-97ef-40b2ab109c1e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6fbdd1f7-d1bb-41cd-8337-3c76e703abdb",
+        "5087e419-02b1-4241-b140-71c5f989ae05",
+        "43269e16-073a-44b8-8dc4-ff68806075b7",
+        "dcd71cbd-f679-4ff5-b66a-42d0fa2eed37",
+        "668b8cde-5779-4783-9533-76a247885a21",
+        "2becddf6-0773-4cf6-822d-a8c57fb3123d",
+        "baf9dd79-83c3-4ae3-8562-067347cfe8c5",
+        "3cc3ec10-60f8-400c-8819-bf2416549b14",
+        "664fa966-e5d9-4b88-b891-a4d2ecf6eac1",
+        "9693927d-8bda-439e-806f-f5148b66dbd6",
+        "66b394a3-cdeb-4e8a-964a-534d51478041",
+        "bcca52a8-bf22-401e-80d7-4c9c4233526b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "653798be-7092-47bc-80eb-3d69a973a36b",
+      "dutyDetail": "Install, commission and test gas network assets.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b85f7b26-c5c0-49c4-9166-4adb84fb5b15",
+        "f7599d3d-e896-47f7-833a-fe87505c9989",
+        "c22146dc-48b3-4683-9359-f057b01a20b5",
+        "ab07c066-14a6-4a7b-a18f-0c526f04e7a3",
+        "336dada2-5d5e-4269-9376-8ef7e1d96c1a",
+        "d2d2b3e4-b059-4d8a-aac9-bcb729f0ad46"
+      ],
+      "mappedKnowledge": [
+        "bbd2f324-efea-4aea-a041-cbb870c63918",
+        "7ed5add2-3549-4aad-b40b-181dbec7e514",
+        "3ffb64a0-8e8e-4776-af49-2b3a63565162",
+        "7462556c-555d-4a61-9a3b-055d1e78ebed",
+        "b9046d21-73a9-48ba-96e9-001f68f1c835",
+        "a2667f00-bced-4341-981e-6949593b4d9f",
+        "318502ba-c6cb-4ba7-b90d-b9a19d8238ee",
+        "9b3f129f-d650-437a-9c99-af990e478029",
+        "36fa7085-e152-493c-a545-866eb41997a8",
+        "30b485fc-3af3-432a-a8fc-daf88e9d9ab7",
+        "c70c14fa-32cd-46d4-beb4-c42949879fa5",
+        "af5204ec-b293-4018-b98a-4d2762169486",
+        "2f843cf0-61f8-4b5b-a3d8-b74a9603f52e",
+        "311d8d42-192d-4df7-af73-c796ff5bafd6",
+        "6047b6eb-08f7-4529-98b7-5450c44448b9",
+        "b05bed0d-4948-42e0-b9c6-d608884a3124",
+        "c7894e30-74c6-4cbb-8075-0c3532f1300a",
+        "aea870e5-5b99-44e5-bca2-9f6a4aa605e0",
+        "a6b3e706-1ca4-4717-a341-79b771ce41af",
+        "acf3d959-1f52-4dec-9952-bcfbe6820592",
+        "de32fbb9-61a3-45e1-b051-1013195cd5d5",
+        "7fd2a035-865b-4b17-97ef-40b2ab109c1e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6fbdd1f7-d1bb-41cd-8337-3c76e703abdb",
+        "5087e419-02b1-4241-b140-71c5f989ae05",
+        "2becddf6-0773-4cf6-822d-a8c57fb3123d",
+        "f0c629df-6c08-49fa-9dc8-bc054e4c6cf9",
+        "a3ddda7b-daf7-4014-a2e8-e85d5d4d02fa",
+        "2711fc4a-abe1-4793-b766-6f9ed69a70d3",
+        "b5336fbb-9b7f-4cd4-a43d-2ed979bb80d6",
+        "d6418b16-55c5-4956-96fb-58ea1d7aeba9",
+        "beba1290-89b8-4c88-80e5-3d04013c4dc5",
+        "66dbb275-2d47-40ee-983f-f17930afc7f5",
+        "9693927d-8bda-439e-806f-f5148b66dbd6",
+        "66b394a3-cdeb-4e8a-964a-534d51478041",
+        "bcca52a8-bf22-401e-80d7-4c9c4233526b",
+        "df00a9a7-a45f-4af5-a162-395317b49f48"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "b59466cd-e2ec-40a0-af9f-cd8d4b06557c",
+      "dutyDetail": "Carry out maintenance tasks.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b85f7b26-c5c0-49c4-9166-4adb84fb5b15",
+        "f7599d3d-e896-47f7-833a-fe87505c9989",
+        "c22146dc-48b3-4683-9359-f057b01a20b5",
+        "ab07c066-14a6-4a7b-a18f-0c526f04e7a3",
+        "336dada2-5d5e-4269-9376-8ef7e1d96c1a",
+        "d2d2b3e4-b059-4d8a-aac9-bcb729f0ad46"
+      ],
+      "mappedKnowledge": [
+        "87f87088-b1b7-458f-b0f6-46d114e27cc1",
+        "bbd2f324-efea-4aea-a041-cbb870c63918",
+        "7ed5add2-3549-4aad-b40b-181dbec7e514",
+        "4dfb839d-a23b-4ba1-81c9-b7609b3b7f25",
+        "3ffb64a0-8e8e-4776-af49-2b3a63565162",
+        "7462556c-555d-4a61-9a3b-055d1e78ebed",
+        "b9046d21-73a9-48ba-96e9-001f68f1c835",
+        "a2667f00-bced-4341-981e-6949593b4d9f",
+        "318502ba-c6cb-4ba7-b90d-b9a19d8238ee",
+        "9b3f129f-d650-437a-9c99-af990e478029",
+        "30b485fc-3af3-432a-a8fc-daf88e9d9ab7",
+        "c70c14fa-32cd-46d4-beb4-c42949879fa5",
+        "2f843cf0-61f8-4b5b-a3d8-b74a9603f52e",
+        "311d8d42-192d-4df7-af73-c796ff5bafd6",
+        "75850e04-abbe-4a6e-a023-f40c160b317f",
+        "c7894e30-74c6-4cbb-8075-0c3532f1300a",
+        "aea870e5-5b99-44e5-bca2-9f6a4aa605e0",
+        "44082914-d082-4ec7-9f4b-e8f2bdb77a91",
+        "a6b3e706-1ca4-4717-a341-79b771ce41af",
+        "acf3d959-1f52-4dec-9952-bcfbe6820592",
+        "de32fbb9-61a3-45e1-b051-1013195cd5d5",
+        "7fd2a035-865b-4b17-97ef-40b2ab109c1e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6fbdd1f7-d1bb-41cd-8337-3c76e703abdb",
+        "5087e419-02b1-4241-b140-71c5f989ae05",
+        "2becddf6-0773-4cf6-822d-a8c57fb3123d",
+        "3cc3ec10-60f8-400c-8819-bf2416549b14",
+        "f0c629df-6c08-49fa-9dc8-bc054e4c6cf9",
+        "a3ddda7b-daf7-4014-a2e8-e85d5d4d02fa",
+        "2711fc4a-abe1-4793-b766-6f9ed69a70d3",
+        "b5336fbb-9b7f-4cd4-a43d-2ed979bb80d6",
+        "beba1290-89b8-4c88-80e5-3d04013c4dc5",
+        "26e8a10b-14bc-49cb-821d-1b5268613d3b",
+        "66dbb275-2d47-40ee-983f-f17930afc7f5",
+        "9693927d-8bda-439e-806f-f5148b66dbd6",
+        "66b394a3-cdeb-4e8a-964a-534d51478041",
+        "bcca52a8-bf22-401e-80d7-4c9c4233526b",
+        "df00a9a7-a45f-4af5-a162-395317b49f48"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "5630bc39-4357-4069-b325-29b875ddd6a2",
+      "dutyDetail": "Respond to, diagnose and rectify faults.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b85f7b26-c5c0-49c4-9166-4adb84fb5b15",
+        "f7599d3d-e896-47f7-833a-fe87505c9989",
+        "c22146dc-48b3-4683-9359-f057b01a20b5",
+        "ab07c066-14a6-4a7b-a18f-0c526f04e7a3",
+        "336dada2-5d5e-4269-9376-8ef7e1d96c1a",
+        "d2d2b3e4-b059-4d8a-aac9-bcb729f0ad46"
+      ],
+      "mappedKnowledge": [
+        "87f87088-b1b7-458f-b0f6-46d114e27cc1",
+        "bbd2f324-efea-4aea-a041-cbb870c63918",
+        "b9046d21-73a9-48ba-96e9-001f68f1c835",
+        "318502ba-c6cb-4ba7-b90d-b9a19d8238ee",
+        "9b3f129f-d650-437a-9c99-af990e478029",
+        "36fa7085-e152-493c-a545-866eb41997a8",
+        "c70c14fa-32cd-46d4-beb4-c42949879fa5",
+        "af5204ec-b293-4018-b98a-4d2762169486",
+        "2f843cf0-61f8-4b5b-a3d8-b74a9603f52e",
+        "311d8d42-192d-4df7-af73-c796ff5bafd6",
+        "6047b6eb-08f7-4529-98b7-5450c44448b9",
+        "5798a18d-257d-459d-807a-381328eef663",
+        "c7894e30-74c6-4cbb-8075-0c3532f1300a",
+        "aea870e5-5b99-44e5-bca2-9f6a4aa605e0",
+        "44082914-d082-4ec7-9f4b-e8f2bdb77a91",
+        "a6b3e706-1ca4-4717-a341-79b771ce41af",
+        "acf3d959-1f52-4dec-9952-bcfbe6820592",
+        "de32fbb9-61a3-45e1-b051-1013195cd5d5",
+        "7fd2a035-865b-4b17-97ef-40b2ab109c1e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6fbdd1f7-d1bb-41cd-8337-3c76e703abdb",
+        "5087e419-02b1-4241-b140-71c5f989ae05",
+        "2becddf6-0773-4cf6-822d-a8c57fb3123d",
+        "baf9dd79-83c3-4ae3-8562-067347cfe8c5",
+        "a3ddda7b-daf7-4014-a2e8-e85d5d4d02fa",
+        "2711fc4a-abe1-4793-b766-6f9ed69a70d3",
+        "b5336fbb-9b7f-4cd4-a43d-2ed979bb80d6",
+        "89cb9ac0-73be-4fb7-8ab0-bb28052c33d2",
+        "beba1290-89b8-4c88-80e5-3d04013c4dc5",
+        "26e8a10b-14bc-49cb-821d-1b5268613d3b",
+        "66dbb275-2d47-40ee-983f-f17930afc7f5",
+        "9693927d-8bda-439e-806f-f5148b66dbd6",
+        "66b394a3-cdeb-4e8a-964a-534d51478041",
+        "bcca52a8-bf22-401e-80d7-4c9c4233526b",
+        "df00a9a7-a45f-4af5-a162-395317b49f48"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "8996073a-c004-4e7a-87b8-e337aecb6130",
+      "dutyDetail": "Carry out inspections.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "b85f7b26-c5c0-49c4-9166-4adb84fb5b15",
+        "f7599d3d-e896-47f7-833a-fe87505c9989",
+        "c22146dc-48b3-4683-9359-f057b01a20b5",
+        "ab07c066-14a6-4a7b-a18f-0c526f04e7a3",
+        "336dada2-5d5e-4269-9376-8ef7e1d96c1a",
+        "d2d2b3e4-b059-4d8a-aac9-bcb729f0ad46"
+      ],
+      "mappedKnowledge": [
+        "318502ba-c6cb-4ba7-b90d-b9a19d8238ee",
+        "9b3f129f-d650-437a-9c99-af990e478029",
+        "36fa7085-e152-493c-a545-866eb41997a8",
+        "2f843cf0-61f8-4b5b-a3d8-b74a9603f52e",
+        "a6b3e706-1ca4-4717-a341-79b771ce41af",
+        "acf3d959-1f52-4dec-9952-bcfbe6820592",
+        "de32fbb9-61a3-45e1-b051-1013195cd5d5",
+        "7fd2a035-865b-4b17-97ef-40b2ab109c1e"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6fbdd1f7-d1bb-41cd-8337-3c76e703abdb",
+        "2becddf6-0773-4cf6-822d-a8c57fb3123d",
+        "baf9dd79-83c3-4ae3-8562-067347cfe8c5",
+        "a3ddda7b-daf7-4014-a2e8-e85d5d4d02fa",
+        "2711fc4a-abe1-4793-b766-6f9ed69a70d3",
+        "ba5ae04c-c973-456f-b173-8850f08bf993",
+        "9401c04c-e93c-4fb6-881a-701393094465",
+        "beba1290-89b8-4c88-80e5-3d04013c4dc5",
+        "9693927d-8bda-439e-806f-f5148b66dbd6",
+        "66b394a3-cdeb-4e8a-964a-534d51478041",
+        "bcca52a8-bf22-401e-80d7-4c9c4233526b",
+        "df00a9a7-a45f-4af5-a162-395317b49f48"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "91f01ef5-1f5a-4408-bdf7-9d1e0b5c214e",
+      "dutyDetail": "Provide technical information, advice and work updates to colleagues and other stakeholders.",
+      "isThisACoreDuty": 1,
+      "mappedBehaviour": [
+        "c22146dc-48b3-4683-9359-f057b01a20b5",
+        "772bcb15-4ecd-4f26-b110-f51554e51aa6",
+        "336dada2-5d5e-4269-9376-8ef7e1d96c1a",
+        "7b046429-faac-4af9-8c96-10de6de7c962"
+      ],
+      "mappedKnowledge": [
+        "831d5266-043a-49ed-a04e-a659958a03eb",
+        "87f87088-b1b7-458f-b0f6-46d114e27cc1",
+        "318502ba-c6cb-4ba7-b90d-b9a19d8238ee",
+        "a6b3e706-1ca4-4717-a341-79b771ce41af",
+        "de32fbb9-61a3-45e1-b051-1013195cd5d5",
+        "08f45169-d0de-466f-a036-15284827aa82",
+        "7fd2a035-865b-4b17-97ef-40b2ab109c1e",
+        "3137fff7-c261-4fb0-8060-2b5b54c19a54",
+        "b54c7ecb-cda9-4936-932a-a930a9fe8a72"
+      ],
+      "mappedOptions": [],
+      "mappedSkills": [
+        "6fbdd1f7-d1bb-41cd-8337-3c76e703abdb",
+        "cc0fb7bc-a290-4d88-b61a-3588b34b1656",
+        "66b394a3-cdeb-4e8a-964a-534d51478041",
+        "bbcde8a7-ce2c-45b5-9036-2d3176bb05a3",
+        "bcca52a8-bf22-401e-80d7-4c9c4233526b",
+        "fe5be6ad-beac-411d-b67d-6adb6070f01f",
+        "df00a9a7-a45f-4af5-a162-395317b49f48"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "6706ae41-e20d-4bee-bbb8-e043f30da1da",
+      "dutyDetail": "E&I Carry out inspection and maintenance tasks for electrical equipment, instrumentation, control equipment and circuits.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1634902a-c3c6-4817-be12-cb53a000c0c6",
+        "4cc7bd66-9ab0-4202-ba3c-90f316b85ae7",
+        "b3626c9c-8afc-407f-b303-49d4873bce3e",
+        "b7113799-2d27-4f6a-ada4-0d2e7d257423",
+        "0b1a1a53-3ca2-4884-8f28-640593d8ec1e"
+      ],
+      "mappedOptions": [
+        "2e9b799f-ed17-494b-82e9-6cdf2721c6fc"
+      ],
+      "mappedSkills": [
+        "f1734806-c3f6-49a5-9d4a-a59f52e3f0e1",
+        "e636d458-f2f2-495f-b768-c8b3f62bd60c",
+        "77028341-fd0d-45f4-9f9f-78e70f415bd5",
+        "7cf6f225-0f43-40a9-931b-6250007506b3",
+        "c1d93d55-06ef-45c2-931b-699fec2b3460",
+        "6816cd12-adf1-476f-bd24-97df5997e9ae",
+        "65feb516-a82f-448a-bb8c-f7daf4872e3b"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "9db6bb14-affa-4088-b603-0f1e8608e6a0",
+      "dutyDetail": "E&I Configure and calibrate instrumentation, control and telemetry equipment. ",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1634902a-c3c6-4817-be12-cb53a000c0c6",
+        "45b98a55-9966-43fc-8bb5-68618f78d571",
+        "5c8801c2-29cb-4027-baa4-717dbd8567d7",
+        "75d03e5d-b165-41bc-af62-27e698bf5e2b"
+      ],
+      "mappedOptions": [
+        "2e9b799f-ed17-494b-82e9-6cdf2721c6fc"
+      ],
+      "mappedSkills": [
+        "f1734806-c3f6-49a5-9d4a-a59f52e3f0e1",
+        "65feb516-a82f-448a-bb8c-f7daf4872e3b",
+        "82c79b8e-402b-4021-a6ba-da32c95998b1",
+        "fa4bd047-54e9-4e41-aebf-f8556c9e87c5",
+        "a82b7735-ceee-466a-a66d-8ce981fb2e34"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "c0c1e72c-19ae-4107-a557-428fa2c89930",
+      "dutyDetail": "E&I Maintain data quality and security",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1634902a-c3c6-4817-be12-cb53a000c0c6",
+        "bd942217-cb6d-450a-b1ee-459186d1e0ec",
+        "555d16ba-e734-449b-84a1-3c378d13e5c5"
+      ],
+      "mappedOptions": [
+        "2e9b799f-ed17-494b-82e9-6cdf2721c6fc"
+      ],
+      "mappedSkills": [
+        "a82b7735-ceee-466a-a66d-8ce981fb2e34",
+        "46ecc3d5-ca31-48f8-bfd4-9f82751b20eb",
+        "e84318aa-b52a-4d42-8321-b06c7fbc6d61"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "cef5b456-bb05-43bf-80f5-12278f892be9",
+      "dutyDetail": "E&I Provide information, advice and guidance to users of instrumentation and control systems.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "1634902a-c3c6-4817-be12-cb53a000c0c6",
+        "dc80243b-73c2-4edc-abb2-1c2e608cdaf1"
+      ],
+      "mappedOptions": [
+        "2e9b799f-ed17-494b-82e9-6cdf2721c6fc"
+      ],
+      "mappedSkills": [
+        "f1734806-c3f6-49a5-9d4a-a59f52e3f0e1",
+        "b08ecc8f-2da1-4028-98c9-404f0c6aef96"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "27f90ac7-7c1f-4a06-b716-4b5488a6482b",
+      "dutyDetail": "Pressure management: Carry out installation and maintenance tasks on mechanical equipment and components.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a59b4cd5-c924-4c6d-9162-d7b6a472ede5",
+        "735940a5-e03b-4a19-ac34-e9b83db90a82",
+        "2cc5a180-8f23-4126-b010-8409e940d182",
+        "4772fcc3-a96a-4f55-98aa-3265d412776e",
+        "a09d3d4a-44b0-49dc-b5b6-c4e49cef0af9",
+        "51af1bb2-af5a-417d-9c79-bff87448081e",
+        "29121383-0999-4492-bfbf-d615eae20de7",
+        "90456550-8fba-4122-abae-5886509f87b8"
+      ],
+      "mappedOptions": [
+        "dacdb3dd-9515-423a-9ca2-7d8bf8ccecf5"
+      ],
+      "mappedSkills": [
+        "709f425c-8b8a-44bd-a67e-31f78d0a8f5a",
+        "3a41e808-d069-49bd-b3dd-c2363c01e0f7",
+        "464db523-1f58-4c1c-80d7-f89d7268bd78",
+        "c623ea71-9476-49d9-8ef5-69b555eeba3d",
+        "682d8d4f-0ff0-4a1c-b2ac-1078174fe3a5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "ccdb6ed0-4464-4008-9546-0eb39c5742cd",
+      "dutyDetail": "Pressure management: Carry out inspections.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a59b4cd5-c924-4c6d-9162-d7b6a472ede5",
+        "735940a5-e03b-4a19-ac34-e9b83db90a82",
+        "4772fcc3-a96a-4f55-98aa-3265d412776e",
+        "51af1bb2-af5a-417d-9c79-bff87448081e",
+        "e8a3bf8e-783d-45bc-9d32-21f39e51f293"
+      ],
+      "mappedOptions": [
+        "dacdb3dd-9515-423a-9ca2-7d8bf8ccecf5"
+      ],
+      "mappedSkills": [
+        "709f425c-8b8a-44bd-a67e-31f78d0a8f5a",
+        "3a41e808-d069-49bd-b3dd-c2363c01e0f7",
+        "eba145ec-3a16-4757-a4ba-651a3bc6d179",
+        "dca1d83d-68a7-466e-ba24-ae7bfe77b57f",
+        "682d8d4f-0ff0-4a1c-b2ac-1078174fe3a5"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "24706cf8-2c07-472a-8d1a-8021892366e2",
+      "dutyDetail": "Carry out pressure monitoring, control and reduction.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "a59b4cd5-c924-4c6d-9162-d7b6a472ede5",
+        "735940a5-e03b-4a19-ac34-e9b83db90a82",
+        "2cc5a180-8f23-4126-b010-8409e940d182",
+        "4772fcc3-a96a-4f55-98aa-3265d412776e",
+        "83e912ae-952a-4f53-878c-0a418587164d",
+        "afd119dd-7423-409a-ad77-2ffad75c18ce"
+      ],
+      "mappedOptions": [
+        "dacdb3dd-9515-423a-9ca2-7d8bf8ccecf5"
+      ],
+      "mappedSkills": [
+        "709f425c-8b8a-44bd-a67e-31f78d0a8f5a",
+        "8e8d6c24-227d-4765-b030-c7f1d7adb38b",
+        "682d8d4f-0ff0-4a1c-b2ac-1078174fe3a5",
+        "d6e08613-8c8d-4e23-9ec7-6ebed0275608"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "54592f46-cf72-43c7-b49c-80b87fa27759",
+      "dutyDetail": "Pipelines: Test pipeline systems.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0e0f742b-5561-4d0e-96cb-5f641e6eabe6",
+        "ca717165-b64c-452f-ba29-f2f19aaf0538",
+        "44a39c22-fcaa-4299-b536-b8156cef5251",
+        "f302e932-85eb-4239-8ae0-965b32b3170e",
+        "e539cfdb-5e21-439a-ba83-35b02de17590",
+        "8e71ad1c-88dd-4aca-a27f-97bcad573676",
+        "0a0550b6-cd6d-4afc-a681-b510e5ec8e2d",
+        "d531330e-b12c-47b6-a79d-c29595b2f569",
+        "b3bb7567-0c7c-4487-acd4-df9c316232c5",
+        "110cb641-f275-4a5a-beb1-e6c499a62afc"
+      ],
+      "mappedOptions": [
+        "797b8577-3099-4df9-bed2-c3a4baccb464"
+      ],
+      "mappedSkills": [
+        "f83be936-db90-4140-99f9-cc603f68b88a",
+        "c8320293-6c22-426b-b100-ea559eea6320",
+        "628580b8-8ed1-431d-b5a7-edc148e45965",
+        "2743440e-ec85-40bc-8085-5fe3a2aeff20",
+        "e8640542-4c23-4e5c-beda-79ba90b4dd0f",
+        "02a35d4b-b5f6-4026-a815-8a088a4a82a0",
+        "960405c7-65fb-4b3c-81fb-fea25742c59e",
+        "285402cb-c257-48aa-9e97-425498df9a27"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    },
+    {
+      "dutyID": "e2deceb9-3cbe-4f5d-81b5-deb19f3188cd",
+      "dutyDetail": "Pipelines: Carry out repairs on pipeline systems and equipment.",
+      "isThisACoreDuty": 0,
+      "mappedBehaviour": [],
+      "mappedKnowledge": [
+        "0e0f742b-5561-4d0e-96cb-5f641e6eabe6",
+        "ca717165-b64c-452f-ba29-f2f19aaf0538",
+        "44a39c22-fcaa-4299-b536-b8156cef5251",
+        "e687c938-ca75-4689-8cbc-3c8c5e14fb7c",
+        "7ee5a4f6-5062-4603-8a63-f5acf6bf7972",
+        "14dee071-9217-4f07-ab51-ef53c839fdad",
+        "d531330e-b12c-47b6-a79d-c29595b2f569",
+        "91c4670a-d4c7-4520-a6fa-e4127fb2319d",
+        "b3bb7567-0c7c-4487-acd4-df9c316232c5",
+        "110cb641-f275-4a5a-beb1-e6c499a62afc"
+      ],
+      "mappedOptions": [
+        "797b8577-3099-4df9-bed2-c3a4baccb464"
+      ],
+      "mappedSkills": [
+        "f83be936-db90-4140-99f9-cc603f68b88a",
+        "c8320293-6c22-426b-b100-ea559eea6320",
+        "e8640542-4c23-4e5c-beda-79ba90b4dd0f",
+        "ced34397-7abd-456f-a507-fe110a6ec323",
+        "02a35d4b-b5f6-4026-a815-8a088a4a82a0",
+        "e9ebb3c9-fe98-4e14-a7ef-b65c1aeab459",
+        "960405c7-65fb-4b3c-81fb-fea25742c59e",
+        "847544b2-8a01-44da-9178-95d4237b34b3",
+        "285402cb-c257-48aa-9e97-425498df9a27"
+      ],
+      "criteriaForMeasuringPerformance": ""
+    }
+  ],
+  "options": [
+    {
+      "optionId": "2e9b799f-ed17-494b-82e9-6cdf2721c6fc",
+      "title": "Network Maintenance Craftsperson (Electrical & Instrumentation)",
+      "occupationCode": "OCC0205B"
+    },
+    {
+      "optionId": "dacdb3dd-9515-423a-9ca2-7d8bf8ccecf5",
+      "title": "Network Maintenance Craftsperson (Pressure Management)",
+      "occupationCode": "OCC0205C"
+    },
+    {
+      "optionId": "797b8577-3099-4df9-bed2-c3a4baccb464",
+      "title": "Network Pipelines Maintenance Craftsperson",
+      "occupationCode": "OCC0205D"
+    }
+  ],
+  "regulationDetail": [],
+  "optionsUnstructuredKsbMapping": [
+    {
+      "coreOrOptionTitle": "Core",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Network Maintenance Craftsperson (Electrical & Instrumentation)",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Network Maintenance Craftsperson (Pressure Management)",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Network Pipelines Maintenance Craftsperson",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    },
+    {
+      "coreOrOptionTitle": "Emergency Response Craftsperson",
+      "mappedBehaviour": [],
+      "mappedKnowledge": [],
+      "mappedSkills": []
+    }
+  ],
+  "careerStarter": false,
+  "coronationEmblem": false,
+  "publishDate": "2026-11-20T00:00:00"
+}
